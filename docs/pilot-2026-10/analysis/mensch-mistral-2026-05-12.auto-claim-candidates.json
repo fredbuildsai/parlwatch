@@ -1,0 +1,605 @@
+[
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:13:38",
+  "claim": "Aujourd'hui, on a investi un milliard cette année dans les sujets de R&D.",
+  "quote_fr": "Aujourd'hui, on a investi un milliard cette année dans les sujets de R&D.",
+  "kind": "figure",
+  "how_to_check": "Check Mistral AI's official financial reports, press releases, or audited accounts for 2024 to verify R&D investment of 1 billion euros.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:14:51",
+  "claim": "Aujourd'hui, quelques chiffres, on est 1000 collaborateurs, une valorisation de 12 milliards d'euros et 1 milliard d'euros de revenus visés d'ici la fin de l'année.",
+  "quote_fr": "Aujourd'hui, quelques chiffres, on est 1000 collaborateurs, une valorisation de 12 milliards d'euros et 1 milliard d'euros de revenus visés d'ici la fin de l'année.",
+  "kind": "figure",
+  "how_to_check": "Verify employee count, valuation, and projected revenue via Mistral AI's official announcements, financial filings, or reputable tech news sources (e.g., Bloomberg, Reuters) for end-of-year 2024.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:15:08",
+  "claim": "On fait à peu près 30% de notre chiffre d'affaires en France, 70% dehors, et environ trois quarts de notre chiffre d'affaires en Europe.",
+  "quote_fr": "On fait à peu près 30% de notre chiffre d'affaires en France, 70% dehors, et environ trois quarts de notre chiffre d'affaires en Europe.",
+  "kind": "figure",
+  "how_to_check": "Check Mistral AI's annual reports, investor presentations, or press releases for regional revenue breakdown to confirm 30% France, 70% outside France, and ~75% in Europe.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:18:51",
+  "claim": "Aujourd'hui, chez Mistral, notre consommation d'intelligence artificielle pour nos employés, c'est 10% de notre masse salariale.",
+  "quote_fr": "Aujourd'hui, chez Mistral, notre consommation d'intelligence artificielle pour nos employés, c'est 10% de notre masse salariale.",
+  "kind": "figure",
+  "how_to_check": "Request internal data from Mistral AI or check if disclosed in ESG/sustainability reports; otherwise, verify via third-party audits or estimates based on known AI usage costs and salary data.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:19:02",
+  "claim": "si vous extrapolez, d'ici 3 à 4 ans, la totalité de l'Europe utilise l'intelligence artificielle pour 10% de sa masse salariale.",
+  "quote_fr": "si vous extrapolez, d'ici 3 à 4 ans, la totalité de l'Europe utilise l'intelligence artificielle pour 10% de sa masse salariale.",
+  "kind": "forecast",
+  "how_to_check": "Compare with Eurostat labor cost data and AI adoption forecasts from sources like McKinsey, IDC, or EU Commission reports to assess plausibility of 10% of EU payroll spent on AI by 2028.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:19:06",
+  "claim": "10% de la masse salariale de l'Europe, c'est à peu près 1 trilliard.",
+  "quote_fr": "10% de la masse salariale de l'Europe, c'est à peu près 1 trilliard.",
+  "kind": "figure",
+  "how_to_check": "Calculate using Eurostat data on total EU compensation of employees (2023: ~5.5 trillion EUR); 10% = ~550 billion EUR. Check if 'trilliard' means 10^12 (short scale) or 10^18 (long scale). In French, 'trilliard' is ambiguous but often means 10^12 in modern usage. Verify if 10% of EU payroll equals ~1 trillion EUR (it does not; it's ~550B).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:19:10",
+  "claim": "C'est 1 trilliard, si on les utilise, si on importe de la technologie non européenne, c'est 1 trilliard de déficit commercial à rajouter à notre déficit commercial existant sur les services numériques.",
+  "quote_fr": "C'est 1 trilliard, si on les utilise, si on importe de la technologie non européenne, c'est 1 trilliard de déficit commercial à rajouter à notre déficit commercial existant sur les services numériques.",
+  "kind": "figure",
+  "how_to_check": "Verify with Eurostat or Banque de France data on EU/France digital services trade deficit. Confirm if importing AI tech worth 1 trillion EUR would match or exceed current deficits (current EU digital services deficit is ~100-200B EUR, not 1T).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:12:18",
+  "claim": "C'est une société qu'on a fondée il y a un petit peu plus de trois ans, le 28 avril 2023",
+  "quote_fr": "C'est une société qu'on a fondée il y a un petit peu plus de trois ans, le 28 avril 2023",
+  "kind": "figure",
+  "how_to_check": "Verify via French government business registry (Infogreffe) or Mistral AI's official website for incorporation date of April 28, 2023.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:22:30",
+  "claim": "En fait, la conséquence de ça, c'est que ceux qui peuvent investir avant la demande, c'est plutôt les Américains.",
+  "quote_fr": "En fait, la conséquence de ça, c'est que ceux qui peuvent investir avant la demande, c'est plutôt les Américains.",
+  "kind": "policy_position",
+  "how_to_check": "Check investment patterns in AI infrastructure between US and European companies, e.g., via Crunchbase, OECD data, or reports from McKinsey/Bain on AI capex by region.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:22:33",
+  "claim": "Et donc, par exemple, il y a du surplus énergétique en France, on prend 9 gigawatts en moyenne.",
+  "quote_fr": "Et donc, par exemple, il y a du surplus énergétique en France, on prend 9 gigawatts en moyenne.",
+  "kind": "figure",
+  "how_to_check": "Verify France's average electricity surplus using RTE (Réseau de Transport d'Électricité) annual reports or Eurostat energy statistics for 2022-2023.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:22:57",
+  "claim": "Mais c'est également la demande publique qui forme à peu près 50% du PIB de l'Europe.",
+  "quote_fr": "Mais c'est également la demande publique qui forme à peu près 50% du PIB de l'Europe.",
+  "kind": "figure",
+  "how_to_check": "Check Eurostat or OECD data on government final consumption expenditure as % of GDP for EU27.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:23:52",
+  "claim": "Il faut continuer à en faire, puisque l'intelligence artificielle, on peut considérer que c'est environ 1 kW par personne à horizon 50.",
+  "quote_fr": "Il faut continuer à en faire, puisque l'intelligence artificielle, on peut considérer que c'est environ 1 kW par personne à horizon 50.",
+  "kind": "forecast",
+  "how_to_check": "Assess plausibility by comparing to known AI energy consumption estimates (e.g., from Stanford AI Index, IEA, or academic studies on future AI power demand).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:23:55",
+  "claim": "1 kilowatt par personne en raison 50, ça veut dire 40 gigawatts à fabriquer en France, ça veut dire environ 400 gigawatts à fabriquer en Europe.",
+  "quote_fr": "1 kilowatt par personne en raison 50, ça veut dire 40 gigawatts à fabriquer en France, ça veut dire environ 400 gigawatts à fabriquer en Europe.",
+  "kind": "figure",
+  "how_to_check": "Verify calculation: France population ~68M → 68 GW (not 40 GW); Europe population ~448M → 448 GW (not 400 GW). Check if 'horizon 50' implies future population or adjustment factor.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:24:01",
+  "claim": "Ça veut dire environ 2 trilliards d'investissement à faire.",
+  "quote_fr": "Ça veut dire environ 2 trilliards d'investissement à faire.",
+  "kind": "figure",
+  "how_to_check": "Check if 2 trillion euros investment aligns with known cost per GW for data centers (e.g., $1-2M per MW for solar + storage, or $10-20M per MW for nuclear; assess if 400 GW implies €2T is plausible).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:24:14",
+  "claim": "Donc il faut vraiment avoir 20 trilliards.",
+  "quote_fr": "Donc il faut vraiment avoir 20 trilliards.",
+  "kind": "figure",
+  "how_to_check": "Evaluate plausibility of €20T investment for AI infrastructure vs. global GDP (~€100T) or historical infrastructure spends (e.g., EU Green Deal ~€1T).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:26:40",
+  "claim": "Un million de tokens sur un de nos modèles, par exemple, ça va être un euro.",
+  "quote_fr": "Un million de tokens sur un de nos modèles, par exemple, ça va être un euro.",
+  "kind": "figure",
+  "how_to_check": "Verify Mistral AI's public pricing (e.g., via mistral.ai website or API docs) for input/output token costs in euros.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:38:23",
+  "claim": "Ils déploient un trillion de dollars l'année prochaine.",
+  "quote_fr": "Ils déploient un trillion de dollars l'année prochaine.",
+  "kind": "figure",
+  "how_to_check": "Check US government AI investment plans, federal budgets, or official announcements from US agencies (e.g., NSF, DoD, CHIPS Act) for 2025 AI spending projections.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:38:25",
+  "claim": "Quand ils déploient un trillion de dollars, ça veut dire qu'ils veulent deux trillion de dollars en retour.",
+  "quote_fr": "Quand ils déploient un trillion de dollars, ça veut dire qu'ils veulent deux trillion de dollars en retour.",
+  "kind": "forecast",
+  "how_to_check": "Verify if US officials or credible economic analyses have stated a 2x return expectation on $1T AI investment; search for ROI projections in US AI strategy documents or economic forecasts.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:38:47",
+  "claim": "Donc ça veut dire qu'aujourd'hui, vous avez ces 9 gigawatts, ces 90 terawatt-heure par an qui sont disponibles en France.",
+  "quote_fr": "Donc ça veut dire qu'aujourd'hui, vous avez ces 9 gigawatts, ces 90 terawatt-heure par an qui sont disponibles en France.",
+  "kind": "figure",
+  "how_to_check": "Confirm France's current available electricity generation capacity (GW) and annual production (TWh) from official sources like RTE, INSEE, or IEA for recent years.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:39:09",
+  "claim": "Sauf qu'ils vont le faire dans les deux années qui viennent.",
+  "quote_fr": "Sauf qu'ils vont le faire dans les deux années qui viennent.",
+  "kind": "forecast",
+  "how_to_check": "Check if major non-US actors (e.g., European consortia, state-backed firms) have announced plans to invest heavily in AI infrastructure within 2025-2026; search for press releases, EU funding programs, or corporate investment announcements.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:40:13",
+  "claim": "Et ça se joue dans les deux années qui viennent.",
+  "quote_fr": "Et ça se joue dans les deux années qui viennent.",
+  "kind": "forecast",
+  "how_to_check": "Verify if energy constraints for AI in Europe are projected to become critical within 2025-2026 by consulting energy forecasts from ENTSO-E, IEA, or EU Commission reports on power demand vs. supply.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:40:15",
+  "claim": "C'est-à-dire que ce qu'il faut mettre sur la table aujourd'hui en termes d'investissement, c'est des dizaines, des centaines de milliards de dollars.",
+  "quote_fr": "C'est-à-dire que ce qu'il faut mettre sur la table aujourd'hui en termes d'investissement, c'est des dizaines, des centaines de milliards de dollars.",
+  "kind": "figure",
+  "how_to_check": "Assess whether credible analyses (e.g., from McKinsey, BCG, or EU Commission) estimate required AI infrastructure investment in Europe at tens to hundreds of billions of dollars; search for such reports.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:40:43",
+  "claim": "Donc nous, on va arriver à construire 1 gigawatt d'ici 2029.",
+  "quote_fr": "Donc nous, on va arriver à construire 1 gigawatt d'ici 2029.",
+  "kind": "forecast",
+  "how_to_check": "Verify if Mistral AI has publicly announced plans to build or support 1 GW of AI-dedicated energy infrastructure by 2029; check company press releases, interviews, or official project documentation.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Aurélien Taché",
+  "time": "00:42:39",
+  "claim": "C'est 35 milliards qui sont abondés par MGX, le fonds souverain d'Abu Dhabi, avec un partenariat Nvidia plutôt américain.",
+  "quote_fr": "C'est 35 milliards qui sont abondés par MGX, le fonds souverain d'Abu Dhabi, avec un partenariat Nvidia plutôt américain.",
+  "kind": "figure",
+  "how_to_check": "Confirm the stated investment amount ($35B), MGX's involvement, and Nvidia's partnership in the Campus IA project via official announcements from MGX, Nvidia, French government sources, or reputable news outlets.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:46:05",
+  "claim": "80% des services numériques européens qui sont faits importés des hyperscalers",
+  "quote_fr": "Parce qu'en fait, vous partez d'une situation où vous avez 80% des services numériques européens qui sont faits importés des hyperscalers.",
+  "kind": "figure",
+  "how_to_check": "Check Eurostat, European Commission Digital Economy and Society Index (DESI), or OECD reports on cloud services market share in Europe for 2023-2024 to verify the percentage of EU digital services provided by non-EU hyperscalers (AWS, Azure, Google Cloud).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:47:21",
+  "claim": "Quand vous avez un site de cette taille-là, vous avez besoin d'acteurs qui ont des reins assez solides, c'est-à-dire qui peuvent déployer des dizaines de milliards d'euros.",
+  "quote_fr": "Quand vous avez un site de cette taille-là, vous avez besoin d'acteurs qui ont des reins assez solides, c'est-à-dire qui peuvent déployer des dizaines de milliards d'euros.",
+  "kind": "figure",
+  "how_to_check": "Verify capital expenditure requirements for large-scale data center campuses (e.g., Campus IA) by consulting project announcements, financial filings of involved parties (e.g., Mistral AI partners), or infrastructure investment reports from sources like BloombergNEF or McKinsey on data center CAPEX trends.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:49:38",
+  "claim": "un gigawatt, ça tient sur une centaine d'hectares",
+  "quote_fr": "Donc en fait, si vous voulez, un gigawatt, ça tient sur une centaine d'hectares, donc on n'a pas vraiment de sujet de terrain, d'un point de vue...",
+  "kind": "figure",
+  "how_to_check": "Cross-reference with industry benchmarks from Uptime Institute, Lawrence Berkeley National Laboratory, or data center developers (e.g., Equinix, Digital Realty) on power density (MW/acre) for hyperscale facilities to validate if 1 GW requires ~100 hectares (approx. 247 acres).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:50:00",
+  "claim": "les électrons, 70% c'est nucléaire",
+  "quote_fr": "C'est que les électrons, 70% c'est nucléaire.",
+  "kind": "figure",
+  "how_to_check": "Consult RTE (Réseau de Transport d'Électricité) or French Ministry of Energy annual reports on electricity generation mix in France for 2023 to verify the share of nuclear power in total electricity production.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:52:42",
+  "claim": "On l'a fait l'année dernière avec l'ADEME et Carbon Cap.",
+  "quote_fr": "On l'a fait l'année dernière avec l'ADEME et Carbon Cap.",
+  "kind": "figure",
+  "how_to_check": "Search ADEME’s publication database or press releases for 2023 to confirm if Mistral AI published a life cycle analysis (LCA) of its AI models in partnership with ADEME and Carbon Cap. Also check Carbon Cap’s client list or case studies.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:53:18",
+  "claim": "je pense qu'on a le plus gros cluster en France de calcul.",
+  "quote_fr": "et je pense qu'on a le plus gros cluster en France de calcul.",
+  "kind": "figure",
+  "how_to_check": "Compare Mistral AI’s claimed cluster size (e.g., number of GPUs, FLOPS) with publicly disclosed clusters from other French entities (e.g., GENCI, CNRS, OVHcloud, or private AI labs) via TOP500 supercomputer listings, press releases, or infrastructure announcements from 2023-2024.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:52:28",
+  "claim": "quitte à prendre ces externalités-là, faisons en sorte que ça puisse être recyclé en R&D et en aspect bénéfique pour la France.",
+  "quote_fr": "Donc, quitte à prendre ces externalités-là, faisons en sorte que ça puisse être recyclé en R&D et en aspect bénéfique pour la France.",
+  "kind": "policy_position",
+  "how_to_check": "While this is a policy stance, it references a causal claim about recycling externalities into R&D benefits for France. Verify if French national AI strategy (e.g., France 2030) or EU policies (e.g., Chips Act, AI Act) include mechanisms for reinvesting infrastructure externalities into domestic R&D, and assess alignment with Mistral AI’s stated practices.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:50:20",
+  "claim": "l'atmosphère va un petit peu moins se réchauffer.",
+  "quote_fr": "Et finalement, l'atmosphère va un petit peu moins se réchauffer.",
+  "kind": "figure",
+  "how_to_check": "Assess the climate impact claim by comparing lifecycle emissions of AI training in France (nuclear-heavy grid) vs. regions like Texas (fossil-fuel dependent) using IEA or IPCC methodologies, and verify if Mistral AI’s operational location reduces net carbon emissions relative to alternatives.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:55:38",
+  "claim": "un des problèmes réglementaires de l'Europe c'est que fondamentalement à chaque fois que vous rentrez dans un pays européen vous devez ouvrir une nouvelle entité vous devez comprendre un nouveau régime de stock option vous devez comprendre une réglementation du travail qui est différente",
+  "quote_fr": "un des problèmes réglementaires de l'Europe c'est que fondamentalement à chaque fois que vous rentrez dans un pays européen vous devez ouvrir une nouvelle entité vous devez comprendre un nouveau régime de stock option vous devez comprendre une réglementation du travail qui est différente",
+  "kind": "policy_position",
+  "how_to_check": "Verify EU directives on cross-border business establishment, stock option taxation, and labor law harmonization via EUR-Lex and national transposition tables; check if single EU entity suffices for multi-country operations.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:55:38",
+  "claim": "ça veut dire qu'il faut assez vite une équipe sur place c'est à dire qu'il faut que moi j'ai signé des centaines de documents pour ouvrir des entités dans une dizaine de pays d'Europe j'ai ouvert des dizaines de comptes en banque parce que en général il faut un compte en banque associé",
+  "quote_fr": "ça veut dire qu'il faut assez vite une équipe sur place c'est à dire qu'il faut que moi j'ai signé des centaines de documents pour ouvrir des entités dans une dizaine de pays d'Europe j'ai ouvert des dizaines de comptes en banque parce que en général il faut un compte en banque associé",
+  "kind": "fact",
+  "how_to_check": "Request Mistral AI's public filings or founder testimony on number of legal entities opened and bank accounts created in European countries; cross-reference with commercial registry data (e.g., Infogreffe, KVK).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:56:18",
+  "claim": "il faudrait absolument qu'elle soit unifiée si vous voulez avoir des systèmes d'incitation des employés qui ont à peu près du sens donc nous on patch les choses on essaye de faire des choses qui sont le plus juste possible mais on se retrouve avec des situations fiscales qui sont franchement disparates entre les pays donc ça c'est relativement catastrophique donc en fait vous ne pouvez pas avoir de marché unifié si vous n'avez pas une forme de fiscalité unifiée, si vous n'avez pas une forme de droit social unifié, etc.",
+  "quote_fr": "il faudrait absolument qu'elle soit unifiée si vous voulez avoir des systèmes d'incitation des employés qui ont à peu près du sens donc nous on patch les choses on essaye de faire des choses qui sont le plus juste possible mais on se retrouve avec des situations fiscales qui sont franchement disparates entre les pays donc ça c'est relativement catastrophique donc en fait vous ne pouvez pas avoir de marché unifié si vous n'avez pas une forme de fiscalité unifiée, si vous n'avez pas une forme de droit social unifié, etc.",
+  "kind": "policy_position",
+  "how_to_check": "Compare EU tax coordination progress (e.g., CCCTB, Pillar II) and social policy harmonization (e.g., Posted Workers Directive) via European Commission reports and ECJ rulings on internal market barriers.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:56:57",
+  "claim": "Vous avez maintenant les AIAC, qui n'est pas encore mis en œuvre, mais qui va l'être à partir d'août.",
+  "quote_fr": "Vous avez maintenant les AIAC, qui n'est pas encore mis en œuvre, mais qui va l'être à partir d'août.",
+  "kind": "fact",
+  "how_to_check": "Confirm AIAC (AI Act) entry into force date via Official Journal of the EU (August 2024) and Commission implementation timeline; check if Member States have designated competent authorities.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:57:23",
+  "claim": "C'est mis en œuvre par 27 organes de mise en œuvre différents en Europe, qui sont plus ou moins aînés suivant les pays.",
+  "quote_fr": "C'est mis en œuvre par 27 organes de mise en œuvre différents en Europe, qui sont plus ou moins aînés suivant les pays.",
+  "kind": "fact",
+  "how_to_check": "List designated national competent authorities for AI Act implementation per EU Commission registry; verify count and establishment dates (e.g., CNIL in France, BfDI in Germany).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:57:29",
+  "claim": "Et donc, on se retrouve, nous, moi je me retrouve avec une équipe de compliance qui fait 5 personnes.",
+  "quote_fr": "Et donc, on se retrouve, nous, moi je me retrouve avec une équipe de compliance qui fait 5 personnes.",
+  "kind": "fact",
+  "how_to_check": "Verify Mistral AI's current compliance team size via LinkedIn, company disclosures, or regulatory filings (e.g., URSAAF, French commercial court).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:58:45",
+  "claim": "Ça veut dire que vous avez aussi environ 60 opérateurs de telco, de télécommunications en Europe.",
+  "quote_fr": "Ça veut dire que vous avez aussi environ 60 opérateurs de telco, de télécommunications en Europe.",
+  "kind": "fact",
+  "how_to_check": "Check latest BEREC or ETNO reports on number of licensed telecom operators in EU/EEA; compare with FCC data for US (typically 3-4 national carriers).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:58:51",
+  "claim": "Vous en avez trois aux Etats-Unis.",
+  "quote_fr": "Vous en avez trois aux Etats-Unis.",
+  "kind": "fact",
+  "how_to_check": "Confirm number of major nationwide telecom operators in US (Verizon, AT&T, T-Mobile) via FCC annual reports and market share analyses; note regional players may exist but national coverage held by three.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:58:53",
+  "claim": "Ça veut dire qu'ils ont 20 fois plus de budget, si vous voulez.",
+  "quote_fr": "Ça veut dire qu'ils ont 20 fois plus de budget, si vous voulez.",
+  "kind": "fact",
+  "how_to_check": "Compare aggregate annual CAPEX/OPEX of top 3 US telcos (from SEC 10-K) vs. top 60 EU telcos (from BEREC/ETNO); adjust for purchasing power parity and currency.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "00:58:57",
+  "claim": "Ils ont 20 fois plus de budget de manière globale.",
+  "quote_fr": "Ils ont 20 fois plus de budget de manière globale.",
+  "kind": "fact",
+  "how_to_check": "Verify if US telco sector aggregate budget exceeds EU telco sector by factor of 20 using IDC, Statista, or Analysys Mason telecom investment datasets (2022-2024).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:00:30",
+  "claim": "je pense que souvent l'intention est bonne, c'est-à-dire de se dire on va faire en sorte que ça favorise nos start-up européennes, je pense que si on regarde dans tout l'historique de ce qu'on a pu faire, ça n'a jamais été le cas et une raison très simple c'est que la réglementation fondamentalement ça vous met un overhead que pour surmonter il faut être suffisamment gros, donc si vous n'avez pas des entreprises suffisamment grosses avec une charge réglementaire aussi grosse vous retrouvez avec à importer des acteurs américains donc la réglementation favorise les gros et ça c'est d'autant plus vrai en technologie et donc tout discours comme quoi la réglementation peut nous défendre je pense que c'est assez c'est un peu le diable",
+  "quote_fr": "je pense que souvent l'intention est bonne, c'est-à-dire de se dire on va faire en sorte que ça favorise nos start-up européennes, je pense que si on regarde dans tout l'historique de ce qu'on a pu faire, ça n'a jamais été le cas et une raison très simple c'est que la réglementation fondamentalement ça vous met un overhead que pour surmonter il faut être suffisamment gros, donc si vous n'avez pas des entreprises suffisamment grosses avec une charge réglementaire aussi grosse vous retrouvez avec à importer des acteurs américains donc la réglementation favorise les gros et ça c'est d'autant plus vrai en technologie et donc tout discours comme quoi la réglementation peut nous défendre je pense que c'est assez c'est un peu le diable",
+  "kind": "policy_position",
+  "how_to_check": "Analyze historical EU tech regulations (e.g., GDPR, ePrivacy, AI Act) impact on startup formation vs. incumbent advantage using OECD, Eurostat, and Bruegel Institute data on market concentration and VC funding by firm size.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:01:36",
+  "claim": "je pense qu'il y a une prise de conscience ce qui n'est pas une prise de conscience forcément réglementaire, mais en revanche, prise de conscience politique, que c'est la chose à faire, que c'est ce que les États-Unis font depuis les années 1940, et que ça a très bien fonctionné pour eux.",
+  "quote_fr": "je pense qu'il y a une prise de conscience ce qui n'est pas une prise de conscience forcément réglementaire, mais en revanche, prise de conscience politique, que c'est la chose à faire, que c'est ce que les États-Unis font depuis les années 1940, et que ça a très bien fonctionné pour eux.",
+  "kind": "policy_position",
+  "how_to_check": "Verify US public R&D procurement practices since 1940s (e.g., SBIR/STTR, DoD contracts, NASA procurement) via NSF surveys and GAO reports; assess impact on domestic tech base using Congressional Budget Office and NBER studies.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:01:42",
+  "claim": "Il faut le faire en maintenant une compétition très élevée en Europe.",
+  "quote_fr": "Il faut le faire en maintenant une compétition très élevée en Europe.",
+  "kind": "policy_position",
+  "how_to_check": "Assess feasibility of combining public R&D procurement with competition preservation using EU State Aid rules (TFEU Articles 107-109) and Commission guidelines on horizontal cooperation; check for existing models (e.g., Horizon Europe, IPCEI).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:02:11",
+  "claim": "Quand vous avez des règles, vous avez forcément du lobby à mettre en œuvre pour que l'implémentation des règles soit jouable.",
+  "quote_fr": "Quand vous avez des règles, vous avez forcément du lobby à mettre en œuvre pour que l'implémentation des règles soit jouable.",
+  "kind": "policy_position",
+  "how_to_check": "Correlate regulatory complexity with lobbying expenditure using EU Transparency Register data and OECD regulatory indicators; check if rule implementation costs rise with interest group density.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:02:29",
+  "claim": "Et en général, vous avez les acteurs américains qui sont énormes, mais ils ont beaucoup plus de lobbyistes à Bruxelles que nous.",
+  "quote_fr": "Et en général, vous avez les acteurs américains qui sont énormes, mais ils ont beaucoup plus de lobbyistes à Bruxelles que nous.",
+  "kind": "fact",
+  "how_to_check": "Compare number of US-headquartered vs. EU-headquartered lobbyists registered in EU Transparency Register for AI/digital policy; filter by client origin and accreditation date.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:05:06",
+  "claim": "Et donc, on commencera à être sur ces échelles-là plutôt à horizon 2028, 2029.",
+  "quote_fr": "Et donc, on commencera à être sur ces échelles-là plutôt à horizon 2028, 2029.",
+  "kind": "forecast",
+  "how_to_check": "Monitor Mistral AI's infrastructure announcements, capex plans, and partnership deals (e.g., with cloud providers) for gigawatt-scale cluster timelines; check if 2028-2029 aligns with stated roadmap.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:06:11",
+  "claim": "La loi européenne ne le permet pas, en réalité.",
+  "quote_fr": "La loi européenne ne le permet pas, en réalité.",
+  "kind": "fact",
+  "how_to_check": "Verify if EU electricity market directives (e.g., Regulation 2019/943) prohibit preferential allocation of grid capacity; check for state aid exemptions under TFEU Article 107(3)(c) for strategic projects.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:06:44",
+  "claim": "En revanche, l'allocation, elle est quand même faite sur les principes économiques.",
+  "quote_fr": "En revanche, l'allocation, elle est quand même faite sur les principes économiques.",
+  "kind": "fact",
+  "how_to_check": "Assess whether grid connection awards follow market-based mechanisms (auctions, capacity markets) vs. administrative decisions using ACER reports and national regulator decisions (e.g., CRE, Ofgem).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:06:47",
+  "claim": "En fait, elle est allouée aux gens qui peuvent payer.",
+  "quote_fr": "En fait, elle est allouée aux gens qui peuvent payer.",
+  "kind": "fact",
+  "how_to_check": "Check if grid access pricing reflects marginal cost or contains subsidies; compare connection fees for data centers vs. other industrial users via CEER benchmarking reports.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:09:57",
+  "claim": "C'est 20% dont 10% de la commande publique française.",
+  "quote_fr": "C'est 20% dont 10% de la commande publique française.",
+  "kind": "policy_position",
+  "how_to_check": "Consult Mistral AI's financial reports, public procurement databases (e.g., BOAMP, TED), or official statements from French public procurement authorities to verify the share of public procurement in Mistral AI's revenue and the breakdown between French and other public procurement.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:11:52",
+  "claim": "Vous avez des gains de productivité de l'un facteur 5 dans les services clients.",
+  "quote_fr": "Vous avez des gains de productivité de l'un facteur 5 dans les services clients.",
+  "kind": "figure",
+  "how_to_check": "Search for independent studies, client case studies, or third-party evaluations of Mistral AI's impact on customer service productivity (e.g., via academic databases, industry reports, or verified client testimonials) to confirm or refute a 5x productivity gain claim.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:12:04",
+  "claim": "donc c'est très significatif des études macro je pense qu'il n'y en a pas encore beaucoup parce qu'en fait on manque de recul",
+  "quote_fr": "donc c'est très significatif des études macro je pense qu'il n'y en a pas encore beaucoup parce qu'en fait on manque de recul",
+  "kind": "forecast",
+  "how_to_check": "Review macroeconomic studies on AI productivity gains from sources like the OECD, IMF, Eurostat, or European Commission publications to assess whether sufficient macro-level studies exist on AI's productivity impact, particularly regarding task delegation and recent AI adoption.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:12:50",
+  "claim": "ça ne sera pas fois 2 partout, nous c'est assez facile d'une certaine manière parce qu'on est une activité qui n'a pas d'empreinte physique",
+  "quote_fr": "ça ne sera pas fois 2 partout, nous c'est assez facile d'une certaine manière parce qu'on est une activité qui n'a pas d'empreinte physique",
+  "kind": "figure",
+  "how_to_check": "Analyze Mistral AI's internal productivity reports, client feedback, or independent audits of AI tool usage in software development to verify claims about productivity gains (e.g., 2x) being easier to achieve in non-physical, software-centric activities versus heavy industry.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:13:20",
+  "claim": "si vous voulez. Donc vous avez ce que ça veut dire 20% de gain de productivité.",
+  "quote_fr": "si vous voulez. Donc vous avez ce que ça veut dire 20% de gain de productivité.",
+  "kind": "figure",
+  "how_to_check": "Examine Mistral AI's internal data, client ROI reports, or third-party studies on AI-driven productivity improvements in enterprise settings to validate the 20% productivity gain figure derived from their 10% OPEX/salary investment assumption.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:14:40",
+  "claim": "Et puis troisième élément, j'en ai parlé tout à l'heure, vous avez un déficit commercial qui explose, c'est-à-dire que sur le plan des services, il est multiplié par 5 dans les cinq prochaines années.",
+  "quote_fr": "Et puis troisième élément, j'en ai parlé tout à l'heure, vous avez un déficit commercial qui explose, c'est-à-dire que sur le plan des services, il est multiplié par 5 dans les cinq prochaines années.",
+  "kind": "forecast",
+  "how_to_check": "Check Eurostat, Banque de France, or European Commission trade data on services deficits for France/EU, and compare with forecasts from institutions like the IMF, OECD, or European Central Bank to assess whether a 5x increase in services trade deficit is projected within five years.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:17:48",
+  "claim": "C'est-à-dire que vous êtes tout seul, vous pouvez aller 10, 20 fois plus vite.",
+  "quote_fr": "C'est-à-dire que vous êtes tout seul, vous pouvez aller 10, 20 fois plus vite.",
+  "kind": "figure",
+  "how_to_check": "Review internal Mistral AI productivity metrics, developer surveys, or case studies on AI-assisted coding (e.g., GitHub Copilot, similar tools) to verify claims of 10-20x speed increases in solo software development using AI agents.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:18:44",
+  "claim": "de l'Europe vous avez 400 millions de personnes c'est 8 milliards parce que les tokens c'est bien, vous l'avez dit, par numéros générés, par lettres générées une ligne de code c'est beaucoup beaucoup de numéros",
+  "quote_fr": "de l'Europe vous avez 400 millions de personnes c'est 8 milliards parce que les tokens c'est bien, vous l'avez dit, par numéros générés, par lettres générées une ligne de code c'est beaucoup beaucoup de numéros",
+  "kind": "figure",
+  "how_to_check": "Verify the calculation: 400 million people × €10,000/year = €4 billion, not €8 billion. Check source data on EU population, average salary, and token valuation logic used in the claim to assess accuracy of the €8 billion figure for potential token-based economic impact.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:20:39",
+  "claim": "pour que le modèle économique fonctionne, quand vous investissez 50 milliards pour faire 1 gigawatt et vous êtes une entreprise de technologie, vous voulez repartir avec 100 milliards",
+  "quote_fr": "pour que le modèle économique fonctionne, quand vous investissez 50 milliards pour faire 1 gigawatt et vous êtes une entreprise de technologie, vous voulez repartir avec 100 milliards",
+  "kind": "policy_position",
+  "how_to_check": "Verify if Mistral AI or similar tech companies have publicly stated investment targets of 50 billion euros for 1 GW of compute and expected returns of 100 billion euros; check financial reports, investor presentations, or credible industry analyses for such specific figures.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:20:52",
+  "claim": "Si vous repartez avec 100 milliards, ça veut dire que vous devez créer 200 milliards de valeur pour votre client",
+  "quote_fr": "Si vous repartez avec 100 milliards, ça veut dire que vous devez créer 200 milliards de valeur pour votre client",
+  "kind": "policy_position",
+  "how_to_check": "Assess whether there is a standard or claimed economic model in AI infrastructure where 100 billion in returns requires 200 billion in client value creation; look for analogous statements in venture capital, tech investment theses, or Mistral's own business model disclosures.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:21:26",
+  "claim": "Vous n'avez pas toute l'économie américaine qui met un trilliard sur la table par an, s'ils ne se disent pas qu'ils vont repartir avec deux trilliards",
+  "quote_fr": "Vous n'avez pas toute l'économie américaine qui met un trilliard sur la table par an, s'ils ne se disent pas qu'ils vont repartir avec deux trilliards",
+  "kind": "policy_position",
+  "how_to_check": "Check official U.S. federal budget data, annual AI investment reports (e.g., from Stanford AI Index, Brookings, or McKinsey), and major tech capex forecasts to verify if annual U.S. AI-related investments approach or exceed 1 trillion dollars and whether expected returns are framed as 2 trillion.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:25:06",
+  "claim": "On a quitté ce champ-là, je dirais, en 2023-2024, et nous, dans la notation qu'on a pu faire, on a toujours travaillé avec des fournisseurs qui nous fournissaient des garanties sur le salaire des personnes, etc.",
+  "quote_fr": "On a quitté ce champ-là, je dirais, en 2023-2024, et nous, dans la notation qu'on a pu faire, on a toujours travaillé avec des fournisseurs qui nous fournissaient des garanties sur le salaire des personnes, etc.",
+  "kind": "policy_position",
+  "how_to_check": "Review Mistral AI's public statements, supplier contracts, or ESG reports from 2022-2024 to confirm whether they discontinued human annotation for model training and shifted to environment-based signal generation, and whether they enforced wage guarantees with suppliers during that period.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:25:24",
+  "claim": "Les Etats-Unis, l'Europe, globalement, comme on a besoin de travailleurs qualifiés et de travailleurs qui parlent un certain nombre de langues européennes en particulier, on est obligé d'aller plutôt en Europe.",
+  "quote_fr": "Les Etats-Unis, l'Europe, globalement, comme on a besoin de travailleurs qualifiés et de travailleurs qui parlent un certain nombre de langues européennes en particulier, on est obligé d'aller plutôt en Europe.",
+  "kind": "policy_position",
+  "how_to_check": "Examine Mistral AI's hiring reports, job postings, or workforce location data (e.g., via LinkedIn, press releases, or annual summaries) to verify the geographic distribution of their qualified multilingual workforce, especially for annotation or development roles requiring European language skills.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:25:33",
+  "claim": "Ensuite, on a des activités en robotique où on travaille avec Madagascar, par exemple.",
+  "quote_fr": "Ensuite, on a des activités en robotique où on travaille avec Madagascar, par exemple.",
+  "kind": "policy_position",
+  "how_to_check": "Search for public announcements, partnership press releases, or project descriptions from Mistral AI involving robotics collaborations with entities in Madagascar; verify existence and nature of such activities through official channels.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:27:38",
+  "claim": "Les Américains, vous avez quelques vicieux capitales. C'est moins de 30% de notre capital.",
+  "quote_fr": "Les Américains, vous avez quelques vicieux capitales. C'est moins de 30% de notre capital.",
+  "kind": "policy_position",
+  "how_to_check": "Consult Mistral AI's official capitalization table, investor disclosures, or funding round announcements (e.g., Series A, B) to verify the percentage of equity held by U.S.-based investors and confirm whether it is below 30%.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Arthur Mensch",
+  "time": "01:28:18",
+  "claim": "Ensuite, nous, notre objectif est de rester indépendant.",
+  "quote_fr": "Ensuite, nous, notre objectif est de rester indépendant.",
+  "kind": "policy_position",
+  "how_to_check": "Verify consistency of this statement with Mistral AI's public mission statements, founder interviews, investor communications, and strategic documents (e.g., website, press releases) to confirm that maintaining independence is a stated and repeated objective.",
+  "quote_verified": true
+ }
+]

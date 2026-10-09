@@ -1,0 +1,516 @@
+{
+ "meeting_uid": "19471620_6abccf18f0e48",
+ "title": "Hearing of Octave Klaba (OVHcloud), Economic Affairs Committee",
+ "meeting_date": "2026-09-30",
+ "researched_on": "2026-10-09",
+ "method": "manual research by Claude Code with web search, protocol v0 (see docs/research-feature.md)",
+ "checkpoints": [
+  {
+   "label": "at_meeting",
+   "due": "2026-09-30",
+   "done_on": "2026-10-09",
+   "note": "evaluated 9 days after the hearing"
+  },
+  {
+   "label": "3m",
+   "due": "2026-12-30",
+   "done_on": null,
+   "note": ""
+  },
+  {
+   "label": "6m",
+   "due": "2027-03-30",
+   "done_on": null,
+   "note": ""
+  },
+  {
+   "label": "12m",
+   "due": "2027-09-30",
+   "done_on": null,
+   "note": ""
+  }
+ ],
+ "topics": [
+  {
+   "id": "inquiry",
+   "title": "The inquiry report that frames this hearing",
+   "why_it_matters": "Klaba had already testified on 21 April 2026 to the commission of inquiry, whose report appeared two and a half months before this hearing; deputies quote it.",
+   "before": [
+    {
+     "date": "2026-04-21",
+     "summary": "Klaba's earlier hearing before the commission of inquiry (the chair recalls his statement that European public procurement was far too small to build champions).",
+     "sources": [
+      {
+       "title": "Assemblée nationale: commission d'enquête, phase finale des travaux",
+       "url": "https://www.assemblee-nationale.fr/dyn/espace-presse/communiques-de-presse/2026/commission-d-enquete-dependances-et-vulnerabilites-dans-le-secteur-du-numerique-phase-finale-des-travaux",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "page opened"
+      }
+     ]
+    },
+    {
+     "date": "2026-07-15",
+     "summary": "Inquiry report published: moratorium on new data centres for non-European hyperscalers, European preference in procurement. It computes that of about 15 GW of data-centre capacity expected in roughly five years, only 1.4 GW would go to European operators.",
+     "sources": [
+      {
+       "title": "Le Journal des Entreprises: un rapport parlementaire demande un moratoire sur les data centers extra-européens",
+       "url": "https://www.lejournaldesentreprises.com/breve/un-rapport-parlementaire-demande-un-moratoire-sur-les-data-centers-extra-europeens-2146626",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened"
+      },
+      {
+       "title": "UniversFreebox: un rapport appelle à stopper les nouveaux data centers américains",
+       "url": "https://www.universfreebox.com/article/595903/cloud-un-rapport-appelle-a-stopper-les-nouveaux-data-centers-americains",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened"
+      },
+      {
+       "title": "Assemblée nationale: commission d'enquête, phase finale des travaux",
+       "url": "https://www.assemblee-nationale.fr/dyn/espace-presse/communiques-de-presse/2026/commission-d-enquete-dependances-et-vulnerabilites-dans-le-secteur-du-numerique-phase-finale-des-travaux",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "page opened"
+      }
+     ]
+    }
+   ],
+   "after": []
+  },
+  {
+   "id": "eu-cloud",
+   "title": "The Commission's €180M sovereign cloud contract",
+   "why_it_matters": "Klaba used it as an example: a start for European providers, but small next to hyperscaler revenue.",
+   "before": [
+    {
+     "date": "2025-10",
+     "summary": "Tender launched under a new Cloud Sovereignty Framework (eight sovereignty objectives, SEAL levels).",
+     "sources": [
+      {
+       "title": "European Commission: Commission advances cloud sovereignty through strategic procurement (17 Apr 2026)",
+       "url": "https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_de",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "page opened"
+      }
+     ]
+    },
+    {
+     "date": "2026-04-17",
+     "summary": "Awarded: up to €180M over 6 years, four contracts: Post Telecom (lead) with OVHcloud and Clever Cloud; STACKIT (Schwarz Group); Scaleway (Iliad); Proximus (lead) with S3NS, Clarence and Mistral. Winners needed at least SEAL-2.",
+     "sources": [
+      {
+       "title": "European Commission: Commission advances cloud sovereignty through strategic procurement (17 Apr 2026)",
+       "url": "https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_de",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "page opened"
+      }
+     ]
+    }
+   ],
+   "after": []
+  },
+  {
+   "id": "ovh",
+   "title": "OVHcloud: results, leadership and qualifications",
+   "why_it_matters": "Revenue and qualification claims made at the hearing can be compared with official results as they are published.",
+   "before": [
+    {
+     "date": "2025-10-20",
+     "summary": "Octave Klaba returns as chairman and CEO after the CEO's departure.",
+     "sources": [
+      {
+       "title": "Siècle Digital: Octave Klaba takes the reins again after the CEO's surprise departure (22 Oct 2025)",
+       "url": "https://siecledigital.fr/2025/10/22/ovhcloud-octave-klaba-reprend-la-main-apres-le-depart-surprise-du-directeur-general/",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened"
+      }
+     ]
+    },
+    {
+     "date": "2025-12",
+     "summary": "FY2025 revenue €1,084.6M (+9.3% organic), adjusted EBITDA €437.8M (40.4%).",
+     "sources": [
+      {
+       "title": "Fortuneo: OVHcloud passes €1bn annual revenue (FY2025: €1,084.6M, +9.3% organic)",
+       "url": "https://bourse.fortuneo.fr/actualites-amp/ovhcloud-franchit-le-cap-du-milliard-d-euros-de-ca-annuel-5287890",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened"
+      }
+     ]
+    },
+    {
+     "date": "2026-06-25",
+     "summary": "Q3 FY2026 revenue €289.6M (+6.9% like-for-like), public cloud +20.2%. FY2026 guidance confirmed: organic growth 5-7%, adjusted EBITDA margin above 2025.",
+     "sources": [
+      {
+       "title": "Fortuneo/AFP-type wire: OVHcloud accelerates growth in Q3 (FY2026)",
+       "url": "https://bourse.fortuneo.fr/actualites/ovhcloud-acceleration-de-la-croissance-au-troisieme-trimestre-9716469",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; relays the company's results release of 25 Jun 2026"
+      },
+      {
+       "title": "OptionFinance: OVHcloud confirms its annual objectives (25 Jun 2026)",
+       "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-06-25-ovhcloud-porte-par-le-cloud-public-confirme-ses-objectifs-annuels.html",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened"
+      }
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "summary": "SNC Cloud Platform obtains SecNumCloud qualification from ANSSI, OVHcloud's third (after Bare Metal Pod and VMware on OVHcloud). A decree of 14 Apr 2026 requires certified cloud for sensitive State data.",
+     "sources": [
+      {
+       "title": "OVHcloud corporate: SNC Cloud Platform obtains SecNumCloud qualification",
+       "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhcloud-obtains-secnumcloud-qualification-snc-cloud-platform/",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; company press release, 1 Sep 2026"
+      }
+     ]
+    }
+   ],
+   "after": [
+    {
+     "date": "2026-10",
+     "summary": "FY2026 results (year ending 31 Aug) are due after the hearing; the date was not found in the sources searched.",
+     "sources": []
+    }
+   ]
+  },
+  {
+   "id": "compute",
+   "title": "Data-centre scale, energy and AI infrastructure in France",
+   "why_it_matters": "Klaba said a single-site gigawatt data centre will never exist in Europe; a 1.4 GW campus is planned in France.",
+   "before": [
+    {
+     "date": "2025-05",
+     "summary": "Campus IA at Fouju announced: 1.4 GW, service from 2028, construction expected from H2 2026.",
+     "sources": [
+      {
+       "title": "Press release: MGX, Bpifrance, Mistral AI and NVIDIA announce a JV for Europe's largest AI campus",
+       "url": "https://www.polytechnique.edu/sites/default/files/content/communiques/fichiers/2025-05/Communique%20Presse%20-%20MGX%2C%20Bpifrance%2C%20Mistral%20AI%20et%20NVIDIA%20annoncent%20la%20cre%CC%81ation%20d%E2%80%99une%20JV%20pour%20de%CC%81velopper%20en%20France%20le%20plus%20grand%20campus%20IA%20d%27Europe.pdf",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; hosted by Ecole Polytechnique"
+      },
+      {
+       "title": "FrenchWeb: what a new-generation AI campus looks like",
+       "url": "https://www.frenchweb.fr/datacenters-energie-refroidissement-a-quoi-ressemble-un-campus-ia-de-nouvelle-generation/461960",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; construction expected H2 2026, service 2028, extension to 3 GW"
+      }
+     ]
+    }
+   ],
+   "after": []
+  },
+  {
+   "id": "china-open",
+   "title": "Dependence on Chinese open-weight AI models",
+   "why_it_matters": "Klaba argued Europe's AI depends on Chinese open source, a strategic risk.",
+   "before": [
+    {
+     "date": "2026",
+     "summary": "Aggregator sources report Chinese labs holding five of the ten top trending models on Hugging Face and about 41% of downloads over a year. Not traced to a primary dataset.",
+     "sources": [
+      {
+       "title": "Tech-Insider: DeepSeek and Qwen top Hugging Face in 2026",
+       "url": "https://tech-insider.org/nl/deepseek-qwen-hugging-face-top-2026/",
+       "tier": "weak",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; aggregator, figures (e.g. '41% of downloads') not traced to a primary dataset"
+      }
+     ]
+    }
+   ],
+   "after": []
+  }
+ ],
+ "claims": [
+  {
+   "id": "K1",
+   "speaker": "Octave Klaba",
+   "time": "00:17:25",
+   "text": "The €180M contract amounts to about €40M a year shared among 4 winners.",
+   "quote_fr": "ces 180 millions qui, globalement, vont représenter environ 40 millions par an sur 4 gagnants",
+   "kind": "figure",
+   "topic": "eu-cloud",
+   "checks": [
+    {
+     "checkpoint": "at_meeting",
+     "verdict": "partly_supported",
+     "checked_on": "2026-10-09",
+     "evidence": "The Commission awarded 'up to €180M over 6 years' = at most €30M a year, not €40M (his figure implies a term of about 4.5 years). The ceiling is also not committed spend. His point (small next to hyperscaler spend) is unaffected.",
+     "sources": [
+      {
+       "title": "European Commission: Commission advances cloud sovereignty through strategic procurement (17 Apr 2026)",
+       "url": "https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_de",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "page opened"
+      }
+     ]
+    }
+   ],
+   "next_step": "3m/12m: look for call-off volumes actually placed under the contract."
+  },
+  {
+   "id": "K2",
+   "speaker": "Octave Klaba",
+   "time": "00:17:38",
+   "text": "AWS earns about €1.2bn a year from the European Commission and Azure about €500M.",
+   "quote_fr": "environ 1,2 milliard de chiffre d'affaires que AWS réalise avec la Commission européenne par an. Et vous avez un autre 500 millions chez Azure",
+   "kind": "figure",
+   "topic": "eu-cloud",
+   "checks": [
+    {
+     "checkpoint": "at_meeting",
+     "verdict": "unverifiable",
+     "checked_on": "2026-10-09",
+     "evidence": "No public itemised figure found; the Commission has relied on framework contracts with the US hyperscalers but amounts per vendor were not found. Possibly an estimate covering all EU bodies.",
+     "sources": []
+    }
+   ],
+   "next_step": "Search the EU Financial Transparency System, TED award notices and parliamentary questions."
+  },
+  {
+   "id": "K3",
+   "speaker": "Octave Klaba",
+   "time": "00:32:53",
+   "text": "OVHcloud makes €1.2bn in revenue and is on the slope towards €2bn.",
+   "quote_fr": "OVH fait 1,2 milliard et on est sur la pente de 2 milliards de chiffres d'affaires",
+   "kind": "figure",
+   "topic": "ovh",
+   "checks": [
+    {
+     "checkpoint": "at_meeting",
+     "verdict": "partly_supported",
+     "checked_on": "2026-10-09",
+     "evidence": "Reported FY2025 revenue is €1,085M; with 5-7% organic growth guided for FY2026 (year to 31 Aug 2026) revenue would be about €1.14-1.16bn before currency effects (my calculation), so '1.2' rounds up. The €2bn is an ambition with no date; he declined to give dates, citing listed-company rules.",
+     "sources": [
+      {
+       "title": "Fortuneo: OVHcloud passes €1bn annual revenue (FY2025: €1,084.6M, +9.3% organic)",
+       "url": "https://bourse.fortuneo.fr/actualites-amp/ovhcloud-franchit-le-cap-du-milliard-d-euros-de-ca-annuel-5287890",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened"
+      },
+      {
+       "title": "OptionFinance: OVHcloud confirms its annual objectives (25 Jun 2026)",
+       "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-06-25-ovhcloud-porte-par-le-cloud-public-confirme-ses-objectifs-annuels.html",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened"
+      },
+      {
+       "title": "Fortuneo/AFP-type wire: OVHcloud accelerates growth in Q3 (FY2026)",
+       "url": "https://bourse.fortuneo.fr/actualites/ovhcloud-acceleration-de-la-croissance-au-troisieme-trimestre-9716469",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; relays the company's results release of 25 Jun 2026"
+      }
+     ]
+    }
+   ],
+   "next_step": "3m: compare with the FY2026 results (due after the hearing). Revisit '2bn' only if a date is given."
+  },
+  {
+   "id": "K4",
+   "speaker": "Stéphane Travert (chair)",
+   "time": "00:06:21",
+   "text": "OVHcloud obtained SecNumCloud 3.2 qualification on 1 September for its SNC Cloud Platform.",
+   "quote_fr": "votre groupe a obtenu, le 1er septembre dernier, la qualification Secnum Cloud 3.2",
+   "kind": "fact",
+   "topic": "ovh",
+   "checks": [
+    {
+     "checkpoint": "at_meeting",
+     "verdict": "supported",
+     "checked_on": "2026-10-09",
+     "evidence": "OVHcloud announced the qualification on 1 Sep 2026; it is the company's third SecNumCloud qualification.",
+     "sources": [
+      {
+       "title": "OVHcloud corporate: SNC Cloud Platform obtains SecNumCloud qualification",
+       "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhcloud-obtains-secnumcloud-qualification-snc-cloud-platform/",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; company press release, 1 Sep 2026"
+      }
+     ]
+    }
+   ],
+   "next_step": ""
+  },
+  {
+   "id": "K5",
+   "speaker": "Octave Klaba",
+   "time": "00:25:01",
+   "text": "A single address with a gigawatt of electrical power for data centres will never exist in Europe or in France.",
+   "quote_fr": "les lieux où il y aura un gigawatt de puissance électrique déployée dans un data center, une adresse, pour moi, ça ne va jamais exister en Europe et en France",
+   "kind": "forecast",
+   "topic": "compute",
+   "checks": [
+    {
+     "checkpoint": "at_meeting",
+     "verdict": "pending",
+     "checked_on": "2026-10-09",
+     "evidence": "In tension with announced plans: Campus IA at Fouju is a 1.4 GW campus (service from 2028, 87 ha, a dozen buildings). A 'never' forecast cannot be proven wrong yet; what can be tracked is whether construction starts and permits are granted.",
+     "sources": [
+      {
+       "title": "Press release: MGX, Bpifrance, Mistral AI and NVIDIA announce a JV for Europe's largest AI campus",
+       "url": "https://www.polytechnique.edu/sites/default/files/content/communiques/fichiers/2025-05/Communique%20Presse%20-%20MGX%2C%20Bpifrance%2C%20Mistral%20AI%20et%20NVIDIA%20annoncent%20la%20cre%CC%81ation%20d%E2%80%99une%20JV%20pour%20de%CC%81velopper%20en%20France%20le%20plus%20grand%20campus%20IA%20d%27Europe.pdf",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; hosted by Ecole Polytechnique"
+      },
+      {
+       "title": "FrenchWeb: what a new-generation AI campus looks like",
+       "url": "https://www.frenchweb.fr/datacenters-energie-refroidissement-a-quoi-ressemble-un-campus-ia-de-nouvelle-generation/461960",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; construction expected H2 2026, service 2028, extension to 3 GW"
+      }
+     ]
+    }
+   ],
+   "next_step": "6m: construction started in H2 2026? 12m: phase-1 delivery schedule and grid connection."
+  },
+  {
+   "id": "K6",
+   "speaker": "A deputy (not identified)",
+   "time": "01:05:02",
+   "text": "Of 15 GW of secured data-centre capacity in France, only 1.4 GW will benefit exclusively European operators, per the inquiry report.",
+   "quote_fr": "Sur 15 gigawatts de capacité sécurisée en France, seuls 1,4 ne profiteront qu'aux opérateurs européens",
+   "kind": "figure",
+   "topic": "inquiry",
+   "checks": [
+    {
+     "checkpoint": "at_meeting",
+     "verdict": "supported",
+     "checked_on": "2026-10-09",
+     "evidence": "Press coverage of the report repeats these figures (15 GW, 1.4 GW for European players). The report PDF itself was not opened.",
+     "sources": [
+      {
+       "title": "Le Journal des Entreprises: un rapport parlementaire demande un moratoire sur les data centers extra-européens",
+       "url": "https://www.lejournaldesentreprises.com/breve/un-rapport-parlementaire-demande-un-moratoire-sur-les-data-centers-extra-europeens-2146626",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened"
+      },
+      {
+       "title": "UniversFreebox: un rapport appelle à stopper les nouveaux data centers américains",
+       "url": "https://www.universfreebox.com/article/595903/cloud-un-rapport-appelle-a-stopper-les-nouveaux-data-centers-americains",
+       "tier": "secondary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened"
+      }
+     ]
+    }
+   ],
+   "next_step": "Open the report and read how the 15 GW and 1.4 GW are defined."
+  },
+  {
+   "id": "K7",
+   "speaker": "Octave Klaba",
+   "time": "00:37:56",
+   "text": "Europe relies heavily on open-source AI that is Chinese; innovations come mostly from China.",
+   "quote_fr": "on fait beaucoup de confiance à l'open source, à juste titre, parce qu'il est bon, mais il est chinois",
+   "kind": "fact",
+   "topic": "china-open",
+   "checks": [
+    {
+     "checkpoint": "at_meeting",
+     "verdict": "partly_supported",
+     "checked_on": "2026-10-09",
+     "evidence": "Direction plausible: reports say Chinese open-weight models dominate download and trending rankings. But only weak aggregator sources were found, no European-specific figures, and Mistral's open-weight models are a counter-example.",
+     "sources": [
+      {
+       "title": "Tech-Insider: DeepSeek and Qwen top Hugging Face in 2026",
+       "url": "https://tech-insider.org/nl/deepseek-qwen-hugging-face-top-2026/",
+       "tier": "weak",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; aggregator, figures (e.g. '41% of downloads') not traced to a primary dataset"
+      }
+     ]
+    }
+   ],
+   "next_step": "Find primary data (Hugging Face, OpenRouter usage, academic studies) and any figure for European adoption."
+  },
+  {
+   "id": "K8",
+   "speaker": "Octave Klaba",
+   "time": "00:43:26",
+   "text": "OVHcloud has cooled its data centres with water since 2004.",
+   "quote_fr": "depuis 2004, nous refroidissons les data centres avec de l'eau",
+   "kind": "fact",
+   "topic": "ovh",
+   "checks": [
+    {
+     "checkpoint": "at_meeting",
+     "verdict": "supported",
+     "checked_on": "2026-10-09",
+     "evidence": "OVHcloud dates industrial-scale water cooling to 2003, with older servers retrofitted by 2004.",
+     "sources": [
+      {
+       "title": "OVHcloud: 20 years of water cooling",
+       "url": "https://corporate.ovhcloud.com/en/newsroom/news/watercooling-anniversary",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "search summary only, page not opened; company says industrial-scale water cooling since 2003, older servers retrofitted by 2004"
+      }
+     ]
+    }
+   ],
+   "next_step": ""
+  },
+  {
+   "id": "K9",
+   "speaker": "Octave Klaba",
+   "time": "00:26:59",
+   "text": "Redirecting 5-15% of public digital procurement to European providers would create European giants.",
+   "quote_fr": "Si vous mettez 5, 10 ou 15 %, vous allez créer des géants en Europe",
+   "kind": "policy_position",
+   "topic": "eu-cloud",
+   "checks": [
+    {
+     "checkpoint": "at_meeting",
+     "verdict": "pending",
+     "checked_on": "2026-10-09",
+     "evidence": "A position, not a fact. Related decisions: the inquiry recommends a European preference in procurement; the EU awarded its sovereign cloud contract to European providers; no binding percentage found.",
+     "sources": [
+      {
+       "title": "Assemblée nationale: commission d'enquête, phase finale des travaux",
+       "url": "https://www.assemblee-nationale.fr/dyn/espace-presse/communiques-de-presse/2026/commission-d-enquete-dependances-et-vulnerabilites-dans-le-secteur-du-numerique-phase-finale-des-travaux",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "page opened"
+      },
+      {
+       "title": "European Commission: Commission advances cloud sovereignty through strategic procurement (17 Apr 2026)",
+       "url": "https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_de",
+       "tier": "primary",
+       "accessed": "2026-10-09",
+       "note": "page opened"
+      }
+     ]
+    }
+   ],
+   "next_step": "Track the Commission's sovereignty package and any French procurement rule changes."
+  }
+ ],
+ "queue": [
+  "Open the inquiry report and check how it uses Klaba's 21 April testimony.",
+  "Find the FY2026 results date.",
+  "Check Klaba's claims about the 'no multi-gigawatt site' reasoning (permits, grid) against RTE/government statements."
+ ]
+}

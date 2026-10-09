@@ -1,0 +1,584 @@
+[00:08:21] It's good.
+[00:08:24] The session is open.
+[00:08:26] My dear colleagues, we are continuing the hearings of the inquiry commission on structural dependencies and systemic vulnerabilities in the digital sector and the risks to France's independence.
+[00:08:37] The president of the inquiry commission, Philippe Latombe, asks you to excuse his absence, and therefore I will be chairing this session.
+[00:08:44] We are receiving today Mr. Arthur Mensch, co-founder and CEO of Mistral AI, accompanied by Ms. Audrey Herblin-Stoop, Director of Public Affairs and Communication at Mistral AI.
+[00:08:56] Thank you for making yourself available. And among generative artificial intelligence tools, Mistral stands out as an exception with a European open-source model, while your main competitors are all non-European.
+[00:09:10] A lot of hope rests on you. Artificial intelligence is often presented as one of the sectors still sufficiently open for European actors to compete with the digital giants.
+[00:09:19] And I would already like to ask you questions before you can, well, you are going to deliver your opening statement.
+[00:09:28] What are the strengths of France and Europe in the race for AI?
+[00:09:32] And beyond AI, what can we do to ensure Europe's and France's digital sovereignty in particular?
+[00:09:38] And so I will give you the floor for an opening statement of about ten minutes, and I thank you for declaring any public or private interest that could influence your statements, and then we can exchange in a question-and-answer format.
+[00:09:52] But beforehand, and you know the procedures of the inquiry commission, we have...
+[00:09:56] A very formal procedure. I remind you that article 6 of the ordinance of 17 November 1958 relating to the functioning of parliamentary assemblies requires persons heard by an inquiry commission to take an oath, to tell the truth, the whole truth, nothing but the truth.
+[00:10:15] And I therefore invite each of you to raise your right hand and say I swear.
+[00:10:21] I swear.
+[00:10:49] I swear.
+[00:10:52] Ladies and gentlemen Members of Parliament, I wish to thank you for your invitation to discuss this key subject, which is therefore Europe's autonomy in the field of artificial intelligence, and more generally in the field of digital services.
+[00:11:06] That is to say that I think we should not make a distinction. Today's and especially tomorrow's digital services are essentially artificial intelligence. You have storage, you have a bit of agent execution, etc.
+[00:11:20] but fundamentally, digital services, the cloud, is artificial intelligence.
+[00:11:23] There is no distinction to be made on this subject.
+[00:11:25] And therefore, this may perhaps answer your question.
+[00:11:27] I have noted your question, I will answer it afterwards.
+[00:11:31] Perhaps to give a little context, as you know, artificial intelligence is redefining economic and geopolitical balances.
+[00:11:39] The question is not so much whether Europe can compete, but rather how it can do so.
+[00:11:46] because I think that if it does not compete, in reality, it is completely sitting out any form of presence and voice in the concert of nations.
+[00:11:56] So the question is, can it do so without depending on extra-European actors? The answer, obviously, no.
+[00:12:01] The second question is, can it do so by gaining leverage over its suppliers, gaining leverage as a technology exporter, and making sure to rebalance the economic imbalances that already exist and will increase?
+[00:12:14] I think the answer is yes.
+[00:12:16] A few elements about Mistral AI.
+[00:12:18] It is a company we founded a little over three years ago, on April 28, 2023, with the intuition in 2023 that generative artificial intelligence would significantly reshuffle the cards in the digital services sector, would quite deeply change the way the economy functions, because fundamentally, it shifts intelligence from labor to capital and to machines.
+[00:12:43] we saw in 2023 because we, myself and my co-founders Guillaume and Timothée, had some experience with the big American actors that the world was heading toward a fairly clear oligopoly, and we obviously wanted to counter that oligopoly, so we created Mistral in 2023 with about fifteen people in France and England at the start, essentially researchers.
+[00:13:12] What we did was first demonstrate to the world that we knew how to train language models, therefore those used for generative artificial intelligence.
+[00:13:19] And then, we demonstrated, we put them in...
+[00:13:22] We made an open model, meaning we gave them to the world to show that, too, we could seize them, modify them, deploy them wherever we wanted, etc.
+[00:13:29] So it was a technique of decentralization and displacement of established actors.
+[00:13:36] And from there, we continued to invest in the models.
+[00:13:38] Today, we invested one billion this year in R&D topics.
+[00:13:45] We are investing very significantly.
+[00:13:46] We are building models.
+[00:13:48] We are one of the leaders in open models, which can be modified, which can be deployed wherever we want.
+[00:13:54] And we have an entire economic model that is both on top, meaning we will provide a deployment platform for agents, for task delegation to artificial intelligence.
+[00:14:02] We will create business applications in contact with our clients, who are generally companies, large companies.
+[00:14:08] And then, we have an economic model that is upstream, meaning we also host the models, we put them on machines and we make them generate what we call tokens, which is the economic unit of artificial intelligence.
+[00:14:20] That is to say, we train models that generate sequences.
+[00:14:23] From these sequence generations, we will take actions, we will execute things, we will reflect.
+[00:14:28] These sequences are made of what we call tokens, which are numbers.
+[00:14:31] They are numbers between 0 and 65,000.
+[00:14:35] And therefore, we generate these tokens for our clients, the hosters.
+[00:14:37] we transform electrons into tokens.
+[00:14:41] Today, a few figures: we have 1,000 employees, a valuation of 12 billion euros, and we aim for 1 billion euros in revenue by the end of the year.
+[00:14:51] Our clients are enterprise clients, clients in the public sector. To name a few in France, we have DINUM, Caisse des dépôts, France Travail. In the private sector, it's MACGM, Stellantis, Total Energy, BNP Paribas, etc.
+[00:15:08] We generate about 30% of our revenue in France, 70% abroad, and approximately three quarters of our revenue in Europe.
+[00:15:18] To give you a bit of an idea of where we stand.
+[00:15:22] So we are fundamentally a technology exporter, both to the United States and in Asia as well.
+[00:15:29] So what needs to be understood about generative artificial intelligence, and fundamentally about what we call artificial intelligence today, is that it is a model that consists of transforming energy into intelligence, i.e., into token generation, which is then used to delegate tasks, to conduct mathematical research, to operate supply chains, to improve tools, to deploy embedded systems in robots, in drones, etc.
+[00:15:58] So we are in a profession where we transform electricity into token generation.
+[00:16:02] And this is fundamentally something that should be treated more or less like a natural resource, meaning we need to think about intelligence the way we think about energy.
+[00:16:10] So, our goal is to provide intelligence that is inexpensive, affordable as we say in English, that is secure in terms of supply, meaning we don't need to go get it from Americans, for example, and that is also sustainable because it transforms energy that is less carbon-intensive than elsewhere, since we particularly use French energy.
+[00:16:35] I think we don't reflect enough on this: intelligence is like electricity, it's like energy. Furthermore, we have this tendency, which in my opinion is quite false, of separating digital services from artificial intelligence. Today, the cloud is artificial intelligence, the growth of the cloud is artificial intelligence, high-value-added services, therefore high-margin services that enable R&D, are artificial intelligence. Everything else, from the moment we gain in artificial intelligence, we can build everything else that constitutes cloud services, which are essentially commodities today, and it's important to know that this essentially consists of knowing how to operate open-source software.
+[00:17:11] because it has become the global infrastructure.
+[00:17:14] Our objective is obviously to anchor this value chain, so where we are in the value chain is between the operation of clusters and the operation of servers up to the creation of business applications, and I think this is an atomic unit of the value chain that goes from semiconductors, from the construction of semiconductors, so from ASML for example, this company which is one of our clients that does lithography, all the way to deployment in companies.
+[00:17:41] So that means that cloud and AI are really the same thing.
+[00:17:45] What I can say is that in fact we need to see sovereignty, we need to stop thinking of sovereignty as isolationism, we need to think of it as businesspeople think of it, that is to say we need to think of sovereignty as a lever subject. That is to say in a world where you import all of your digital services from the United States, you have no leverage over the United States. In a world where you create part of your services, eventually you export them, you have additional leverage. In a world where you sell goods to the United States, you have leverage over them. We see this in the negotiations of the European Union. We export a certain number of things.
+[00:18:23] This gives us arguments and cards to play when we are at the negotiation table.
+[00:18:28] If we do not have this capacity to not import all of our digital services from the United States, we have a real problem.
+[00:18:36] The problem that arises, in fact, is that what we are talking about, I think the total market we are talking about, we need to compare it to the payroll mass.
+[00:18:45] Today, at Mistral, our consumption of artificial intelligence for our employees is 10% of our payroll mass.
+[00:18:51] So we are developing this technology, therefore we adopt it a bit more quickly than elsewhere, but if you extrapolate, in 3 to 4 years, all of Europe will use artificial intelligence for 10% of its payroll mass.
+[00:19:02] 10% of Europe's payroll mass is about 1 trillion.
+[00:19:06] 1 trillion, therefore digital services, because they need to be generated, the tokens, etc.
+[00:19:10] It is 1 trillion, if we use it, if we import non-European technology, it is 1 trillion of trade deficit to add to our existing trade deficit on digital services.
+[00:19:24] It is 1 trillion that goes elsewhere to be invested in R&D and that is not reinvested in R&D in France, therefore in France or in Europe.
+[00:19:30] So that I think is a very important point, that we need to reflect on this subject of sovereignty from a macroeconomic point of view.
+[00:19:36] It is an essential macroeconomic subject and I think we do not realise its significance.
+[00:19:42] So that is a first subject.
+[00:19:44] There is obviously a subject of economic security, that is to say that when you know how to deploy artificial intelligence in essential services, you want to make sure that you cannot...
+[00:19:53] cut off access to the service which in fact is not very theoretical, we have seen it in different places. So that means that it is important for all sovereign regalian aspects, it is obviously important for defence because artificial intelligence is now at the heart of the operational centres of the armed forces and therefore becomes the platform that allows operational decisions to be taken on the battlefield, that allows intelligence gathering etc. So if we do not have access to this technology we will have to import it anyway and that means that they can cut off our access to it.
+[00:20:22] I think it is particularly critical, finally there is an additional subject which is not a subject that we really deal with directly because we do not have a significant public activity, which is that artificial intelligence that generates content shapes cultural representations, shapes language, also shapes ethics, that is to say that the models we make are models that have a certain politics, that is to say that they trigger certain things, they will write a certain type of code etc and so all this becomes a mediation of information and becomes a mediation of action.
+[00:20:51] And so, if we have to import models from elsewhere, if we do not have an alternative solution in Europe, we will be forced to use the biases and the choices that have been made by others, the United States and China in particular.
+[00:21:08] So, a few recommendations to conclude.
+[00:21:11] Artificial intelligence offers the hope of reshuffling the cards.
+[00:21:15] That is true, it comes back to your first question.
+[00:21:17] One of the assets of Europe and of France in particular, is its talent base, it is an asset, it is an entry into the system.
+[00:21:23] That is to say that if you do not have a big company, innovative companies that can capture these talents and convince them to work for us, they will simply go elsewhere and bring their value elsewhere.
+[00:21:33] That's what we've seen a lot, if I think that things are starting to turn a little bit, we need to benefit from it.
+[00:21:38] Beyond talent, I must say that Europe doesn't have many advantages, we have a regulation that is heavier, we have a market that is fragmented.
+[00:21:46] Obviously a fragmented market means more difficulties to sell, but it's also partnerships that are longer term, so we can say that's an advantage, there is an advantage of very strong cultural diversity in language, etc, which is still a real diversity for artificial intelligence, what I can say is that fundamentally we only exist if there is a market that exists and the problem we see is that in fact this market is materializing a little too slowly compared to what it should be.
+[00:22:15] That is to say that companies are not yet fully aware of the amount of artificial intelligence they will use in the coming years.
+[00:22:23] In fact, the consequence of that is that those who can invest before demand, it's rather the Americans.
+[00:22:30] And so, for example, there is energy surplus in France, we take 9 gigawatts on average.
+[00:22:34] This energy surplus will be captured rather by the companies that are the most aggressive from a capitalistic point of view and who will be able to put money on the table, transform these electrons into tokens before the others.
+[00:22:44] And so, us, our subject, we manage to be quite aggressive, but we would like to be more aggressive.
+[00:22:48] And for that, we need to have visibility on the market.
+[00:22:50] This market, obviously the private market, therefore companies that choose to work with us for 5 years, for 7 years, and we have plenty of them.
+[00:22:57] But it's also public demand that forms about 50% of Europe's GDP.
+[00:23:02] And so be able to make sure that this public demand trickles down through the entire value chain starting from where we are strong, we have added value which is therefore artificial intelligence and do it in a concentrated way, that is to say not deploy it with subsidies, simply create demand at the end of the chain on digital services.
+[00:23:23] It's an essential asset, it's an asset that our American and Chinese partners use extensively.
+[00:23:28] It's an asset that we have always been afraid to use in Europe, we absolutely need to stop that.
+[00:23:32] And finally, in general, we are seeking to structure the markets and make sure we have a relatively unified demand.
+[00:23:38] So, unified markets are useful. Unified capital markets are useful. We never do enough of it.
+[00:23:45] And finally, from a purely infrastructural point of view, France indeed has the luck of having surplus electricity.
+[00:23:52] We need to keep doing it, since artificial intelligence can be considered as about 1 kW per person by horizon 50.
+[00:23:59] 1 kilowatt per person in reason 50 means 40 gigawatts to be produced in France, which means about 400 gigawatts to be produced in Europe.
+[00:24:05] That means about 2 trilliards of investment to be made.
+[00:24:11] So we really need to have 20 trilliards.
+[00:24:18] That's 20 trilliards of deployment.
+[00:24:21] So that means we need to be aware of it and we need to build electricity, but above all we need to make sure that electrons are transformed into tokens with European companies.
+[00:24:33] And then to build 400 gigawatts in Europe, we need to accelerate the projects, which means we need permits more quickly, we need a notion of reservation also of energy capacities.
+[00:24:45] Okay, and then on your second question, I think I already addressed it a bit, beyond AI, digital services, so yes, you can do managed databases, you can do hosting, you can do virtual machines, etc.
+[00:24:56] These are services with extremely low margins.
+[00:24:59] You cannot build a scalable business starting from a place where the margin is low.
+[00:25:02] If you want to build a scalable business, you start from where the margin is high.
+[00:25:06] And then, once you are big enough, you use part of your R&D, even without needing to be large, to go create all the services you use.
+[00:25:15] If you start from where the margin is low and you don't have volume, if you have neither volume nor margin, you have no chance of reaching scale.
+[00:25:22] Either you are in a place with low volume, high margin, or you have low margin but high volume, that was the Chinese strategy, and you move up the value chain.
+[00:25:30] But if you are in a place where you have high margin and not much volume at first, you can only go down the value chain.
+[00:25:37] I think this is really important to take into account.
+[00:25:40] You need to start from high-level services, then go down to low-level services, because those have lower margins.
+[00:25:44] That's how we approach the problem from a strategic point of view.
+[00:25:50] Thank you.
+[00:25:51] I will give the floor to the rapporteur for the first questions.
+[00:26:08] Thank you very much for coming today and for these introductory remarks and very healthily on the economic model because I think that indeed this is one of the hearts of the stakes.
+[00:26:20] maybe start by asking really basic questions.
+[00:26:26] Typically, today, you have talked a lot in tokens.
+[00:26:28] What is finally the cost that comes back to us for a token?
+[00:26:34] It is the economic unit of artificial intelligence.
+[00:26:37] It is something that is billed in millions of tokens.
+[00:26:40] One million tokens on one of our models, for example, will be one euro.
+[00:26:44] You send me one million tokens, I generate one million tokens thanks to that.
+[00:26:48] you will pay me 1 euro for the input, 3 euros for the output.
+[00:26:57] And a token, what is a token?
+[00:26:59] It is a few letters in a word, it is a digit, it can also be a few pixels in an image, when it is input, we know how to handle multimodal data, it can also be a piece of sound.
+[00:27:15] So that's what unity is.
+[00:27:16] Our economic model is partially a hosted consumption model.
+[00:27:20] That is to say, you use technology, you host technology with us, and you pay per token, you pay per unit of time in CPU.
+[00:27:30] When you do anything other than artificial intelligence, you pay per storage.
+[00:27:34] We also have a model that is more of a platform model.
+[00:27:37] We will bring our software, deploy it on a client infrastructure that pays for its infrastructure.
+[00:27:42] Its GPUs, its CPUs, its storage.
+[00:27:44] And on top of that, it's rather a license-type model on which we have a layer of services to build value and transform companies.
+[00:27:55] More technically, we can't get two microphones to work at the same time, there is progress.
+[00:28:03] The figures you gave, 1 euro, 3 euros, as I understand it, are the figures for consumers, if I understood correctly.
+[00:28:15] In general, it's rather used by developers who will make applications with clients, so my question is today, so that's the client cost, but for you, because I imagine that to make a token, for you it means investments, and therefore it also interests you to see how it is built in capex to develop the model, in capex in terms of infrastructure, in energy cost, therefore globally for you, to generate a token, how much does it cost you?
+[00:28:45] The token is the client unit of the digital service.
+[00:28:49] So, you buy a digital service, you buy the tokens. The unit for us, the way we finance our projects, etc., is rather the megawatt. The megawatt is the electricity we will transfer into intelligence. A megawatt, then I will give you in gigawatts, since I know the numbers well in gigawatts.
+[00:29:05] When you invest and you create a data center, you put graphics cards that will allow generating tokens when you host the model to create a gigawatt you will invest 50 billion dollars over 5 years so that costs you about 10 billion per year. With that, I give you a bit of the margins, with 10 billion of data centers per year you can make about 20 billion in token revenue, you can sell 20 billion of tokens. If you do things correctly, if you are roughly at scale, 1 giga is roughly at scale so it's roughly that. That is to say you have 50% gross margin between the digital service and the investments that the digital service provider makes.
+[00:29:50] digital service provider makes.
+[00:29:51] So it's a significant margin, it's a margin that allows investing and doing R&D.
+[00:29:55] In particular, it allows financing what is extremely costly in artificial intelligence, which is the training of models.
+[00:30:00] Because we, we ourselves use GPUs, we currently use tens of megawatts to train models, so that is costs solely for us that we bear.
+[00:30:09] So that's roughly what we can have in mind, a gigawatt.
+[00:30:13] I mentioned that if you have even just 10% of the European payroll becoming artificial intelligence we are talking about approximately 400 MW because we are talking we will say we are talking about 10,000 euros per year and 10,000 euros per year rents you approximately 1 kW of GPU 1 GPU is 2 kW so you rent half a GPU with that so finally you are in a situation where, in fact, to build that, you need to make 20 trillion investments. These 20 trillion investments will yield approximately 8 trillion per year.
+[00:31:01] You have 20 trillion investments and it's approximately 8 trillion per year of revenue that can flow back.
+[00:31:11] So we are on scales that are still quite significant.
+[00:31:15] And what must be taken into account is that these 50% gross margin between the service provider and what makes the service provider, in fact in the chain that transforms the electron into token, there is about 10% that goes to the electron.
+[00:31:31] So if your sole role, if the sole role of Europe, is to be the energy provider, that means there is 90% of the value elsewhere.
+[00:31:38] And so, he leaves, he exits Europe and he is going to be invested, recycled in R&D, used as a power actor by other actors. So, we must take it into account.
+[00:31:54] Does the president want to ask questions? Since the president is in the room. I greet him.
+[00:32:02] I might have two types of questions to get a bit away from the technical: what are the ethical limits you have set for yourselves at Mistral, because there was a big debate with Anthropic at one point about its participation with the War Department, because that's how it calls it now in the United States? What are the limits you have set for yourselves? This might perhaps echo, but not simply in the title of defence, but it could also be in terms of replacing the human being, since you spoke about it when talking about payroll and workers who could be replaced.
+[00:32:34] We saw that with Mythos as well.
+[00:32:35] Small aside: have you been able to get your hands on Mythos, to see what it's worth?
+[00:32:39] Because when we asked Vincent Strubel the question, he told us he had simply heard people who had spoken, who had seen, but he had not manipulated the model.
+[00:32:48] So, is it today as powerful as he says it is?
+[00:32:51] How do you see it?
+[00:32:52] That was the aside.
+[00:32:53] Second question: AI, as you said, is a shortening of time.
+[00:32:58] We have models coming out very regularly that are more powerful than the others. What is today the time step we must not miss to avoid being completely left behind? What is the time space we absolutely must be able to invest in, and on which public power must reflect, because in fact we are a bit slow. So the question is: how can we have this idea of time, and is distillation, as practised a lot by the Chinese, notably with DeepSik, a way to catch up on time, or is it a way to compensate a little bit, but it doesn't really serve because, as a result, the model that comes out is not necessarily as powerful
+[00:33:37] and also interesting as the models it has used.
+[00:33:42] Very well, I will take your questions in order.
+[00:33:45] On the ethical subject, we make systems that are systems that help humans be more efficient, that will automate a number of processes while keeping humans in the loop on important decisions.
+[00:33:58] And so, we have a whole team of designers, about ten designers at our company, who will think about machine interactions, make sure that when artificial intelligence summarizes information, helps with decision-making, it provides enough elements for the human to remain informed.
+[00:34:13] So, I'm not telling you it's an easy subject, because you still have subjects, humans tend to be a little lazy, and so if the thing does it for them, if they think less and less.
+[00:34:23] So, in fact, there is still this subject of managing to keep them in the loop.
+[00:34:27] We need to stimulate the human being when facing the machine.
+[00:34:29] And so, these are subjects, obviously, that we reflect on.
+[00:34:32] Next, there is a sub-part of ethics and the subject of engagement in defense.
+[00:34:36] So, we work with the Ministry of Armed Forces.
+[00:34:40] We also work, moreover, with some of France's allies.
+[00:34:43] And it turns out that this is a technology that, in fact, is considered a dual-use technology.
+[00:34:49] And so, fundamentally, it is regulated in terms of export.
+[00:34:52] in terms of export control.
+[00:34:53] And so, as a result, we have the entire framework of export control regulation that applies to us.
+[00:35:01] And so, it allows us to have...
+[00:35:03] We do not claim to have an ethical framework, we do not claim to have the legitimacy to have a sufficient ethical framework or not a democratic legitimacy as a company.
+[00:35:10] On the other hand, we operate within frameworks that have democratic legitimacy, and this allows us to work properly and not do what we are not allowed to do.
+[00:35:21] Then, when we work with the French Ministry of Armed Forces, we do not claim, unlike other actors, to have a right of oversight on the final use.
+[00:35:29] Because we do not claim to have the legitimacy to explain to the French armed forces what they can and cannot do with the technology.
+[00:35:37] We can tell them, and we can do so on a project-by-project basis, we can explain the reliability of things, etc.
+[00:35:45] But then, who is ultimately sovereign in the use of technologies?
+[00:35:50] It is the military. The military has democratic legitimacy that we do not have.
+[00:35:53] And therefore, in this regard, we have a duty to advise, we explain how it works.
+[00:35:57] And I can tell you that today, it is used in a completely reasonable manner and within the limits of what artificial intelligence can do.
+[00:36:04] We don't have... We need to be aware that artificial intelligence enables defensive capabilities.
+[00:36:10] It allows for much more operational armed forces, obviously.
+[00:36:13] It improves operations, etc.
+[00:36:16] It enables defensive capabilities, but it is also absolutely critical in deterrence, meaning that you have armies, like the Russian army, that use artificial intelligence massively in their drones. If you are not capable of having opposing forces that are themselves activated by artificial intelligence, you do not have sufficient deterrence.
+[00:36:33] And therefore, the deployment of artificial intelligence in autonomous systems, in particular, I think we absolutely cannot avoid it, meaning that it is absolutely indispensable to have conventional deterrence today. It also means that we must master artificial intelligence end to end.
+[00:36:47] That is on the first topic.
+[00:36:49] Then, on the topic of cyber defense and cyber attack, we have one of our American competitors who knows very well how to do fear marketing, if you want, but the topic that the models are excellent programmers and are absolutely capable of orchestrating attacks, discovering vulnerabilities, and proposing exploitations—these things have been rising for six months, increasing in a predictable linear way, rising everywhere at the same time, meaning that you have another American competitor with a model that does exactly the same thing, you have Chinese actors doing it as well, and our models are capable of discovering all the vulnerabilities reported by Mythos, for example.
+[00:37:34] For us, this means we work with our clients to help them on these cyber topics, which is obviously a sovereign matter, and therefore it is yet another argument to say that we must have control over this technology—you cannot have the French army's databases and code bases scanned by Mythos, I think. This creates such an irremediable dependency that we absolutely must find solutions. Then, on the topic of time, on the topic of time I would say we don't have time. I think, notably because it is linked to physical constraints. We are talking about natural resources.
+[00:38:13] We are talking about the use of natural resources to transform electricity into tokens.
+[00:38:17] There is not infinite electricity in the world.
+[00:38:19] The United States are saturating their electricity to transform it into artificial intelligence.
+[00:38:23] They are deploying a trillion dollars next year.
+[00:38:25] When they deploy a trillion dollars, it means they want two trillion dollars in return.
+[00:38:29] So, they see clearly that there is an immense market being created and they see clearly that whoever owns the resource, whoever supplies the chips, whoever owns the electrons, whoever owns the power plants potentially or who has massive access to energy, is the one who wins.
+[00:38:47] So that means that today, you have these 9 gigawatts, these 90 terawatt-hours per year available in France.
+[00:38:55] There are plenty of things we can do with it.
+[00:38:57] In part, we are going to do artificial intelligence.
+[00:38:59] You have actors with huge balance sheets and who have plenty of means to put money on the table before seeing the demand to transform electrons into intelligence.
+[00:39:09] Except that they will do it in the two years to come.
+[00:39:11] Once they have done it, you no longer have electricity.
+[00:39:13] That is to say, you have to wait for the power plants, you have to create new ones, etc.
+[00:39:16] So you have a form of monopolization of the European energy resource underway, which is accelerating at a crazy speed and of which we are not aware.
+[00:39:25] And it is truly irreparable.
+[00:39:26] That is to say, once, we already have a demand problem. That is to say, as the Americans arrived earlier in the cloud, it is them who supply all of European industry, they supply, if you want, the French State, obviously.
+[00:39:42] The market share of cloud and artificial intelligence tends to compress for non-American actors, meaning that not only are they growing with the market, but their share is also increasing. So I think this is something that could be reversed with artificial intelligence and what we are beginning to see.
+[00:39:57] with our clients, with our revenue, with our growth.
+[00:39:59] But the problem is that even if you solve the demand problem, you have a supply problem.
+[00:40:03] Because once supply is monopolized by American voters, suddenly, we no longer have supply, in fact.
+[00:40:10] We can no longer turn electrons into tokens.
+[00:40:13] And this will be decided in the two years to come.
+[00:40:15] That is to say, what needs to be put on the table today in terms of investment is tens, hundreds of billions of dollars.
+[00:40:22] And to do that, we need visibility on the market.
+[00:40:24] and the visibility on the market must be indicated by European actors, by European States.
+[00:40:30] Today, it is not indicated sufficiently massively for us to be able to take the risk of deploying 100 billion dollars.
+[00:40:36] So I think we need to become aware of this urgency.
+[00:40:40] And unfortunately, I don't really see how we will become aware of it.
+[00:40:43] So we are going to build 1 gigawatt by 2029.
+[00:40:49] That is our objective.
+[00:40:51] That is not enough.
+[00:40:51] We need to build more.
+[00:40:52] But for that, we need to have some form of visibility on the market and on demand that is not the visibility we have today.
+[00:41:02] And finally, perhaps on the last question, you asked a question about distillation.
+[00:41:06] What is distillation?
+[00:41:07] You take a large model and you use this model to create a smaller one that will be more efficient.
+[00:41:11] So we use it extensively, because we train large models, which costs us a lot.
+[00:41:15] Then we use our large models to train small models, which we then serve to our clients, because it costs them less to serve.
+[00:41:20] What this means is that it is absolutely indispensable.
+[00:41:23] If you want to know what is in your models and control them, you need to be able to build the largest models.
+[00:41:30] That means you need to know how to train them, which means you need to have a lot of computing power in-house, it's pure R&D, which allows you to train them.
+[00:41:40] Does that allow you to catch up?
+[00:41:41] No, it's a technology that allows you to reduce costs essentially internally.
+[00:41:45] We take large models and use them internally to create small ones.
+[00:41:49] and we need the large models, which means we need to invest a lot in them.
+[00:41:53] Thank you.
+[00:41:55] Arnaud Saint-Martin for other questions.
+[00:42:00] Thank you, Madam President.
+[00:42:01] I will try to transform my cortical energy into intelligence through a block of questions. I would like to question you on infrastructure. You mentioned the construction of infrastructure, cloud, etc. It so happens that north of my constituency, there is a mega-project currently being installed called Campus IA.
+[00:42:17] You are associated with it.
+[00:42:19] I would like to have details on the system's architecture, how it will be implemented, etc.
+[00:42:23] There was a consultation in which I participated upstream.
+[00:42:26] There, we are in the public inquiry.
+[00:42:28] It is getting underway.
+[00:42:29] It is a project that is enormous.
+[00:42:31] It is a campus.
+[00:42:32] Finally, a campus, by the way.
+[00:42:33] The term seems quite inappropriate.
+[00:42:34] But in any case, it is a flagship vessel at the summit of AI.
+[00:42:37] It has been presented as such.
+[00:42:39] It is 35 billion funded by MGX, the sovereign wealth fund of Abu Dhabi, with a rather American Nvidia partnership.
+[00:42:46] And you, who are involved in this project, I would like to have information on your assessment of the environmental impacts of this mega-project, which are not neutral in terms of footprint.
+[00:43:02] It will consume arable land to the extent of 100 hectares, which is not negligible; these are rather resources to be protected.
+[00:43:10] Furthermore, it will also consume a lot of electrons, to use that expression. That is 1.4 to 1.6 gigawatts. Generally, the example of Flamanville is used to measure the intensity of this required energy.
+[00:43:28] Moreover, it raises a lot of questions.
+[00:43:31] I don't have time to go into all the environmental impacts, but in any case, I'd really like to hear your thoughts on this, because people are questioning the deployment of this infrastructure.
+[00:43:38] I'd also like you to tell me a little about how you envision the issue of digital sovereignty, given this dependence that has nonetheless been built with a Middle Eastern actor who is here to outsource a business in France.
+[00:43:52] He was attracted. It's an entire government policy.
+[00:43:54] We understood that well, but I'd like to know how you position yourselves in this architecture, which is also economic and technical, as I mentioned just before regarding the infrastructure.
+[00:44:03] I'd also like to have information on the envisaged uses.
+[00:44:07] I understood that these are modular data centers that will be gradually installed, etc., which will build this macro-infrastructure, but broadly speaking, what will they be used for?
+[00:44:16] And who are the potential clients? What uses?
+[00:44:20] You have already mentioned a certain number of clients.
+[00:44:22] Will they be stakeholders in this project, at least are they interested? What are the clienteles you are targeting, and in terms of implementation, what is the timeline? I think it's important that the national representation and this inquiry commission have these elements, because this is truly the flagship of the summit—35 billion euros, or even much more—and it's powerfully transformative for the region. It's in Seine-et-Marne, where there were sugar beet fields and wheat fields just before; now there are none left—clearly, it's being excavated by preventive archaeology, so it's going to be a major project. So I have a first question about Campus IA, and by the way, the name itself 'Campus'. It was mentioned that there would be partnerships with Polytechnique or some other higher education and research structure. Isn't that just a bit of window dressing to sell the project? I'd like to hear your thoughts on that too, because from what I understood, there will be very little research on-site.
+[00:45:12] And so that's a first block of questions, and I'll have others later. Thank you.
+[00:45:16] So I'll explain a little about our role in Campusia, which is very minor.
+[00:45:23] That is to say, we have a very small stake. We took a stake because, in fact, in the value chain, we are able to build the clusters. So we buy the servers, we plug them in. That is to say, you have, it looks like physical racks that will be placed in buildings, but we do not build the buildings. We do not build the buildings, we do not build the transformers, we do not build their cooling. We will rather look for partnerships to be able to do that.
+[00:45:47] Therefore, for that purpose, we need suppliers, data center developers.
+[00:45:52] Therefore, for that purpose, we have taken a position that is very minor in this project. And above all, it is a supplier.
+[00:45:58] That is to say, it will become a supplier for us for part of the construction.
+[00:46:03] Another part will be used to supply the hyperscalers.
+[00:46:05] Because, in fact, you start from a situation where you have 80% of European digital services that are imported from the hyperscalers.
+[00:46:14] And therefore, naturally, the starting point, if you want, if you start building infrastructure and you look at the final demand, you end up with 80% hyperscalers.
+[00:46:23] With, I think, the objective that France must have and that Europe must have, which is to make sure that this proportion decreases over time.
+[00:46:31] So, that is why CampusIA, today, will serve us partly and will certainly serve partly the hyperscalers.
+[00:46:36] So, that is what I can say. Then, regarding the name, it is not me who chose it.
+[00:46:40] on a certain number of technical aspects.
+[00:46:45] I, I don't know anything about it.
+[00:46:48] In any case, what is certain is that part of the income is indeed returned to public research.
+[00:46:55] Then, on the subject, I was talking about the subject of capital.
+[00:46:58] You have indeed...
+[00:46:59] So that, that is the real infrastructure, meaning that you can build a data center, you rent it out, that gives you a return on equity.
+[00:47:08] And in fact it is essentially a fairly good business.
+[00:47:11] If you have a lot of funds, deploying them in data centers today, knowing that everyone wants data centers, that gives a return on equity that is quite significant, and therefore there are plenty of actors who want to do that.
+[00:47:21] When you have a site of that size, you need actors with strong enough balance sheets, meaning they can deploy tens of billions of euros.
+[00:47:29] And therefore on that, naturally, because as we forgot to set up pension funds in France, for example, we turn to foreign financiers because there is no capital market, the capital markets in Europe are completely devoid of solution providers for this type of investment, so in fact we go look elsewhere and I think we should benefit from it, meaning that foreign investments, if they are under control and if governance is good in the investments that are made, and there I think today on this subject there is Bpifrance, I think it seems to me that you could have questioned it, it plays a role and has a seat at the table, etc., these foreign investments,
+[00:48:06] they are beneficial, since it allows us to accelerate.
+[00:48:09] Obviously, we lose a certain number of economic benefits, because you have as much as...
+[00:48:14] When you have foreign capital arriving, in fact, they recover a return.
+[00:48:18] So we lose the return. But, on the other hand, we build something, so we can derive something from it. We, we arrive, what we propose is to gain the margin which is the operational margin of servers up to the digital service. So that is as much margin as we can reinvest in R&D.
+[00:48:33] So we are not proposing, we are not capable today of making a fully integrated model where we operate from the field to the digital service, maybe that will be the case one day. But there is a sharing of value, we are capable of creating quite a bit of value with that, we will be able to reinvest it in R&D. Obviously there are foreign investors who will recover their BIC somewhere, but on the other hand if we did not have these foreign investors, we could not build. So we need to think about sovereignty as a path.
+[00:49:04] You start from a state of the economy and the balances on the value chain and you say that this state is not satisfactory, it must be changed, it will take time. And how do we change this state?
+[00:49:15] We need to put the resources in the right place and that will change little by little.
+[00:49:19] On environmental issues, obviously all of this costs a lot and the externalities, if you can go back up the value chain to the semi, you need a lot of inputs, you need rare earths, you need land, although I think that is not the main subject, because it is still super dense.
+[00:49:38] So in fact, if you want, a gigawatt fits on about a hundred hectares, so we do not really have a land issue, from a point of view...
+[00:49:46] So, of course, if you look at the city level, if you look at the European level, there is no issue.
+[00:49:50] So it is not the main subject, in any case.
+[00:49:53] Then, you have an issue of electrons.
+[00:49:55] That, is a real issue.
+[00:49:57] The interest of building in France, for us in particular...
+[00:50:00] Is that the electrons, 70% is nuclear.
+[00:50:03] So that means that the carbon footprint of the electron is largely reduced.
+[00:50:06] And so building in France is fundamentally better than building elsewhere, because that's what people need.
+[00:50:12] So if you have someone building a gigawatt of capacity in France, they won't build a gigawatt of capacity in Texas.
+[00:50:17] And finally, the atmosphere will warm up a little less.
+[00:50:20] So I think we need to think about it from that point of view.
+[00:50:22] Then you have other inputs. You have water, in particular.
+[00:50:25] There, there has been a lot of technological progress to avoid fatal heat and make cooling more efficient, so that most electrons are used in computation rather than in everything around it.
+[00:50:40] And then you have biodiversity issues, obviously, which, from having observed the hedges, seem to have been fully addressed and implemented to preserve these aspects.
+[00:50:54] So for us, it's important.
+[00:50:55] So obviously, things aren't — that is, from an ecological point of view, it wouldn't be better than a forest, but from an economic point of view, it still has a role, so we need to think of artificial intelligence within ecology, if you want, because once again we transform energy into electrons, which is a kind of natural resource, electrons into tokens, like a kind of natural resource, so we need to create a kind of mine, but the mine is the data center, and I think we need to do it, because if we don't, we'll have additional issues, and I think we need to do it — the more we do, the more we have our say in how we think.
+[00:51:39] about externalities, meaning that if we don't do it ourselves, we'll just import what is offered externally, and I can tell you that externally, they are thinking about biodiversity and climate change, and it's different from how we think about it.
+[00:51:56] So, if we want to have a say, in any case, we need to be able to internalize production.
+[00:52:00] And that is absolutely essential.
+[00:52:03] And so, there are obviously trade-offs to be made.
+[00:52:05] Just as we agreed to build lithium mines in France, if we are going to build a mine, we must accept building data centers.
+[00:52:13] What would be regrettable is building data centers where the bulk of the economic value completely escapes France.
+[00:52:18] That is the issue.
+[00:52:20] So, given that we are accepting these externalities, let us ensure they can be recycled into R&D and beneficial aspects for France.
+[00:52:28] Yes, so we just need Mr. Arthur Mensch to mute his microphone because I cannot do it from my station.
+[00:52:33] Perhaps to complete this point, we were also the first artificial intelligence company to conduct a life-cycle analysis of our models.
+[00:52:42] We did that last year with ADEME and Carbon Cap.
+[00:52:45] We are preparing to do it again on our new models.
+[00:52:47] The idea is also to bring greater transparency and a methodology that encourages other companies to do the same, or at least enable clients and public authorities, who later make project allocation decisions, to rely on something concrete and reliable.
+[00:53:04] And thus, through these initiatives, to initiate and encourage centralization on the subject.
+[00:53:12] I would just say, today, our new generation of models is being trained in France.
+[00:53:18] and I think we have the largest computing cluster in France.
+[00:53:20] So it's a pride for us, because that, indeed, from a carbon footprint point of view in particular, it is largely reduced compared to what we could do before, when we were not in France.
+[00:53:31] So that's what I can say.
+[00:53:32] Finally, on the subject of carbon footprint calculation, etc., contrary to some of our competitors, we believe we need to have an approach that is life-cycle based and not an approach with offsets, because obviously, it's a bit too easy when you have very significant balances to do offsetting.
+[00:53:50] Whereas in fact, we need to think in an integrated way about everything that goes into the projects and have transparency per project, in fact, rather than having global transparency and balances via quotas.
+[00:54:03] Thank you. So I have two questions to ask you, but I think that, in fact, the answers you have provided will allow me to complete a bit the question I wanted to ask you.
+[00:54:14] in your opening remarks you spoke of heavy regulation and I wanted you to be able to tell us a bit more what you mean by that and what could ultimately be improved, perhaps either making it lighter or easier, or how we can turn it into an opportunity, and I will extend the question by the fact of life-cycle calculation being different from offsetting, is it not ultimately something that should perhaps be included in regulation or in the constraints we could have on the deployment of this artificial intelligence, or at least when public authorities or others resort to different systems.
+[00:54:57] And then another question which is different, you spoke of a fragmented market, same in your opening remarks, you evoked that it could rather be a chance ultimately than a brake, But you immediately counterbalanced it in the next sentence.
+[00:55:18] So is it a chance or is it a brake?
+[00:55:22] And if yes or no, why?
+[00:55:25] To explain, I think it deserves a small clarification.
+[00:55:29] Of course.
+[00:55:31] So on the subject, I will take the first question which is on the subject of regulatory burden and the subject of fragmented market which are a bit the same thing.
+[00:55:38] One of the regulatory problems in Europe is that basically every time you enter a European country you must open a new entity you must understand a new stock option regime you must understand a labour regulation which is different and therefore that means you need fairly quickly a team on site that is to say that I must have signed hundreds of documents to open entities in a dozen European countries I have opened dozens of bank accounts because generally you need a bank account associated you have all kinds of regulations which are national regulations which are not unified you have a taxation obviously which is not unified
+[00:56:18] whereas it would be absolutely necessary that it be unified if you want to have employee incentive systems that make more or less sense so we patch things we try to do things that are as fair as possible but we end up with tax situations that are frankly disparate between countries so that is relatively catastrophic so in fact you cannot have a unified market if you do not have a form of unified taxation if you do not have a form of unified social law etc.
+[00:56:40] So that is the first thing.
+[00:56:42] I would say that is the main burden.
+[00:56:43] Then you have a whole pile of regulations that are more or less consistent with each other and that force us to document many things.
+[00:56:51] So you have the GDPR.
+[00:56:53] You have all the laws on copyright and text and data mining.
+[00:56:57] You now have the AIAC which is not yet implemented but which will be from August.
+[00:57:01] All these things say more or less the same things touching on fairly similar subjects in general.
+[00:57:06] They touch on data, personal data, they touch on what is on the Internet.
+[00:57:10] And in fact they do not say exactly the same thing.
+[00:57:12] It requires documentation, which is different.
+[00:57:15] It is implemented by 27 different implementation bodies in Europe, which are more or less senior depending on the country.
+[00:57:23] And so, we end up, I end up with a compliance team of 5 people.
+[00:57:29] And what is...
+[00:57:30] Today, for us, it's doable, because in fact, we are big enough.
+[00:57:33] but you are an entrepreneur in France and you look at all this and then you also look at the atmosphere and the fact that we are happy to have put regulation back on AI, that was in early 2024 and you say you are going to the United States in fact and that's what is happening, they are going to the United States so we have overcome this aspect because we are big enough it fits into cost overhead it remains very painful and then above all you lose lots of entrepreneurs who leave elsewhere because they are afraid and you have investors who say no but Europe anyway has lost, it regulates too much and then you have a whole narrative that is widely used by the United States which is to say Europe loses because anyway it's desk jockeys
+[00:58:12] who are regulating in Brussels because they can't do anything they can't innovate and in fact it's a destructive narrative because moreover it is internalized by Europeans so it's a bit of a form of colonialism if you want but the subject is that we need to overturn this narrative to overturn this narrative we also need to think about having regulations that are simpler, that are more unified, that allow us to go faster. So that, that's on the subject.
+[00:58:35] I spoke of market fragmentation as an asset.
+[00:58:38] It is not an asset.
+[00:58:39] It is rather annoying. It means you need different teams selling differently everywhere.
+[00:58:45] It means you also have around 60 telecom operators in Europe.
+[00:58:51] You have three in the United States.
+[00:58:53] That means they have 20 times more budget, if you want.
+[00:58:57] They have 20 times more budget overall.
+[00:58:59] So, when they make an investment in artificial intelligence, they can put a lot of money on the table.
+[00:59:03] And that's how you end up with American technology.
+[00:59:06] Startups, the first thing they do, first, they sell to startups, because that recycles venture capital money, it circulates a bit to see who will win.
+[00:59:15] And then, they sell to American companies that are huge and buy very quickly.
+[00:59:20] And so, that's how they scale up.
+[00:59:22] Once they've scaled up, boom, they export to Europe, where, actually, since no one emerged in time, they take the whole market, they buy the few companies that know how to do things, and they end up consolidated, they have the whole market.
+[00:59:33] That's how it happens.
+[00:59:34] In Europe, we don't have that because you have much higher viscosity because companies are smaller and, on top of that, you have to speak 20 different languages, you have to manage 27 different regulations.
+[00:59:45] So, it's rather not an advantage.
+[00:59:46] On the other hand, once you've done that, it's true that European companies are more partnership-oriented, they have approaches that are more constructive.
+[00:59:53] sometimes it's champions we have the luck to have plenty of industrial champions in particular and so those ones they are good partners for us And since it's partnership approaches, it's difficult for the Americans to replicate them.
+[01:00:05] And so, as a result, in certain ways, it's revenue that is relatively defensible.
+[01:00:09] So, you know, viscosity, it plays against you at first, but then it plays in your favor when you have someone attacking you, when you have a competitor trying to take the market, if you want.
+[01:00:19] But anyway, it's rather against us, so you prefer that the market be much less fragmented.
+[01:00:23] Then, last point on regulation as defense and as a way to counter the Americans.
+[01:00:30] I think that often the intention is good, that is to say we're going to make sure it favors our European start-ups, I think that if we look at the whole history of what we've been able to do, it has never been the case and a very simple reason is that regulation fundamentally puts you an overhead that to overcome you need to be big enough, so if you don't have companies big enough with such a regulatory burden you end up importing American actors so regulation favors the big ones and that is all the more true in technology and so any discourse saying regulation can defend us I think that is quite it's a bit the devil
+[01:01:06] the road to hell is paved with good intentions I have a place on the other hand where we should be much better which is in making sure that public demand is recycled on the European territory that is to say used to do R&D on the European territory that applies to defense, that applies to the whole public sector I think there is an awareness which is not necessarily a regulatory awareness, but on the other hand, a political awareness, that it's the thing to do, that it's what the United States have been doing since the 1940s, and that it has worked very well for them.
+[01:01:36] And so, should we regulate that? Maybe we can a little manage that aspect.
+[01:01:42] We need to do it while maintaining a very high level of competition in Europe.
+[01:01:45] We should not be planners on where the State spends, but not planners on how things are used.
+[01:01:53] and like that we will get there but regulating to defend in general it doesn't work When I asked you the question, it wasn't regulate to defend it was precisely about public operators and the life cycle, wasn't that what we should put in a regulation rather than something else That's the place yes It was precisely That's the place yes, but on the other hand putting additional rules to respect thinking that Europeans will do better is false When you have rules, you necessarily have lobby to implement so that the implementation of the rules is feasible.
+[01:02:29] And in general, you have the American actors who are huge, but they have many more lobbyists in Brussels than we do.
+[01:02:35] It's them who end up making them the most favorable.
+[01:02:39] Thank you. And in the life cycle of the inquiry commission, it is now Madam Rapporteur's turn to ask the questions.
+[01:02:44] Thank you. I have several questions.
+[01:02:47] the first to come back and of a different nature, the first to come back to the scale of infrastructures you gave the example globally on 1 gigawatt—is it for you that smaller infrastructures in terms of installed power globally still make sense or not? No, but I was questioning the level of the example. When I talk about gigawatt, it's a network, if you want—you don't need to have strong colocation; you achieve economies of scale when you implement a site with a gigawatt, and that is, for example, the purpose of Campus IA. Eventually, it allows you to deploy training clusters. Training clusters need to be colocated, that is, they need to be
+[01:03:29] very connected to each other, using many GPUs at the same time, so there is a lot of communication.
+[01:03:35] And so this communication, since you have communications, necessarily geography plays a role, and therefore if you can put everything nearby, it works better.
+[01:03:42] So colocation is useful for training; we never need to colocate a gigawatt—it is only useful because you achieve economies of scale, which makes projects simpler, but if you have many sites of 100 megawatts, it also works, in fact. One must think in terms of network. I think we made big mistakes thinking of artificial intelligence as factories, gigafactories, etc. We don't actually talk about gigafactories—we talk about digital services that need electrical power, which is rather distributed. So we don't necessarily need to build this type of infrastructure.
+[01:04:14] It is useful, however, because, just from an environmental externality point of view, you have less of a footprint that is smaller, generally speaking, because there is a variable part.
+[01:04:27] A 100 MW transformer or a transformation station of 100 MW or 1 GW is about the same size.
+[01:04:37] That is the subject.
+[01:04:39] It is rather a subject of economies of scale.
+[01:04:41] But since we have a performing grid in France, we don't really have this issue of having only large sites.
+[01:04:49] We, for example, we don't have only large sites.
+[01:04:51] Our cluster that we just put into service, it's 40 megawatts.
+[01:04:56] We have a 25-megawatt site in Sweden, we have an 80-megawatt site in France as well next year.
+[01:05:03] But we're not talking about gigawatts, in any case, a gigawatt still takes quite a bit of time to deploy.
+[01:05:06] And so, we will start being on these scales rather around the horizon 2028, 2029.
+[01:05:19] Thank you. Second question, you spoke quite rightly about the risk of lock-in, that is to say, overall, that the data centers being built will be mainly occupied by non-European actors.
+[01:05:33] and that, in fact, these capacities, once they are captured, will no longer be redeployed.
+[01:05:41] Overall, today, could regulation be useful?
+[01:05:44] That is to say, do we need a regulation to prevent this lock-in before it happens?
+[01:05:52] It is not. There is fundamentally a principle of neutrality regarding access to electrons in Europe which is very fundamental.
+[01:06:03] I can't say it.
+[01:06:07] So, there is a reference.
+[01:06:11] European law does not allow it, in reality.
+[01:06:14] Then, you have political will, obviously.
+[01:06:17] The issue is that it is quite decentralized.
+[01:06:20] It is not perceived as a strategic plan.
+[01:06:23] You have the central state deciding where to place capacity and to whom to rent it.
+[01:06:27] It is distributed at the level of intercommunal communities.
+[01:06:30] and the intercommunal communities do not necessarily understand the supranational issues, if you will.
+[01:06:36] And so, as a result, I think we can say today that the allocation is largely suboptimal.
+[01:06:44] On the other hand, the allocation is still made on economic principles.
+[01:06:47] In fact, it is allocated to those who can pay.
+[01:06:49] And those who can pay are those who have demand.
+[01:06:51] We can pay quite a bit, but we would like to be able to pay more.
+[01:06:54] We would need more requests for that.
+[01:06:55] In fact, once we have the request, we can go look for financing, raise debt to build this kind of thing.
+[01:07:00] if we have long-term visibility on who is going to buy tokens.
+[01:07:03] And from there, we can build as quickly or even more quickly than others.
+[01:07:09] But today, it is not at all planned.
+[01:07:11] And so, it is relatively suboptimal.
+[01:07:16] Maybe on the issue of regulation and legislation, there are several projects currently underway in Brussels.
+[01:07:23] And I am thinking in particular of the Cloud and Development Act and the Sovereignty Package.
+[01:07:27] And so there are also actions being taken on point 1 of the definition of what a sovereign club is and 2 on European preference in public procurement, which seems to us to be a way, perhaps not perfect, but in any case a way to also create a number of opportunities for European companies.
+[01:07:47] And particularly on the question of the definition of sovereign cloud, ensuring that we have a definition that is as fair and as relevant as possible and that is not based merely on having a vaguely established legal entity in a country.
+[01:08:06] There are challenges in ensuring indeed that the control of the company is properly not subject to foreign entities and also that the data stored is never subject to jurisdictions, particularly American ones, and I am thinking of cloud out.
+[01:08:26] A subject of extraterritoriality, you mainly have the subject to look at, the economic subject to look at, which is where R&D is reinvested.
+[01:08:34] That's the subject.
+[01:08:35] And so when you actually have European companies, but which are in fact completely controlled by foreign companies, R&D, all revenues go back to headquarters.
+[01:08:48] So actually, that's what we need to look at.
+[01:08:58] Thank you. No, totally. But that's why the challenge is not to wait until it's locked to act. Because I hear there is a capacity to increase purchasing capacity and market capacity.
+[01:09:09] I think local authorities can guide them in the projects. So at this stage, it's about implementation spaces. It seems to me that the actors are either economic actors who invest and investors, or the State that pilots the AI summit.
+[01:09:24] but to move forward on the questions, I have several: do you have an idea of the share of your turnover today from public procurement, because we talked a lot about public procurement to get an idea? No, global public procurement is about 15%. Yeah, I'm doing rough calculations in my head. No, it's a bit more: it's 20%. It's 20%, of which 10% is French public procurement.
+[01:09:57] It's simply the software part today.
+[01:10:01] And so, it's not... Furthermore, it's not... I think we're not asking for it to be... Well, we're not seeking for it to be much more.
+[01:10:11] But indeed, to believe everything. I think what we see is that you have states like Luxembourg, for example, with which we have framework contracts that are significant, with which we do deployment in central administration.
+[01:10:23] we don't do it at all at this scale in France; we do it much more with the territories, with the Caisse des dépôts for that matter, and then we do it in defence with the Ministry of Armed Forces, but central administrations, central administrations should see generative artificial intelligence as a way to create the productivity they need, given the European demography in particular, so I think there could be a much larger adoption, and that would be beneficial for the quality of public services, generally speaking, for the quality of public finances as well, and that would be beneficial to the ecosystem because all this procurement is recycled into R&D.
+[01:11:10] this allows having other European suppliers emerging, etc. Sorry. And furthermore, on this productivity issue: it's a question we've raised several times, and on which we haven't received an answer. Do you know today of macro studies, precisely, on productivity gains, returns on investment for companies, today generated by AI?
+[01:11:36] We have plenty of micro studies from our clients who report returns that are largely superior to what they spend today on artificial intelligence with us.
+[01:11:45] So there are use cases where people get 50 million return on investment because the machines work better.
+[01:11:52] You have productivity gains of a factor of 5 in customer service.
+[01:11:57] A factor of 5 means it's 20% of the time needed to perform a task compared to artificial intelligence.
+[01:12:04] So it's very significant in macro studies—I think there aren't many yet because, in fact, we lack hindsight; it's a technology, the aspect of task delegation—I let my agent work for me all day, and it's only been working for 6 months, so you don't have enough hindsight. On the other hand, what we can see is that for us, it's about 10% of our payroll to equip our people, and the productivity gain we achieve—I'd say it's on the order of a factor of 2 compared to 6 months ago, 6 months ago—so it's not a macroeconomic study, but that's what we're talking about: we're talking about 10% to 20% of OPEX and payroll worldwide, and we're talking about a productivity gain.
+[01:12:50] It won't be times 2 everywhere; for us, it's fairly easy in a way because we're an activity with no physical footprint, so we have little friction in how to use agents, etc. When working with heavy industry, it's a bit more difficult because you have to test physical systems, etc. But we're talking about 10% of payroll. And generally, a client buys a technology if the technology doesn't take more than 50% of the value.
+[01:13:20] If you want. So you have what that means: 20% productivity gain.
+[01:13:26] That means, I think you should keep in mind, it's not necessarily 20% growth—it's part growth, part job destruction.
+[01:13:34] And that, in any case, destruction or modification of existing jobs.
+[01:13:38] And I think something we don't have, to perhaps return to more macro topics, we're in a situation where you still have some professions that are almost disappearing.
+[01:13:52] And so, people adapt. They adapt quite quickly.
+[01:13:55] I think it should pass.
+[01:13:58] It's not excluded that there will still be an increase in unemployment in certain areas, and in a way, a shift of the value of labor toward capital, and capital that is, for now, largely not European capital.
+[01:14:13] And so, you have this situation which, I think, is quite explosive between, on the one hand, you may have job destruction or at least very very rapid changes in the structure of employment in Europe.
+[01:14:28] You have a situation where everyone wants electricity and there isn't enough electricity, so you have usage conflicts.
+[01:14:34] Usage conflict means inflation.
+[01:14:36] So you have potentially inflation due to artificial intelligence.
+[01:14:40] And then third element, I mentioned it earlier, you have an exploding trade deficit, that is to say, in services, it is multiplied by 5 in the next five years.
+[01:14:50] A situation like that is still relatively...
+[01:14:52] Finally, it's revolutionary.
+[01:14:55] So, we need to take it into account, I think.
+[01:14:57] We need to talk about it more.
+[01:14:58] We need to have a longer-term perspective on what it means for the economy, what it means for society, what it means for geopolitical balances.
+[01:15:07] And if we don't do it quickly enough to come back to your question, we will end up in a situation where we will have no choice.
+[01:15:13] And that is a situation we would not want to see happen.
+[01:15:18] I will ask a final question before redoing the speaking turns. The two last questions that follow. First, could you give us the use cases in which it is most used?
+[01:15:29] You spoke about the retail sector. And the second question is about the economic model of AI. That is to say, today we have what can be qualified as a bubble, at least an extremely strong fundraising capacity on the part of artificial intelligence actors, but an economic model that can be judged by some economists as not yet completely stabilized, particularly regarding investment costs.
+[01:15:52] You gave figures that sometimes gave vertigo in billions, in trillions of euros, therefore very strong investment capacities in infrastructures, infrastructures which, it seems to me, will have to be maintained constantly. If I am not mistaken, at Nataserteur, it is maintained very strongly.
+[01:16:14] And with today a very low cost of AI for clients. So my question is, is it low? In any case, perhaps not, it is probably not your model.
+[01:16:25] But in any case, we clearly see the promise made on rather American models, chats, GPT and company. That is to say, we have an AI cost that remains moderately low.
+[01:16:36] Globally between the colossal amount of investments and the amounts of infrastructure maintenance, are we managing to keep a moderate price or are we not facing a risk of lock-in, that is to say actors who revise the organization of their work, then digital operators who increase their price extremely strongly with an inability of actors to disengage from these new digital services.
+[01:17:05] Then on use cases, the first two are software development. Today, engineers at Mistral no longer write lines of code.
+[01:17:16] So you have a way of working in software development that has profoundly changed in the last six months.
+[01:17:22] That is to say, before, it was rather craftsmanship if you were an individual contributor. That is to say, you wrote your code.
+[01:17:29] Moreover, people liked this craftsmanship.
+[01:17:30] I come from there, I liked this craftsmanship.
+[01:17:33] Today, you are no longer an artisan, you are a manager.
+[01:17:36] And so, you are asking agents to write code for you.
+[01:17:39] So, in fact, you give the specifications, you are a client giving orders.
+[01:17:41] That is still a fairly profound change.
+[01:17:43] And it comes with productivity gains that are very, very important when you are alone.
+[01:17:48] That is to say, you are alone, you can go 10, 20 times faster.
+[01:17:50] When you are 5, it goes down because you still have communication topics coming back.
+[01:17:55] when you are a very large company and suddenly you are in full organizational bottlenecks actually so that is what needs to be lifted to have the productivity gains we dream of and in order of magnitude how many tokens does a code employee produce I can tell you I count rather in megawatts how many megawatts is it 1 kilowatt per employee if you want that is the order of magnitude 1 kilowatt per employee is half a GPU in euros that is 10,000 euros per year lines of code is 10,000 euros per line if you make 10,000 euros per year per person that is what you need to count but that is why I say it is 10% of the payroll it is 10,000 euros per year and 10,000 euros per year at the level
+[01:18:44] of Europe you have 400 million people that is 8 billion because tokens are good you said it per generated numbers per generated letters a line of code is a lot a lot of numbers yeah a line of code how many millions of tokens I will tell you I will do it quickly you have 10,000 euros per year that means about 30 euros per day with 30 euros per day you generate you generate 10 million tokens 10 million tokens a line of code is about 100 tokens so that makes about 100,000 lines of code.
+[01:19:24] In fact, it does something else than code.
+[01:19:26] When you ask an agent to write code, it will think a lot, it will generate tokens to say, should I do this?
+[01:19:31] Should I do this? Should I run this test?
+[01:19:33] Does it work? Would I have written this test?
+[01:19:35] It does a lot of things. In the end, it produces code that is written and is small, but in fact, it does a lot of experiments that the software, well, that a software developer used to do before.
+[01:19:47] Then, on the subject of the bubble, I think that for a long time, we said there was a bubble.
+[01:19:50] In fact, there aren't really many bubbles here; there is a real problem. A bubble is when you say there is when you overestimate demand.
+[01:19:59] Here, today, when we see the demand for tokens, all the people who come to see us saying they need more tokens than they expected, the problem is rather a supply problem.
+[01:20:09] That is to say, there isn't enough logic, chips, there isn't enough memory, there isn't enough motherboards, hard drives, there isn't enough helium, if you want, on the semiconductor side.
+[01:20:26] There aren't enough electrons.
+[01:20:28] So, in fact, across the entire semiconductor chain, the whole semiconductor chain today, it is under pressure from artificial intelligence.
+[01:20:34] So there is rather a supply issue than a demand issue today.
+[01:20:39] Then, obviously, for the economic model to work, when you invest 50 billion to make 1 gigawatt and you are a technology company, you want to walk away with 100 billion.
+[01:20:52] If you walk away with 100 billion, that means you must create 200 billion of value for your client.
+[01:20:57] Are we roughly at these balances? I wouldn't say completely, because obviously, we put money on the table at the beginning because we know that when we have captured everything, when we have captured demand and supply, then we can raise prices, we can raise margins.
+[01:21:11] And so the risk we have today is what I was mentioning earlier, which is that if you don't deploy fast enough, you won't capture enough market share, territories, you have oligopolies forming, and they will get their marble back.
+[01:21:26] You don't have the entire American economy putting a trillion on the table per year, if they don't tell themselves they're going to walk away with two trillions.
+[01:21:33] I'm not worried about them.
+[01:21:35] I'm rather worried about us.
+[01:21:38] Thank you. Arnaud Saint-Martin.
+[01:22:06] interesting of the codes that drive a certain policy and I know there have been controversies around the ex etc. Could you give us details on what policy you follow to generate your business, what are the ethical locks that frame your activity and what was I going to say? Yes then regarding the bubble, I was asking myself about the sustainability also financial of your company, to what extent?
+[01:22:31] Finally, I think there is a bubble.
+[01:22:34] Afterwards, we could...
+[01:22:34] And even today, there is a whole reflection on this in the political economy of the digital.
+[01:22:38] To what extent do you protect yourselves from a possible implosion?
+[01:22:42] Because here, we have massive spillover effects with companies that overcapitalize with financial valuations that are indecent.
+[01:22:48] To what extent do you protect yourselves against a possible collapse of this economy which, for now, still functions largely on the promise of a possible return on investment.
+[01:22:57] But that, that remains also quite theoretical, even if you state a demand that appears plethoric.
+[01:23:04] On the subject of obtaining data, in the early years of generative AI, models were heavily trained on human annotations from people giving their preferences, etc.
+[01:23:24] And that allowed us, collectively, to reach a certain level of models capable of engaging in conversations, etc.
+[01:23:30] As the technology developed, we needed increasingly qualified annotators.
+[01:23:38] Today, the annotators at Mistral are people who have PhDs.
+[01:23:41] They are people who are asked to go solve a security problem in a code repository.
+[01:23:48] They are people who are asked to solve particle physics problems.
+[01:23:55] Often, they are not people, but environments.
+[01:23:57] That is to say, we need signals that are not human signals, but rather environmental signals—meaning you ask the agent to make changes to the code, then you put it in an environment that executes the code and tells you whether it works or not; thus it works for code—you can do this with 3D, with Excel files—so in fact the subject is no longer really about human annotators, but rather people who are software developers creating environments that can then be widely used at scale to provide signals to the model. So our subject now
+[01:24:36] is, returning to your topic of distillation, to distill environments—understanding how a code environment works, taking that signal, and bringing it back to the model. That is, you have a numerical simulation tool, you run it many times, you take the output of that numerical signal, and you use it so the model better understands the physics you are simulating.
+[01:24:58] So you have a topic of bringing the signal from the environment back to the model, and thus it has become much less labor-intensive, this topic.
+[01:25:06] We left that field, I would say, in 2023–2024, and we, in the annotation work we have done, have always worked with providers who gave us guarantees on the salaries of the people, etc.
+[01:25:24] The United States, Europe, globally, as we need skilled workers and workers who speak a number of European languages in particular, we are obliged to go rather to Europe.
+[01:25:33] Then, we have activities in robotics where we work with Madagascar, for example.
+[01:25:38] And we have a whole framework of work to ensure that people are well paid, etc.
+[01:25:46] So that, it's on this topic that I can answer you.
+[01:25:50] on the subject of policy then you can say in fact the model you ask it a question it answers as it wants and so there is a subject a bit editorial of what the model will answer you when you ask it an oriented question so our strategy is to make sure we follow the instructions and have as little bias as possible so it's a scientifically technical subject, we do not claim to solve it completely but for example you have an editorial subject that really arises when you make chatbots for the general public so it's not really our subject On the other hand, when you make systems that will write code, execute code, they can make different choices.
+[01:26:24] They can choose different code libraries.
+[01:26:26] They can choose to make more or less secure choices.
+[01:26:29] And so, this work on securing generated code, for example, is work we do continuously because our clients ask us to do it.
+[01:26:36] You have a real security issue that arises from the moment your models are used to take irreversible actions, execute code, possibly trigger certain supply chains, etc.
+[01:26:51] So for us it's a very important subject, we have a team that does only that, which does security and safety and we treat it because our clients ask us to treat it we also treat it by giving tools to our clients so that on the applications they make, they are able to observe and verify that it does exactly what they want it to do.
+[01:27:10] Thank you. Madam Rapporteur, for a last question Is that it?
+[01:27:18] No, my last question, you said it, we need strong European actors.
+[01:27:24] I have a fairly simple question.
+[01:27:25] Today, what we have...
+[01:27:26] In short, overall, could the Americans buy Mistral tomorrow?
+[01:27:35] The Americans, you have a few vicious capitals.
+[01:27:38] It's less than 30% of our capital.
+[01:27:41] Once again, we would have been delighted to take Europeans, but there were no Europeans. So at some point, we lose a certain number, we lose the economic aspect, meaning the return on investment in Mistral—part of it is the General Partner portion that goes back to the United States on American funds, and then you have the LP portions, which in general are raised by American funds worldwide.
+[01:28:01] In fact, there is a portion that even returns to Europe from this perspective. So we lose a certain number, we lose return.
+[01:28:08] It's a shame.
+[01:28:09] But we lose return because we don't have the full ecosystem.
+[01:28:12] That's how it is.
+[01:28:14] Next, our objective is to remain independent.
+[01:28:18] Obviously, there are people asking us if they can buy us. We say no because that's not our mission.
+[01:28:23] Our mission is to be independent.
+[01:28:24] Our mission is to move toward a futures quotation and to ensure we provide this alternative.
+[01:28:32] Then, obviously, it's related to the fact that if you succeed, you don't get bought out.
+[01:28:38] In a certain way, you have failed.
+[01:28:42] In any case, that's how we should think about it.
+[01:28:44] Because indeed, there is still a lot of entrepreneurship in Europe that is considering exit strategies that are rather acquisitions by American companies.
+[01:28:53] It is a losing strategy.
+[01:28:55] It is a strategy that, macroeconomically, is truly damaging.
+[01:28:59] Therefore, we need to think about it this way.
+[01:29:00] We need to create European champions that are independent.
+[01:29:02] That's why we are working on it.
+[01:29:05] We haven't won yet, but we are working on it.
+[01:29:09] Thank you.
+[01:29:09] Thank you. Mr. President, do you have a final question? No. So a priori, the speakers, the MPs have asked all their questions. I don't know if you still had remarks you would like to add following this hearing.
+[01:29:25] No, I think we covered quite a few points. I would say that one of the subjects we really need to pay attention to is not distinguishing the cloud and saying we lost the battle for the cloud, that we need to get back on the cloud to get back on the cloud, we need to go through the important added value that drives growth, which is artificial intelligence. From there, the rest of the cloud can follow, but we need to focus our efforts where we are strong. It turns out we have the luck of being relatively strong in artificial intelligence. It turns out we have the luck of having electrical capacity.
+[01:29:55] If we combine the two, we can regain a sustainable market share.
+[01:30:00] And we absolutely must do this, because otherwise we will become a vassal state.
+[01:30:05] Thank you. Not necessarily for the final remarks.
+[01:30:09] Thank you for the hearing.
+[01:30:11] You're welcome, thank you very much for listening to me.
+[01:30:12] We clearly understood the final message and what we will need to do at the National Assembly.

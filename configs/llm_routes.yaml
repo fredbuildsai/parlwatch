@@ -1,0 +1,39 @@
+# Same free-tier-first strategy as batterygemma (see llmrouter-free docs). A deployment whose api_key_env is
+# unset is skipped. Local models are quantized (Ollama GGUF).
+deployments:
+  - name: openrouter-nemotron-super
+    model: openrouter/nvidia/nemotron-3-super-120b-a12b:free
+    api_key_env: OPENROUTER_API_KEY
+    tier: free
+    family: nemotron
+    extra_body: {reasoning: {enabled: false}}
+    temperature: 0.4
+    tags: [strong, fast, json]
+
+  - name: ollama-gemma4-e4b
+    model: ollama_chat/gemma4:e4b
+    api_key_env: OLLAMA_API_KEY
+    api_base: http://localhost:11434
+    tier: free
+    family: gemma4
+    extra_body: {think: false}
+    tags: [strong, json, judge]
+
+routes:
+  # translation: cloud only. The local gemma4:e4b returned 20/30 sentences and misaligned one in the pilot test
+  # (docs/pilot-2026-10/translation-test), so it is NOT a translation fallback.
+  translate: [openrouter-nemotron-super]
+  screen:    [openrouter-nemotron-super, ollama-gemma4-e4b]
+  analyze:   [openrouter-nemotron-super, ollama-gemma4-e4b]
+  # single-deployment routes so each model can be benchmarked on its own (translation test)
+  translate_nemotron: [openrouter-nemotron-super]
+  translate_gemma:    [ollama-gemma4-e4b]
+
+cooldown:
+  rate_limit_seconds: 60
+  daily_quota_seconds: 86400
+  error_seconds: 30
+max_attempts_per_call: 10
+max_attempts_per_deployment: 3
+max_cloud_attempts: 2
+request_timeout_seconds: 150

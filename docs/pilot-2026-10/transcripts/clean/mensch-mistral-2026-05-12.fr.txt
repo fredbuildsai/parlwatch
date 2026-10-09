@@ -1,0 +1,1117 @@
+[00:08:21] C'est bon.
+[00:08:24] La séance est ouverte.
+[00:08:26] Mes chers collègues, nous poursuivons les auditions de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l'indépendance de la France.
+[00:08:37] Le président de la commission d'enquête, Philippe Latombe, vous prie d'excuser son absence et donc je vais assurer la présidence de cette séance.
+[00:08:44] Nous recevons aujourd'hui M. Arthur Mensch, cofondateur et directeur général de Mistral AI, accompagné de Mme Audrey Herblin-Stoop, directrice des affaires publiques et de la communication de Mistral AI.
+[00:08:56] Je vous remercie de vous être rendu disponible. Et parmi les outils d'intelligence artificielle générative, Mistral fait figure d'exception avec un modèle open source européen, alors que vos principaux concurrents sont tous extra-européens.
+[00:09:10] Beaucoup d'espoir repose sur vous. L'intelligence artificielle est souvent présentée comme l'un des secteurs encore suffisamment ouverts pour que des acteurs européens puissent rivaliser avec les gens du numérique.
+[00:09:19] et j'aurais envie déjà de vous poser des questions avant que vous puissiez, enfin vous allez faire votre propos liminaire.
+[00:09:28] Quels sont les atouts de la France et de l'Europe dans la course à l'IA ?
+[00:09:32] Et au-delà de l'IA, que peut-on faire pour assurer la souveraineté numérique de l'Europe et de la France en particulier ?
+[00:09:38] Et donc je vais vous laisser la parole pour un propos liminaire d'une dizaine de minutes et je vous remercie de nous déclarer tout intérêt public ou privé de nature à influencer vos déclarations et ensuite nous pourrons échanger sous forme de questions-réponses.
+[00:09:52] Mais auparavant, et vous connaissez les procédures de commission d'enquête, nous avons...
+[00:09:56] Une procédure très formelle. Je vous rappelle que l'article 6 de l'ordonnance du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires impose aux personnes auditionnées par une commission d'enquête de prêter serment, de dire la vérité, toute la vérité, rien que la vérité.
+[00:10:15] Et je vous invite donc chacun à lever la main droite et à dire je le jure.
+[00:10:21] Je le jure.
+[00:10:49] Je le jure.
+[00:10:52] Mesdames et Messieurs les députés, je tiens à vous remercier pour votre invitation pour discuter de ce sujet clé, qui est donc l'autonomie de l'Europe sur le plan de l'intelligence artificielle, sur le plan de manière générale des services numériques.
+[00:11:06] C'est-à-dire que je pense qu'il ne faut pas faire de distinction. Les services numériques d'aujourd'hui et surtout de demain, c'est essentiellement de l'intelligence artificielle. Vous avez du stockage, vous avez un peu d'exécution d'agents, etc.
+[00:11:20] mais fondamentalement, les services numériques, le cloud, c'est l'intelligence artificielle.
+[00:11:23] Il n'y a pas de distinction à faire sur ce sujet.
+[00:11:25] Et donc, ça répondra peut-être à votre question.
+[00:11:27] J'ai noté votre question, j'y répondrai après.
+[00:11:31] Peut-être pour donner un peu de contexte, comme vous le savez, l'intelligence artificielle redéfinit les équilibres économiques, géopolitiques.
+[00:11:39] La question n'est pas tellement de savoir si l'Europe peut rivaliser, mais plutôt comment elle peut le faire.
+[00:11:46] parce que je pense que si elle ne rivalise pas, en réalité, elle s'assoit complètement sur toute forme de présence et de voix au chapitre dans le concert des nations.
+[00:11:56] Donc la question, c'est peut-elle le faire sans dépendre d'acteurs extra-européens ? La réponse, évidemment, non.
+[00:12:01] La question seconde, c'est peut-elle le faire en gagnant du levier sur ses fournisseurs, en gagnant du levier en tant qu'exportateur de technologies et en faisant en sorte de rééquilibrer les déséquilibres économiques qui sont déjà existants et qui vont augmenter ?
+[00:12:14] Je pense que la réponse est oui.
+[00:12:16] Quelques éléments sur Mistral AI.
+[00:12:18] C'est une société qu'on a fondée il y a un petit peu plus de trois ans, le 28 avril 2023, avec comme intuition en 2023 que l'intelligence artificielle générative allait rebattre les cartes assez significativement dans le domaine des services numériques, allait changer assez profondément la manière dont l'économie fonctionne, parce que fondamentalement, ça déplace l'intelligence du travail vers le capital et vers les machines.
+[00:12:43] on voyait en 2023 parce que nous on a eu moi et mes cofondateurs Guillaume et Timothée avons eu une certaine expérience chez les gros acteurs américains que le monde se dirigeait vers un oligopole assez net et on voulait évidemment contrer cet oligopole et donc on a créé Mistral en 2023 avec quinzaine de personnes en France en Angleterre au départ avec essentiellement des chercheurs.
+[00:13:12] Ce qu'on a fait, c'est d'abord démontrer au monde qu'on savait entraîner des modèles de langue, donc ceux dont il s'agit pour faire de l'intelligence artificielle générative.
+[00:13:19] Et ensuite, on a démontré, on les a mis en...
+[00:13:22] On a fait un modèle ouvert, c'est-à-dire qu'on les a donné au monde pour montrer qu'aussi, on pouvait s'en emparer, les modifier, les déployer où on voulait, etc.
+[00:13:29] Donc c'était une technique de décentralisation et de déplacement des acteurs établis.
+[00:13:36] Et puis à partir de là, on a continué à investir dans les modèles.
+[00:13:38] Aujourd'hui, on a investi un milliard cette année dans les sujets de R&D.
+[00:13:45] On investit très significativement.
+[00:13:46] On construit des modèles.
+[00:13:48] On est un des leaders sur les modèles ouverts, qu'on peut modifier, qu'on peut déployer où on veut.
+[00:13:54] Et on a tout un modèle économique qui est à la fois par-dessus, c'est-à-dire qu'on va apporter une plateforme de déploiement d'agents, de délégation de tâches à l'intelligence artificielle.
+[00:14:02] On va créer des applications métiers au contact de nos clients, qui sont des entreprises en général, des grosses entreprises.
+[00:14:08] Et puis, on a un modèle économique qui est amont, c'est-à-dire qu'on héberge également les modèles, on les met sur des machines et on les fait générer ce qu'on appelle des tokens, qui est l'unité économique de l'intelligence artificielle.
+[00:14:20] C'est-à-dire qu'on entraîne des modèles qui génèrent des séquences.
+[00:14:23] À partir de ces générations de séquences, on va prendre des actions, on va exécuter des choses, on va réfléchir.
+[00:14:28] Ces séquences, elles sont faites de ce qu'on appelle des tokens, ce sont des chiffres.
+[00:14:31] Ce sont des chiffres entre 0 et 65 000.
+[00:14:35] Et donc, on génère ces tokens pour nos clients, les hébergeants.
+[00:14:37] on transforme des électrons en token.
+[00:14:41] Aujourd'hui, quelques chiffres, on est 1000 collaborateurs, une valorisation de 12 milliards d'euros et 1 milliard d'euros de revenus visés d'ici la fin de l'année.
+[00:14:51] Nos clients sont des clients d'entreprises, des clients dans le secteur public, pour citer quelques-uns en France, on a la DINUM, la Caisse des dépôts, France Travail, dans le secteur privé, c'est MACGM, Stellantis, Total Energy, BNP Paribas, etc.
+[00:15:08] On fait à peu près 30% de notre chiffre d'affaires en France, 70% dehors, et environ trois quarts de notre chiffre d'affaires en Europe.
+[00:15:18] Pour vous donner un peu une idée de où est-ce qu'on est.
+[00:15:22] Donc on est un exportateur de technologies fondamentalement à la fois aux Etats-Unis et en Asie également.
+[00:15:29] Donc ce qu'il faut comprendre sur l'intelligence artificielle générative, et fondamentalement sur ce qu'on appelle l'intelligence artificielle aujourd'hui, c'est que c'est un modèle qui consiste à transformer de l'énergie en intelligence, donc en génération de tokens qui sont derrière utilisés pour déléguer des tâches, pour faire de la recherche en mathématiques, pour opérer des chaînes logistiques, pour améliorer des outils, pour déployer des systèmes embarqués dans des robots, dans des drones, etc.
+[00:15:58] Donc on est dans un métier où on transforme de l'électricité en génération de tokens.
+[00:16:02] Et c'est fondamentalement quelque chose qu'il faut traiter plus ou moins comme une ressource naturelle, c'est-à-dire qu'il faut réfléchir à l'intelligence comme on réfléchit à l'énergie.
+[00:16:10] Donc nous, notre objet, c'est de fournir une intelligence qui est peu chère, affordable on va dire en anglais, qui est sécurisée en termes d'approvisionnement, c'est-à-dire qu'on n'a pas besoin d'aller la chercher chez des Américains par exemple, et qui est par ailleurs durable parce qu'elle transforme de l'énergie qui est moins carbonée qu'ailleurs parce qu'on utilise en particulier d'énergie française.
+[00:16:35] je pense qu'on n'y réfléchit pas suffisamment assez de cette manière l'intelligence c'est comme l'électricité c'est comme l'énergie par ailleurs on a cette tendance qui est à mon avis une tendance assez fausse qui est de séparer les services numériques de l'intelligence artificielle, aujourd'hui le cloud c'est l'intelligence artificielle, la croissance du cloud c'est l'intelligence artificielle les services à haute valeur ajoutée donc à forte marge qui permettent de faire de l'ARD c'est l'intelligence artificielle tout le reste, à partir du moment où on gagne en intelligence artificielle, on peut construire tout ce qui est le reste des services cloud qui sont essentiellement des commodités aujourd'hui et qu'il faut savoir, essentiellement ça consiste à savoir opérer du logiciel qui est open source
+[00:17:11] parce que c'est devenu l'infrastructure mondiale.
+[00:17:14] Nous notre objectif c'est évidemment d'ancrer cette chaîne de valeur, donc là où on est dans la chaîne de valeur c'est entre l'opération des clusters et l'opération des serveurs jusqu'à la création des applications métiers et je pense que c'est une unité atomique de la chaîne de valeur qui va du semi, de la construction de semi-conducteurs, donc de ASML par exemple, cette entreprise qui est un de nos clients qui fait de la lithographie, jusqu'à le déploiement dans les entreprises.
+[00:17:41] Donc ça veut dire que le cloud et l'AI c'est vraiment la même chose.
+[00:17:45] Ce que je peux dire c'est qu'en fait il faut voir la souveraineté, il faut arrêter de penser à la souveraineté comme un isolationnisme, il faut y penser comme pensent les personnes qui font des affaires, C'est-à-dire qu'il faut penser à la souveraineté comme un sujet de levier. C'est-à-dire que dans un monde où vous importez la totalité de vos services numériques aux États-Unis, vous n'avez pas de levier sur les États-Unis. Dans un monde où vous créez une partie de vos services, éventuellement vous les exportez, vous avez un levier supplémentaire. Dans un monde où vous vendez des biens aux États-Unis, vous avez du levier dessus. On le voit dans les négociations de l'Union européenne. On exporte un certain nombre de choses.
+[00:18:23] ça nous donne des arguments et des cartes à jouer quand on est à la table de négociation.
+[00:18:28] Si on n'a pas cette capacité à ne pas importer la totalité de nos services numériques des Etats-Unis, on a un vrai problème.
+[00:18:36] Le problème qui arrive, en fait, c'est que ce dont on parle, je pense que le marché total dont on parle, il faut le comparer à la masse salariale.
+[00:18:45] Aujourd'hui, chez Mistral, notre consommation d'intelligence artificielle pour nos employés, c'est 10% de notre masse salariale.
+[00:18:51] Alors on fait cette technologie, donc on l'adopte un peu plus rapidement qu'ailleurs, mais si vous extrapolez, d'ici 3 à 4 ans, la totalité de l'Europe utilise l'intelligence artificielle pour 10% de sa masse salariale.
+[00:19:02] 10% de la masse salariale de l'Europe, c'est à peu près 1 trilliard.
+[00:19:06] 1 trilliard, c'est donc des services numériques, parce qu'il faut les générer, les tokens, etc.
+[00:19:10] C'est 1 trilliard, si on les utilise, si on importe de la technologie non européenne, c'est 1 trilliard de déficit commercial à rajouter à notre déficit commercial existant sur les services numériques.
+[00:19:24] C'est 1 trilliard qui repart ailleurs pour être investi en R&D et qui n'est pas réinvesti en R&D en France, donc en France ou en Europe.
+[00:19:30] Donc ça je pense que c'est un point très important, c'est qu'il faut réfléchir à ce sujet de souveraineté d'un point de vue macroéconomique.
+[00:19:36] C'est un sujet macroéconomique essentiel et je pense dont on ne réalise pas la teneur.
+[00:19:42] Donc ça c'est un premier sujet.
+[00:19:44] Il y a évidemment un sujet de sécurité économique, c'est-à-dire que quand vous savez déployer de l'intelligence artificielle dans des services essentiels, vous voulez vous assurer qu'on ne puisse pas...
+[00:19:53] couper l'accès au service qui en fait est assez peu théorique, on l'a vu à différents endroits. Donc ça veut dire que c'est important pour tous les aspects souverains régaliens, c'est évidemment important pour la défense parce que l'intelligence artificielle est maintenant au coeur des centres opérationnels des armées et donc devient la plateforme qui permet de prendre des décisions opérationnelles sur le champ de bataille, qui permet de faire du renseignement etc. Donc si on n'a pas accès à cette technologie là on va devoir l'importer d'ailleurs et ça veut dire qu'on peut nous couper cet accès.
+[00:20:22] je pense que c'est particulièrement critique enfin il y a un sujet supplémentaire qui n'est pas un sujet que nous on traite vraiment en direct parce qu'on n'a pas une activité grand public significative c'est que l'intelligence artificielle qui génère du contenu façonne les représentations culturelles façonne la langue façonne également l'éthique c'est à dire que c'est des les modèles qu'on fait c'est des modèles qui ont une certaine politique c'est à dire qu'ils actionnent certaines choses ils vont écrire un certain type de code etc et donc tout ça ça devient une médiation de l'information et ça devient une médiation de l'action.
+[00:20:51] Et donc, si on doit importer des modèles d'ailleurs, si on n'a pas de solution alternative en Europe, on va être contraint d'utiliser les biais et les choix qui ont été faits par d'autres, les Etats-Unis et la Chine en particulier.
+[00:21:08] Donc, quelques recommandations pour finir.
+[00:21:11] L'intelligence artificielle offre l'espoir de rebattre les cartes.
+[00:21:15] C'est vrai, ça revient à votre première question.
+[00:21:17] Un des atouts de l'Europe et de la France en particulier, c'est sa base de talent, c'est un atout, c'est une entrée dans le système.
+[00:21:23] C'est-à-dire que si vous n'avez pas une grosse entreprise, des entreprises innovantes qui peuvent capter ces talents et les convaincre de travailler pour nous, ils vont simplement partir ailleurs et apporter leur valeur ailleurs.
+[00:21:33] C'est ce qu'on a vu beaucoup, si je pense que les choses commencent un peu à se renverser, il faut qu'on en bénéficie.
+[00:21:38] Au-delà des talents, je dois dire que l'Europe n'a pas beaucoup d'atouts, on a une réglementation qui est plus lourde, on a un marché qui est fragmenté.
+[00:21:46] évidemment un marché fragmenté ça veut dire plus de difficultés pour vendre mais c'est aussi des partenariats qui sont plus long terme donc ça on peut dire que c'est un atout il y a un atout de diversité culturelle très forte dans la langue etc qui est quand même une vraie diversité pour l'intelligence artificielle ce que je peux dire c'est que fondamentalement nous on n'existe que s'il y a un marché qui existe et le problème qu'on voit c'est qu'en fait ce marché il se matérialise un petit peu trop lentement par rapport à ce qui devrait être le cas.
+[00:22:15] C'est-à-dire que les entreprises n'ont pas encore complètement conscience de la quantité d'intelligence artificielle qu'elles vont utiliser dans les années qui viennent.
+[00:22:23] En fait, la conséquence de ça, c'est que ceux qui peuvent investir avant la demande, c'est plutôt les Américains.
+[00:22:30] Et donc, par exemple, il y a du surplus énergétique en France, on prend 9 gigawatts en moyenne.
+[00:22:34] Ce surplus énergétique va être capté plutôt par les entreprises qui sont les plus agressives d'un point de vue capitalistique et qui vont pouvoir mettre de l'argent sur la table, transformer ces électrons en tokens avant les autres.
+[00:22:44] Et donc, nous, notre sujet, on arrive à être assez agressif, mais on aimerait être plus agressif.
+[00:22:48] Et pour ça, il faut qu'on ait une visibilité sur le marché.
+[00:22:50] Ce marché, c'est évidemment le marché privé, donc des entreprises qui choisissent de travailler avec nous pendant 5 ans, pendant 7 ans, et on en a plein.
+[00:22:57] Mais c'est également la demande publique qui forme à peu près 50% du PIB de l'Europe.
+[00:23:02] et donc être capable de faire en sorte que cette demande publique se ruisselle sur toute la chaîne de valeur en partant par l'endroit où on est fort, on a de la valeur ajoutée qui est donc l'intelligence artificielle et le faire de manière concentrée, c'est-à-dire ne pas le déployer avec de la subvention, simplement faire de la demande en bout de chaîne sur les services numériques.
+[00:23:23] C'est un atout essentiel, c'est un atout que nos partenaires américains et chinois utilisent massivement.
+[00:23:28] C'est un atout qu'on a toujours eu peur d'utiliser en Europe, il faut absolument que ça s'arrête.
+[00:23:32] Et enfin, de manière générale, nous, on cherche à structurer les marchés et faire en sorte d'avoir une demande relativement unifiée.
+[00:23:38] Donc, les marchés unifiés, c'est utile. Les marchés de capitaux unifiés, c'est utile. On n'en fait jamais assez.
+[00:23:45] Et puis enfin, d'un point de vue purement infrastructure, la France a effectivement cette chance d'avoir de l'électricité en surplus.
+[00:23:52] Il faut continuer à en faire, puisque l'intelligence artificielle, on peut considérer que c'est environ 1 kW par personne à horizon 50.
+[00:23:59] 1 kilowatt par personne en raison 50, ça veut dire 40 gigawatts à fabriquer en France, ça veut dire environ 400 gigawatts à fabriquer en Europe.
+[00:24:05] Ça veut dire environ 2 trilliards d'investissement à faire.
+[00:24:11] Donc il faut vraiment avoir 20 trilliards.
+[00:24:18] C'est 20 trilliards de déploiement.
+[00:24:21] Donc ça veut dire qu'il faut en avoir conscience et il faut construire de l'électricité, mais surtout il faut faire en sorte que les électrons soient transformés en des tokens avec des entreprises européennes.
+[00:24:33] Et alors pour construire 400 gigawatts en Europe, il faut accélérer les projets, donc ça veut dire qu'il faut des permis plus rapidement, il faut une notion de réservation aussi des capacités énergétiques.
+[00:24:45] Voilà, et ensuite sur votre deuxième question, je pense que je l'ai un peu traité, au-delà de l'IA, les services numériques, alors oui, vous pouvez faire des database managés, vous pouvez faire de l'hébergement, vous pouvez faire des machines virtuelles, etc.
+[00:24:56] Ça, c'est des services qui ont une marge extrêmement faible.
+[00:24:59] Vous ne pouvez pas construire un business à l'échelle en partant d'un endroit où la marge est faible.
+[00:25:02] Si vous voulez construire un business à l'échelle, vous partez de l'endroit où la marge est importante.
+[00:25:06] Et ensuite, une fois que vous êtes suffisamment gros, vous utilisez une partie de votre R&D, même pas besoin d'être grande, pour aller créer tous les services que vous utilisez.
+[00:25:15] Si vous partez de l'endroit où la marge est faible et que vous n'avez pas de volume, si vous n'avez ni volume ni marge, vous n'avez aucune chance d'arriver à l'échelle.
+[00:25:22] Soit vous êtes à un endroit avec faible volume, haute marge, soit vous avez faible marge mais gros volume, c'était la stratégie chinoise, et vous remontez la chaîne de valeur.
+[00:25:30] Mais si vous avez un endroit où vous avez une haute marge et pas beaucoup de volume au début, vous ne pouvez faire que descendre la chaîne de valeur.
+[00:25:37] Je pense que c'est vraiment important à prendre en compte.
+[00:25:40] Il faut partir des services au niveau, redescendre aux services bas niveau, parce que ceux-là ont moins de marge.
+[00:25:44] C'est comme ça que nous, on approche le problème d'un point de vue stratégique.
+[00:25:50] Merci.
+[00:25:51] Je vais laisser la parole à la rapporteure pour les premières questions.
+[00:26:08] Merci beaucoup d'être venu aujourd'hui et pour ces propos introductifs et très santé sur le modèle économique parce que je pense qu'effectivement c'est un des cœurs des enjeux.
+[00:26:20] peut-être commencer par des questions vraiment de base.
+[00:26:26] Typiquement, aujourd'hui, vous avez beaucoup parlé en token.
+[00:26:28] C'est quoi finalement le coût nous revient d'un token ?
+[00:26:34] C'est l'unité économique de l'intelligence artificielle.
+[00:26:37] C'est quelque chose qui se facture en millions de tokens.
+[00:26:40] Un million de tokens sur un de nos modèles, par exemple, ça va être un euro.
+[00:26:44] Vous m'envoyez un million de tokens, je vous génère un million de tokens grâce à ça.
+[00:26:48] vous allez me payer 1 euro pour l'entrée, 3 euros pour la sortie.
+[00:26:57] Et un token, qu'est-ce que c'est un token ?
+[00:26:59] C'est quelques lettres dans un mot, c'est un chiffre, ça peut être aussi quelques pixels dans une image, quand c'est en entrée, on sait gérer de la donnée multimodale, ça peut être un bout d'un son également.
+[00:27:15] Donc c'est ça l'unité.
+[00:27:16] Nous, notre modèle économique, c'est partiellement un modèle hébergé à la consommation.
+[00:27:20] C'est-à-dire que vous utilisez de la technologie, vous vous hébergez de la technologie chez nous et vous payez au token, vous payez à l'unité de temps en CPU.
+[00:27:30] Quand vous faites autre chose que de l'intelligence artificielle, vous payez au stockage.
+[00:27:34] On a également un modèle qui est plutôt un modèle de plateforme.
+[00:27:37] On va apporter notre logiciel, le déployer sur une infrastructure client qui paye son infrastructure.
+[00:27:42] Ses GPU, ses CPU, son stockage.
+[00:27:44] et là-dessus c'est plutôt un modèle de type licence sur lequel on a une couche de services par ailleurs pour construire de la valeur et transformer les entreprises.
+[00:27:55] Plus technique, on n'arrive pas à avoir deux micros qui fonctionnent en même temps, il y a du progrès.
+[00:28:03] Les chiffres que vous donniez, 1 euro, 3 euros de ce que je comprends, c'est les chiffres pour les consommateurs, si j'ai bien compris.
+[00:28:15] en général c'est plutôt utilisé par des développeurs qui vont faire des applications avec client et donc moi ma question c'est aujourd'hui, donc ça c'est le coût client mais pour vous parce que j'imagine que pour faire un token, pour vous ça veut dire des investissements et donc ça l'intéresse aussi de voir comment se construit en capex pour développer le modèle, en capex en termes d'infrastructure, en coût énergétique donc globalement pour vous, pour générer un token, ça vous coûte combien ?
+[00:28:45] Le token, c'est l'unité client du service numérique.
+[00:28:49] Donc, vous achetez un service numérique, vous achetez les tokens. L'unité pour nous, la manière dont nous, on finance nos projets, etc., c'est plutôt le mégawatt. Le mégawatt, c'est l'électricité qu'on va transférer en intelligence. Un mégawatt, alors je vais vous donner en gigawatt, puisque je connais bien les chiffres en gigawatt.
+[00:29:05] Quand vous investissez et vous créez un data center, vous mettez des cartes graphiques qui vont permettre de générer des tokens quand vous hébergez le modèle pour créer un gigawatt vous allez investir 50 milliards de dollars sur 5 ans donc ça vous coûte 10 milliards par an à peu près. Avec ça, je vous donne un peu les marges, avec 10 milliards de datacenters par an vous pouvez faire à peu près 20 milliards de revenus en token, vous pouvez vendre 20 milliard de tokens. Si vous faites les choses correctement, si vous êtes à peu près à l'échelle, 1 giga c'est à peu près à l'échelle donc c'est à peu près ça. C'est à dire que vous avez 50% de marge brute entre le service numérique et les investissements que le fournisseur de services
+[00:29:50] numériques fait.
+[00:29:51] Donc c'est une marge significative, c'est une marge qui permet d'investir et de faire de la R&D.
+[00:29:55] En particulier, ça permet de financer ce qui coûte extrêmement cher en intelligence artificielle, qui est l'entraînement des modèles.
+[00:30:00] Parce que nous, on utilise nous-mêmes des GPU, on utilise aujourd'hui des dizaines de mégawatts pour entraîner des modèles, donc ça c'est des coûts uniquement pour nous qu'on porte.
+[00:30:09] Donc voilà à peu près ce qu'on peut avoir en tête, un gigawatt.
+[00:30:13] j'ai mentionné que si vous avez ne serait-ce que 10% de la masse salariale européenne qui devient de l'intelligence artificielle on parle d'environ 400 MW parce qu'on parle on va dire qu'on parle de 10 000 euros par an et 10 000 euros par an ça vous loue à peu près 1 kW de GPU 1 GPU c'est 2 kW donc vous louez un demi GPU avec ça donc finalement vous êtes dans une situation où, en fait, pour construire ça, il faut faire 20 trillions d'investissements. Ces 20 trillions d'investissements, ça va rapporter environ 8 trillions par an.
+[00:31:01] Vous avez 20 trillions d'investissements et c'est environ 8 trillions par an de revenus qui peuvent repartir.
+[00:31:11] Donc on est sur des échelles qui sont quand même assez significatives.
+[00:31:15] Et ce qu'il faut prendre en compte, c'est que ces 50% de marge brute entre le fournisseur de service et ce qui fait le fournisseur de service, en fait dans la chaîne qui transforme l'électron en token, il y a à peu près 10% qui va à l'électron.
+[00:31:31] Donc si votre seul rôle, si le seul rôle de l'Europe, c'est d'être le fournisseur d'énergie, ça veut dire qu'il y a 90% de la valeur qui est ailleurs.
+[00:31:38] Et donc, il repart, il sort de l'Europe et il va être investi, recyclé en R&D, utilisé comme acteur de puissance par d'autres acteurs. Donc, il faut le prendre en compte.
+[00:31:54] Est-ce que le président veut poser des questions ? Puisque le président est dans la salle. Je le salue.
+[00:32:02] j'aurais peut-être deux types de questions pour sortir un peu de la technique quelles sont les limites éthiques que vous vous êtes fixés chez Mistral parce qu'il y a eu un gros débat avec Anthropique à un moment sur sa participation avec le département de la guerre parce que c'est comme ça qu'il l'appelle maintenant aux Etats-Unis quelles sont les limites que vous vous êtes fixés ça peut peut-être faire écho mais pas simplement au titre de la défense mais ça peut être aussi en termes de remplacement de l'être humain puisque vous en avez parlé en parlant de masse salariale et de travailleurs qui pourraient être remplacés.
+[00:32:34] On l'a vu avec Mythos aussi.
+[00:32:35] Petite incise, est-ce que vous avez pu toucher du doigt Mythos, voir ce que ça vaut ?
+[00:32:39] Parce que quand on a posé la question à Vincent Strubel, il nous avait dit qu'il avait entendu simplement des gens qui avaient parlé, qui avaient vu, mais il n'avait pas manipulé le modèle.
+[00:32:48] Donc est-ce qu'aujourd'hui, il est aussi puissant qu'il le dit ?
+[00:32:51] Comment est-ce que vous le voyez ?
+[00:32:52] Ça, c'était l'incise.
+[00:32:53] Deuxième question, l'IA, c'est, vous l'avez dit, un raccourcissement du temps.
+[00:32:58] on a des modèles qui sortent très régulièrement qui sont plus puissants les uns que les autres quel est aujourd'hui le pas de temps qu'il ne faut pas qu'on loupe pour être totalement décroché quel est l'espace temps qu'il faut absolument qu'on puisse investir et sur lequel la puissance publique doit réfléchir parce qu'en fait on est un peu lent donc la question c'est comment est-ce qu'on peut avoir cette idée du temps et est-ce que la distillation comme le pratiquent beaucoup les chinois notamment avec DeepSik est un moyen de rattraper le temps ou est-ce que c'est un moyen de compenser un tout petit peu, mais ça ne sert pas vraiment parce que du coup, le modèle qui en sort n'est pas forcément aussi puissant
+[00:33:37] et aussi intéressant que les modèles qu'il a utilisé.
+[00:33:42] Très bien, je vais prendre vos questions dans l'ordre.
+[00:33:45] Sur le sujet éthique, nous on fait des systèmes qui sont des systèmes qui aident les humains à être plus efficaces, qui vont automatiser un certain nombre de procédés en laissant les humains dans la boucle sur les décisions importantes.
+[00:33:58] Et donc, on a toute une équipe de designers, une dizaine de designers chez nous, qui vont réfléchir aux interactions aux machines, faire en sorte que quand l'intelligence artificielle résume des informations, aide à la décision, elle fournisse suffisamment d'éléments pour que l'humain reste informé.
+[00:34:13] Alors, je ne vous dis pas que c'est un sujet facile, parce que vous avez quand même des sujets, l'humain a tendance à être un petit peu paresseux, et donc si le truc fait à sa place, s'ils réfléchissent de moins en moins.
+[00:34:23] Donc, en fait, il y a quand même ce sujet d'arriver à les laisser dans la boucle.
+[00:34:27] Il faut stimuler l'être humain quand il est face à la machine.
+[00:34:29] Et donc, c'est des sujets, évidemment, auxquels on réfléchit.
+[00:34:32] Ensuite, il y a une sous-partie de l'éthique et le sujet de l'engagement dans la défense.
+[00:34:36] Alors, nous, on travaille avec le ministère des Armées.
+[00:34:40] On travaille, par ailleurs, avec certains alliés de la France.
+[00:34:43] Et il se trouve que c'est une technologie qui, en fait, est considérée comme une technologie à usage dual.
+[00:34:49] Et donc, fondamentalement, elle est régulée en termes d'export.
+[00:34:52] en termes de contrôle export.
+[00:34:53] Et donc, du coup, on a tout le cadre de la réglementation sur le contrôle export qui s'applique à nous.
+[00:35:01] Et donc, ça nous permet d'avoir...
+[00:35:03] Nous, on ne prétend pas avoir un cadre éthique, on ne prétend pas avoir la légitimité pour avoir un cadre éthique suffisant ou pas une légitimité démocratique en tant que société.
+[00:35:10] En revanche, on s'inscrit dans des cadres qui ont légitimité démocratique et ça nous permet de travailler correctement et de ne pas faire ce qu'on n'a pas le droit de faire.
+[00:35:21] Ensuite, quand on travaille avec le ministère des Armées en France, nous, on ne prétend pas, au contraire d'autres acteurs, avoir un droit de regard sur l'utilisation in fine.
+[00:35:29] Parce qu'on ne prétend pas avoir la légitimité pour expliquer aux armées françaises ce qu'elles peuvent faire et ce qu'elles ne peuvent pas faire de la technologie.
+[00:35:37] On peut leur dire, et on peut le faire par projet, on peut leur expliquer la fiabilité des choses, etc.
+[00:35:45] Mais ensuite, qui est souverain finalement dans l'utilisation des technologies ?
+[00:35:50] C'est l'armée. L'armée a une légitimité démocratique qu'on n'a pas.
+[00:35:53] Et donc, à ce titre, nous, on a un devoir de conseil, on explique comment ça fonctionne.
+[00:35:57] Et je peux vous dire qu'aujourd'hui, c'est utilisé de manière tout à fait raisonnable et dans les limites de ce que l'intelligence artificielle peut faire.
+[00:36:04] On n'a pas... Il faut avoir conscience que l'intelligence artificielle, ça permet du défensif.
+[00:36:10] Ça permet d'avoir des armées beaucoup plus opérationnelles, évidemment.
+[00:36:13] ça améliore les opérations, etc.
+[00:36:16] ça permet de faire du défensif, mais c'est aussi absolument critique dans la dissuasion, c'est-à-dire que vous avez des armées, comme l'armée russe, qui utilisent l'intelligence artificielle dans leur drone massivement. Si vous n'êtes pas capable d'avoir en face des contres, qui sont eux-mêmes activés par de l'intelligence artificielle, vous n'avez pas une dissuasion suffisante.
+[00:36:33] Et donc, le déploiement d'intelligence artificielle dans des systèmes autonomes, en particulier, je pense qu'il ne faut absolument pas y couper, c'est-à-dire que c'est absolument indispensable pour avoir une dissuasion conventionnelle aujourd'hui. Ça veut aussi dire qu'il faut maîtriser l'intelligence artificielle de bout en bout.
+[00:36:47] Ça, c'est sur le premier sujet.
+[00:36:49] Ensuite, sur le sujet de la cyberdéfense et de la cyberattaque, alors on a un de nos concurrents américains qui sait très bien faire du marketing de la peur, si vous voulez, mais le sujet que les modèles sont d'excellents programmeurs et sont absolument capables d'orchestrer des attaques, de découvrir des vulnérabilités et de proposer des exploitations c'est des choses ça fait six mois que ça commence à monter ça monte de manière linéaire prédictible ça monte chez tout le monde en même temps c'est à dire que vous avez un autre concurrent américain qui a un modèle qui exactement fait exactement la même chose vous avez des acteurs chinois qui le font également et nos modèles à nous sont capables de découvrir toutes les vulnérabilités dont il est fait état par mythos par exemple donc
+[00:37:34] nous ça veut dire qu'on travaille avec nos clients pour les aider sur ces sujets cyber c'est évidemment un sujet régalien et donc c'est encore un argument supplémentaire pour dire qu'il faut avoir un contrôle sur cette technologie, vous ne pouvez pas avoir les bases de données, les bases de codes de l'armée française qui seront scannées par mythos je pense qu'il faut ça crée une dépendance tellement irrémédiable qu'il faut absolument trouver des solutions ensuite sur le sujet du temps alors sur le sujet du temps je dirais qu'on n'a pas le temps Je pense que notamment parce que c'est lié à des contraintes physiques. On parle de ressources naturelles.
+[00:38:13] On parle d'utilisation de ressources naturelles pour transformer de l'électricité en token.
+[00:38:17] Il n'y a pas une électricité infinie dans le monde.
+[00:38:19] Les Etats-Unis saturent leur électricité pour la transformer en intelligence artificielle.
+[00:38:23] Ils déploient un trillion de dollars l'année prochaine.
+[00:38:25] Quand ils déploient un trillion de dollars, ça veut dire qu'ils veulent deux trillion de dollars en retour.
+[00:38:29] Donc, ils voient bien qu'il y a un marché immense qui se crée et ils voient bien que celui qui possède la ressource, celui qui se fournit les chips, celui qui possède les électrons, qui possède les centrales éventuellement ou qui a accès à l'énergie de manière massive, c'est celui qui gagne.
+[00:38:47] Donc ça veut dire qu'aujourd'hui, vous avez ces 9 gigawatts, ces 90 terawatt-heure par an qui sont disponibles en France.
+[00:38:55] Il y a plein de choses qu'on peut faire avec.
+[00:38:57] En partie, on va faire de l'intelligence artificielle.
+[00:38:59] Vous avez des acteurs qui ont des bilans énormes et qui ont largement de quoi mettre l'argent sur la table avant de voir la demande pour transformer les électrons en intelligence.
+[00:39:09] Sauf qu'ils vont le faire dans les deux années qui viennent.
+[00:39:11] Une fois qu'ils l'ont fait, vous n'avez plus d'électricité.
+[00:39:13] C'est-à-dire qu'il faut attendre les centrales, il faut en créer des nouvelles, etc.
+[00:39:16] Donc vous avez une forme de monopolisation de la ressource énergétique européenne qui est en cours, qui est en train de s'accélérer à une vitesse folle et dont on n'a pas conscience.
+[00:39:25] Et c'est vraiment irrémédiable.
+[00:39:26] C'est-à-dire qu'une fois, on a déjà un problème de demande. C'est-à-dire que comme les Américains sont arrivés avant sur le cloud, c'est eux qui fournissent toute l'industrie européenne, ils fournissent, si vous voulez, l'État français, évidemment.
+[00:39:42] La part de marché du cloud et de l'intelligence artificielle a plutôt tendance à se compresser pour les acteurs non américains, c'est-à-dire que non seulement ils grossissent avec le marché, mais en plus de ça, leur part augmente. Donc je pense que c'est quelque chose qui peut s'inverser avec l'intelligence artificielle et ce qu'on commence à voir.
+[00:39:57] avec nos clients, avec notre revenu, avec notre croissance.
+[00:39:59] Mais le problème, c'est que même si vous résolvez le problème de la demande, vous avez un problème d'offre.
+[00:40:03] Parce qu'une fois que l'offre est monopolisée par des électeurs américains, soudain, nous, on n'a plus d'offres, en fait.
+[00:40:10] On ne peut plus transformer des électrons en token.
+[00:40:13] Et ça se joue dans les deux années qui viennent.
+[00:40:15] C'est-à-dire que ce qu'il faut mettre sur la table aujourd'hui en termes d'investissement, c'est des dizaines, des centaines de milliards de dollars.
+[00:40:22] Et pour le faire, il faut avoir une visibilité sur le marché.
+[00:40:24] et la visibilité sur le marché, elle doit être indiquée par les acteurs européens, par les États européens.
+[00:40:30] Aujourd'hui, elle n'est pas indiquée de manière suffisamment massive pour que nous, on puisse prendre le risque de déployer 100 milliards de dollars.
+[00:40:36] Donc, je pense qu'il faut prendre conscience de cette urgence.
+[00:40:40] Et malheureusement, je ne vois pas très bien comment on en prendra conscience.
+[00:40:43] Donc nous, on va arriver à construire 1 gigawatt d'ici 2029.
+[00:40:49] C'est ça nos objectifs.
+[00:40:51] Ce n'est pas suffisant.
+[00:40:51] Il faudrait qu'on construise plus.
+[00:40:52] Mais pour ça, il faut qu'on ait une forme de visibilité sur le marché et sur la demande qui n'est pas la visibilité qu'on a aujourd'hui.
+[00:41:02] Et enfin, peut-être sur la dernière question, vous avez posé une question sur la distillation.
+[00:41:06] La distillation, c'est quoi ?
+[00:41:07] Vous prenez un gros modèle et vous utilisez ce modèle pour en faire un petit qui va être plus efficace.
+[00:41:11] Donc nous, on utilise massivement, parce qu'on entraîne des gros modèles, ça nous coûte très cher.
+[00:41:15] Ensuite, on utilise nos gros modèles pour entraîner des petits modèles qu'ensuite on sert à nos clients, parce que ça leur coûte moins cher à servir.
+[00:41:20] Ce que ça veut dire, c'est que c'est absolument indispensable.
+[00:41:23] Si vous voulez savoir ce qu'il y a dans vos modèles et les contrôler, il faut être capable de construire les plus gros modèles.
+[00:41:30] Ça veut dire qu'il faut savoir les entraîner, ce qui veut dire qu'il faut avoir beaucoup de capacités de calcul en propre, c'est de la pure R&D, qui permet de les entraîner.
+[00:41:40] Est-ce que ça permet de rattraper ?
+[00:41:41] Non, c'est une technologie qui permet de réduire les coûts essentiellement en interne.
+[00:41:45] Nous, on prend des gros modèles et on les utilise en interne pour faire des petits.
+[00:41:49] et on a besoin des gros modèles, ce qui veut dire qu'il faut investir beaucoup dedans.
+[00:41:53] Merci.
+[00:41:55] Arnaud Saint-Martin pour d'autres questions.
+[00:42:00] Merci Madame la Présidente.
+[00:42:01] Je vais essayer de transformer mon énergie corticale en intelligence par un bloc de questions. Moi, j'aimerais vous interroger sur les infrastructures. Vous avez évoqué la construction d'infrastructures, de cloud, etc. Il se trouve qu'au nord de ma circonception, il y a un méga projet qui est en train de s'installer qui s'appelle Campus IA.
+[00:42:17] Vous y êtes associé.
+[00:42:19] Et j'aimerais avoir des détails sur l'architecture du système, comment ça va se mettre en place, etc.
+[00:42:23] Il y a eu une concertation à laquelle j'ai participé en amont.
+[00:42:26] Là, on est dans l'enquête publique.
+[00:42:28] C'est en train de se mettre en branle.
+[00:42:29] C'est un projet qui est énorme.
+[00:42:31] C'est un campus.
+[00:42:32] Enfin, un campus, d'ailleurs.
+[00:42:33] Le terme paraît assez inapproprié.
+[00:42:34] Mais en tout cas, c'est un vaisseau amiral du sommet de l'IA.
+[00:42:37] Ça a été présenté comme tel.
+[00:42:39] C'est 35 milliards qui sont abondés par MGX, le fonds souverain d'Abu Dhabi, avec un partenariat Nvidia plutôt américain.
+[00:42:46] Et vous donc qui êtes pris dans ce projet, moi j'aimerais avoir des éléments sur votre appréciation des impacts environnementaux de ce méga projet qui sont non neutres sur le plan de l'empreinte.
+[00:43:02] Ça va consommer des terres arables à hauteur de 100 hectares, ce qui n'est pas rien, ce sont plutôt des ressources à protéger.
+[00:43:10] Par ailleurs, ça va consommer aussi beaucoup d'électrons, pour reprendre cette expression. C'est 1,4 à 1,6 gigawatts. Généralement, c'est l'exemple de Flamanville qui est pris pour mesurer l'intensité de cette énergie requise.
+[00:43:28] Par ailleurs, ça pose plein de questions.
+[00:43:31] Je n'ai pas le temps d'aborder tous les impacts environnementaux, mais en tout cas, j'aimerais bien vous écouter là-dessus, parce que les gens s'interrogent sur la mise en place de cette infrastructure.
+[00:43:38] J'aimerais aussi que vous me disiez un petit peu comment vous envisagez la question de la souveraineté numérique, s'agissant de cette dépendance quand même construite avec un acteur moyen-oriental qui est là pour externaliser un business en France.
+[00:43:52] Il a été attiré. C'est toute une politique gouvernementale.
+[00:43:54] on a bien compris, mais j'aimerais savoir comment vous vous positionnez dans cette architecture aussi économique et technique, ce que je disais juste avant sur l'infrastructure.
+[00:44:03] J'aimerais avoir des éléments aussi sur les usages qui sont envisagés.
+[00:44:07] J'ai bien compris que c'était des data centers modulaires qui vont au fur et à mesure être installés, etc., qui vont construire cette macro-infrastructure, mais en gros, ça va servir à quoi ?
+[00:44:16] Et quels sont les potentiels clients ? Quels usages ?
+[00:44:20] Vous avez déjà évoqué un certain nombre de clients.
+[00:44:22] est-ce qu'ils seront partis prenants de ce projet, en tout cas est-ce qu'ils sont intéressés quelles sont les clientèles que vous démarchez et en termes de mise en place quel est le calendrier et je pense que c'est important que la représentation nationale et cette commission d'enquête aient des éléments parce que là c'est vraiment le vaisseau amiral du sommet, c'est 35 milliards voire beaucoup plus et c'est puissamment transformateur de la région, c'est en Seine-et-Marne il y avait des betteraves et des champs de blé juste avant, là il n'y en a plus clairement c'est en train d'être fouillé par l'archéologie préventive donc ça va être un gros projet Donc j'ai une première question sur Campus IA et d'ailleurs le nom même Campus. Il était question d'avoir des partenariats avec Polytechnique ou je ne sais quelle structure de l'enseignement supérieur et de la recherche. Est-ce que ça, c'est pas un peu de l'affichage pour vendre le projet ? J'aimerais bien vous écouter là-dessus aussi parce que de ce que j'ai compris, il y aura très peu de recherche sur place.
+[00:45:12] Et donc voilà un premier bloc de questions et j'en aurai d'autres après. Merci.
+[00:45:16] Alors moi je vais vous expliquer un peu notre rôle dans Campusia qui est très mineur.
+[00:45:23] C'est à dire qu'on a toute petite participation. On a pris une participation parce que, en fait, dans la chaîne de valeur nous on est capable de construire les clusters. Donc on achète les serveurs, on les branche. C'est à dire que vous avez, ça ressemble à des racks physiques qui vont être mis dans des bâtiments, mais nous on ne fait pas les bâtiments. On ne fait pas les bâtiments, on ne fait pas les transformateurs, on ne fait pas leur refroidissement. On va plutôt chercher des partenariats pour pouvoir le faire.
+[00:45:47] Donc à ce titre-là, on a besoin de fournisseurs, de développeurs de data centers.
+[00:45:52] Donc à ce titre-là, on a pris une position qui est très minoritaire dans ce projet-là. Et surtout, c'est un fournisseur.
+[00:45:58] C'est-à-dire que ça va devenir un fournisseur pour nous sur une partie de la construction.
+[00:46:03] Une autre partie va être utilisée pour fournir aux hyperscalers.
+[00:46:05] Parce qu'en fait, vous partez d'une situation où vous avez 80% des services numériques européens qui sont faits importés des hyperscalers.
+[00:46:14] Et donc, naturellement, le point de démarrage, si vous voulez, si vous commencez à construire de l'infrastructure et vous regardez la demande in fine, vous vous retrouvez avec 80% d'hyperscaleurs.
+[00:46:23] Avec, je pense, l'objectif que doit avoir la France et que doit avoir l'Europe, c'est de faire en sorte que cette proportion diminue au cours du temps.
+[00:46:31] Donc, c'est pour ça que CampusIA, aujourd'hui, va nous servir en partie et va servir en partie certainement des hyperscaleurs.
+[00:46:36] Donc, voilà ce que je peux dire. Ensuite, sur le nom, ce n'est pas moi qui l'ai choisi.
+[00:46:40] sur un certain nombre d'aspects techniques.
+[00:46:45] Moi, je n'en sais rien.
+[00:46:48] En tout cas, ce qui est sûr, c'est qu'il y a une partie du revenu qui est effectivement reversée à de la recherche publique.
+[00:46:55] Ensuite, sur le sujet, je parlais du sujet du capital.
+[00:46:58] Vous avez effectivement...
+[00:46:59] Alors ça, c'est la vraie infrastructure, c'est-à-dire que vous pouvez construire un data center, vous le louez, ça vous fait un retour sur équité.
+[00:47:08] et en fait c'est essentiellement un assez bon business.
+[00:47:11] Si vous avez beaucoup de fonds, les déployer dans les data centers aujourd'hui, sachant que tout le monde veut des data centers, ça fait un retour sur equity qui est assez significatif et donc il y a plein d'acteurs qui veulent le faire.
+[00:47:21] Quand vous avez un site de cette taille-là, vous avez besoin d'acteurs qui ont des reins assez solides, c'est-à-dire qui peuvent déployer des dizaines de milliards d'euros.
+[00:47:29] Et donc là-dessus, naturellement, parce que comme on a oublié de faire des fonds de pension en France par exemple, on se tourne vers des financiers étrangers parce qu'il n'y a pas de marché de capitaux, les marchés de capitaux en Europe sont complètement dépourvus de fournisseurs de solutions pour ce type d'investissement, donc en fait on va en chercher ailleurs et je pense qu'il faut en bénéficier, c'est-à-dire que les investissements étrangers, si c'est sous un contrôle si la gouvernance est bonne dans les investissements qui sont faits, et là je pense aujourd'hui sur ce sujet-là il y a la BPI France je pense qu'il me semble que vous avez pu l'interroger joue un rôle et à un siège au bord, etc., ces investissements à l'étranger,
+[00:48:06] ils sont bénéfiques, puisque ça nous permet d'accélérer.
+[00:48:09] Évidemment, on perd un certain nombre des économiques, parce que vous avez assez autant de...
+[00:48:14] Quand vous avez des capitaux étrangers qui arrivent, en fait, ils récupèrent un retour.
+[00:48:18] Donc, on perd le retour. Mais, d'un autre côté, on construit quelque chose, donc on peut en tirer quelque chose. Nous, on arrive, ce qu'on propose, c'est de gagner la marge qui est la marge opération des serveurs jusqu'au service numérique. Donc ça c'est autant de marge qu'on peut réinvestir en R&D.
+[00:48:33] Donc on ne propose pas, on n'est pas capable aujourd'hui de faire un modèle complètement intégré où on opère du terrain jusqu'au service numérique, peut-être que ça sera le cas un jour. Mais voilà, il y a un partage de la valeur, nous on est capable de créer pas mal de valeur avec ça, on va pouvoir le réinvestir en R&D. Évidemment il y a des investisseurs étrangers qui vont récupérer leur BIC quelque part, mais d'un autre côté si on n'avait pas ces investisseurs étrangers, on ne pourrait pas construire. Donc il faut réfléchir à la souveraineté comme un chemin.
+[00:49:04] Vous partez d'un état de l'économie et des équilibres sur la chaîne de valeur et vous vous dites que cet état n'est pas satisfaisant, il faut changer cet état, ça va prendre du temps. Et comment on change cet état ?
+[00:49:15] Il faut mettre les ressources au bon endroit et ça va changer peu à peu.
+[00:49:19] Sur les sujets environnementaux, évidemment tout ça coûte cher et les externalités, si vous pouvez remonter la chaîne de valeur jusqu'au semi, vous avez besoin de beaucoup d'intrants, vous avez besoin de terres rares, vous avez besoin de terrain, encore que je pense que ce n'est pas le sujet principal, parce que c'est quand même super dense.
+[00:49:38] Donc en fait, si vous voulez, un gigawatt, ça tient sur une centaine d'hectares, donc on n'a pas vraiment de sujet de terrain, d'un point de vue...
+[00:49:46] Alors, bien sûr, si vous regardez au niveau de la ville, si vous regardez au niveau de l'Europe, il n'y a pas de sujet.
+[00:49:50] Donc ce n'est pas le sujet principal, en tout cas.
+[00:49:53] Ensuite, vous avez un sujet d'électrons.
+[00:49:55] Ça, c'est un vrai sujet.
+[00:49:57] L'intérêt de construire en France, pour nous en particulier...
+[00:50:00] C'est que les électrons, 70% c'est nucléaire.
+[00:50:03] Donc ça veut dire que l'empreinte carbone de l'électron est largement réduite.
+[00:50:06] Et donc construire en France, c'est fondamentalement mieux que de construire ailleurs, parce que c'est auquel les gens en ont besoin.
+[00:50:12] Donc si vous avez quelqu'un qui construit un gigawatt de capacité en France, il ne va pas construire un gigawatt de capacité au Texas.
+[00:50:17] Et finalement, l'atmosphère va un petit peu moins se réchauffer.
+[00:50:20] Donc je pense qu'il faut y réfléchir de ce point de vue-là.
+[00:50:22] Ensuite, vous avez d'autres intrants. Vous avez l'eau en particulier.
+[00:50:25] Là, il y a eu beaucoup de progrès technologique pour éviter d'être en chaleur fatale et faire en sorte que le refroidissement soit plus efficace et que la majorité des électrons soit plutôt utilisée dans le calcul plutôt qu'utilisée dans tout ce qui est autour.
+[00:50:40] Et puis ensuite, vous avez des sujets de biodiversité, évidemment, qui me semblent, pour avoir pu observer les bordes, il me semble que tout a été fait et mis en œuvre pour préserver ces aspects-là.
+[00:50:54] Donc pour nous, c'est important.
+[00:50:55] alors évidemment les choses sont pas c'est-à-dire que d'un point de vue écologique ce serait mieux qu'une forêt mais de fait d'un point de vue économique ça a quand même un rôle donc il faut ça a un effet écologique il faut penser l'intelligence artificielle dans l'écologie si vous voulez encore une fois on transforme de l'énergie en électrons c'est une sorte de ressource naturelle des électrons en token comme une sorte de ressource naturelle il faut faire une sorte de mine mais la mine c'est le data center et je pense qu'il faut en faire parce que si on n'en fait pas on a des sujets supplémentaires et je pense qu'il faut en faire le plus on en fait nous, le plus on a notre voix au chapitre sur la manière dont on réfléchit
+[00:51:39] aux externalités, c'est à dire que si on n'en fait pas nous on va juste importer ce qu'on nous propose à l'extérieur et je peux vous dire qu'à l'extérieur ils réfléchissent à la biodiversité et au réchauffement climatique, et c'est différent de la manière dont nous, on y réfléchit.
+[00:51:56] Donc, si on veut avoir une voix au chapitre, de toute façon, il faut être capable d'internaliser la production.
+[00:52:00] Et ça, c'est absolument essentiel.
+[00:52:03] Et donc, il y a évidemment des compromis à faire.
+[00:52:05] De la même manière qu'on a accepté de construire des mines au lithium en France, quitte à faire une mine, il faut accepter de faire des data centers.
+[00:52:13] Ce qui serait dommage, c'est de faire des data centers dont l'essentiel de la valeur économique échappe complètement à la France.
+[00:52:18] C'est ça, le sujet.
+[00:52:20] Donc, quitte à prendre ces externalités-là, faisons en sorte que ça puisse être recyclé en R&D et en aspect bénéfique pour la France.
+[00:52:28] Oui, alors il faut juste que M. Arthur Mensch coupe son micro parce que je ne peux pas le faire de mon poste.
+[00:52:33] Peut-être pour compléter juste ce propos-là, on a aussi été la première entreprise d'intelligence artificielle à faire l'analyse du cycle de vie de nos modèles.
+[00:52:42] On l'a fait l'année dernière avec l'ADEME et Carbon Cap.
+[00:52:45] On s'apprête à le refaire sur nos nouveaux modèles.
+[00:52:47] Et l'idée est aussi de pouvoir apporter davantage de transparence et une méthodologie qui pousse les autres entreprises à faire de même, ou en tout cas permettre aux clients et aussi aux pouvoirs publics qui après font des choix dans l'allocation des projets, de pouvoir se baser sur quelque chose de concret et de fiable.
+[00:53:04] Et donc par ces initiatives-là, d'initier et d'encourager à de la centralisation sur le sujet.
+[00:53:12] Je voudrais juste, aujourd'hui, notre nouvelle génération de modèles, on l'entraîne en France.
+[00:53:18] et je pense qu'on a le plus gros cluster en France de calcul.
+[00:53:20] Donc c'est une fierté pour nous, parce que ça, effectivement, d'un point de vue empreinte carbone en particulier, c'est largement réduit par rapport à ce qu'on pouvait faire avant, quand on n'était pas en France.
+[00:53:31] Donc voilà ce que je peux dire.
+[00:53:32] Enfin, sur le sujet calcul des empreintes carbone, etc., au contraire de certains de nos concurrents, on pense qu'il faut avoir une approche qui est en cycle de vie et pas une approche avec des compensations, parce qu'évidemment, c'est un peu trop facile quand vous avez des bilans très importants de faire de la compensation.
+[00:53:50] Alors qu'en fait, il faut réfléchir de manière intégrée à tout ce qui rentre à l'intérieur des projets et avoir une transparence par projet, en fait, plutôt qu'avoir une transparence globale et des équilibres via des quotas.
+[00:54:03] Merci. Donc moi, j'ai deux questions à vous poser, mais je pense que, en fait, les réponses que vous avez apportées vont me permettre de compléter un peu la question que je voulais vous poser.
+[00:54:14] dans les propos liminaires vous avez parlé de réglementation lourde et je voulais que vous puissiez nous en dire un peu plus ce que vous entendez et ce qui pourrait finalement être amélioré peut-être soit rendre plus légère soit plus facile ou comment on peut le transformer en opportunité et je prolongerai la question par le fait du calcul de cycle de vie différent de la compensation, est-ce que finalement ça ne devrait pas rentrer pourquoi pas dans la réglementation ou dans les contraintes que l'on pourrait avoir sur les déploiements de cette intelligence artificielle, ou en tout cas quand les pouvoirs publics ou d'autres font appel à différents systèmes.
+[00:54:57] Et puis une autre question qui est différente, vous avez parlé de marché fragmenté, pareil dans vos propos liminaires, vous avez évoqué que ça pouvait plutôt être une chance finalement qu'un frein, Mais vous l'avez tout de suite contrebalancé dans la phrase d'après.
+[00:55:18] Donc est-ce que c'est une chance ou est-ce que c'est un frein ?
+[00:55:22] Et si oui ou non, pourquoi ?
+[00:55:25] Pour expliquer, je pense que ça méritera un tout petit éclaircissement.
+[00:55:29] Bien sûr.
+[00:55:31] Alors sur le sujet, je vais prendre la première question qui est sur le sujet de lourdeur réglementaire et le sujet de marché fragmenté qui sont un peu la même chose.
+[00:55:38] un des problèmes réglementaires de l'Europe c'est que fondamentalement à chaque fois que vous rentrez dans un pays européen vous devez ouvrir une nouvelle entité vous devez comprendre un nouveau régime de stock option vous devez comprendre une réglementation du travail qui est différente et donc ça veut dire qu'il faut assez vite une équipe sur place c'est à dire qu'il faut que moi j'ai signé des centaines de documents pour ouvrir des entités dans une dizaine de pays d'Europe j'ai ouvert des dizaines de comptes en banque parce que en général il faut un compte en banque associé vous avez tout un tas de réglementations qui sont des réglementations nationales qui sont non unifiées, vous avez une fiscalité évidemment qui n'est pas unifiée
+[00:56:18] alors qu'il faudrait absolument qu'elle soit unifiée si vous voulez avoir des systèmes d'incitation des employés qui ont à peu près du sens donc nous on patch les choses on essaye de faire des choses qui sont le plus juste possible mais on se retrouve avec des situations fiscales qui sont franchement disparates entre les pays donc ça c'est relativement catastrophique donc en fait vous ne pouvez pas avoir de marché unifié si vous n'avez pas une forme de fiscalité unifiée, si vous n'avez pas une forme de droit social unifié, etc.
+[00:56:40] Donc ça, c'est la première chose.
+[00:56:42] Je dirais que c'est la principale lourdeur.
+[00:56:43] Ensuite, vous avez tout un empilement de réglementations qui sont plus ou moins cohérentes entre elles et qui nous forcent à documenter beaucoup de choses.
+[00:56:51] Donc vous avez le RGPD.
+[00:56:53] Vous avez toutes les lois sur le copyright et le text and data mining.
+[00:56:57] Vous avez maintenant les AIAC, qui n'est pas encore mis en œuvre, mais qui va l'être à partir d'août.
+[00:57:01] Tous ces trucs disent des choses plus ou moins, touche à des choses assez similaires en général.
+[00:57:06] Ça touche à la donnée, à la donnée personnelle, ça touche à ce qui est sur Internet.
+[00:57:10] Et en fait, ça ne dit pas exactement la même chose.
+[00:57:12] Ça demande de la documentation, qui est différente.
+[00:57:15] C'est mis en œuvre par 27 organes de mise en œuvre différents en Europe, qui sont plus ou moins aînés suivant les pays.
+[00:57:23] Et donc, on se retrouve, nous, moi je me retrouve avec une équipe de compliance qui fait 5 personnes.
+[00:57:29] Et ce qui est...
+[00:57:30] Aujourd'hui, pour nous, c'est jouable, parce qu'en fait, on est suffisamment gros.
+[00:57:33] mais vous êtes un entrepreneur en France et vous regardez tout ça et puis vous regardez aussi l'ambiance et le fait qu'on se réjouisse d'avoir remis une régulation sur les IAC, c'était en début 2024 et vous dites vous allez aux Etats-Unis en fait et c'est ce qui se passe, ils vont aux Etats-Unis donc nous on a surmonté cet aspect parce qu'on est assez gros ça rentre dans les overhead de coût ça reste très pénible et puis c'est surtout que vous perdez plein d'entrepreneurs qui partent ailleurs parce qu'ils ont peur et vous avez des investisseurs qui se disent non mais l'Europe de toute façon a perdu, elle réglemente trop puis vous avez tout un récit qui est largement utilisé par les Etats-Unis qui est de dire l'Europe perd parce que de toute façon c'est des ronds de cuir
+[00:58:12] qui sont en train de réglementer à Bruxelles parce qu'ils ne savent rien faire ils ne savent pas innover et en fait c'est un récit qui est destructeur parce qu'en plus il est internalisé par les Européens donc c'est un peu une forme de colonialisme si vous voulez mais le le sujet c'est qu'il faut renverser ce récit pour renverser ce récit il faut aussi réfléchir à avoir des réglementations qui sont plus simples, qui sont plus unifiées, qui nous permettent d'aller plus vite. Donc ça, c'est sur le sujet.
+[00:58:35] J'ai parlé de fragmentation du marché comme un atout.
+[00:58:38] Ça n'est pas un atout.
+[00:58:39] C'est plutôt gênant. Ça veut dire qu'il faut des équipes différentes qui vendent de manière différente partout.
+[00:58:45] Ça veut dire que vous avez aussi environ 60 opérateurs de telco, de télécommunications en Europe.
+[00:58:51] Vous en avez trois aux Etats-Unis.
+[00:58:53] Ça veut dire qu'ils ont 20 fois plus de budget, si vous voulez.
+[00:58:57] Ils ont 20 fois plus de budget de manière globale.
+[00:58:59] Donc, quand ils font un investissement en intelligence artificielle, ils peuvent mettre beaucoup d'argent sur la table.
+[00:59:03] Et c'est comme ça que vous vous retrouvez avec la technologie américaine.
+[00:59:06] Les startups, le premier truc qu'elles font, d'abord, elles vendent aux startups, parce que ça recycle l'argent du venture capitalisme, circule un peu pour savoir qui va gagner.
+[00:59:15] Et ensuite, elles vont vendre aux entreprises américaines qui sont énormes et qui achètent très vite.
+[00:59:20] Et donc, c'est comme ça qu'elles passent à l'échelle.
+[00:59:22] Une fois qu'elles sont passées à l'échelle, hop, elles exportent en Europe, où, en fait, comme personne n'a émergé dans les temps, elles prennent tout le marché, elles rachètent les quelques boîtes qui savent faire des choses et elles se retrouvent, elles sont consolidées, elles ont tout le marché.
+[00:59:33] C'est comme ça que ça se passe.
+[00:59:34] En Europe, on n'a pas ça parce que vous avez une viscosité beaucoup plus grande parce que les entreprises sont plus petites et en plus de ça, il faut parler 20 langues différentes, il faut gérer 27 réglementations différentes.
+[00:59:45] Donc, c'est plutôt pas une chance.
+[00:59:46] En revanche, une fois que vous l'avez fait, c'est vrai que les entreprises européennes, elles sont plus partenariales, elles ont des approches qui sont plus constructives.
+[00:59:53] parfois c'est des champions on a la chance d'avoir plein de champions industriels en particulier et donc ceux-là c'est des bons partenaires pour nous Et comme c'est des approches partenariales, c'est difficile pour les Américains de les répliquer.
+[01:00:05] Et donc, du coup, de certaines manières, c'est du revenu qui est relativement défendable.
+[01:00:09] Donc, vous savez, la viscosité, elle joue en votre défaveur au début, mais ensuite, elle joue en votre faveur quand vous avez quelqu'un qui vous attaque, quand vous avez un concurrent qui essaie de prendre le marché, si vous voulez.
+[01:00:19] Mais voilà, c'est plutôt en notre défaveur, donc vous préférez que le marché soit largement moins fragmenté.
+[01:00:23] Ensuite, dernier point sur la réglementation comme défense et comme manière de contrer les Américains.
+[01:00:30] je pense que souvent l'intention est bonne, c'est-à-dire de se dire on va faire en sorte que ça favorise nos start-up européennes, je pense que si on regarde dans tout l'historique de ce qu'on a pu faire, ça n'a jamais été le cas et une raison très simple c'est que la réglementation fondamentalement ça vous met un overhead que pour surmonter il faut être suffisamment gros, donc si vous n'avez pas des entreprises suffisamment grosses avec une charge réglementaire aussi grosse vous retrouvez avec à importer des acteurs américains donc la réglementation favorise les gros et ça c'est d'autant plus vrai en technologie et donc tout discours comme quoi la réglementation peut nous défendre je pense que c'est assez c'est un peu le diable
+[01:01:06] l'enfer est pavé de bonnes intentions j'ai un endroit en revanche où on devrait être bien meilleur c'est dans le fait de faire en sorte que la demande publique soit recyclée sur le territoire européen c'est à dire que soit utilisée pour faire de la R&D sur le territoire européen ça vaut pour la défense, ça vaut pour tout le secteur public je pense qu'il y a une prise de conscience ce qui n'est pas une prise de conscience forcément réglementaire, mais en revanche, prise de conscience politique, que c'est la chose à faire, que c'est ce que les États-Unis font depuis les années 1940, et que ça a très bien fonctionné pour eux.
+[01:01:36] Et donc, est-ce qu'il faut réglementer ça ? Peut-être qu'on peut un peu gérer cet aspect-là.
+[01:01:42] Il faut le faire en maintenant une compétition très élevée en Europe.
+[01:01:45] Il ne faut pas être planificateur sur où est-ce que l'État dépense, mais pas planificateur sur comment les choses sont utilisées.
+[01:01:53] et comme ça on y arrivera mais réglementer pour défendre en général ça marche pas Quand je vous ai posé la question, c'était pas réglementer pour défendre c'était justement par rapport aux opérateurs publics et le cycle de vie, est-ce que c'était pas ça qu'il fallait mettre dans une réglementation plutôt qu'autre chose C'est à cet endroit là oui C'était justement C'est à cet endroit là oui, mais en revanche mettre des règles supplémentaires à respecter en se disant que les Européens vont s'en sortir mieux c'est faux Quand vous avez des règles, vous avez forcément du lobby à mettre en œuvre pour que l'implémentation des règles soit jouable.
+[01:02:29] Et en général, vous avez les acteurs américains qui sont énormes, mais ils ont beaucoup plus de lobbyistes à Bruxelles que nous.
+[01:02:35] C'est eux qui finissent par les rendre les plus favorables.
+[01:02:39] Merci. Et dans le cycle de vie de la commission d'enquête, c'est maintenant à Madame la rapporteure de poser les questions.
+[01:02:44] Merci. J'ai plusieurs questions.
+[01:02:47] le premier pour revenir et de nature différente, le premier pour revenir à l'échelle des infrastructures vous donniez l'exemple globalement sur 1 gigawatt est-ce que pour vous les infrastructures plus petites en termes de puissance installée globalement ça a encore du sens ou pas ? Non mais je me questionnais sur le niveau de l'exemple Quand je parle de gigawatt c'est un réseau si vous voulez vous n'avez pas besoin d'avoir une forte colocalisation vous faites des économies d'échelle quand vous mettez en œuvre un site avec un gigawatt, et c'est par exemple l'objet de Campus IA. Éventuellement, ça vous permet de déployer des clusters d'entraînement. Les clusters d'entraînement, ça a besoin d'être colocalisé, c'est-à-dire que ça a
+[01:03:29] besoin d'être très connecté entre eux, d'utiliser plein de GPU en même temps, donc il y a beaucoup de communication.
+[01:03:35] Et donc cette communication, comme vous avez des communications, forcément la géographie joue un rôle, et donc si vous pouvez mettre tout à côté, ça marche mieux.
+[01:03:42] Donc la colocalisation, c'est utile pour l'entraînement, on n'a jamais besoin de colocaliser un gigawatt, c'est uniquement utile parce que vous faites des économies d'échelle, que ça rend les projets plus simples mais si vous avez plein de sites à 100 mégawatts, ça marche aussi, en fait, il faut réfléchir en tant que réseau, je pense qu'on a fait des grosses erreurs à penser à l'intelligence artificielle comme des usines, des giga-usines etc, on ne parle pas de giga-usines en fait on parle de services numériques qui ont besoin de puissance électrique qui est plutôt distribuée donc on n'a pas besoin de construire ce type d'infrastructure nécessairement.
+[01:04:14] C'est utile, en revanche, parce que, ne serait-ce que d'un point de vue externalité environnementale, vous avez moins d'une empreinte qui est moindre, de manière générale, parce qu'il y a une partie qui est variable.
+[01:04:27] Un transformateur de 100 MW ou une station de transformation de 100 MW ou de 1 GW, ça fait à peu près la même taille.
+[01:04:37] C'est ça le sujet.
+[01:04:39] C'est plutôt un sujet d'économie d'échelle.
+[01:04:41] Mais comme on a une grille qui est performante en France, on n'a pas tellement ce sujet d'avoir que des gros sites.
+[01:04:49] Nous, par exemple, on n'a pas que des gros sites.
+[01:04:51] Notre cluster qu'on vient de mettre en offre, c'est 40 mégawatts.
+[01:04:56] On a un site de 25 mégawatts en Suède, on a un site de 80 mégawatts en France aussi l'année prochaine.
+[01:05:03] Mais on ne parle pas de gigawatts, de toute façon, un gigawatts, ça prend quand même pas mal de temps à déployer.
+[01:05:06] Et donc, on commencera à être sur ces échelles-là plutôt à horizon 2028, 2029.
+[01:05:19] Merci. Deuxième question, vous avez parlé assez justement du risque de verrouillage, c'est-à-dire que globalement, que les data centers qui soient construits soient principalement occupés par des acteurs extra-européens.
+[01:05:33] et qu'en fait, ces puissances-là, une fois qu'elles sont captées, elles ne soient plus redéployées.
+[01:05:41] Globalement, aujourd'hui, est-ce que la réglementation pourrait être utile ?
+[01:05:44] C'est-à-dire, est-ce qu'on a une réglementation à avoir pour permettre d'empêcher ce verrouillage avant qu'il ait lieu ?
+[01:05:52] Elle ne l'est pas. Il y a fondamentalement un principe de neutralité sur l'accès aux électrons en Europe qui est très fondamental.
+[01:06:03] J'arrive pas à dire.
+[01:06:07] Donc, il y a une référence.
+[01:06:11] La loi européenne ne le permet pas, en réalité.
+[01:06:14] Ensuite, vous avez des volontés politiques, évidemment.
+[01:06:17] Le sujet, c'est que c'est assez peu centralisé.
+[01:06:20] Ce n'est pas perçu comme un plan stratégique.
+[01:06:23] Vous avez l'État central qui décide où est-ce qu'on met la capacité et à qui on la loue.
+[01:06:27] C'est distribué au niveau des collectivités de communes.
+[01:06:30] et les collectivités de communes ne comprennent pas forcément les enjeux supranationaux, si vous voulez.
+[01:06:36] Et donc, du coup, je pense qu'on peut dire aujourd'hui que l'allocation est largement sous-optimale.
+[01:06:44] En revanche, l'allocation, elle est quand même faite sur les principes économiques.
+[01:06:47] En fait, elle est allouée aux gens qui peuvent payer.
+[01:06:49] Et ceux qui peuvent payer, c'est ceux qui ont de la demande.
+[01:06:51] Nous, on peut payer pas mal, mais on aimerait pouvoir payer plus.
+[01:06:54] Il nous faudrait plus de demandes pour ça.
+[01:06:55] En fait, une fois qu'on a la demande, on peut aller chercher le financement, lever de la dette pour construire ce genre de choses.
+[01:07:00] si on a une visibilité long terme sur qui va acheter des tokens.
+[01:07:03] Et à partir de là, on peut construire aussi rapidement ou plus rapidement que les autres.
+[01:07:09] Mais aujourd'hui, ce n'est pas du tout planifié.
+[01:07:11] Et donc, c'est relativement sous-optimal.
+[01:07:16] Peut-être sur l'enjeu de la régulation et de la réglementation, il y a plusieurs projets qui sont en cours à Bruxelles.
+[01:07:23] Et je pense notamment au Cloud and Development Act et au Package Souveraineté.
+[01:07:27] Et donc il y a aussi des levées d'action sur le volet 1 de la définition de ce qu'est un club souverain et 2 sur la préférence européenne dans la commande publique qui nous semble être une manière, peut-être pas parfaite, mais en tout cas une manière de créer aussi un certain nombre d'opportunités pour les entreprises européennes.
+[01:07:47] Et particulièrement sur la question de la définition du cloud souverain, s'assurer qu'on ait une définition qui soit la plus juste et la plus pertinente possible et qui ne soit pas basée juste sur le fait d'avoir une entité juridique vaguement établie dans un pays.
+[01:08:06] Il y a des enjeux à s'assurer effectivement que le contrôle de l'entreprise soit bien non soumis à des entités étrangères et aussi à ce que la donnée qui est stockée ne soit à aucun moment soumise aux juridictions, notamment américaines et je pense au cloud out.
+[01:08:26] Un sujet d'extraterritorialité, vous avez surtout le sujet qu'il faut regarder, le sujet économique qu'il faut regarder, c'est où est-ce que la R&D est réinvestie ?
+[01:08:34] C'est ça le sujet.
+[01:08:35] Et donc quand vous avez effectivement des sociétés européennes, mais qui sont en fait complètement contrôlées par des sociétés étrangères, la R&D, tous les revenus repartent au headquarter.
+[01:08:48] Donc en fait, c'est ça qu'il faut regarder.
+[01:08:58] Merci. Non, totalement. Mais d'où l'enjeu de ne pas attendre que ça soit verrouillé pour agir. Parce que j'entends qu'il y a une capacité d'augmenter la capacité d'achat et la capacité de marché.
+[01:09:09] Je pense que les collectivités locales peuvent leur moindire dans les projets. Donc à ce stade, c'est des espaces d'implantation. Il me semble que les acteurs, c'est soit les acteurs économiques qui investissent et les investisseurs, soit l'État qui pilote le sommet de l'IA.
+[01:09:24] mais pour avancer sur les questions moi j'ai plusieurs est-ce que vous avez une idée de la part de votre chiffre d'affaires aujourd'hui de la commande publique parce qu'on parlait beaucoup de commande publique pour avoir une idée non la commande publique globale c'est à peu près 15% ouais je fais un peu les calculs de tête là non c'est un peu plus c'est 20% C'est 20% dont 10% de la commande publique française.
+[01:09:57] C'est simplement la partie logicielle aujourd'hui.
+[01:10:01] Et donc, c'est pas... Par ailleurs, c'est pas... Je pense qu'on ne demande pas à ce que ça soit... Enfin, on ne cherche pas à ce que ce soit beaucoup plus.
+[01:10:11] Mais effectivement, tout croire. Je pense que ce qu'on voit, c'est que vous avez des États comme le Luxembourg, par exemple, avec lesquels on a des contrats cadres qui sont significatifs, avec lesquels on fait du déploiement en administration centrale.
+[01:10:23] on ne le fait pas du tout à ce type d'échelle en France on le fait beaucoup plus avec les territoires avec la Caisse des dépôts pour le coup et puis on le fait en défense avec le ministère des armées mais l'administration centrale les administrations centrales devraient voir l'intelligence artificielle générative comme une manière de créer la productivité dont elles ont besoin étant donné la démographie européenne en particulier donc je pense qu'il pourrait y avoir une adoption qui est beaucoup plus importante et ça serait bénéfique pour la qualité des services publics pour de manière générale la qualité des finances publiques également et ça serait bénéfique à l'écosystème parce que toute cette commande elle est recyclée en R&D
+[01:11:10] ça permet d'avoir d'autres fournisseurs européens qui émergent etc Désolé Et d'ailleurs sur cet enjeu de productivité C'est une question qu'on a posée à plusieurs reprises et sur laquelle nous n'avons pas eu de réponse. Est-ce que vous avez connaissance aujourd'hui d'études macro, justement, sur les gains de productivité, les retours pour investissement sur les entreprises, aujourd'hui générées par l'IA ?
+[01:11:36] Nous, on a plein d'études micro chez nos clients qui font des retours qui sont largement super à ce qu'ils dépensent aujourd'hui en intelligence artificielle chez nous.
+[01:11:45] Donc des cas d'usage où les gens font 50 millions de retours d'investissement parce que les machines fonctionnent mieux.
+[01:11:52] Vous avez des gains de productivité de l'un facteur 5 dans les services clients.
+[01:11:57] Un facteur 5, ça veut dire que c'est 20% du temps nécessaire à effectuer une tâche par rapport à l'intelligence artificielle.
+[01:12:04] donc c'est très significatif des études macro je pense qu'il n'y en a pas encore beaucoup parce qu'en fait on manque de recul c'est une technologie l'aspect délégation de tâches je laisse mon agent travailler pour moi pendant toute la journée ça ne marche que depuis 6 mois donc vous n'avez pas assez de recul par contre ce qu'on peut voir c'est que nous c'est à peu près 10% de notre masse salariale pour équiper nos personnes le gain de productivité qu'on fait je dirais que c'est l'ordre d'un facteur 2 par rapport à 6 mois, il y a 6 mois donc c'est pas une étude macroéconomique mais c'est de ça dont on parle c'est à dire qu'on parle de 10% 20% des OPEX et de la masse salariale du monde et on parle d'un gain de productivité
+[01:12:50] ça ne sera pas fois 2 partout, nous c'est assez facile d'une certaine manière parce qu'on est une activité qui n'a pas d'empreinte physique donc on a peu de friction sur comment utiliser des agents etc Quand on travaille avec l'industrie lourde, c'est un peu plus difficile parce qu'il faut aller tester les systèmes physiques, etc. Mais on parle de 10% de la masse salariale. Et en général, un client achète une technologie si la technologie ne prend pas plus que 50% de la valeur.
+[01:13:20] si vous voulez. Donc vous avez ce que ça veut dire 20% de gain de productivité.
+[01:13:26] Ça veut dire, je pense qu'il faut l'avoir en tête, c'est pas forcément 20% de croissance, c'est une partie de croissance, une partie destruction d'emplois.
+[01:13:34] Et ça, en tout cas destruction ou modification des emplois existants.
+[01:13:38] Et je pense que quelque chose qu'on n'a pas, pour peut-être repartir sur les sujets plus macro, on est dans une situation où vous avez quand même certains métiers qui disparaissent presque.
+[01:13:52] Et donc, les gens s'adaptent. Ils s'adaptent assez vite.
+[01:13:55] Je pense que ça devrait passer.
+[01:13:58] Ce n'est pas exclu qu'il y ait quand même une augmentation dans certains domaines du chômage et d'une certaine manière, un déplacement de la valeur du travail vers le capital et le capital qui est pour le moment largement pas du capital européen.
+[01:14:13] Et donc, vous avez cette situation qui, je pense, est assez explosive entre, d'une part, vous avez peut-être des destructions d'emploi ou en tout cas des modifications très très rapides de la structure de l'emploi en Europe.
+[01:14:28] Vous avez une situation où tout le monde veut de l'électricité et il n'y a pas assez d'électricité, donc vous avez des conflits d'usage.
+[01:14:34] Conflit d'usage, ça veut dire inflation.
+[01:14:36] Donc vous avez de l'inflation potentiellement due à l'intelligence artificielle.
+[01:14:40] Et puis troisième élément, j'en ai parlé tout à l'heure, vous avez un déficit commercial qui explose, c'est-à-dire que sur le plan des services, il est multiplié par 5 dans les cinq prochaines années.
+[01:14:50] Une situation comme ça, c'est quand même relativement...
+[01:14:52] Enfin, c'est révolutionnaire.
+[01:14:55] Donc, il faut le prendre en compte, je pense.
+[01:14:57] Il faut en parler plus.
+[01:14:58] Il faut avoir un point de vue plus long terme sur ce que ça veut dire pour l'économie, ce que ça veut dire pour la société, ce que ça veut dire pour les équilibres géopolitiques.
+[01:15:07] Et si on ne le fait pas suffisamment rapidement pour revenir à votre question, on va se retrouver dans une situation où on n'aura aucun choix.
+[01:15:13] Et ça, c'est une situation qu'on ne voudrait pas voir advenir.
+[01:15:18] Je vais poser une dernière question avant de refaire les tours de parole. Les deux dernières questions qui suivent. Premièrement, est-ce que vous pourriez nous donner les cas d'usage dans lesquels c'est le plus utilisé ?
+[01:15:29] Vous avez parlé du secteur de la vente. Et la deuxième question, c'est sur le modèle économique de l'IA. C'est-à-dire qu'aujourd'hui, on a ce qu'on peut qualifier d'une bulle, en tout cas une capacité de levée de fonds extrêmement forte de la part des acteurs de l'intelligence artificielle, mais un modèle économique qui peut être jugé par certains économistes comme pas encore complètement stabilisé, notamment sur les coûts d'investissement.
+[01:15:52] Vous avez donné des chiffres qui donnaient parfois le vertige en milliards, en trilliards d'euros, donc de très fortes capacités d'investissement en infrastructures, des infrastructures qui, il me semble, devront être maintenues de manière constante. Si je ne me trompe pas, à Nataserteur, ça se maintient de manière très forte.
+[01:16:14] Et avec aujourd'hui un coût de l'IA pour les clients très faible. Donc ma question, c'est est-ce qu'à faible ? En tout cas, peut-être pas, c'est sans doute pas votre modèle.
+[01:16:25] Mais en tout cas, on voit bien la promesse qui est faite sur les questions plutôt modèles américains, tchats, GPT et compagnie. C'est-à-dire qu'on a un coût de l'IA qui reste quand même modérément faible.
+[01:16:36] globalement entre le montant colossal des investissements et les montants de la maintenance des infrastructures, est-ce qu'on arrive à garder un prix modéré ou est-ce qu'on n'a pas un risque de verrouillage, c'est-à-dire des acteurs qui revoient l'organisation de leur travail, puis des opérateurs du numérique qui augmentent leur prix de manière extrêmement forte avec une incapacité des acteurs à se dégager de ces nouveaux services numériques.
+[01:17:05] Alors sur les cas d'usage, les deux premiers, c'est le développement logiciel. Aujourd'hui, les ingénieurs chez Mistral n'écrivent plus de lignes de code.
+[01:17:16] Donc vous avez une manière de travailler en développement logiciel qui a profondément changé dans les six derniers mois.
+[01:17:22] C'est-à-dire qu'avant, c'était plutôt un artisanat si vous étiez contributeur individuel. C'est-à-dire que vous écrivez votre code.
+[01:17:29] D'ailleurs, les gens aimaient cet artisanat.
+[01:17:30] Moi, je viens de là, j'aimais cet artisanat.
+[01:17:33] Aujourd'hui, vous n'êtes plus un artisan, vous êtes un manager.
+[01:17:36] Et donc, vous demandez à des agents d'écrire le code pour vous.
+[01:17:39] Donc, en fait, vous donnez les spécifications, vous êtes un donneur d'ordre.
+[01:17:41] C'est quand même un changement assez profond.
+[01:17:43] Et ça s'accompagne de gains de productivité qui sont très, très importants quand vous êtes tout seul.
+[01:17:48] C'est-à-dire que vous êtes tout seul, vous pouvez aller 10, 20 fois plus vite.
+[01:17:50] Quand vous êtes 5, ça descend parce que vous avez encore les sujets de communication qui reviennent.
+[01:17:55] quand vous êtes une très grosse entreprise et soudain vous êtes dans plein de goulots d'étranglement organisationnel en fait donc c'est cela qu'il faut lever pour avoir les gains de productivité dont on rêve et en ordre de grandeur ça fait combien de tokens un salarié du code je peux vous dire je compte plutôt en mégawatts c'est combien de mégawatts c'est 1 kilowatt par par salarié si vous voulez c'est ça l'ordre de grandeur 1 kilowatt par salarié c'est un demi GPU en euros c'est 10 000 euros par an les lignes de code c'est 10 000 euros pour la ligne si vous faites 10 000 euros par an par personne c'est ça qu'il faut compter mais c'est pour ça que je dis c'est 10% de la masse salariale c'est 10 000 euros par an et 10 000 euros par an au niveau
+[01:18:44] de l'Europe vous avez 400 millions de personnes c'est 8 milliards parce que les tokens c'est bien, vous l'avez dit, par numéros générés, par lettres générées une ligne de code c'est beaucoup beaucoup de numéros ouais c'est une ligne de code combien de millions de tokens je vais vous dire, je vais faire rapidement vous avez 10 000 euros par an ça veut dire à peu près 30 euros par jour avec 30 euros par jour vous générez vous générez 10 millions de tokens 10 millions de tokens une ligne de code c'est à peu près 100 tokens donc ça fait environ 100 000 lignes de code.
+[01:19:24] En fait, ça fait autre chose que du code.
+[01:19:26] Quand vous demandez à un agent de faire du code, ça va beaucoup réfléchir, ça va générer des tokens pour se dire, est-ce que je dois faire ça ?
+[01:19:31] Est-ce que je dois faire ça ? Est-ce que je fais tourner ce test ?
+[01:19:33] Est-ce que ça marche ? J'aurais écrit ce test ?
+[01:19:35] Ça fait plein de choses. À la fin, ça fait le code qui est écrit est petit, mais en fait, ça fait plein d'expériences que le software, enfin, qu'un développeur logiciel faisait avant.
+[01:19:47] Ensuite, sur le sujet de la bulle, je pense que pendant longtemps, on a dit qu'il y avait une bulle.
+[01:19:50] en fait il n'y a pas tellement de bulles là il y a un vrai problème une bulle c'est quand vous dites qu'il y a quand vous surestimez la demande.
+[01:19:59] Là, aujourd'hui, quand on voit la demande en token, tous les gens qui viennent nous voir en se disant j'ai besoin de plus de tokens que j'avais prévu, le problème, c'est plutôt un problème d'offre.
+[01:20:09] C'est-à-dire qu'il n'y a pas assez de logique, de chips, il n'y a pas assez de mémoire, il n'y a pas assez de cartes-mères, de disques durs, il n'y a pas assez d'hélium, si vous voulez, du côté des semis.
+[01:20:26] Il n'y a pas assez d'électrons.
+[01:20:28] Donc en fait, sur toute la chaîne de semis, toute la chaîne de semis aujourd'hui, elle est mise sous pression par l'intelligence artificielle.
+[01:20:34] Donc il y a plutôt un sujet d'offre que de demande aujourd'hui.
+[01:20:39] Ensuite, évidemment, pour que le modèle économique fonctionne, quand vous investissez 50 milliards pour faire 1 gigawatt et vous êtes une entreprise de technologie, vous voulez repartir avec 100 milliards.
+[01:20:52] Si vous repartez avec 100 milliards, ça veut dire que vous devez créer 200 milliards de valeur pour votre client.
+[01:20:57] Est-ce qu'on est à peu près à ces équilibres-là ? Je ne dirais pas complètement parce qu'évidemment, on met de l'argent sur la table au début parce qu'on sait que quand on a capturé tout, quand on a capturé la demande et l'offre, ensuite, on peut monter les prix, on peut monter les marges.
+[01:21:11] Et donc le risque qu'on a aujourd'hui, c'est ce que j'évoquais tout à l'heure, c'est que si vous ne déployez pas suffisamment vite, vous n'allez pas capturer suffisamment de parts de marché, des terrières, vous avez des oligopoles qui se forment, et ils vont retrouver leur bille.
+[01:21:26] Vous n'avez pas toute l'économie américaine qui met un trilliard sur la table par an, s'ils ne se disent pas qu'ils vont repartir avec deux trilliards.
+[01:21:33] Je ne m'inquiète pas pour eux.
+[01:21:35] Je m'inquiète plutôt pour nous.
+[01:21:38] Merci. Arnaud Saint-Martin.
+[01:22:06] intéressante des codes qui actionnent une certaine politique et je sais qu'il y a eu des controverses autour de l'ex etc est-ce que vous pourriez nous donner des précisions sur de quelle politique vous procédez pour générer votre business, quels sont les verrous éthiques qui cadrent votre activité et qu'est-ce que j'avais encore ? Oui alors s'agissant de la bulle, moi je me posais la question de la soutenabilité aussi financière de votre entreprise, en quelle mesure ?
+[01:22:31] Enfin, moi, je pense qu'il y a une bulle.
+[01:22:34] Après, on pourrait...
+[01:22:34] Et encore aujourd'hui, il y a toute une réflexion là-dessus en économie politique du numérique.
+[01:22:38] Dans quelle mesure vous vous protégez d'une éventuelle implosion ?
+[01:22:42] Parce que là, on a des effets d'entraînement massifs avec des entreprises qui surcapitalisent avec des valorisations financières qui sont indécentes.
+[01:22:48] Dans quelle mesure vous vous prémunissez contre un possible effondrement de cette économie qui, pour l'instant, fonctionne quand même beaucoup sur la promesse de retour peut-être sur investissement.
+[01:22:57] Mais ça, ça reste aussi assez théorique, quand bien même vous faites état d'une demande qui paraît pléthorique.
+[01:23:04] Sur le sujet de se fournir des données, dans les premières années de l'AI générative, les modèles se sont beaucoup entraînés sur de la notation humaine de gens qui donnent leurs préférences, etc.
+[01:23:24] Et ça nous a permis, collectivement, d'arriver à un certain niveau de modèles qui arrivent à engager des conversations, etc.
+[01:23:30] Au fur et à mesure que la technologie s'est développée, on a eu besoin d'avoir des annotateurs de plus en plus qualifiés.
+[01:23:38] Aujourd'hui, les annotateurs chez Mistral, ce sont des gens qui ont des thèses.
+[01:23:41] Ce sont des gens qui leur demandent d'aller résoudre un problème de sécurité dans un répertoire de code.
+[01:23:48] Ce sont des gens qui leur demandent de résoudre des problèmes de physique des particules.
+[01:23:55] Souvent, ce ne sont pas des gens, ce sont des environnements.
+[01:23:57] c'est-à-dire qu'on a besoin de signaux qui ne sont pas des signaux humains qui vont plutôt être des signaux d'environnement c'est-à-dire que vous demandez à l'agent de faire des modifications sur le code et ensuite vous mettez ça dans un environnement qui va exécuter le code et qui va vous dire si le code fonctionne ou pas et donc ça fonctionne pour le code vous pouvez faire ça avec de la 3D vous pouvez faire ça avec des fichiers Excel donc en fait le sujet c'est pas tellement des annotateurs humains maintenant c'est plutôt des gens qui vont qui sont du coup des développeurs logiciels, qui vont créer des environnements qui peuvent ensuite être utilisés largement à l'échelle et donner du signal au modèle. Donc nous notre sujet
+[01:24:36] maintenant c'est, pour revenir à votre sujet de distillation c'est de distiller des environnements de comprendre comment un environnement de code fonctionne et de prendre ce signal et de le ramener vers le modèle. C'est à dire vous avez un outil de simulation numérique, vous le faites tourner plein de fois, vous prenez la sortie de ce signal numérique et vous utilisez ça pour que le modèle comprenne un peu mieux la physique que vous êtes en train de simuler.
+[01:24:58] Donc vous avez un sujet de ramener le signal de l'environnement vers le modèle, et donc c'est devenu beaucoup moins intense en travail, ce sujet-là.
+[01:25:06] On a quitté ce champ-là, je dirais, en 2023-2024, et nous, dans la notation qu'on a pu faire, on a toujours travaillé avec des fournisseurs qui nous fournissaient des garanties sur le salaire des personnes, etc.
+[01:25:24] Les Etats-Unis, l'Europe, globalement, comme on a besoin de travailleurs qualifiés et de travailleurs qui parlent un certain nombre de langues européennes en particulier, on est obligé d'aller plutôt en Europe.
+[01:25:33] Ensuite, on a des activités en robotique où on travaille avec Madagascar, par exemple.
+[01:25:38] Et on a tout un cadre de travail pour faire en sorte que les gens soient bien rémunérés, etc.
+[01:25:46] Donc ça, c'est sur ce sujet-là que je peux vous répondre.
+[01:25:50] sur le sujet de la politique alors vous pouvez dire en fait le modèle vous lui posez une question il répond comme il veut et donc il y a un sujet un peu éditorial de ce que le modèle va vous répondre quand vous lui posez une question orientée donc nous notre stratégie c'est de faire en sorte qu'on suive les instructions et qu'on ait le moins de biais possible alors c'est un sujet scientifiquement technique, on ne prétend pas d'ailleurs le résoudre complètement mais par exemple vous avez un sujet éditorial qui se pose vraiment quand vous faites des chatbots pour le grand public donc c'est pas tellement notre sujet En revanche, quand vous faites des systèmes qui vont écrire du code, exécuter du code, ils peuvent faire différents choix.
+[01:26:24] Ils peuvent choisir différentes bibliothèques de code.
+[01:26:26] Ils peuvent choisir de faire des choix plus ou moins sécurisés.
+[01:26:29] Et donc, ce travail sur la sécurisation du code généré, par exemple, c'est un travail qu'on fait en permanence parce que nos clients nous demandent de le faire.
+[01:26:36] Vous avez un vrai sujet de sécurité qui se pose à partir du moment où vos modèles sont utilisés pour prendre des actions irréversibles, exécuter du code, éventuellement actionner certaines chaînes logistiques, etc.
+[01:26:51] Donc pour nous c'est un sujet très important, on a une équipe qui fait que ça, qui fait de la sécurité et de la sûreté et qu'on traite parce que nos clients demandent de le traiter on le traite aussi en donnant des outils à nos clients pour que sur les applications qu'ils font, ils soient capables d'observer et de vérifier que ça fait bien ce qu'ils ont envie qu'elles fassent.
+[01:27:10] Merci. Madame la rapporteure, pour une dernière question C'est cela ?
+[01:27:18] Non, ma dernière question, vous l'avez dit, on a besoin d'acteurs européens solides.
+[01:27:24] Moi, j'ai une question assez simple.
+[01:27:25] Aujourd'hui, ce qu'on a...
+[01:27:26] En gros, globalement, est-ce que demain, les Américains pourraient racheter Mistral ?
+[01:27:35] Les Américains, vous avez quelques vicieux capitales.
+[01:27:38] C'est moins de 30% de notre capital.
+[01:27:41] Encore une fois, on aurait été ravi de prendre des Européens, il n'y avait pas les Européens. Donc il y a un moment donné où on perd un certain nombre, on perd les économiques, c'est-à-dire que le retour sur investissement dans Mistral, il y a une partie qui est la partie General Partner qui repart aux Etats-Unis sur les fonds américains et puis vous avez les parties LP qui en général les fonds américains vont lever eux-mêmes dans le monde entier.
+[01:28:01] En fait il y a une partie qui repart même en Europe de ce point de vue-là. Donc on perd un certain nombre, on perd du retour.
+[01:28:08] C'est dommage.
+[01:28:09] Mais on perd du retour parce qu'on n'a pas tout l'écosystème.
+[01:28:12] C'est comme ça.
+[01:28:14] Ensuite, nous, notre objectif est de rester indépendant.
+[01:28:18] Évidemment, il y a des gens qui nous demandent s'ils peuvent nous racheter. Nous, on répond non parce que ce n'est pas notre mission.
+[01:28:23] Notre mission, c'est d'être indépendant.
+[01:28:24] Notre mission, c'est d'aller vers une cotation à terme et de faire en sorte de fournir cette alternative.
+[01:28:32] Ensuite, évidemment, c'est lié au fait que si vous réussissez, vous ne vous faites pas racheter.
+[01:28:38] De certaine manière, vous avez raté.
+[01:28:42] En tout cas, c'est comme ça qu'il faudrait qu'on y réfléchisse.
+[01:28:44] Parce qu'effectivement, il y a quand même beaucoup d'entrepreneuriat en Europe qui réfléchit à des stratégies d'exit qui sont plutôt des rachats par des sociétés américaines.
+[01:28:53] C'est une stratégie qui est perdante.
+[01:28:55] C'est une stratégie qui, macroéconomiquement, est vraiment dommageable.
+[01:28:59] Donc, il faut y réfléchir comme ça.
+[01:29:00] Il faut créer des champions européens qui sont indépendants.
+[01:29:02] C'est pour ça qu'on travaille.
+[01:29:05] On n'a pas encore gagné, mais on y travaille.
+[01:29:09] Merci.
+[01:29:09] Merci. Monsieur le Président, est-ce que vous avez une dernière question ? Non. Donc a priori, les intervenants, les députés ont posé toutes leurs questions. Je ne sais pas si vous aviez encore des propos que vous souhaiteriez ajouter suite à cette audition.
+[01:29:25] non je pense qu'on a couvert pas mal de points je dirais qu'un des sujets il faut vraiment faire attention à ce sujet de ne pas distinguer le cloud et se dire on a perdu la bataille du cloud il faut qu'on remonte sur le cloud pour remonter sur le cloud il faut passer par la valeur ajoutée importante celle qui fait la croissance c'est l'intelligence artificielle à partir de là tout le reste du cloud peut découler mais il faut concentrer les efforts aux endroits où on est fort il se trouve qu'on a cette chance d'être relativement fort en intelligence artificielle il se trouve qu'on a cette chance d'avoir de la capacité électrique.
+[01:29:55] Si on combine les deux, on peut retrouver une part de marché qui est soutenable.
+[01:30:00] Et il faut absolument le faire parce que sinon on va devenir un état vassal.
+[01:30:05] Merci. Pas forcément pour les derniers propos.
+[01:30:09] Merci pour l'audition.
+[01:30:11] De rien, merci beaucoup de m'avoir écouté.
+[01:30:12] On a bien compris le message final et ce qu'il allait falloir que l'on puisse faire à l'Assemblée nationale.
+[01:30:20] Je vous propose de lever la séance avant que nous réattaquions avec la deuxième audition.
+[01:30:27] Merci.
+[01:39:00] Merci.
+[01:39:31] Merci.
+[01:39:59] en France. Donc je vais vous laisser la parole pour un propos liminaire d'environ une dizaine de minutes.
+[01:40:05] Et auparavant, je vous remercie de nous déclarer tout intérêt public ou privé de nature à influencer vos déclarations.
+[01:40:12] Et ensuite, nous pourrons échanger sous forme de questions-réponses.
+[01:40:15] Mais auparavant, et vous savez quelle est la formule et le format des commissions d'enquête, je vous rappelle que l'article 6 de l'ordonnance du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires impose aux personnes auditionnées par une commission d'enquête de prêter serment, de dire la vérité, toute la vérité, rien que la vérité.
+[01:40:36] Donc je vous invite à lever la main droite et à dire « je le jure ».
+[01:40:39] Alors auparavant, voilà, merci.
+[01:40:42] Je le jure.
+[01:40:43] Je vous remercie et donc vous avez la parole pour une dizaine de minutes.
+[01:40:48] Madame la vice-présidente, Madame la rapporteure, Mesdames...
+[01:40:51] Il faut votre micro.
+[01:40:54] Merci.
+[01:40:55] Madame la vice-présidente, Madame la rapporteure, Mesdames et Messieurs les députés, je vous remercie de m'avoir convié à cette audition en ma qualité de président Digital Realty en France et président de l'Interaction France SAS.
+[01:41:10] Je travaille dans le secteur des data centers depuis 1999.
+[01:41:14] D'abord comme président d'Interaction, un groupe européen dont j'étais un des fondateurs.
+[01:41:20] Et puis comme président de Digital Realty depuis 2020 suite à la fusion de nos deux sociétés.
+[01:41:27] C'est donc près de 30 années d'expérience et d'engagement pour le déploiement des infrastructures indispensables à l'économie numérique et du développement de notre pays.
+[01:41:36] près de 30 années qui m'ont permis d'apprécier les évolutions et les transformations majeures de ce secteur.
+[01:41:43] Je suis très heureux aujourd'hui de pouvoir, devant les représentants de la nation, donner à partir de mon expérience une vision de notre secteur, de notre société, de nos enjeux et bien sûr de répondre à vos questions.
+[01:41:57] Aussi, si vous me le permettez, je souhaiterais commencer par vous présenter très succinctement notre entreprise Digital Realty et notamment son empreinte en France.
+[01:42:07] Digital Realty est le premier opérateur mondial de data center et également le premier en Europe.
+[01:42:13] Le groupe est présent dans un peu plus de 30 pays, avec 320 data centers dans le monde, une trentaine en construction à travers le monde, et un chiffre d'affaires global d'un peu plus de 6 milliards de dollars l'année dernière.
+[01:42:28] Le groupe emploie près de 5000 personnes à l'échelle mondiale.
+[01:42:32] Alors en France, nous sommes implantés depuis 26 ans, d'abord avec Interaction, puis en tant que Digital Realty depuis cette fusion par OPE en 2020.
+[01:42:42] Nous exploitons aujourd'hui 17 data centers sur le territoire français, 13 en région parisienne, 4 à Marseille.
+[01:42:51] Notre chiffre d'affaires s'élèvera en 2026 à à peu près de 500 millions d'euros, étant un pays important du groupe Digital Realty.
+[01:42:59] Nous versons près de 4 millions d'euros par an d'impôts sur les sociétés.
+[01:43:04] Nous contribuons à la fiscalité locale à peu près autour de 7,5-8 millions d'euros en moyenne sur les trois derniers exercices.
+[01:43:12] Et ce sera à peu plus de 9 millions en 2026.
+[01:43:15] Nous avons investi pendant 20 ans, de 1999 à 2024-2025, 2,5 milliards d'euros sur le territoire national.
+[01:43:24] et avec désormais un objectif de 5,2 milliards, donc à peu près le double, complémentaires d'ici 2030, dans les 4-5 ans qui viennent.
+[01:43:34] Nous employons à ce jour 400 collaborateurs en France et nous générons également un peu plus de 1500 emplois indirects dédiés, ce qui est la somme de tous les employés qui nous sont dédiés par nos sous-traitants nécessaires à faire tourner nos data centers 24 heures sur 24.
+[01:43:50] Nous sommes fiers surtout d'avoir tenu et souvent devancé même les engagements que nous avions pris en mai 2025 lors du sommet de Chaux-France auprès du président de la République.
+[01:44:01] Alors si j'ai pris le temps de donner un peu ces chiffres, c'est non seulement bien sûr pour vous présenter successivement le groupe et ses investissements, mais également pour souligner combien notre réalité, ma réalité depuis maintenant beaucoup d'années, est celle d'un ancrage industriel profond et ancien en France.
+[01:44:19] Et surtout notre stratégie est celle d'une présence durable dans notre pays.
+[01:44:23] On regarde notamment des investissements relatés.
+[01:44:27] Votre commission s'intéresse aux dépendances structurelles françaises dans le domaine des data centers.
+[01:44:32] Alors moi je déploie des data centers avec mes équipes qui hébergent les plateformes informatiques et télécoms de nos clients.
+[01:44:37] depuis donc plus de deux décennies.
+[01:44:40] Ce groupe Digital Realty participe selon nous modestement mais concrètement aux investissements qui concourent à doter l'Europe et la France d'infrastructures numériques qui sont aujourd'hui centrales pour son économie, sa résilience et son fonctionnement.
+[01:44:54] Soyons en effet conscients d'abord que notre pays est encore aujourd'hui, au moment où nous nous parlons, en phase de construction de ses capacités de data center.
+[01:45:03] La France a longtemps accusé un retard structurel par rapport à nos voisins européens, qu'il s'agisse des Pays-Bas, de l'Allemagne ou encore du Royaume-Uni en matière de capacités installées.
+[01:45:13] Pour illustrer un petit peu ce propos, je mentionnerai par exemple que le marché parisien, ou plus exactement de la région parisienne, qui concentre environ 70% des capacités de data center installées, reste très sensiblement inférieure à certains grands marchés européens comme Francfort ou Londres.
+[01:45:30] et que la capacité totale installée en France au moment où nous parlons également vient seulement de dépasser à la fin de 2025 celle des Pays-Bas, un quart de la population, un quart du PIB.
+[01:45:41] Donc le marché français, il faut être très clair, est en phase de rattrapage et d'investissement, mais ce qui explique que le marché croit, pour en tout cas le secteur que je représente, c'est-à-dire les data centers mutualisés hébergeant les plateformes des clients, d'un peu plus de 10% par an pour les estimations qui sont communément partagées dans le secteur.
+[01:46:02] Mais à ce rythme-là, ça prendra encore du temps et nécessitera encore beaucoup d'investissement pour que la France prenne sa place au titre des infrastructures nécessaires.
+[01:46:10] Un data center, dans sa réalité la plus concrète, c'est une infrastructure physique.
+[01:46:16] Ce sont des bâtiments sécurisés, alimentés en électricité, refroidis en permanence, connectés à des réseaux télécoms, à des surconcentrations de réseaux télécoms de tout type, sous-marins, terrestres ou satellitaires.
+[01:46:28] Ce sont des usines de l'immatériel, mais des usines bien réelles, qui sont soumises à des contraintes industrielles, environnementales, réglementaires, comme toutes les installations classées.
+[01:46:39] A cet égard, la sécurité physique des data centers est un élément essentiel de mon métier. Depuis un peu plus de 30 ans, le groupe Digital Realty participe au renforcement constant en lien avec les différentes demandes de l'administration et des réglementations aux certifications à la sécurité physique comme cyber de nos installations.
+[01:47:01] Un data center, c'est un espace où nos clients viennent installer, je voudrais insister sur ce point, leur plateforme informatique, mais c'est peut-être ce qui nous distingue un petit peu, un lieu de mise en relation et d'échange de la donnée avec les réseaux télécoms.
+[01:47:16] Nos infrastructures permettent donc à ces opérateurs télécoms, des fournisseurs de cloud, des entreprises de toute taille, des start-up, des administrations, des organismes publics, de se connecter directement entre eux, sans passer par l'Internet public ou des réseaux externes.
+[01:47:32] C'est ce que nous appelons d'ailleurs le modèle du neutral carrière d'Atacenter Hotel.
+[01:47:36] Nous sommes neutres, ouverts à tous les clients, mais nous ne sommes pas des hébergeurs de cloud.
+[01:47:41] Nous ne fournissons pas d'infrastructures informatiques, je ne fournis pas de hardware, de software ou quoi que ce soit.
+[01:47:46] Nous sommes l'infrastructure bâtimentaire sur laquelle les acteurs de l'informatique, des télécoms et du cloud s'appuient.
+[01:47:55] Cette neutralité que j'évoque est fondamentale parce qu'elle signifie que pour nos clients il s'agit que ce soit un acteur de la tech mondiale, un opérateur télécom français, une entreprise de taille modeste, une ONG ou une administration publique puisque existait dans nos infrastructures mutualisées sans que nous ayons accès à leurs données ni connaissance de leur contenu Sur le segment public, les administrations et organismes publics représentent un peu moins de 2% de notre chiffre d'affaires, donc une part très réduite de notre chiffre d'affaires mais qui témoigne néanmoins de la confiance qui est placée en nous.
+[01:48:26] Les clients certifiés Secnum Cloud, dont la Commission a beaucoup débattu, représentent aujourd'hui moins de 5% de notre chiffre d'affaires en France.
+[01:48:36] Il faut voir aussi que cette certification est en cours d'obtention pour un certain nombre d'acteurs et que cette part augmentera vraisemblablement dans les prochaines années.
+[01:48:43] Je souhaiterais terminer mon propos autour des enjeux environnementaux, où la France est pionnière au sein du groupe Digital Realty. Nous nous fournissons uniquement en énergie renouvelable en France depuis 2014, ça fait très longtemps, et depuis 2021, 100% de nos data centers en Europe sont approvisionnés en électricité renouvelable selon les standards européens reconnus.
+[01:49:05] Je voudrais également insister sur le fait qu'en France, nous compensons intégralement nos émissions Scope 1 et Scope 2 depuis 2014.
+[01:49:14] La plupart du temps, nous ne consommons pas d'eau pour le refroidissement de la quasi-totalité de nos sites parisiens et marseillais, grâce à des systèmes refroidissants en boucle fermée.
+[01:49:23] D'ailleurs, la consommation du secteur des data centers en France, tel qu'on l'a vu avec France Data Center, ne représente que 0,0023% de la consommation industrielle nationale.
+[01:49:33] Alors c'est toujours peut-être trop, mais c'est quand même relativement mineur.
+[01:49:38] Le véritable enjeu néanmoins environnemental de notre secteur, c'est désormais le scope 3, c'est-à-dire les émissions liées à l'activité de notre chaîne de valeur et tous nos sous-traitants, puisque le scope 1 et le scope 2 nous pouvons le maîtriser nous-mêmes, mais également lié à la construction de nos infrastructures.
+[01:49:55] Alors on y travaille en permanence, à réduire notre empreinte, avec une vision de réduction de 25 à 30% à peu près du scope 3 pour 2030.
+[01:50:01] Et nous sommes convaincus que cet enjeu environnemental participe pleinement de notre acceptabilité politique et sociétale, mais également de notre indépendance et de notre résilience.
+[01:50:11] Alors, Madame la Vice-présidente, Madame la rapporteure, Mesdames et Messieurs les députés, je vous remercie de m'avoir écouté.
+[01:50:17] J'espère que j'ai pu vous transmettre déjà la passion que j'ai de ce métier depuis très longtemps, et l'engagement d'un acteur industriel ancré en France, investi dans la durée, conscient également de ses responsabilités, qui accompagne bien sûr notre rôle dans cette infrastructure numérique nationale.
+[01:50:30] Alors je suis ici pour répondre à vos questions avec franchise et bien sûr transparence. Je vous remercie. Et puis si vous me permettez, Madame la Vice-présidente, je vais peut-être repréciser deux, trois éléments, non pas de ma carrière, parce que 26 ans, mais peut-être quelques points qui me paraissent importants.
+[01:50:45] Forcément, après 26 ans, je pense avoir une bonne connaissance du marché français, de ses situations, de ses fournisseurs, de ses écosystèmes, et puis, bien sûr, son avenir à court terme et moyen terme.
+[01:50:57] Je voudrais insister sur le fait qu'en 2008, j'ai créé le syndicat professionnel France Data Center.
+[01:51:04] J'en ai assuré la présidence pendant 10 ans. Je suis toujours au bureau exécutif de France Data Center, qui ressemble l'intégralité de la filière, aussi bien les opérateurs exploitants que certains types de clients, que également surtout toute la chaîne de valeur permettant la construction et l'exploitation de ces data centers.
+[01:51:21] C'est un peu plus de 150 membres aujourd'hui représentant l'intégralité de la filière.
+[01:51:25] En 2010, avec le RENATER, le Réseau National de Transmission et de Recherche Français, qui était un de mes anciens clients, qui est toujours mon client, Nous avons créé également le France X, le point d'internet français, ce qu'on appelle un GIX, un groupement d'internet exchange, un élément essentiel à l'infrastructure et au fonctionnement d'internet sur le territoire national.
+[01:51:44] On héberge d'ailleurs encore aujourd'hui ce qu'on appelle les corpops, c'est-à-dire des cœurs de réseaux principaux du France X.
+[01:51:52] Et puis en 2014, pour moi qui était un Parisien, j'ai eu une aventure en créant le Hub de Marseille, plus exactement en fournissant les infrastructures nécessaires à la mise en place du Hub de Marseille.
+[01:52:03] Je ne sais pas si vous le savez, mais Marseille est devenue le sixième Hub d'échange de contenu mondial, derrière le cinquième, la France a la chance d'avoir deux Hub mondiaux, Paris, région parisienne, cinquième.
+[01:52:14] Et ça se mesure en terabits de secondes échangés, un petit peu comme, vous savez, les aéroports qui mesurent en millions de passagers échangés.
+[01:52:20] Là, nous, chez nous, dans notre métier, ce sont des terabits de secondes.
+[01:52:24] Mais qui prouve une chose, c'est que la France a une chance extraordinaire, puisque c'est le seul pays européen à avoir deux hubs d'envergure mondiale, mais de surcroît dans le top 10 mondial.
+[01:52:34] Et puis, plus récemment, après la fusion avec Digital Realty, j'ai pris des responsabilités pour toute la Méditerranée.
+[01:52:42] Je m'occupe également de la France, mais de l'Espagne, du Portugal, de l'Italie, de la Grèce et d'autres pays sur la Méditerranée pour justement contribuer à continuer à développer le rôle principal du rôle fondamental du hub de Marseille.
+[01:52:57] C'était juste pour préciser quelques éléments.
+[01:53:00] Merci. Merci pour ces précisions. Je vais laisser la rapporteure vous poser un certain nombre de questions et moi, je vous en poserai éventuellement quelques-unes ensuite.
+[01:53:12] Bonjour et merci de prendre le temps de venir devant cette commission d'enquête qui partage le fait que les data centers sont des infrastructures aujourd'hui indispensables.
+[01:53:26] Je vous remercie de leur présenter l'activité de votre entreprise.
+[01:53:32] Alors, nous avions juste avant vous l'audition d'Arthur Mensch.
+[01:53:36] Et alors, ce que j'ai compris, c'est que globalement, il comptait en mégawatts ou en gigawatts.
+[01:53:43] Mais que globalement, c'était ce qui était déterminant.
+[01:53:48] Donc, vous nous disiez que vous aviez 17 data centers en France.
+[01:53:51] Donc aujourd'hui, Digital Reality, c'est combien de mégawatts aujourd'hui et comment ça va évoluer ?
+[01:53:59] Puisque j'ai cru comprendre que vous aviez également plusieurs projets, que ce soit effectivement dans le hub francilien ou le hub marseillais.
+[01:54:07] Alors, une petite précision, ce qui intéresse nos clients...
+[01:54:11] Votre micro.
+[01:54:13] Ce qui intéresse nos clients, c'est en l'occurrence les mégawatts exploitables par nos clients, puisque mon activité consiste à mettre bien évidemment une dimension spatiale, il y a une matérialité du numérique, poser des équipements, mais surtout une infrastructure électrique qu'on appelle des mégawatts IT, liées à directement l'exploitation par nos clients de la consommation électrique pour faire fonctionner leurs plateformes informatiques et télécom.
+[01:54:41] Ce qui est un tout petit peu différent des mégawatts contractés auprès des réseaux en approvisionnement, que ce soit le réseau de RTE ou le réseau de Enedis en fonction du niveau de raccordement et de la puissance du data center ou du campus de data center.
+[01:54:58] En France, il y a une distinction au-delà des 40 mégawatts. On doit forcément se connecter auprès de M. RTO ensuite, sinon en dessous, c'est M. Enedis.
+[01:55:07] Et la différence se fait par la consommation de l'infrastructure du data center, l'infrastructure bâtimentaire que je précisais.
+[01:55:15] Donc, pour répondre à votre question, en mégawatts IT, c'est-à-dire ceux qui sont véritablement commercialisés, puisque le contrat, le business model de Digital Realty est de faire sur des contrats de 5, 10, 20 ans, 25 ans pour certains clients, des combinaisons spatiales avec une infrastructure informatique en mégawatts.
+[01:55:32] Et nous, nous gérons aujourd'hui entre Paris un peu plus de 200 mégawatts IT et sur Marseille un peu plus de 50 mégawatts IT, donc 250 mégawatts IT.
+[01:55:41] Ce qui n'est pas le chiffre lié au raccordement.
+[01:55:44] Quand on cumule les raccordements théoriques, c'est-à-dire la puissance nécessaire pour faire tourner à pleine charge pendant au moins 30 ans pour héberger demain des machines qui n'existent pas encore, il y a bien sûr un niveau.
+[01:55:57] niveau bien supérieur de raccordement.
+[01:55:59] On est aujourd'hui sur les bâtiments en exploitation, les 17, autour de 400-450 MW raccordés.
+[01:56:08] Merci Madame la rapporteure.
+[01:56:10] Je suppose que vous avez d'autres questions.
+[01:56:12] Est-ce que je vous vois noter ? Autrement, je pose ma question.
+[01:56:14] Non, non, non, non, mais je...
+[01:56:16] Allez-y, c'est bon.
+[01:56:18] C'est bon.
+[01:56:19] C'est bon.
+[01:56:22] Actuellement, vous êtes entre 400 et 450 mégawatts.
+[01:56:28] Je ne sais pas si c'est public, mais vous avez plusieurs projets.
+[01:56:33] Globalement, ça augmentera combien la contractualisation de mégawatts ?
+[01:56:39] Dans notre métier, il y a un ratio qui est à peu près similaire, indépendant, parce qu'il n'y a pas vraiment d'effet d'échelle.
+[01:56:47] et donc qui peut peut-être au cas où vous servir pour d'autres acteurs de data center, mais qui est assez commun.
+[01:56:53] 100 mégawatts, c'est un milliard d'investissements.
+[01:56:55] 100 mégawatts de raccordement et donc de construction de data center à côté, c'est un milliard.
+[01:56:59] Donc à peu près 10 millions d'euros du mégawatts et ainsi de suite.
+[01:57:03] Quand nous annonçons 5,2 milliards au président de la République lors du sommet de Chouze-France, Mathématiquement, on est grosso modo à 520 MW qui se partage entre 4,2 milliards à Paris région parisienne et 1 milliard sur Marseille. Donc grosso modo, 420 MW à Paris, 100 MW à Marseille.
+[01:57:28] Merci.
+[01:57:56] en vous écoutant, notamment en raison des mécanismes d'extraterritorialité, je vais y arriver, je vais m'entraîner, qui peuvent s'appliquer.
+[01:58:07] Finalement, c'est une question générale dans ce contexte.
+[01:58:11] Est-ce qu'on ne pourrait pas voir un risque que la France ne devienne qu'un territoire d'hébergement et finalement sans être véritablement maître stratégique sur les données et les traitements ?
+[01:58:23] C'est plus une réflexion que je propose à la question que directement liée à l'activité de votre entreprise. J'ai bien conscience. Mais quelle est la réflexion que vous avez par rapport à cela ?
+[01:58:43] Alors, si vous me permettez, la question étant assez large.
+[01:58:47] Oui, tout à fait. C'est pour ça que j'ai bien dit.
+[01:58:52] Dans ce qu'on appelle justement la donnée, le numérique, le digital, ça reste, je suis évidemment âgé pour parler d'informatique et de télécom, parce que ça reste essentiellement ça, il y a une matérialité de tout cela.
+[01:59:02] Il y a effectivement plusieurs couches, soit d'infrastructures, soit de services associés.
+[01:59:08] Les acteurs de data centers mutualisés comme Digital Realty, entre guillemets, c'est la couche la plus basse.
+[01:59:15] C'est pour ça que je parlais modestement de notre impact nécessaire parce que néanmoins, c'est comme quand on fait une maison, il faut quand même travailler avec des fondations.
+[01:59:24] Et bien là, c'est la fondation primaire de l'infrastructure nécessaire sur les territoires et notamment en France pour les raisons que j'ai un peu exposées.
+[01:59:34] Ensuite, vous avez effectivement différents acteurs, à commencer par nos clients, quel que soit leur type, qui vont amener ce qu'on appelle du hardware pour faire de l'anglais, c'est-à-dire des équipements, ça peut être des équipements informatiques et télécoms de tous types, ça peut être des systèmes de stockage, des serveurs, des systèmes de calcul, des fois même des moteurs quantiques plus récemment, ou des appareils télécoms, des switches, et ainsi de suite.
+[01:59:55] Et puis là-dessus, il va y avoir encore des couches de software.
+[01:59:59] qui vont faire tourner un petit peu tout ça. Et puis encore au-dessus, il va y avoir des couches plus liées à de l'hébergement de données, liées à ce qu'on appelle là du cloud, c'est-à-dire un système mutualisé distant. Et puis encore derrière, des applications d'IA.
+[02:00:12] Ça, c'était peut-être ce qui concernait M. Mensch avant moi. Donc sur toutes ces couches, qu'on appelle des stacks dans l'informatique, il y a des rôles et des responsabilités de chacun.
+[02:00:25] Le fondamental de Digital Riti, c'était le même chez Interaction auparavant, nous ne servons aucun service à valeur ajoutée. Nous ne fournissons aucune machine, nous n'intervenons pas sur les équipements de nos clients.
+[02:00:38] Ils sont d'ailleurs eux-mêmes très sécurisés au sein de nos bâtiments. Ils peuvent être derrière des cages comme au zoo. Ils peuvent être derrière des pièces privatives. Ils peuvent avoir leur propre gardien devant l'entrée de leur salle en fonction d'un certain nombre de critères et de certifications qu'ils doivent avoir.
+[02:00:52] et on connaît bien évidemment le nom, l'entité qui contracte avec nous, ils nous disent plus ou moins ce qu'ils font parfois, ce qu'ils hébergent ou pas, quel est leur propos, on connaît un peu leur dénomination sociale donc on peut avoir une petite idée mais on ne sait pas en fait ce qui est sur une machine et on ne sait même pas forcément quel type de machine ils utilisent.
+[02:01:12] Et ce qui concerne la donnée, la donnée n'étant jamais inerte, il ne faut pas oublier que la donnée circule dans le monde à la vitesse de la lumière, c'est à dire à peu près 300 000 km secondes, Pour vous donner juste un point précis de ce que ça veut dire, mes clients de Marseille envoient un paquet de données à Singapour en 115 millisecondes, donc en 0,11 secondes.
+[02:01:34] C'est moins de temps que le battement de ma paupière.
+[02:01:38] Il faut imaginer que la donnée circule à une vitesse extrême, rarement figée, sauf dans des cas très particuliers, quand il s'agit par exemple de protéger la septième version de votre compte bancaire, mais là c'est très très peu par rapport au flux des données.
+[02:01:51] Donc notre rôle il est modeste, il est juste de faire en sorte d'assurer ce qu'on appelle une continuité d'activité, parce que si moi je débranche la prise ou si j'arrête de refroidir proprement les équipements, il n'y a plus grand chose derrière qui marche.
+[02:02:04] Oui, j'avais bien compris, c'était plus à l'homme dirigeant d'entreprise par rapport à une réflexion plus macro que je posais la question. C'était plus une prospective par rapport à ce qui peut se produire.
+[02:02:26] Vous n'êtes pas obligé de répondre.
+[02:02:28] Je vais essayer de répondre à votre interrogation. Pour avoir fait ça depuis 26 ans, je pense qu'il s'agit d'une infrastructure essentielle et qu'il vaut mieux qu'elle soit sur notre territoire, de la même façon qu'il vaut mieux que des réseaux télécoms, encore une fois terrestres, sous-marins ou en liaison satellitaire, atterrissent sur notre territoire.
+[02:02:49] ce qui permet premièrement un contrôle par les autorités compétentes et deuxièmement surtout, ça permet de pouvoir faciliter le développement des usages, que ce soit des particuliers, des entreprises, des organisations, des services publics et ainsi de suite.
+[02:03:04] Ça permet une territorialité alors qu'il y a effectivement une matérialité de l'infrastructure numérique.
+[02:03:10] Mais il n'y a pas forcément une territorialité de la donnée.
+[02:03:13] C'était un peu le sens de mon point auparavant, parce que la donnée circule à une vitesse extrême et que nous, clairement, nous n'avons aucune idée où elle se trouve à un instant donné, si on pouvait la pointer du doigt.
+[02:03:26] Mais parfois, nos clients non plus. C'est-à-dire qu'ils vont gérer eux-mêmes de façon continue un certain nombre de process d'échange.
+[02:03:32] Parce que ce qui fait la particularité de ce qu'on appelle un hub, donc une concentration de data center dans les zones métropolitaines mondiales qui concentrent l'essentiel du PIB informatique.
+[02:03:43] D'ailleurs, c'est un chiffre que je donne souvent. Paris, région parisienne, c'est 2,2% du territoire, à peu près 20% de la population, 31% du PIB français, mais autour des 70% du PIB informatique.
+[02:03:58] c'est-à-dire la somme des investissements réalisés en France par les Français et les étrangers, quel que soit le type d'organisation, se surconcentre dans des zones métropolitaines.
+[02:04:06] D'où la notion de hub. Mais non pas parce qu'il y a un aspect centripète de la donnée, même s'il existe, mais tout simplement parce que la donnée ne sert qu'à une chose, c'est à être échangée.
+[02:04:16] D'où le lien direct dans la localisation et les implantations de data centers, en tout cas les nôtres, pour pouvoir aider nos clients à être au bon endroit et donc de pouvoir, de façon agile, évolutive et surtout à moindre coût, en étant neutre, en laissant nos clients contractés entre eux, sans prendre une quelconque dime ou taxe sur les échanges de data réalisés chez nous, réaliser justement leur transformation digitale.
+[02:04:40] Quel que soit l'usage, que ce soit un usage d'e-commerce, d'un film, un logiciel d'une entreprise de construction ou que ce soit un service public.
+[02:04:50] Merci pour la réponse. Madame la rapporteure.
+[02:04:58] Merci beaucoup. Vous nous avez donné quelques chiffres sur vos clients, donc secteur public, clients et cloud.
+[02:05:07] cloud, quelle est la part aujourd'hui à peu près des clients extra-européens pour Digital Reality ?
+[02:05:16] C'est grosso modo 50% à peu près. On retrouve ça dans tous nos pays européens, c'est-à-dire les grosses zones métropolitaines ont à peu près 50%, Ça dépend un peu des cas de clients nationaux, en tout cas avec des sièges sociaux ou des entités contractantes positionnées en France et à peu près la moitié, effectivement, de toute nationalité.
+[02:05:43] Un cas quand même particulier, c'est celui de Marseille, où on va être plutôt autour des 60-70%.
+[02:05:48] Pour une raison assez simple, c'est que dans l'organisation de la donnée au niveau mondial, vous avez trois zones métropolitaines que sont Singapour, Miami et Marseille, qui sont en fait non pas des centres de surconcentration de PIB informatique, mais des zones très particulières que dans le jargon télécom on appelle des « gateways », donc des portes d'entrée et de sortie, et qui existent de part fondamentalement un atout géographique.
+[02:06:14] et donc Marseille, c'est la porte 6, c'est devenu très rapidement en 14 ans le 6e homme mondial alors que ce n'était même pas classé il y a encore 14 ans.
+[02:06:22] C'est parce que c'est le point d'entrée entre l'Interland représenté par le cœur européen Paris-Francfort-Londres-Amsterdam et de l'autre côté l'Afrique, le Moyen-Orient, l'Inde jusqu'à l'Asie et donc à peu plus de 5 milliards d'êtres humains connectés à Marseille.
+[02:06:37] Donc forcément il y a ce qui explique aussi pourquoi le hub de Marseille croît d'à peu près 30% par an Et donc aussi la sur-représentation, entre guillemets, au-delà des standards de 50-50 de clients étrangers.
+[02:06:51] Merci, Madame la rapporteure.
+[02:06:55] C'est bon.
+[02:06:57] Voilà, c'est bon.
+[02:06:59] Vous n'êtes pas le premier, ce n'est pas instinctif.
+[02:07:05] Oui, si je continue, vous avez effectivement mentionné la spécificité du homme marseillais. L'un des enjeux de cette commission d'enquête, c'est justement de voir à quel point, en tout cas d'essayer d'analyser le fait que les données ne fassent pas que passer, mais qu'il y ait des capacités à avoir une plus-value à l'activité.
+[02:07:30] Mais c'est vrai que le fait que ce soit des espaces finalement qui servent de points de connexion questionne surtout si c'est pour des acteurs non européens.
+[02:07:45] Pardon, ça c'était une première remarque.
+[02:07:46] Ma question, c'est que vous avez mentionné effectivement la fusion récente avec Digital Reality.
+[02:07:53] Donc c'est un acteur américain, il me semble.
+[02:07:56] Donc, peut-être nous redire où est basée la société mère. Et deux, est-ce que le fait d'être aujourd'hui d'appartenir à un acteur américain ? Deux questions. Vous avez dit la localisation permet le contrôle. La question, c'est jusqu'à quel point ? C'est-à-dire si on a des données qui transitent et un acteur qui est soumis au droit américain, parce que j'imagine que Digital Reality est soumis au droit américain.
+[02:08:22] quelle capacité de contrôle on a et deuxièmement est-ce que ça a renforcé ou non des dépendances avec des acteurs et des clients américains ou est-ce que globalement c'est un effet consacré ailleurs plus global du secteur Madame la rapporteure j'ai essayé de me répondre à tous les points de cette question assez large tout d'abord moi je préside Digital Realty en France société française, de droit français. Très clairement, nous sommes un groupe holding coté.
+[02:08:57] Dans toute la chaîne assez complexe de participation de mon actionnaire unique, j'appartiens à Digital Realty Inc., société cotée en bourse dont le siège social est à Austin, au Texas.
+[02:09:10] Je voudrais préciser qu'on est coté au NICE, de façon extrêmement transparente, comme toutes les entreprises cotées, Donc au New York Stock Exchange. Et d'ailleurs au passage, quand Interxion, avant de fusionner, si on a fait une OPE, c'est que c'était techniquement possible, une offre publique d'échange, parce que nous-mêmes, acteurs européens, nous étions cotés depuis 2011, au NICE également.
+[02:09:32] Alors il y a une raison à cela. Il y a une raison fondamentale que je n'ai pas trop évoquée, mais qu'on voit à travers quand même les chiffres que j'ai communiqués d'investissement.
+[02:09:39] il s'agit d'un métier extrêmement capitalistique.
+[02:09:43] D'ailleurs, récemment, on a regardé avec France Data Center, et à part peut-être le secteur des microprocesseurs, on ne connaît pas d'industrie ayant une telle concentration capitalistique à l'hectare.
+[02:09:57] Je vous donne juste un exemple. Un des projets que j'ai annoncé au président de la République à Duny, au nord de Paris, pour 200 mégawatts, c'est 2 milliards d'investissements sur moins de 10 hectares.
+[02:10:09] Donc on est sur des surconcentrations capitalistiques parce que ces usines, ce sont des usines, sont extrêmement résilientes avec beaucoup d'équipements.
+[02:10:19] La partie bâtimentaire propre, c'est-à-dire du gros oeuvre au second oeuvre, représente moins de 20% du coût total d'investissement.
+[02:10:25] Ce sont essentiellement des machines électriques de climatisation et des systèmes de monitoring de tout cela.
+[02:10:30] Pour accéder à ces financements, Digital Rarity France s'est engagé sur 5,2 milliards d'investissements sur 5 ans.
+[02:10:36] On est leader en France avec 500 millions de chiffres d'affaires.
+[02:10:40] Sans rentrer dans de la finance ou de la comptabilité, il faut pouvoir accéder à ces moyens de financement.
+[02:10:46] Si nous sommes rentrés même à l'époque d'interaction à la bourse de New York, où d'ailleurs nous sommes flottant à 99% du capital, donc tout le monde peut être actionnaire de Digital Realty, c'est parce que c'est le meilleur moyen pour une entreprise d'accéder à des financements de ce type-là.
+[02:11:02] Même à l'époque, en 2011, la bourse de Londres, qui est quand même sur ses investissements digitaux très développés, n'avait absolument pas et n'a toujours pas aujourd'hui l'écosystème nécessaire de capitalisation de fonds passifs ou pas pour pouvoir financer de telles infrastructures.
+[02:11:17] Donc ça, c'est la raison fondamentale de notre présence.
+[02:11:22] Moi, je suis sous mandat social d'une entreprise française, répondant aux obligations légales françaises.
+[02:11:29] Nous opérons sous les règles françaises.
+[02:11:32] Et grosso modo, ça s'arrête à ce niveau-là.
+[02:11:35] Est-ce que ça a changé quoi que ce soit sur la répartition des clients ?
+[02:11:39] C'était un des aspects de votre question.
+[02:11:42] Non, pas du tout.
+[02:11:43] quand nous étions français et ou européens nous traitions exactement avec les mêmes types de clients c'est à dire aussi bien des géants de la tech global, des acteurs de l'informatique européenne et puis des entreprises différentes ou pas françaises, ça peut être jusqu'à des administrations ou des clubs de foot d'ailleurs au passage qui sont nos clients pour pas citer de ville
+[02:12:07] c'est bon même si j'imagine que le club de foot prend un peu moins d'espace que le géant américain.
+[02:12:16] Peut-être pour continuer, donc effectivement, vous êtes...
+[02:12:22] Donc vous nous l'avez quand même dit, vous dépendez d'une maison mère, c'est-à-dire que la société française répond aux lois françaises.
+[02:12:29] Par contre, vous confirmez bien que la maison mère américaine, elle répond aux lois américaines.
+[02:12:34] Après...
+[02:12:35] Tout à fait.
+[02:12:40] Merci. Et une autre Autre question sur les clients, sans dévoiler qui sont vos clients, juste pour être sûr des définitions qu'on emploie entre acteurs européens et acteurs américains.
+[02:12:54] On sait qu'on a un grand nombre d'acteurs européens américains qui s'installent, notamment en Irlande.
+[02:13:00] On va voir Google Irlande.
+[02:13:03] Cela, aujourd'hui, vous les considérez comme des acteurs européens ou des acteurs américains ?
+[02:13:09] Alors, si on travaille avec tous les acteurs de la tech mondiale, beaucoup sont américains, quelques chinois d'ailleurs au passage.
+[02:13:18] En général, et en tout cas pour les contrats qui sont chez Digital Realty, les notions d'infrastructure ne sont pas liées à leurs activités de commercialisation ou autres.
+[02:13:30] Et donc, on traite essentiellement avec les sièges sociaux directement aux États-Unis.
+[02:13:34] L'infrastructure est plutôt gérée par les équipes centrales de ce type de clients.
+[02:13:44] Voilà. Mais donc, ce qui veut dire que globalement, juste pour comprendre dans les 50%, c'est-à-dire que dans les 50% européens, vous n'avez pas un certain nombre de filiales installées à Amsterdam, en Irlande.
+[02:14:00] Voilà. C'est bon. Je vais arriver à maîtriser le bouton.
+[02:14:06] Non mais parce qu'en fait il y a moi aussi qui interviens, c'est pour ça.
+[02:14:09] Si vous jouez des tours.
+[02:14:10] Non, je ne vous joue pas des tours, c'est que j'ai la possibilité de couper le micro.
+[02:14:14] Et donc quand je vois que ça ne fait pas ce qu'il faut, je le fais pour faciliter les échanges.
+[02:14:19] Non, non, je vous réponds clairement.
+[02:14:22] Autant, comme je voulais préciser, nous ne savons pas forcément du tout quel type d'activité tourne sur les machines de nos clients, autant les entités ne sont pas comptées de façon abusive.
+[02:14:32] Donc quand on parle de nationalité, on regarde vraiment par rapport aux sièges sociaux des entreprises.
+[02:14:44] Merci.
+[02:15:09] Est-ce que dans les futurs projets que vous avez, vous développez une politique particulière pour favoriser des clients européens ou non ?
+[02:15:22] Comme je l'ai précisé dans mon propos introductif, nous avons une notion de neutralité.
+[02:15:27] Cette notion de neutralité est de fondamentalement d'abord laisser nos infrastructures accessibles à tout type de clients.
+[02:15:36] Digital Realty est un des rares acteurs dans le monde à être ce qu'on appelle un généraliste et donc on traite aussi bien une baie pour une start-up que des dizaines de mégawatts pour des acteurs de la tech.
+[02:15:49] Alors il y a une raison à cela, alors qu'on a, et on l'a bien vu notamment par exemple au moment des annonces du Summit Choose France, beaucoup d'annonces sont essentiellement justement ciblées sur des prestations pour ce qu'on appelle les hyperscalers.
+[02:16:04] donc des bâtiments qui sont généralement dédiés à un voire deux clients maximum, ce n'est pas du tout notre positionnement.
+[02:16:12] Je préfère être très clair. Digital Realty au contraire a un modèle qui d'ailleurs croit plus que le marché parce que nous nous appuyons sur non seulement cette neutralité, mais pas simplement pour faire de la neutralité. C'est qu'on est dans un monde dans la data où personne ne peut rien faire tout seul.
+[02:16:32] On a besoin de s'interconnecter.
+[02:16:34] D'ailleurs, si on s'appelait interaction à l'époque, c'est parce qu'on faisait des interconnexions.
+[02:16:37] Il faut être deux pour pouvoir faire passer une data et faire ce qu'on appelle désormais du manufacturing de la data.
+[02:16:45] C'est une notion qui est assez délicate à appréhender.
+[02:16:49] On le voit très bien pour un produit manufacturé, que ce soit une voiture, un frigidaire ou autre chose.
+[02:16:53] Pour la data, on est rentré déjà depuis presque une dizaine d'années dans une agglomération de différentes prestations, de différentes datas pourra finir par donner un service plus global, plus complet, qui peut intégrer du télécom, de la cybersécurité, de l'IA, de ce qu'on appelle du legacy informatique, c'est-à-dire des éléments ou des données propres à une entreprise ou à une organisation pour arriver à un autre type d'éléments.
+[02:17:17] Donc d'une notion assez classique, on sait tous comment se fabrique une voiture avec différentes parties prenantes, c'est exactement la même chose dans la data.
+[02:17:25] Et nous, notre offre, notre principe de valeur que nous offrons à nos clients, au-delà même de la prestation de base, qui est l'hébergement des infrastructures, c'est de permettre justement de façon agile, évolutive et surtout à moindre coût, donc d'avoir le choix pour qu'il y ait une concurrence, à pouvoir créer facilement ce manufacturing de la data.
+[02:17:44] Donc le modèle du hub que nous développons, plusieurs data centers interconnectés les uns avec les autres, mais surtout avec d'énormes parties prenantes différentes, avec des capacités très importantes, c'est de pouvoir donner à nos clients, d'aujourd'hui ou demain, de pouvoir travailler avec le prestataire de leur choix.
+[02:17:59] Et pour faire ça, il faut justement de la diversité.
+[02:18:02] Donc c'est exactement le contraire, les data centers hubs, c'est exactement le contraire de faire des data centers hyperscaler ou une IAL factory dédiés à un seul client qui n'a qu'un seul propos et qui n'est pas forcément avec la même pérennité d'infrastructure.
+[02:18:14] Vous voyez, aujourd'hui, en 2026, j'opère toujours avec mes équipes le bâtiment que j'ai construit en 1999 à Aubervilliers.
+[02:18:21] Donc ce qui prouve bien qu'il y a une résilience de cette infrastructure, mais surtout une permanence de l'usage.
+[02:18:26] Alors il a fallu des fois rétrofiter pas mal de choses pour se mettre en conformité avec les nouvelles règles, notamment des directives européennes.
+[02:18:33] Mais on est dans une continuité avec des tas de clients.
+[02:18:36] Les clients d'aujourd'hui sont pour beaucoup certains qui étaient là il y a 26 ans et puis d'autres clients sont arrivés.
+[02:18:40] C'est une image mais qui concerne tous nos data centers.
+[02:18:48] Merci.
+[02:18:49] Merci. Juste pour continuer la réflexion, à la fois, alors je m'excuse, je vais poser des questions un peu bêtes sur le fonctionnement. Donc vous, vous êtes un opérateur, vous nous avez dit bâtimentaire de physique.
+[02:19:03] Vous avez, c'est juste pour bien comprendre, vous avez des clients, je vais peut-être dire des bêtises, mais ça vous permettra de corriger la compréhension.
+[02:19:14] Ce que vous me disiez, ça permet finalement à vos clients de bénéficier des prestations de leur choix.
+[02:19:19] C'est-à-dire que j'imagine que vous avez à la fois des clients qui vont stocker leurs propres données, mais aussi proposer des modèles de services numériques, de traitement de la donnée, et d'autres clients qui vont juste stocker la donnée et qui vont se servir effectivement des services soit de Google, soit de AWS, etc.
+[02:19:40] Je vais être sûre d'avoir bien compris, c'est-à-dire que finalement, il y a un intermédiaire entre celui qui stocke et celui qui utilise en termes de service.
+[02:19:53] Je vais être sûre d'avoir bien compris. Et dans ces cas-là, qui majoritairement rend ce service intermédiaire ?
+[02:20:02] Alors, c'est assez compliqué à faire marcher, mais je pense qu'on peut de façon très simple expliquer comment ça se passe.
+[02:20:09] En fait, ce concept de manufacturing d'échange, c'est le cumul de trois phases.
+[02:20:16] La première phase, vous créez de la donnée.
+[02:20:20] Ça, c'est fait à 20% par les particuliers et 80% par les entreprises et les organisations.
+[02:20:25] S'il y a d'ailleurs une appétence telle que celle qu'on voit en ce moment au-delà du rattrapage, c'est aussi fondamentalement parce qu'il y a une croissance assez fondamentale de la création de data.
+[02:20:39] La data croît de l'ordre de à peu près, cette création de data de l'ordre de 140% par an. C'est considérable, ça veut dire x10 tous les 6 ans.
+[02:20:49] il faut donc que toute la chaîne de valeur travaille depuis les gens qui font de l'optronique télécom, les data centers, les machines les cartes, les CPU, les GPU et ainsi de suite il faut que tout le monde travaille à la densification pour pouvoir absorber cette création de data dont on est tous responsables parce que derrière des entreprises et des organisations c'est encore des individus derrière ce qui explique en fait un petit peu cet effet de ciseau qu'on voit en ce moment puisque si le marché data center augmente de 10 à 15% par an, un petit peu plus pour Digital Realty c'est parce qu'il faut absorber cette création de data.
+[02:21:19] Donc la phase 1, création de data, ça peut être fait en dehors du data center, c'est fait de plus en plus au sein des data centers.
+[02:21:26] Là, en particulier, c'est plutôt en dehors du data center qu'on crée de la data.
+[02:21:29] Pour les entreprises, c'est de plus en plus au sein des data centers.
+[02:21:32] La phase 2, c'est quand nos clients vont stocker, comme vous le disiez, processer surtout, parce que le stockage ne sert pas à grand chose, à part de récupérer ce qu'on a, et manufacturer désormais de la data.
+[02:21:45] Donc d'agréger un certain nombre de services pour pouvoir co-construire un autre élément depuis une data brute qui a été créée en phase 1.
+[02:21:54] Phase 3, et dernière phase, c'est l'échange de la data.
+[02:21:59] Comme dans toutes les règles économiques d'ailleurs, c'est au moment de l'échange où se crée la valeur.
+[02:22:04] Et d'où l'importance fondamentale et qui explique un peu la localisation et qui explique même fondamentalement la localisation des data centers.
+[02:22:11] C'est qu'un data center dans le désert, ça ne sert pas à grand chose.
+[02:22:14] Par contre, s'il est posé exactement sur le point d'agrégation des infrastructures télécoms diverses en capacités et en type d'acteurs, alors on peut faire la phase 3.
+[02:22:25] Et nos clients ont besoin d'échanger la data, celle qui circule justement à la vitesse de la lumière.
+[02:22:30] On fait le tour de la Terre en moins de deux secondes.
+[02:22:32] Donc, ça va quand même assez vite grâce à ces réseaux télécoms en fibre optique ou en liaison satellitaire désormais.
+[02:22:38] donc pour faire tout ça pour la création de data vous n'avez pas besoin de data center c'est mieux, c'est plus facile, c'est plus rapide c'est sûrement plus efficace, mais ça peut être fait encore une fois à l'extérieur, par contre pour les deux autres phases phase 2 et phase 3, il faut absolument cette couche essentielle et derrière comme vous le décriviez madame le rapporteur un certain nombre d'acteurs qui vont amener leur brique à cette co-construction de data ou derrière l'échange de cette data que ça soit entre une entreprise et un particulier, un service public et un particulier, entre un service public et un autre service public, entre des entreprises.
+[02:23:13] On a tous les cas possibles qui se mettent en place.
+[02:23:16] C'est très compliqué à faire marcher.
+[02:23:19] C'est assez complexe.
+[02:23:21] Mais néanmoins, c'est toujours la même chose.
+[02:23:22] En plus, après 26 ans, je peux dire que ça n'a pas beaucoup changé. C'est toujours le même concept, finalement.
+[02:23:27] Et donc, nos clients peuvent, s'ils sont par exemple en France, s'ils ont besoin dans nos data centers de services de cloud, qui est quand même de plus en plus nécessaire. Et d'ailleurs, il y a de plus en plus de fusion en ce moment des solutions IA au sein de plateformes de cloud.
+[02:23:40] S'ils veulent du cloud américain, ils prennent du cloud américain, ils veulent du cloud chinois, ils prennent du cloud chinois, ils veulent du cloud français, ils prennent du cloud français, ils veulent du cloud souverain ou certifié de technologie, ils le prennent, les clients font en fait ce qu'ils veulent, ou ce à quoi ils sont contraints.
+[02:23:54] Et nous, notre offre, c'est justement de laisser tout le monde, en ce sens où on est neutre, laisser tout le monde choisir ses partenaires de co-construction de la phase 2 et de la phase 3.
+[02:24:05] Alors je ne sais pas si j'ai répondu à votre question, mais en fait, ça marche comme ça.
+[02:24:12] Nonon, vous avez très bien répondu à la question, et ça m'emmène à deux autres questions. Premier, c'est est-ce que vous voyez quand même dans tout ce qui est le process et le manufacturing des données des acteurs qui sont plus ou moins prédominants ?
+[02:24:29] Et la deuxième chose, sur l'échange de la data, alors j'imagine effectivement que la localisation géographique doit être déterminante, mais on aurait pu imaginer peut-être qu'il se situe au Caire ou peut-être sans doute peut-être même à Barcelone, je ne sais pas.
+[02:24:46] Il doit y avoir quand même une raison sur Marseille. En tout cas, Barcelone-Marseille serait après la même chose.
+[02:24:53] Mais si vous échangez de la data, aujourd'hui, vous devez le faire dans un cadre européen qui est le cadre du RGPD.
+[02:24:59] J'imagine que le fait d'avoir un data center situé en Europe permet mais plus facilement cet échange de données, c'est-à-dire dans le respect du droit européen, puisque j'imagine que vos clients préfèrent respecter la loi et que ça permet à des acteurs non européens de pouvoir garantir à leurs clients ou en tout cas aux personnes dont ils traitent la donnée qu'ils seront faits dans le cadre du respect de la loi et qu'ils ne seront pas ensuite embêtés.
+[02:25:31] Je ne peux pas répondre pour mes clients. Ils ont leur responsabilité en fonction des règles applicables. Pour Digital Realty, au sein d'un pays européen, on respecte bien évidemment les normes européennes, y compris les règles RGPD en ce qui nous concerne, sachant que c'est pour la donnée que nous avons nous et pas du tout pour celle de nos clients.
+[02:25:53] Non, mais ma question, pardon, je vais reformuler ma question qui était, et ce n'était pas du tout de savoir si vous respectiez ou pas le RGPD. J'imagine que vous l'avez dit, vous respectiez la loi française.
+[02:26:05] C'est plutôt de voir globalement, si vous faites de l'échange de données, est-ce que le fait d'être situé dans un pays qui est soumis au RGPD est quelque chose qui a eu un impact dans votre décision ?
+[02:26:22] Pour nous ?
+[02:26:23] Oui.
+[02:26:24] Pour nous, c'est l'alimentation ?
+[02:26:26] Non, pas du tout.
+[02:26:27] Non, non, on est fondamentalement où nos clients ont besoin de nous.
+[02:26:33] d'ailleurs c'est en écoutant nos clients que nous sommes allés à Marseille en 2014 parce qu'il y avait des choses qui changeaient notamment dans la technologie des câbles télécoms qui allaient changer complètement la façon dont on pourra essentiellement un impact temps et coût comme souvent dans la vie, qui allaient changer complètement l'intérêt justement de Marseille qui encore une fois est le point de rencontre idoine mieux que Barcelone ou le Caire avec le cœur européen, les quatre zones métropolitaines que j'ai mentionnées Donc Londres, ce qu'on appelle le flap dans le jargon télécom, c'est-à-dire le Francfort, London, Amsterdam, Paris, ces quatre zones-là concentrent 60% du PIB informatique européen.
+[02:27:08] Et donc c'est ce qu'on appelle un interland, encore une fois, par rapport à l'Afrique, le Moyen-Orient, l'Inde, l'Asie.
+[02:27:15] D'ailleurs, encore plus récemment, des câbles sous-marins sont arrivés d'Amérique du Sud directement sur la façade atlantique, c'est-à-dire essentiellement le Portugal, pour ensuite se reconnecter à Marseille et remonter en flux physique vers le cœur européen.
+[02:27:31] Donc, le choix d'implémentation, encore une fois, pour toute société qui fournit un service, c'est d'aller a priori où les clients ont besoin de ces infrastructures.
+[02:27:39] Alors nos clients, encore une fois, il n'y a rien de virtuel, c'est-à-dire qu'à un moment donné, tout le monde a derrière, quel que soit le type de plateforme, a des clients à servir ou des clients à conquérir peut-être, qui justifient de pouvoir avoir des infrastructures à proximité.
+[02:27:56] Parce qu'à un moment donné, il faut justement cette phase 3 dont je vous ai parlé tout à l'heure, c'est-à-dire échanger.
+[02:28:01] Que cet échange, peu importe si c'est à la vitesse de la lumière ou pas, mais cet échange doit être consommé puisque ça reste des produits qui sont commercialisés.
+[02:28:08] Alors des produits pas forcément si matériels que ça, mais ça reste un produit et un service qui est fourni.
+[02:28:14] Qu'on soit un acteur de cloud, un acteur de digital media pour faire de la vidéo ou faire des téléchargements de films, ou que ça soit une station météorologique ou que ça soit un service public, c'est toujours la même notion.
+[02:28:27] Alors je ne sais pas si j'ai exactement répondu à votre point, mais la localisation, en tout cas pour nos activités, on est numéro 1 en Afrique, on n'est donc pas dans le cadre de la RGPD, on va sur un certain nombre de zones métropolitaines africaines, d'Afrique du Sud, du Kenya, et ainsi de suite, parce que nos clients ont besoin de ce type de services dans ces infrastructures-là.
+[02:28:50] Peut-être plus pour aller sur le côté un peu plus physique et consommation d'énergie.
+[02:29:03] Le dernier projet de développement sur Marseille a fait beaucoup débat, notamment en termes de consommation électrique.
+[02:29:15] Peut-être voir aujourd'hui comment vous appréhendez justement ces demandes à la fois de transparence, de prévisibilité et d'inquiétude liées à la consommation énergétique des data centers, notamment dans des endroits comme à Marseille où ça s'est développé de manière très forte, très rapide et où, en tout cas, des inquiétudes qu'il y avait, Mais les demandes sont importantes, surtout quand il y a potentiellement d'autres projets qui ont également de besoins électriques.
+[02:29:52] Comme je vous l'ai dit dans mon propos introductif, on gère aujourd'hui quatre data centers sur Marseille.
+[02:29:59] Trois qui sont dans le port de Marseille, donc sur territoire national et non pas municipal.
+[02:30:06] Et deux qui sont en construction. Un, encore une fois sur le port de Marseille, qui représente un investissement d'un peu plus de 300 millions d'euros, et un dont les travaux commencent dans une semaine.
+[02:30:16] Donc vous voyez, c'est vraiment d'actualité.
+[02:30:18] En dehors de Marseille, à Bouc-Belair, à une quinzaine de kilomètres au nord, entre l'aéroport Marignane et Marseille, grosso modo, parce que justement, nous avions par concertation à l'époque du préfet Mirement, mais également mis en place des comités stratégiques d'évolution des data centers sur Marseille, vu le poids qu'allait prendre justement Marseille pour les prochaines années.
+[02:30:39] Et on avait rassemblé tous les acteurs, depuis évidemment les acteurs de data centers, les acteurs de l'énergie, Enedis, RTE, la ville de Marseille, la métropole, le département, la région, l'État.
+[02:30:52] Et donc ça avait abouti à un dire de l'État sur la destination future des data centers et des atterrages de câbles sous-marins, parce que c'est un élément extrêmement stratégique de Marseille, ce qui explique entre autres le hub de Marseille.
+[02:31:08] et donc la vision de l'État qui doit être transposée par la métropole puisque c'est de sa compétence, ce n'est pas celle de l'État et de justement mettre en place un peu comme le ZDRIF en région parisienne avec des pastilles pour dire voilà les prochains data centers et les éléments devront aller là pour faire du data center il faut du foncier, il faut de la raccordement électrique et puis il faut des réseaux télécoms donc je ne vais pas revenir sur les réseaux télécoms puisque Marseille est déjà un nœud de surconcentration que ce soit encore une fois sous-marine, terrestre ou satellitaire Pour le foncier, je ne cherche pas du tout à relativiser, mais Digital Realty, plus exactement nos clients dans nos infrastructures ont créé le 6e hub mondial en consommant 2,5 hectares.
+[02:31:48] Je ne suis pas persuadé que ça a créé une rupture complète dans l'offre foncière des Bouches-du-Rhône, en passage en transformant exclusivement des friches, certains bâtiments abandonnés même depuis la 2e guerre mondiale.
+[02:32:03] D'ailleurs, c'est un des atouts du secteur du data center, c'est que notre business model peut nous permettre de transformer des friches et notamment d'assumer les missions de dépollution et de désaméantage qui peuvent parfois empêcher une autre activité de se mettre justement sur ce type de friches.
+[02:32:19] Sur le raccordement électrique qui est le cœur de votre question, bien évidemment on dépend de la disponibilité des réseaux. Et là je voudrais faire peut-être une précision qui me paraît utile, c'est que la France a un énorme atout, c'est un des rares pays européens, pour ne pas dire le seul, à avoir au moins pour les deux ou trois décennies qui viennent un excès de production électrique.
+[02:32:43] La preuve en est, c'est que l'année dernière, on a quasiment réexporté 20% de la production nationale, à peu près 100 TWh, un petit peu moins, 95 TWh.
+[02:32:54] Et donc, comme vous le savez, l'électricité, ça ne se stocke pas.
+[02:32:57] Donc, la production n'est pas un sujet en France, en tout cas pas pour le moment.
+[02:33:03] Le raccordement, donc la distribution, où il y a des fois des besoins qui ne correspondent pas à la disponibilité immédiate du réseau de transport, encore une fois que ce soit de la haute tension ou de la moyenne tension, RTE ou Enedis, peut poser des cas d'encombrement et d'attribution.
+[02:33:21] Donc d'ailleurs, à la fois la CRE, la commission de régulation de l'énergie, mais également les opérateurs de réseau sont conscients de cet enjeu, changent un petit peu en ce moment, c'est pas encore complètement acté, les règles pour passer d'un premier demandeur, premier servi à projet mature, projet servi.
+[02:33:41] Donc un système qui permettrait d'éviter justement les projets plus ou moins fantômes ou en tout cas qui ne débouchent pas sur une réalité de façon à pouvoir faire des arbitrages.
+[02:33:53] Après, c'est sûrement peut-être aussi de la compétence de l'État de décider si les règles d'attribution d'un certain nombre d'une ressource par définition finie pour la capacité de raccordement doivent être attribuées sur un certain nombre de critères.
+[02:34:10] C'est, je crois, le rôle de la Creux, c'est à ce à quoi elle s'emploie en ce moment, y compris bien sûr avec les porteurs de projets, comme les acteurs de data centers, pas que.
+[02:34:20] Il y a aussi tous les enjeux de réindustrialisation, de décarbonation d'un certain nombre d'activités. Vous parliez de Marseille, de la zone de fosse, c'est un enjeu majeur.
+[02:34:29] Et puis bien sûr de la mobilité, des transports et de l'électrification des usages.
+[02:34:34] donc là encore une fois la consommation d'électricité éventuellement même par les data centers n'est pas vraiment, si je peux me permettre, un sujet d'ailleurs si on regarde un petit peu la courbe de consommation électrique en France depuis 2005 elle décroît, donc depuis 20 ans elle décroît, pour plein de raisons et d'ailleurs des bonnes raisons parce que tout le monde a fait des efforts d'efficience énergétique des particuliers jusqu'aux industriels mais le vrai sujet qui peut poser un enjeu d'aménagement du territoire ou d'accès à une ressource pour un certain nombre de porteurs de projets et pas que de data centers, c'est directement lié à peut-être un goulot d'étranglement qu'on peut avoir sur des réseaux de distribution.
+[02:35:12] Phénomène d'ailleurs au passage, que moi j'observe dans toute la zone dont je m'occupe, j'ai le même problème de la Grèce au Portugal.
+[02:35:20] Il n'y a rien de spécifique au cas français.
+[02:35:27] Oui, merci.
+[02:35:27] Si je peux me permettre, effectivement, aujourd'hui, on a un goulot d'entanglement sur la capacité d'installation, mais la capacité de production aussi est finie.
+[02:35:35] Il me semble qu'au niveau européen, vous opérez au niveau européen, les projets d'augmentation de data center auraient une puissance installée en termes électriques supérieure à la capacité de production française.
+[02:35:50] C'est juste pour donner un ordre d'idée quand même du fait qu'on est quand même sur une industrie qui consomme de l'énergie. Ce n'est pas la seule. Il y en a des plus consommatrices.
+[02:36:02] Mais c'est logique que ça pose des questions en termes de priorisation et de politique publique. Sur cette priorisation, effectivement, vous l'avez dit, je pense que ça vient énormément du fait qu'il y a un certain nombre de projets qui ont dû être réétalés dans le temps.
+[02:36:17] Mais au-delà de ça, ma question, notamment sur Marseille, puisque je dirais que c'en est peut-être là où on voit le mieux ce que vous appelez la circulation de l'information.
+[02:36:24] Parce que moi, la manière dont je comprends, c'est que finalement, les data centers sont installés à Marseille parce que vous avez des câbles sous-marins qui permettent des transmissions de données de manière, j'imagine, extrêmement rapide et intercontinentale.
+[02:36:36] Donc, effectivement, c'est des espaces stratégiques.
+[02:36:39] Mais finalement, ces données, elles transitent, comme vous l'avez dit, elles échangent, elles circulent.
+[02:36:45] la question au final c'est quelle est la plus-value ajoutée pour le territoire.
+[02:36:51] Une fois que j'entends, il y a la question j'imagine de la construction, il y a un certain nombre de métiers en termes de maintenance, mais on va dire que par rapport au trafic, par rapport au chiffre d'affaires, en fait, quelle est la part de plus-value en R&D, en emploi, en valeur ajoutée qui arrive réellement sur le territoire ?
+[02:37:17] Alors, si vous me permettez, le rapporteur, juste une précision. La phase 3 que j'expliquais tout à l'heure sur la notion d'échange est bien sûr cruciale à Marseille, mais la notion de transit de la data a toujours existé.
+[02:37:34] bien avant même l'arrivée des data centers de digital reality, il n'y avait presque pas de capacité data center à Marseille, alors qu'il y a depuis 30 ans des câbles sous-marins, donc vous voyez bien avant notre arrivée.
+[02:37:45] Ce qui a fondamentalement changé justement, c'est ce concept de manufacturing de la data.
+[02:37:50] Donc on n'est plus du tout arrivé aujourd'hui en 2026 et puis pour les prochaines années sur une notion de la donnée arrive par un câble sous-marin, repart par une donnée terrestre pour aller quelque part ailleurs en Europe ou dans les autres pays de distribution.
+[02:38:03] on est sur un phénomène d'agrégation de plateformes informatiques qui crée de la valeur.
+[02:38:09] Justement, il ne faut pas oublier une chose, quand moi j'investis 1 euro, mes clients investissent 4 euros.
+[02:38:14] Donc si on investit en ce moment 1 milliard sur Marseille d'infrastructures de data center, nos clients, quand ils vont venir, vont investir entre la partie hardware et software 4 milliards de plus.
+[02:38:24] Donc on est sur des sommes considérables au niveau des investissements.
+[02:38:27] Quand vous avez des telles concentrations d'investissements d'infrastructures, de différentes couches d'infrastructures, c'est bien parce que Marseille est devenue désormais non plus un centre de transit, mais un centre de production, un centre qui concentre des très grosses capacités cloud, IA désormais de plus en plus, de systèmes de cybersécurité, de systèmes télécoms, de systèmes satellitaires encore une fois.
+[02:38:50] Toute la chaîne de valeur du numérique, j'ai essayé de décrire très rapidement avec mes concepts de deux phases, sont présents massivement.
+[02:38:58] D'ailleurs, vous voyez, en 10 ans, ça rejoint un peu ce qui s'est passé, en 10 ans, on a investi à peu près 500 millions d'euros à Marseille.
+[02:39:06] La coût sur coût, on a investi 1 milliard.
+[02:39:08] Donc on voit bien le phénomène d'accélération et d'agrégation du rôle de Marseille.
+[02:39:14] Quel est l'impact, par exemple, pour un territoire direct ?
+[02:39:17] Au-delà, je dirais, de la phase de construction, il faut voir que sur un chantier qu'on a en ce moment à Marseille, On est avec à peu près en pointe 400 à 450 compagnons qui sont sur le chantier pendant à peu près deux ans.
+[02:39:31] Donc il y a énormément d'emplois liés au coût de la construction et de l'investissement.
+[02:39:35] Je ne parle pas des machines qu'on peut acheter à des fabricants français ou européens qui sont au sein du bâtiment.
+[02:39:40] C'est exactement, si vous me permettez, la même image qu'un aéroport ou qu'un port d'ailleurs.
+[02:39:46] J'en parlais récemment avec le président de l'aéroport de Marseille-Provence.
+[02:39:52] On est une infrastructure d'échange.
+[02:39:53] nos clients, donc moi je choisis où je vais mettre l'aéroport Je construis l'aéroport, je gère l'aéroport 24h sur 24, mes clients sont les compagnies aériennes, les datas c'est les passagers, c'est le même rôle.
+[02:40:07] Et donc il y a, comme on le calcule pour un port, comme on le calcule pour un aéroport, il y a un impact direct d'infrastructures nécessaires pour tout un écosystème et un usage, que ce soit d'un particulier, d'une start-up ou un service public.
+[02:40:21] La métropole de Marseille est mon client. Vous avez un certain type de services publics de l'ARS, de la santé, de l'établissement français du centre qui peuvent être nos clients dans ce type d'infrastructure pour justement bénéficier de l'aéroport.
+[02:40:33] Alors, soit vous êtes à proximité immédiate d'un aéroport mondial, d'envergure mondiale, comme Roissy-Charles-le-Gaulle, ou là à Marseille.
+[02:40:42] Et donc pour les entreprises du territoire, qui sont fondamentalement nos clients, il n'y a pas très longtemps, il y a un an ou deux, j'avais eu un client basé à Besançon qui expliquait pourquoi il dépendait absolument du hub, qui avait fait un post sur LinkedIn, pour expliquer pourquoi il dépendait fondamentalement du hub de Marseille, de Besançon.
+[02:41:02] Et c'est pour bien comprendre justement, et c'est tout à fait normal, de la même façon qu'il y ait des gens qui habitent à Besançon qui vont aller à Roissy ou à Marseille ou à Nice pour prendre l'avion pour aller, je ne sais pas, ailleurs.
+[02:41:10] C'est exactement les mêmes logiques finalement.
+[02:41:14] Donc cet impact, par exemple, du hub de Marseille dépasse très largement simplement la présence dans la ville ou même dans le territoire des Bouches-du-Rhône au niveau de l'organisation et des services que ça amène à la France.
+[02:41:26] Et en tout cas, ces entreprises et organisations.
+[02:41:31] Merci. Je vais reprendre votre exemple de l'aéroport. Un aéroport, il y a effectivement pareil, les chantiers, la construction. J'imagine qu'on doit être sur une intensité en emploi lors des travaux.
+[02:41:45] Donc, une fois qu'ils fonctionnent, des passagers, ils vont prendre un taxi, ils vont avoir une chambre d'hôtel, ils vont potentiellement, en allant à l'aéroport, en profiter pour faire une journée à Marseille, parce que c'est quand même une belle ville, donc ils vont aller consommer chez les restaurateurs, peut-être acheter un souvenir, parce que c'est sympa.
+[02:42:06] Il me semble que la donnée ne fait pas ça. Premièrement, c'est l'aspect... Je finis quand même. C'est l'aspect... Deuxièmement, de la même manière, on a des tiroirs, des agents de sécurité, même toutes les fonctions support qui sont attachées à l'aéroport.
+[02:42:23] Il me semble qu'aujourd'hui, dans un data center, il y a bien évidemment des gens qui vont faire la sécurité du data center en termes physiques, qui vont aller patcher des soucis, remplacer quelque chose qui a sauté.
+[02:42:39] J'imagine bien, il me semble quand même qu'en termes d'intensité d'emploi, on est quand même de manière plus faible qu'un aéroport. Je n'ai pas les deux comparaisons, mais c'est qu'un data center n'est pas connu pour une forte intensité en emploi, qu'effectivement, la donnée, elle ne va pas faire vivre.
+[02:42:58] globalement, elle ne sort pas du data center, que les personnes qui exploitent ces données-là, elles peuvent travailler à Besançon, vous l'avez dit, elles peuvent travailler aux États-Unis, à Barcelone, à Chypre, en Grèce.
+[02:43:10] C'est aussi, vous l'avez dit, l'intérêt de ces données qui fusent à des vitesses extrêmement importantes.
+[02:43:18] Donc c'est vrai que j'ai du mal à voir concrètement, de manière sonnante et trébuchante, comment est-ce que la plus-value, Est-ce qu'il y a de la R&D qui est vraiment réinvestie ? Est-ce que vous nous avez donné des exemples ? On nous avait dit, la ville de Marseille est mon client. Donc ça veut dire qu'ils vous payent, globalement.
+[02:43:39] Non, mais c'est logique, c'est votre client. Ce n'est pas exactement, j'avoue, à cette retombée-là que je mentionnais. Je me doute que ce service pour lequel ils vous payent est très bien rendu. En termes de retour direct, ce n'est pas le plus évident, à moins qu'ils aient des prix concurrentiels.
+[02:44:00] alors contrairement des fois une image qu'on peut avoir un data center en tout cas data center de digital reality je veux pas dire qu'il fourmille mais pas loin en moyenne puisqu'on parle des cas de data center de marseille un data center de marseille on en a quatre en opération c'est entre 120 et 170 personnes qui rentrent et qui sortent par tranche de 24 heures c'est beaucoup de gens c'est donc l'image où il ya que des machines qui tournent toutes seules dans le noir on est très très très loin de la réalité des data centers.
+[02:44:27] Alors pourquoi il y a autant de gens ? Parce que c'est extrêmement critique, depuis effectivement, vous le mentionniez, depuis des agents de sûreté, des agents SIAP, c'est-à-dire de protection et détection d'incendie, et de résolution de problèmes, le ménage technique, l'entretien de ces machines de production.
+[02:44:45] Il faut voir qu'un data center, c'est de digital reality, c'est 50% de locaux techniques pour 50% d'espaces où on héberge les clients.
+[02:44:52] Donc c'est de façon je pense non abusive une véritable usine. Pour entretenir cette usine qui marche en permanence on a de la maintenance préventive, on dépense des fortunes pour éviter tout problème encore une fois de rupture de continuité de service.
+[02:45:06] Et c'est donc des myriades et des myriades de gens spécialisés qui rentrent dans nos data centers.
+[02:45:10] Mais c'est également nos clients. Il ne faut pas oublier que nos clients sont chez eux, chez nous.
+[02:45:15] Donc nos clients accèdent physiquement chez nous, pour les personnes autorisées bien sûr, qu'elles soient autorisées de façon temporaire ou permanente, mais également leurs sous-traitants directs pour l'entretien et la modification de leurs machines.
+[02:45:28] Nous avons également des clients, et même beaucoup de clients, qui considèrent que leurs infrastructures sont tellement sensibles et critiques qu'ils mettent à demeure 24 heures sur 24 des équipes chez nous.
+[02:45:39] Donc moi, j'ai des équipes de sociétés françaises, de sociétés étrangères, en permanence dans nos locaux, qui sont rédésidents.
+[02:45:47] Je ne les comptais pas, eux, dans les emplois indirects dédiés.
+[02:45:51] Alors récemment, puisqu'on parle du cas de Marseille, j'étais interpellé par un élu à Marseille qui me disait, finalement, vous investissez beaucoup, mais pas beaucoup d'emplois.
+[02:45:58] Je me disais, écoutez, ça reste une infrastructure.
+[02:46:01] On n'est pas people intensive, on est capital intensive pour faire de l'anglais.
+[02:46:05] Ceci dit, nous, à Marseille, en 10 ans, on a créé 150 emplois de CDI propres à Digital Riti.
+[02:46:12] Il y a à peu près 450-500 personnes dédiées, donc qui sont mises à notre disposition.
+[02:46:17] On emploie plus de 90 personnes rien que sur la sûreté.
+[02:46:22] Après, on a les agences SIAP et plus de 60 personnes sur le ménage et ainsi de suite.
+[02:46:27] et en tout ça fait quand même 600 emplois alors je disais gentiment sans vouloir provoquer donnez-moi un autre exemple d'une société qui à Marseille a créé 600 emplois dans les 10 dernières années pas déplacé, créé, bon j'ai pas eu de réponse alors bien sûr on pourrait tous souhaiter plus d'emplois je crois qu'il ne faut pas négliger du tout l'impact de l'emploi localisé parce que forcément les gens que nous embauchons ou nos prestataires sont des emplois complètement localisés donc il y a une véritable dimension de l'emploi Et encore une fois, c'est un service d'infrastructure.
+[02:46:58] Donc nos clients ne peuvent fonctionner que si cette infrastructure, qu'il soit à Besançon, à Paris et autres derrière.
+[02:47:06] Donc c'est toute la chaîne économique globale qui utilise du numérique, c'est-à-dire quasiment tous les services que nous consommons en tant que particuliers ou en tant que citoyens, qui sont directement impactés par cette présence d'infrastructure ou pas.
+[02:47:18] Mais mon rôle, moi, est un rôle d'infrastructure.
+[02:47:20] D'ailleurs, l'aéroport que je mentionnais, pour avoir discuté récemment avec le président de l'aéroport de Marseille, c'est de l'emploi indirect et surtout des impacts induits, pas indirects, mais induits, qui sont en jeu, comme toute infrastructure.
+[02:47:37] Et c'est en ce sens, on a plus de gens qui travaillent dans les data centers que d'employés agents porteurs du port.
+[02:47:52] Merci. Même si j'imagine qu'un aéroport où il y a 120, 170 personnes qui passent par jour, il y aura un équilibre économique un peu faible.
+[02:48:02] Oui, alors peut-être pour changer. En tout cas, ça clarifie effectivement les questions.
+[02:48:05] Donc moi, ce que je retiens, c'est que vous avez à peu près création de 150 emplois.
+[02:48:08] Et après, effectivement, c'est plutôt des emplois créés par des clients.
+[02:48:12] 600 en tout. Parce qu'encore une fois, c'est de la directe dédiée.
+[02:48:15] C'est-à-dire qu'un agent de sûreté que j'emploie auprès d'une société, au cas où je pourrais vous communiquer pour ne pas rompre les règles, il ne travaille que pour nous.
+[02:48:25] D'ailleurs, en France, c'est quelque chose qu'on peut extrêmement facilement comptabiliser, contrairement à d'autres pays européens, parce qu'en France, quand vous avez un employé dédié d'une entreprise, il a le droit de vote au CSE. Il n'a pas le droit d'être élu, mais il a le droit de vote.
+[02:48:38] Donc moi, je connais exactement à l'unité près, en tout cas à chaque fin d'année, le nombre de personnes indirectes dédiées que nous avons dans nos data centers.
+[02:48:47] Merci. Peut-être deux dernières questions plutôt sur l'aspect impact. Le premier, on a pour le moment parlé énergie, on n'a pas trop parlé eau, qui est la deuxième question, c'est savoir quelle est la modalité de refroidissement de vos data centers, que ce soit à Paris ou à Marseille, que vous utilisez.
+[02:49:10] Est-ce que vous avez des prélèvements d'eau ?
+[02:49:15] Je ne connais pas justement. Est-ce que vous prélevez de l'eau d'une manière ou d'une autre ?
+[02:49:20] Ou est-ce que vous êtes sur d'autres modèles de refroidissement ?
+[02:49:26] Comme la plupart des data centers européens en général, en tout cas sur Digital Realty, la technologie que nous utilisons est un système de boucle fermée.
+[02:49:34] Il faut imaginer, en restant dans une image un tout petit peu triviale mais assez réelle, un data center s'est refroidi exactement comme votre réfrigérateur à la maison.
+[02:49:42] C'est-à-dire que vous avez une boucle avec des compresseurs derrière qui permettent de refroidir de l'eau.
+[02:49:47] On passe de 20 degrés à 25 degrés devant les machines, on récupère à 29 degrés, on retraite à 20 et ainsi de suite.
+[02:49:52] C'est un système de boucle.
+[02:49:53] Nous avons deux cas, un à Paris et un à Marseille, différents.
+[02:49:59] Un bâtiment...
+[02:50:00] que nous avons racheté en 2014, qui n'avait pas été fait par Digital Ritty et Interaction, dont nous avons, entre guillemets, hérité par cette acquisition, qui a toujours, depuis 2001, donc depuis très longtemps, été basée sur une technique assez efficiente, même très efficiente au niveau énergétique, qui est ce qu'on appelle un système de tour réfrigéré, mais qui, dans des périodes de stress hydrique qu'on n'avait pas forcément il y a 20 ans, n'est peut-être plus du tout du goût du jour.
+[02:50:26] Néanmoins, on ne peut pas techniquement changer ce design et cette structure telle qu'il a été fait.
+[02:50:31] Et donc, je dois vivre avec ce bâtiment à Marseille, qui est sur cette technologie que Digitality or Interaction n'a jamais déployée dans les 26 dernières années en Europe.
+[02:50:42] Pour être très précis, la consommation de ce bâtiment-là représente à peu plus de 56 000 m3 par an.
+[02:50:51] Ce n'est pas mineur, c'est la consommation d'à peu près 1000 Français. Donc là, on a beaucoup travaillé à optimiser et à éviter les systèmes d'évaporation, de perte, puisqu'à peu près 60% de cette eau est renvoyée dans le système de collecte d'eau. Elle passe, elle refroidit et elle repart.
+[02:51:10] Mais il y a quand même un phénomène d'évaporation qu'on ne peut pas nier du tout sur une technologie qu'on ne peut pas modifier.
+[02:51:19] Ça, c'est le point qui concerne le bâtiment de Marseille.
+[02:51:23] Sur l'autre cas que j'ai, c'est un cas en région parisienne, où là, on a une contrainte des ICPE, donc de la préfecture, qui nous impose, au-delà d'un niveau de son, un impact sonore qui pourrait être créé de par la surutilisation des aérocondenseurs, des systèmes de ventilation pour faire extraire la chaleur, et notamment quand on dépasse les 31-32 degrés en température ambiante extérieure.
+[02:51:54] Alors ça arrive malheureusement de plus en plus de pouvoir arrêter les aérocondenseurs, donc pouvoir être conforme à l'instruction ICPE, de ne pas dépasser les 71 décibels.
+[02:52:09] Et de cette façon-là, la seule façon technique de pouvoir régler le problème tel que préconisé par la préfecture, enfin le service de l'ADREAL, est de faire ce qu'on appelle de la pulvérisation d'eau.
+[02:52:18] Donc on va faire de l'adiabatique en pulvérisant et donc en utilisant le système de refroidissement naturel par évaporation de la projection d'eau.
+[02:52:27] Ça, ça correspond l'année dernière à 20 000 m3, c'est-à-dire l'équivalent de la consommation de 350 Français.
+[02:52:33] Ce sont les deux seuls cas pour Digital Realty en France de consommation d'eau.
+[02:52:38] Peut-être que vous avez fait également référence à un autre sujet, notamment à Marseille, où, soutenu par l'ADEME, il y a maintenant un peu plus de 5 ans, et le fond vert de la région, nous avons mis en place une solution de refroidissement en utilisant une eau d'une cunette, donc une sorte de gros égout, entre guillemets, qui existe depuis 1887 et qui, depuis 1887, part des mines de Gardane et évacue la mine de Gardanne et les résidus minéraux dans l'eau du port.
+[02:53:15] Par décision de CODERS, le comité départemental environnemental, nous avons eu l'autorisation de pomper.
+[02:53:21] On a créé avec Dalkia, acteur français, une station de pompage pour pouvoir pomper, sous autorisation préfectorale, 2000 m3 d'eau qui nous permettent de pouvoir refroidir naturellement l'intégralité de nos data centers du port.
+[02:53:36] Alors ça, c'est pas pour rien que ça a été soutenu par l'ADEME, parce que d'abord, c'était une innovation unique en Europe. Deuxièmement, qui correspondait à un enjeu de création de l'ENR, puisque nous avons créé 20 mégawatts de froid de l'ENR par cette solution-là.
+[02:53:49] Et surtout, ça nous a permis d'avoir les bâtiments les plus efficients d'Europe, puisque par nature, on arrive à ne pas consommer d'électricité pour refroidir quasiment 100% du temps.
+[02:54:00] Puisque 99,4% du temps, pour être précis sur l'année, les 0,6% correspond au moment de la maintenance de tout ce piping de la station de propage qui est à peu près 1,5 km de nos data centers, de pouvoir refroidir naturellement les bâtiments sans consommer d'électricité.
+[02:54:17] Donc l'impact, notamment Scope 2, de ces bâtiments a été fondamentalement réduit de par cette solution.
+[02:54:24] D'ailleurs, si ce n'était pas écologique, je ne pense pas que l'ADEME nous aurait donné, ça a été la plus grosse dotation ADEME régionale et nationale de l'époque 2022.
+[02:54:33] Cette eau, on utilise simplement la calorie, donc on ne la consomme pas, on la détourne, on utilise la frigorie pour refroidir et on renvoie à 29 degrés.
+[02:54:43] Pour le moment, et c'est pour ça que nous l'avons fait avec Dalkia, parce que dans deux ans seulement, Dalkia pourra faire le dernier tronçon qui permet de pouvoir récupérer le retour d'eau et d'utiliser cette fois-ci nos calories de 29 degrés.
+[02:54:57] Donc, c'est de la calorie basse, comme tous les data centers, ça reste de la calorie basse pour aller vers leur station qui s'appelle Massileo et qui sert aujourd'hui à refroidir et ou à faire du chaud pour le quartier Euroméditerranée au nord de Marseille.
+[02:55:08] C'est un très gros quartier qui est un OIN d'ailleurs.
+[02:55:12] Pour le moment, l'eau est rejetée à 29 degrés dans le port, sous contrôle préfectoral, puisque nous avons l'obligation depuis 4 ans ou 5 ans de faire des mesures trimestrielles d'impact faune flore que nous communiquerons selon les règles établies auprès de l'ADREAL.
+[02:55:27] Et nous sommes audités là-dessus.
+[02:55:29] Mais c'est un sujet là complètement différent, puisque ce n'est pas une captation d'eau de ville, comme on a dans les deux autres cas que je vous ai mentionnés, à Marseille pour lancer un bâtiment qui n'est pas dans le port, lui, qui est en plein cœur de Marseille, et puis le bâtiment en région parisienne.
+[02:55:50] Merci.
+[02:55:57] Ma dernière question concerne une information qui est passée dans la Marseillaise il y a un peu plus d'un mois sur la demande d'installer des détections de fuites de gaz fluorées sur l'un de vos sites.
+[02:56:14] De ce que j'ai compris, c'était une alerte qui avait déjà eu lieu en octobre 2023 de la part de l'État sur l'émission de ce type de gaz.
+[02:56:27] Là encore, selon les articles de presse, vous allez pouvoir nous dire si c'est exact ou non.
+[02:56:33] A l'époque, l'entreprise avait fait mention de l'impossibilité technique d'installer des équipements spécifiques pour finalement limiter les fuites et donc de remplacer le gaz utilisé par un autre moins polluant.
+[02:56:49] A priori, le plan d'action mis en oeuvre aujourd'hui n'a pas été suffisant, d'où la demande de réalisation de travaux sous les 4 mois.
+[02:56:59] Peut-être pouvez-vous nous dire aujourd'hui ce que vous envisagez sur ces fluides de gaz fluoriques ?
+[02:57:07] Alors en l'occurrence il s'agit de fluides frigorigènes qui sont des fluides, enfin du système de gaz qui sont nécessaires au fonctionnement d'un compresseur, d'un groupe froid, encore une fois comme dans votre réfrigérateur.
+[02:57:21] Le même concept. Effectivement, c'est un dossier qu'on traite avec la DREAL, donc la préfecture, non pas avec la presse. On a de façon extrêmement claire et transparente, on a un défaut matériel récurrent sur des installations fournies d'ailleurs par un fabricant français de premier ordre pourtant.
+[02:57:41] Donc on a d'abord travaillé, je ne vais pas rentrer dans tous les détails, mais des problèmes de qualité, de fuite, de durite, tous les équipements techniques propres à un compresseur qu'on a essayé de résoudre progressivement.
+[02:57:56] On a, et ça c'est un point important, justement pris une première mesure qui a été de remplacer systématiquement les anciens gaz par les nouveaux gaz qui ont un impact de mémoire 90 fois inférieur en termes d'impact GES, tel que recommandé d'ailleurs par la préfecture.
+[02:58:09] Donc ça, ça a été fait. Et la mise en demeure que nous avons eue récemment de la préfecture est de dire nous souhaitons avoir des systèmes de ce qu'on appelle des sniffer, des systèmes qui permettent d'être en préalerte au cas où de l'identification d'une fuite.
+[02:58:25] Juste une remarque, Digital Realty est une société qui respecte le droit et comme vous le savez, dès qu'on a dépassé un certain seuil de fuite, nous nous déclarons systématiquement depuis des années à Paris ou à Marseille toute fuite.
+[02:58:43] des fois je m'étonne que d'ailleurs il n'y ait pas forcément plus d'autres déclarations que celles proactives que fait Digital Realty dans ce cadre là on avait un problème technique tout simplement, c'est à dire que notre fabricant, parce que là je ne peux pas aller acheter quelque chose chez Laurent Merlin notre fabricant n'avait pas les solutions techniques pour pouvoir mettre en place des sniffeurs, donc là ça a été mis en place on a écrit en ce sens d'ailleurs il y a peu de semaines à la préfecture pour annoncer justement le plan de rémédiation que nous avons en place avec le fabricant.
+[02:59:13] C'est en cours et ça sera résolu sous peu.
+[02:59:16] Ce qui prouve d'ailleurs au passage qu'un data center, c'est contrôlé en France avec des audits, des gens extrêmement compétents qu'on trouve notamment dans les préfectures et dans l'Edrial.
+[02:59:30] Merci beaucoup.
+[02:59:31] J'aurais quand même une dernière question, Madame la rapporteure, avant de conclure cette audition.
+[02:59:37] Puisque le titre de cette commission d'enquête, C'est bien la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l'indépendance de la France.
+[02:59:47] Je voulais savoir, au vu des auditions de ce jour, quelles seraient les préconisations que vous pourriez faire ?
+[02:59:57] pour que la France puisse renforcer sa souveraineté, puisque nous avons, vous avez bien dit dans les propos liminaires qu'on était en train de rattraper, on allait bientôt être, on était au stade des Pays-Bas alors que nous en avons largement plus le PIB et la population.
+[03:00:13] Donc quel serait selon vous ce qu'il faudrait faire au-delà d'alléger les contraintes, les normes environnementales ou autres, Mais dans un cadre, puisque vous avez mentionné le cadre législatif et qui est heureux, heureusement, notamment en matière aussi de pollution sonore ou autre.
+[03:00:33] Voilà, j'aurais voulu avoir votre vision et ce que vous pouvez dire à la Commission par rapport à votre expérience. Merci.
+[03:00:46] Peut-être tout de suite, si vous me permettez, Madame la vice-présidente, je pense que l'Europe est très en amont ou très en avant, je pense, par rapport au reste du monde.
+[03:00:55] On est un acteur mondial, donc on a, je pense, une petite idée de ce qui se passe sur les enjeux environnementaux et la réglementation.
+[03:01:02] Je ne fais pas partie et notre groupe ne fait pas du tout partie de ceux qui demandent des dérogations, des changements, des allègements ou quoi que ce soit.
+[03:01:08] Je pense qu'au contraire, les directives européennes vont dans le bon sens. Parfois, elles sont extrêmement strictes et peuvent arriver à des limites physiques, tout simplement, de ce qu'on peut faire.
+[03:01:19] On pourrait parler du son, de l'impact, on pourrait parler des notions d'efficience également, qui peuvent être très compliquées, surtout quand on ne contrôle pas la consommation finale.
+[03:01:28] Il ne faut pas oublier que dans nos data centers, ce ne sont pas nous qui consommons, ce sont nos clients. Et moi, je ne peux pas les forcer de consommer d'une telle façon ou d'une autre façon.
+[03:01:35] Mais je pense que les enjeux sont fondamentaux et que les sujets de simplification sont plus administratifs sur les permis et pas du tout sur la notion de réglementation environnementale. C'est mon avis avec 26 ans d'expérience.
+[03:01:50] Sur peut-être la dimension prospective, au-delà du point, je pense, assez clair d'une infrastructure essentielle pour la vie de demain, encore une fois pour tout citoyen, entreprise, organisation, je pense qu'il y a deux aspects.
+[03:02:05] Il y a la notion de souveraineté et la notion de résilience. Sur la notion de souveraineté, c'est-à-dire de ne pas dépendre d'un autre État, il faut clairement qu'il y ait ce type d'infrastructure parce qu'encore une fois, on est dans un état de droit, dans un espace de droit avec l'Europe et c'est le droit qui permet justement de régler les usages et les principes d'utilisation d'infrastructures.
+[03:02:26] Mais surtout c'est la résilience et la résilience passe par la multiplication et la diversité des solutions disponibles pour les utilisateurs de ce type de plateforme.
+[03:02:38] C'est vrai pour l'atterrage des câbles sous-marins, il ne faut pas croire que les câbles sous-marins n'arrivent pas tous dans un data center.
+[03:02:44] Ils arrivent depuis de Monaco à la Seine-sur-Mer, à Toulon, aux plages de Bonne-Veine pour reprendre l'exemple de Marseille, de Prado pour arriver dans le port de Marseille.
+[03:02:51] Il y a des diversités, c'est la diversité qui fait la résilience.
+[03:02:55] et c'est pareil pour les infrastructures de data center et d'ailleurs pour parler de ce que je sais, des couches supérieures de ce que font nos clients chez nous ils font exactement la même chose c'est à dire qu'un data center ce qu'on appelle des zones de disponibilité en IA ou en cloud sont absolument pas mises dans un seul bâtiment et chez le même prestataire il y a la résilience par la diversité offrir la diversité pour que les utilisateurs finaux que ce soit une entreprise française, étrangère, une organisation, un service public, choisissent en fonction de ses contraintes ou de ses enjeux où il peut le faire et comment il veut le faire, il faut qu'il y ait une offre pour cela.
+[03:03:34] Nous, nous n'avons pas la vocation de répondre à toutes les offres et il y a sûrement un besoin de multiplication des capacités en tenant compte bien sûr de l'impact global.
+[03:03:45] On a parlé des enjeux de raccordement électrique, des arbitrages à faire en fonction des différents secteurs, mais également du foncier et surtout bien sûr de l'impact sociétal et environnemental de ce type d'activité.
+[03:03:59] Finalement, ça suscite une dernière question de la rapporteure.
+[03:04:01] Ce sera une question très coûte de demande de précision. Je me suis aperçu, je vous ai demandé la répartition du CA. Donc vous nous disiez 50% acteurs européens, 50% extra-européens. Est-ce qu'en termes de puissance utilisée et installée, c'est-à-dire de, je ne sais pas si ma question est claire, mais globalement de ce qu'ils vont consommer, c'est 50-50 ou est-ce que vous avez des acteurs qui consomment plus que d'autres ?
+[03:04:29] Nous, nous mesurons chaque disjoncteur de chaque bain informatique de chaque client dans chaque salle.
+[03:04:35] Donc on a une idée extrêmement précise, puisque d'ailleurs, moi je leur vois une facture à la fin du mois sur la consommation électrique.
+[03:04:40] Donc il vaut mieux qu'on sache mesurer.
+[03:04:43] D'abord, peu de plateformes informatiques consorment de l'électricité de la même façon sur 24 heures.
+[03:04:50] Moi, je tourne 24 heures et d'ailleurs, c'est un des atouts d'un bâtiment mutualisé.
+[03:04:54] c'est que quand un acteur, je ne sais pas moi, une compagnie d'assurance, quand les bureaux ferment à 18h30 ou que les courtiers ferment et que les gens rentrent chez eux, moi j'ai la consommation des plateformes qui baissent, mais les mêmes personnes qui arrivent à la maison, qui allument leur box, Canal+, SFR ou autre chose, font remonter d'autres clients en fonction des usages. Donc sur une période de 24 heures, dans un bâtiment mutualisé, du coup, et d'ailleurs c'est pour ça que les acteurs de réseau comme RTE ou Annalise nous aiment bien, parce qu'on est extrêmement stable et prévisible, contrairement aux phénomènes qu'on connaît bien tous, où quand on arrive à la maison l'hiver, on allume son radiateur électrique.
+[03:05:29] Il peut y avoir des pics de consommation.
+[03:05:31] Mais par contre, chaque client pris individuellement a des profils de consommation complètement différents.
+[03:05:38] Il y a néanmoins des usages, notamment sur des plateformes cloud, qui peuvent être beaucoup plus stables en consommation et ne pas être réglées par rapport à la durée du jour ou les usages.
+[03:05:50] Parce qu'elles peuvent elles-mêmes servir des services qui sont extraterritoriaux ou bien au-delà.
+[03:05:57] Parce que je vous parlais par exemple, toujours dans le cas du rôle de Marseille, mais c'est également vrai pour Paris, ça peut servir des pays européens, des pays africains ou d'autres échanges.
+[03:06:06] À Marseille, pour information, 20% des flux traités concernent l'Inde.
+[03:06:10] On aurait pu imaginer que c'était d'autres pays.
+[03:06:13] Donc on voit bien qu'il y a des échanges internationaux qui sont gérés au niveau du digital media, du cloud et autres, avec des destinations qui ne sont pas forcément celles qu'on imagine. Mais les profils de consommation, globalement, sont à peu près quand même très similaires. Il y a une raison à cela, c'est que nos clients qui contractent de l'infrastructure informatique, il vaut mieux qu'ils la consomment quand même, parce que sinon, ça leur coûte très fort cher.
+[03:06:41] Madame la rapporteure, est-ce que vous êtes satisfaite de la réponse ou pas ? J'ai l'impression que non, que c'est pour ça.
+[03:06:49] Je comprends qu'il y a des profils différents, mais globalement, c'est-à-dire qu'on retourne le 50-50.
+[03:06:58] Juste pour comprendre exactement, parce que j'imagine que par exemple les services cloud, pour être très clair, aujourd'hui on a énormément d'acteurs qui nous disent...
+[03:07:09] Est-ce que je peux tenter de reformuler de ce que j'ai compris ?
+[03:07:11] Très bien, parfait, ça sera peut-être plus efficace que moi.
+[03:07:14] Est-ce que les 50% d'extra-européens consomment 50% de l'électricité ou est-ce qu'ils en consomment 75% ? C'était ça en gros.
+[03:07:23] Alors, très clairement, pas vraiment de différence de profil de consommation d'un client de par son activité et ou de sa nationalité.
+[03:07:35] D'accord. Madame la rapporteure, est-ce que vous souhaitez compléter la...
+[03:07:48] En tout cas, on serait très preneurs si par écrit et bien sûr sous réserve du secret de la commission d'enquête, vous pouviez nous donner plus d'informations sur les clients.
+[03:07:59] Ce serait qu'il y a quelque chose dans le panorama global aujourd'hui qu'on nous décrit, c'est-à-dire 80% de l'activité cloud opérée par des acteurs extra-européens ne correspond pas forcément à ce 50-50.
+[03:08:15] Et je suis sûre que c'est vrai, mais ça nous intéresserait d'avoir peut-être plus de précision par écrit que ce que vous pouvez nous donner à l'oral dans une audition publique.
+[03:08:24] Alors, tout à fait volontiers, encore une fois, pour respecter le secret des affaires et la confidentialité et les règles de confidentialité que nous avons avec nos clients, mais de nous faire une réponse par écrit pour, je dirais, permettre à la Commission d'avoir un avis sur la question.
+[03:08:38] donc ça on dénarrer les termes pour pouvoir justement communiquer ça sur les plus brefs délais, mais encore une fois attention nous on gère par exemple en France un peu plus de 650 clients il y a quelques tech giants mais ils sont peu finalement par contre ils ont des usages très particuliers aussi, mais on est très consommateurs, oui mais comme nous on fait, c'est pour ça que je me suis permis tout à l'heure de faire une distinction entre des bâtiments ce qu'on appelle hyperscale, dédié à un ou deux clients, ce qui n'est pas le propos de Digital Realty.
+[03:09:12] Et donc, du coup, on est extrêmement mutualisé.
+[03:09:15] J'ai des bâtiments à Paris où j'ai 150 clients dans le bâtiment.
+[03:09:19] Et des fois, derrière, parce que j'ai des acteurs qui sont des acteurs de ce qu'on appelle d'infogérance informatique, il y a des dizaines de clients que je ne connais absolument pas.
+[03:09:29] Il y a même un effet, je dirais là aussi, induit.
+[03:09:32] Mais c'est tout le principe d'avoir des bâtiments extrêmement mutualisés pour justement compenser les profils de consommation, mais également de résilience de notre modèle par rapport au cas où un défaut d'un client.
+[03:09:46] Merci. Merci beaucoup, M. Fabrice Cocchio, de vous être prêté à cette audition.
+[03:09:53] Nous allons conclure ces auditions et je vais lever la séance. Merci.
+[03:10:00] Merci.

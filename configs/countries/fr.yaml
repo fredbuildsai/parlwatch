@@ -1,0 +1,10 @@
+country: fr
+language: fr
+since: 2017-06-21          # start of the XVe legislature
+transcript_policy: reuse   # reuse | verify | always_asr
+asr:
+  backend: whisper         # M0 bake-off winner (Parakeet v3 failed on French, see docs/m0-report.md)
+  quant: q4                # q4 == q8 on accuracy, smaller; required field, unquantized loads raise
+diarization:
+  model: pyannote-community/speaker-diarization-community-1   # ungated mirror; not quantizable (documented exception)
+min_free_disk_gb: 10

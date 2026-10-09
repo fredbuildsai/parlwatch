@@ -1,0 +1,916 @@
+[00:00:29] Sous-titrage ST' 501
+[00:00:56] Sous-titrage ST' 501
+[00:01:26] Sous-titrage ST' 501
+[00:01:56] Sous-titrage ST' 501
+[00:02:29] Sous-titrage ST' 501
+[00:02:59] Sous-titrage ST' 501
+[00:03:03] Merci.
+[00:03:59] Sous-titrage ST' 501
+[00:04:29] Sous-titrage ST' 501
+[00:04:30] ...
+[00:04:32] ...
+[00:04:56] Bien, mes chers collègues,
+[00:04:57] je vous propose de reprendre
+[00:04:59] nos travaux.
+[00:05:02] Monsieur le Président-Directeur Général, bonjour. La Commission des Affaires Économiques a le plaisir d'accueillir à présent le fondateur et président-directeur général d'OVH Cloud, M. Octave Klaba.
+[00:05:14] Nous vous remercions de votre présence et nous vous souhaitons la bienvenue dans notre commission.
+[00:05:20] Nous avons souhaité organiser cette audition afin d'évoquer avec vous le développement et la stratégie d'OVH, bien sûr, mais aussi le développement des centres de données et de l'informatique en nuage, le cloud, ainsi que les enjeux de souveraineté de données, de transparence des services et de développement en Europe et en France d'un écosystème numérique innovant et indépendant.
+[00:05:41] D'une façon générale, notre commission est très attentive au développement de nos capacités économiques et productives,
+[00:05:48] ainsi qu'au dynamisme des entreprises du secteur du numérique, à leur compétitivité et à leur contribution à notre souveraineté industrielle.
+[00:05:56] OVH Cloud est aujourd'hui le principal acteur français et européen de cloud.
+[00:06:00] Vous avez réalisé l'an dernier près de 1,1 milliard d'euros de chiffre d'affaires,
+[00:06:04] et votre groupe compte plus de 1,6 million de clients et 46 data centers répartis dans 9 pays.
+[00:06:11] Votre groupe, qui consacre environ un tiers de son chiffre d'affaires aux investissements,
+[00:06:15] est donc un acteur essentiel pour notre pays dans le domaine stratégique des centres de données et de l'informatique en nuages.
+[00:06:21] Je précise aussi que votre groupe a obtenu, le 1er septembre dernier, la qualification Secnum Cloud 3.2,
+[00:06:27] accordée par l'Agence nationale de sécurité des systèmes d'information, l'ANSI,
+[00:06:32] pour sa nouvelle plateforme de cloud public SNC Cloud Platform,
+[00:06:35] ce qui complète les deux offres qualifiées dont disposait déjà votre groupe avec Bare Metal Pod et VM Ver.
+[00:06:44] Je rappelle que Secnum Cloud est une qualification délivrée par l'ANSI qui certifie la sécurité et la souveraineté d'une offre de service cloud.
+[00:06:52] Votre groupe a aussi été retenu avec Deep et Clever Cloud pour le marché du cloud souverain des institutions européennes
+[00:06:59] qui représentent 180 millions d'euros sur six ans.
+[00:07:03] Pour autant, OVE Cloud, malgré son importance et ses succès, reste d'une taille nettement inférieure aux grands acteurs américains du domaine,
+[00:07:10] ceux que l'on appelle les hyperscalers, c'est-à-dire les fournisseurs de services de cloud computing,
+[00:07:15] c'est-à-dire, en bon français, les acteurs du stockage et de la gestion de données qui exploitent des infrastructures de centres de données à très grande échelle.
+[00:07:22] Vous avez estimé le 21 avril dernier, devant la commission d'enquête de notre Assemblée sur les dépendances structurelles
+[00:07:28] et les vulnérabilités systémiques dans le secteur du numérique
+[00:07:32] et les risques pour l'indépendance de la France,
+[00:07:34] qui est présidée par M. Latombe et dont la rapporteure est Mme Cyrielle Châtelain,
+[00:07:39] que la commande publique européenne se comptait encore en millions
+[00:07:42] alors que la constitution de champions du cloud nécessitait plutôt une échaîne de milliards d'euros.
+[00:07:47] Et nous savons que nos entreprises sont tenues, pour assurer leur développement
+[00:07:51] et rester compétitives, de faire appel de façon croissante
+[00:07:54] à des services numériques avancés, y compris l'intelligence artificielle,
+[00:07:58] ce qui pose la question de la dépendance économique à l'égard des entreprises extra-européennes et de la protection de notre souveraineté pour la gestion de leurs données.
+[00:08:05] Avant de vous céder la parole pour une quinzaine de minutes, permettez-moi de vous poser quelques premières questions.
+[00:08:11] Quelle trajectoire pouvez-vous dessiner pour l'avenir d'OVH Cloud afin de changer d'échelle d'ici à 2030 et quel est aujourd'hui votre principal frein à ce développement ?
+[00:08:21] Votre groupe investit plusieurs centaines de millions d'euros.
+[00:08:24] Comment financer une accélération beaucoup plus forte tout en la rendant soutenable ?
+[00:08:29] Vous estimiez en avril devant la commission d'enquête que j'ai mentionné que la commande publique européenne restait très insuffisante pour faire émerger des champions.
+[00:08:36] Avec les règles de la commande publique, quelles règles de la commande publique vous paraissent nécessaires pour la renforcer ?
+[00:08:42] Le contrat Claude Souverain des institutions européennes qui pourra atteindre 180 milliards d'euros sur 6 millions.
+[00:08:49] considérez-vous cela comme un véritable changement d'échelle
+[00:08:52] ou plutôt comme un marché encore trop limité au regard des investissements nécessaires.
+[00:08:57] Et votre nouvelle plateforme SNC Cloud Platform vient d'obtenir la qualification Secnum Cloud.
+[00:09:02] Quelles sont les prochaines étapes à venir et anticipez-vous un certain nombre de difficultés ?
+[00:09:07] Vous disposez de 46 centres de données répartis dans 9 pays.
+[00:09:11] Pour les administrations et les opérateurs critiques,
+[00:09:13] quelle garantie de continuité de service pouvez-vous apporter aujourd'hui
+[00:09:16] en cas de graves problématiques sur l'un de ces centres de données.
+[00:09:20] L'implantation des centres de données pose aussi la question de l'accès à l'électricité,
+[00:09:24] au foncier, à l'eau, entre autres.
+[00:09:27] Identifiez-vous à ce sujet des freins à vos investissements en France ?
+[00:09:31] Et enfin, quelles recommandations feriez-vous aux législateurs que nous sommes ici
+[00:09:35] afin de réduire à moyen et long terme notre dépendance aux clouds extra-européens ?
+[00:09:40] Merci par avance, M. le Président, Directeur Général,
+[00:09:42] pour les réponses que vous pourrez nous fournir
+[00:09:45] et votre participation aujourd'hui à notre commission devant les membres de la Commission des affaires économiques.
+[00:09:52] Je vous cède la parole pour une quinzaine de minutes.
+[00:09:56] Bonjour, merci, Monsieur le Président, Mesdames.
+[00:10:01] Monsieur les députés, je vous remercie pour cette invitation.
+[00:10:05] À m'exprimer devant votre commission, se croisent l'industrie, l'énergie, l'innovation et le numérique.
+[00:10:11] Autant de sujets au cœur des activités d'OVH Cloud.
+[00:10:14] Monsieur le Président, vous avez rappelé nos succès, mais aussi l'écart détail
+[00:10:20] qui nous sépare encore entre notre activité et celle des hyperscalaires.
+[00:10:26] Cet écart est réel.
+[00:10:27] Je vais poser cette question et reviennent toutes en fond à une selle. Comment changer d'échelle, la taille critique ? J'y reprendrai après quelques mots d'introduction sur OVH.
+[00:10:39] OVH Cloud, c'est 27 ans. J'ai créé OVH Cloud en 1999 à Roubaix, sans capital. Pendant plus de 16 ans, 17 ans, j'ai fait évoluer l'entreprise toujours sans capital.
+[00:10:50] Les premiers levées de fonds, je les ai faites en 2016, 250 millions.
+[00:10:54] La deuxième levée de fonds, entre guillemets, c'était l'introduction à la bourse en 2021, 350 millions.
+[00:11:01] On a fait aussi une réduction de capital, où j'ai rendu 350 millions aux investisseurs.
+[00:11:06] Et donc l'entreprise a évolué avec très peu de moyens extérieurs.
+[00:11:10] Pour autant, aujourd'hui, on réalise plus de 1 milliard de chiffre d'affaires.
+[00:11:14] On a 3 500 employés. On est déployé en Europe, aux États-Unis et aussi en Asie.
+[00:11:20] Mais c'est une histoire de liberté et d'indépendance. Probablement parce que mon histoire personnelle m'a amené à être un tout petit peu parano sur la manière de construire les entreprises et vous allez voir sur les très longs termes.
+[00:11:35] Quand j'ai commencé OVH, j'avais déjà 20 ans dans ma tête, en avant, et aujourd'hui c'est toujours le cas.
+[00:11:43] Aujourd'hui, OVH Cloud répond à tous les besoins en termes de cloud et bientôt à de plus en plus de besoins qu'on appelle aujourd'hui l'intelligence artificielle.
+[00:11:54] J'ai rappelé notre chiffre d'affaires. Il faut aussi voir qu'on répond à des différentes typologies des clients.
+[00:12:01] On a bien sûr les secteurs publics en France, mais pas seulement en Allemagne, en Angleterre, ce qu'on appelle « rest of Europe », c'est-à-dire l'Angleterre, Pays-Bas, Pologne.
+[00:12:11] On est aussi au Canada, on est aussi aux États-Unis. Et donc on a ces secteurs d'activité.
+[00:12:16] Mais si on se focussait uniquement, si on était juste sur ces typologies d'activité, on n'aurait pas eu la masse critique nécessaire pour bâtir une entreprise de cette taille-là.
+[00:12:25] Et c'est pour ça qu'en venant du digital, du numérique, là où les clients peuvent venir simplement sur les sites web et commander les services avec une simple carte bancaire,
+[00:12:36] on a aussi cette activité-là et elle est très importante puisqu'elle réalise aujourd'hui à peu près de 60-70% de notre chiffre d'affaires.
+[00:12:43] Le corporate, les entreprises privées et publiques représentent environ 20% de notre chiffre d'affaires.
+[00:12:49] Et donc c'est vraiment très important de comprendre en fait que dans notre métier, la masse critique, la taille critique est indispensable pour bâtir ces typologies d'entreprise.
+[00:13:01] Parce que les investissements qui sont derrière sont tellement importants que si vous faites uniquement aller sur une typologie des clients,
+[00:13:10] Vous n'aurez pas de retour sur investissement et vous n'allez pas pouvoir continuer à faire des investissements chaque mois, chaque année et continuer à évoluer l'entreprise.
+[00:13:21] Notre ambition, c'est d'atteindre 2 milliards de chiffre d'affaires dans les prochaines années.
+[00:13:25] Je ne donne pas encore aujourd'hui les dates parce qu'on a une boîte cotée et comme vous le savez, c'est très réglementé et les investisseurs scrutent ces typologies d'investissement.
+[00:13:37] Je vais répondre à des questions que vous m'avez posées. Peut-être sur la première question, je vais répondre juste à la fin. Quelle modification des règles dans la commande publique ?
+[00:13:46] Je disais en fait que c'est la taille critique. C'est-à-dire qu'aujourd'hui, vous prenez par exemple OVH Cloud en France. Les nuages publics de l'État, c'est 84 millions d'euros annuels en 2025.
+[00:14:02] OVH dedans est le numéro 1 avec 33 millions.
+[00:14:06] 33 millions, mettez ça en face à 1,2 milliard de chiffre d'affaires.
+[00:14:10] Donc vous voyez en fait là-dessus, c'est que c'est super, il y a du chiffre d'affaires,
+[00:14:15] mais c'est plutôt en dizaines de millions de chiffre d'affaires.
+[00:14:18] Et donc vis-à-vis de pas mal de nos concurrents qui sont des tailles plus modestes, malheureusement,
+[00:14:25] cette typologie des chiffres d'affaires en dizaines de millions, c'est bien.
+[00:14:28] Pour un acteur qui grandit, qui va sur les chiffres d'affaires d'un milliard, qui est européen, qui est mondial, qui a une présence dans pas mal de pays, qui a pas mal de clients dans 140 pays,
+[00:14:40] en fait, cette commande publique, en fait, on donne alentour de centaines de millions ou cinquantaines de millions.
+[00:14:45] En fait, c'est anecdotique vis-à-vis de l'ensemble de la croissance qui est nécessaire de faire pour une entreprise cloud et l'intelligence artificielle.
+[00:14:56] Mais c'est bien. C'est bien, ça a changé ces dernières années. Et on a bien vu, en fait, ces fléchages-là progressifs de commandes publiques pour pouvoir utiliser les infrastructures des Européens.
+[00:15:08] On héberge, par exemple, IFE, qui est la facture électronique qui a été mise en place en France le 1er septembre. Donc, IFE, on héberge beaucoup de prestataires intermédiaires.
+[00:15:23] Et donc derrière, tous ces éléments-là font partie de nos clients. Mais ce sont des détails assez modestes aujourd'hui vis-à-vis d'une croissance plus globale.
+[00:15:36] Contra-Cloud de la Commission européenne. C'est très intéressant parce que suite à différentes lentes de choc que nous avons vécues ces derniers 2-3 ans,
+[00:15:48] L'administration américaine en fait partie, mais ce n'est pas le sel. Il y en a un autre qui s'appelle VMware, qui s'est fait racheter par Broadcom.
+[00:15:55] Tous ces ordres de choc qui sont arrivés récemment, mais de manière un peu imprédictible et imprévisible, ont créé des réactions au sein des entreprises privées ou publiques.
+[00:16:08] Il y en a deux typologies des réactions. La première réaction, c'est que ça va passer. Et puis, à un moment, ça va revenir à la normale et ça va bien se passer.
+[00:16:16] Donc, on fait le profil bas et puis, at some point, tout ça, ça va rentrer dans l'ordre.
+[00:16:21] Et puis, il y en a d'autres qui disent non, il faut vraiment changer l'approche.
+[00:16:26] Et Commission européenne en fait partie. Ils ont fait un référentiel.
+[00:16:30] Ces référentiels-là, ils ont utilisé pour pouvoir sélectionner des acteurs européens.
+[00:16:34] On a été choisis, comme l'un des gagnants avec Deep et avec Clever Cloud, sur un contrat de 180 millions sur 4-5 ans.
+[00:16:45] C'est bien, parce que c'est la première étape. Je pense que c'est la méthode qu'il faut plus retenir que les montants d'aujourd'hui qui sont en jeu.
+[00:16:54] C'est vrai que 180 millions sur 5 ans, sur 4 acteurs, ce n'est pas encore ça qu'il faut faire, mais c'est la méthode qui m'a intéressé le plus.
+[00:17:02] C'est-à-dire que la Commission européenne dit que nous allons mettre 180 millions pour tester, pour développer avec vous, pour pouvoir vous donner la possibilité d'aller chercher des appels d'offres derrière différentes agences
+[00:17:15] et de prouver que vous êtes capable de prendre l'ensemble des activités, ou en tout cas une partie des activités qui sont aujourd'hui hébergées dans le hyperscaler.
+[00:17:25] Je pense que c'est hyper intéressant. Il faut prendre maintenant en perspective ces 180 millions qui, globalement, vont représenter environ 40 millions par an sur 4 gagnants.
+[00:17:38] Vous avez en face environ 1,2 milliard de chiffre d'affaires que AWS réalise avec la Commission européenne par an.
+[00:17:46] Et vous avez un autre 500 millions chez Azure.
+[00:17:49] Et donc il faut mettre ça juste en perspective, c'est-à-dire que vous avez 1,7 à 2 milliards de chiffres d'affaires qui sont réalisés entre la Commission européenne et les hyperscalers face à un premier appel d'offres.
+[00:18:00] Donc il faut voir la méthode, c'est-à-dire que c'est des gros business, mais c'est beaucoup de responsabilités aussi. C'est beaucoup de produits, c'est beaucoup de choses sur lesquelles il faut avoir de proof point, ce qu'on appelle proof point en anglais, c'est de pouvoir prouver qu'on est un acteur de confiance et on peut aller.
+[00:18:16] Et donc, c'est la méthode qui m'en intéressait plus.
+[00:18:19] Si vous regardez de manière plus globale l'Europe,
+[00:18:22] vous avez environ 10 milliards de chiffres d'affaires
+[00:18:24] qui sont réalisés entre les différents gouvernements,
+[00:18:28] les différentes commissions, les différents ministères,
+[00:18:31] avec les hyperscalers en Europe.
+[00:18:33] Donc, la masse critique, c'est pas, en fait,
+[00:18:36] il ne s'agit pas de créer de nouveaux budgets.
+[00:18:38] Il s'agit, en fait, de les rediriger vers les acteurs européens
+[00:18:43] et pouvoir leur faire confiance, pour pouvoir les aider à grandir.
+[00:18:47] Et donc l'argent, il y a déjà l'argent.
+[00:18:49] Simplement, il manque un tout petit peu de courage pour pouvoir, derrière,
+[00:18:53] que cet argent-là aille dans les acteurs européens.
+[00:18:56] Une autre question que vous m'avez posée sur le SNC et l'autre plateforme qu'on vient juste d'obtenir.
+[00:19:04] Quelles sont les prochaines étapes et difficultés ?
+[00:19:06] J'aime bien ce qui a été fait par l'ANSI, parce qu'en fait, ils ont apporté un référentiel technique.
+[00:19:13] À l'opposé de toutes les autres normes qui sont juste des normes en disant vous débrouillez comment vous voulez faire.
+[00:19:18] Ainsi, il est allé beaucoup plus loin, beaucoup plus loin en disant de quelle manière il faut que ça soit fait.
+[00:19:24] En apportant un certain savoir-faire qu'ils ont sur la sécurisation des infrastructures.
+[00:19:32] Et donc, c'est ça qui fait que c'est extrêmement compliqué et long pour pouvoir obtenir.
+[00:19:37] parce que ce n'est pas juste de dire j'ai des papiers, je suis des process,
+[00:19:41] mais sur la manière de faire les infrastructures.
+[00:19:44] Et donc on assume pleinement ces référentiels-là.
+[00:19:47] On en a déjà l'habitude, ça fait trois certifications qu'on passe avec eux.
+[00:19:53] Et on va continuer à enrichir nos produits.
+[00:19:56] Aujourd'hui, sur le cloud plateforme, on a un certain nombre de produits qu'on va enrichir.
+[00:20:00] L'objectif, c'est que cette portefeuille-là...
+[00:20:02] soit le plus riche et qu'il puisse faire profiter à l'ensemble des clients,
+[00:20:08] y compris l'État, y compris les acteurs privés.
+[00:20:12] On a 46 data centers dans 9 pays.
+[00:20:14] Quelle garantie de continuité des services ?
+[00:20:16] Ça vient de design qu'on fait, technique, design technique autour des data centers,
+[00:20:21] mais aussi autour de l'ensemble des activités qui se passent dans ces data centers-là.
+[00:20:30] Les principes de fonctionnement, vous avez un self-data center,
+[00:20:32] Donc, c'est du passé. Ce sont des années 2000, 2010.
+[00:20:37] Depuis 2020 et dans les années à venir, c'est plutôt des services, des data centers distribués.
+[00:20:44] C'est-à-dire que vous avez ce qu'on appelle une région, région des trois data centers,
+[00:20:48] espacée des 30 kilomètres, alimentée par des sources d'énergie différentes,
+[00:20:52] avec des fibres optiques différentes, pour que derrière,
+[00:20:55] l'ensemble de ce que les clients font tourner puisse aussi accepter une panne
+[00:21:01] et que ça n'impacte pas
+[00:21:03] le fonctionnement global.
+[00:21:06] Et donc, c'est ces typologies
+[00:21:07] des designs, en fait, qui sont de plus en plus
+[00:21:10] reparties, que nous,
+[00:21:12] on est en train de déployer
+[00:21:13] et changer l'ensemble de la configuration
+[00:21:15] de nos data centers. Vous avez le même
+[00:21:17] typologie des principes dans l'inférence
+[00:21:19] et l'IA. C'est-à-dire qu'aujourd'hui,
+[00:21:21] on voit très bien que l'inférence et l'IA,
+[00:21:23] c'est tout ce qui vous permet, quand vous tapez dans les chats
+[00:21:25] et recevez des tokens,
+[00:21:28] on voit la
+[00:21:29] christicité de ces typologies
+[00:21:31] d'activités. Donc ça ne peut pas tomber
+[00:21:33] en panne. C'est aussi important,
+[00:21:35] ça devient aussi important que
+[00:21:37] par exemple la téléphonie,
+[00:21:38] que l'ensemble de la communication.
+[00:21:41] Parce qu'il y a beaucoup d'entreprises
+[00:21:43] qui sont posées sur les tokens.
+[00:21:45] Et donc vous ne pouvez pas mettre tout
+[00:21:47] l'ensemble des activités dans un seul datacent,
+[00:21:49] dans un seul lieu. Vous devez les mettre
+[00:21:51] dans beaucoup de différents endroits
+[00:21:53] et pouvoir les relier sur le réseau
+[00:21:55] à travers différents schémas. En tout cas, c'est notre
+[00:21:57] approche pour pouvoir fournir de la résilience.
+[00:22:01] Électricité foncier l'eau, les freins investissements en France.
+[00:22:05] Là, il y a une longue liste de réglementation.
+[00:22:11] Moi, j'ai commencé il y a 27 ans.
+[00:22:12] J'ai un tout petit peu de...
+[00:22:16] J'ai un track record sur les gestions des différentes problématiques
+[00:22:21] et dans les différents pays.
+[00:22:22] Ça s'est complexifié ces dernières années.
+[00:22:25] Un point, c'est que vous comptez en plusieurs années pour pouvoir déployer un data center ou même pouvoir l'appgrader. Il faut juste voir au niveau des ICPE. Lorsque vous avez un data center, vous voulez l'agrandir, vous devez déposer bien sûr les dossiers. C'est normal.
+[00:22:43] Mais le fait de déposer le dossier bloque pour deux ans l'ensemble des investissements sur les sites.
+[00:22:50] C'est-à-dire que vous avez l'interdiction pendant deux ans de faire quoi que ce soit sur les sites.
+[00:22:56] Donc je vous mets en défi de gérer une activité où vous avez des croissances de ces styles-là, où vous devez croître assez rapidement,
+[00:23:03] où on vous dit « touche à rien pendant deux ans à cet endroit-là parce qu'on est en train d'étudier votre dossier et on vous dira si vous pouvez croître dans deux ans ».
+[00:23:11] Vous ne pouvez pas. Et la liste de ces typologies des contraintes, elle est longue. Je vous donne l'exemple à Roubaix. On vient de Roubaix. On a progressivement acheté différents bâtiments dans un quartier.
+[00:23:26] Donc à chaque fois, c'est une autre adresse. Les bâtiments sont espacés des 200 mètres, 500 mètres, parfois c'est 700 mètres. Et puis progressivement, on faisait des ICPE sur les différents lieux.
+[00:23:40] Mais en fait, comme c'était des lieux de 2 mégawatts, 5 mégawatts, ça se passait relativement bien. Mais à un moment, on est venu vers nous en disant, vous devez considérer tout ça comme un seul lieu.
+[00:23:53] D'accord ? Et donc, désormais, on veut que tout soit considéré comme si c'était une adresse, le quartier complet. D'accord ? Donc, on a été bloqué pendant un certain temps pour pouvoir mettre tout ça en règle, entre guillemets.
+[00:24:08] On nous a imposé des règles et dire, voilà, vous avez différents bâtiments à différents endroits. Ce n'est pas très grave. Vous devez les considérer comme tout ensemble. Donc, vous avez un certain nombre d'investissements que vous devez faire pour un certain nombre de contraintes.
+[00:24:20] On a dû mettre, je pense, 5-6 millions additionnels pour pouvoir mettre en règle un quartier, avec les complexités des distances, tout ça, pour que ça soit...
+[00:24:30] C'est juste un exemple. On vit avec ça. Et c'est un peu plus long que ne pas avoir tous ces contrats-là, qui sont importantes.
+[00:24:41] dans l'absolu, sont importantes parce que ça nous protège, ça fait qu'on opère dans un endroit safe.
+[00:24:48] Mais quand même, c'est la réalité des entrepreneurs, c'est la réalité de cette activité-là.
+[00:24:53] Et aujourd'hui, lorsqu'on parle de data center, je pense qu'on n'en aura pas de gigafactory en France, ni même en Europe.
+[00:25:01] C'est-à-dire que les lieux où il y aura un gigawatt de puissance électrique déployée dans un data center,
+[00:25:07] une adresse, pour moi, ça ne va jamais exister en Europe et en France.
+[00:25:11] c'est que les américains
+[00:25:12] ils sont construits
+[00:25:14] avec tous les feedbacks
+[00:25:16] qu'on commence à avoir en fait
+[00:25:17] 2 gigawatts ou 3 gigawatts
+[00:25:19] avec toutes les problématiques
+[00:25:21] des CO2, l'énergie
+[00:25:23] les off-grid, la consommation
+[00:25:26] d'eau etc. En France
+[00:25:27] ça ne va jamais arriver parce que tout simplement ça va être bloqué
+[00:25:29] avant. Si vous voulez aujourd'hui construire
+[00:25:31] un data center de 100 mégawatts, 200 mégawatts
+[00:25:33] vous en avez déjà entre 4 et 5
+[00:25:35] ans pour pouvoir y aller. Même
+[00:25:37] avec tout ce qui a été fait
+[00:25:39] précédemment par président pour pouvoir pousser toute cette activité-là.
+[00:25:48] Et quelles sont les recommandations pour le législateur ?
+[00:25:52] Moi, j'aime bien la liberté d'action.
+[00:25:56] C'est ça que j'aime bien, c'est que l'initiative personnelle,
+[00:26:00] l'initiative individuelle peut changer des choses.
+[00:26:03] Il y a quelqu'un qui se lève le matin, il a une idée, il prend les risques,
+[00:26:06] il crée des activités.
+[00:26:07] Et donc moi, j'aime bien laisser les entreprises agir et derrière donner le plus de liberté possible. Mais aussi, je me rends compte qu'on vit dans un pays un tout petit peu indiscipliné, en tout cas qui n'est pas tourné sur le long terme, qui s'est satisfait en fait d'un certain rythme de fonctionnement ou d'activité d'une année à l'autre, où le changement, on n'aime pas trop cette partie-là.
+[00:26:35] Donc moi, j'ai juste une idée, en fait, c'est que quelque part, et je n'aime pas que ça soit fait par la loi, mais en tout cas, c'est vraiment une réflexion que je vous laisse.
+[00:26:44] En fait, c'est les 15% des activités. C'est-à-dire qu'il n'y a pas besoin de rediriger 30, 40, 50% ou flécher 50% des activités numériques vers les acteurs européens.
+[00:26:59] Si vous mettez 5, 10 ou 15 %, vous allez créer des géants en Europe, en France, dans le numérique.
+[00:27:06] C'est suffisant parce que c'est une certaine masse critique qui n'est déjà pas si micro,
+[00:27:12] qui permet derrière de développer, d'investir, de faire la rotation du capital
+[00:27:18] et faire de sorte qu'on a plus de ces typologies d'entreprises en Europe et en France.
+[00:27:26] Et deuxième élément, c'est que je dirais, mais bon, ça, je ne sais pas comment vous allez pouvoir intervenir, c'est la culture financière. La culture financière en Europe, en France, elle est beaucoup orientée sur j'investis, je perds de l'argent.
+[00:27:42] donc c'est quelque part
+[00:27:44] est-ce que vous allez investir de l'argent
+[00:27:46] est-ce que vous êtes capable
+[00:27:48] de perdre de l'argent
+[00:27:49] investissement rentable
+[00:27:51] faire des investissements qui font ensuite créer de la valeur
+[00:27:54] ou fondre la croissance
+[00:27:56] on est dans cette
+[00:27:58] approche là des start-up nation
+[00:28:00] on a quelque part perdu ça de vue
+[00:28:02] moi j'ai créé la boîte sans l'argent
+[00:28:04] extérieur et c'est mon
+[00:28:06] ADN en fait je ne sais pas faire autrement
+[00:28:08] et c'est ça aujourd'hui
+[00:28:10] qu'on n'a pas. On a d'un côté des investisseurs
+[00:28:13] qui veulent du cash, du free cash flow,
+[00:28:16] des dividendes.
+[00:28:17] Et de l'autre côté, on a toute une population
+[00:28:19] qui dit, moi, je veux bien lever de l'argent
+[00:28:21] pour ne pas se marrer,
+[00:28:23] pour faire des développements,
+[00:28:25] pour faire des choses qui m'amusent,
+[00:28:27] mais que je ne cherche pas vraiment
+[00:28:29] du revenu, ni de l'activité,
+[00:28:31] ni quelque chose de sustainable.
+[00:28:34] Heureusement, entre les deux,
+[00:28:35] il y a quand même un flopé des entreprises
+[00:28:38] qui sont sur les bons sujets,
+[00:28:39] mais détail insuffisant à mon groupe.
+[00:28:42] Je vous propose qu'on puisse s'arrêter là pour les propos liminaires, M. Klaba.
+[00:28:48] On va laisser la parole aux orateurs des groupes et puis sur les sujets sur lesquels vous voudriez revenir,
+[00:28:54] bien évidemment, soit à travers les questions ou en fin d'audition, je vous propose de le faire si ça vous convient comme cela.
+[00:28:59] C'est parfait. Merci beaucoup en tout cas pour ces éléments de présentation et les premières réponses aux questions que vous avez bien voulu nous donner.
+[00:29:08] Pour le groupe du Rassemblement national, M. Edouard Jordan, vous avez la parole, M. le député.
+[00:29:13] Merci, M. le Président.
+[00:29:15] M. le Président, Directeur général, votre audition marque l'occasion de rappeler le paradoxe du numérique français.
+[00:29:22] Nous disposons des compétences, des technologies et des acteurs industriels sur pratiquement toute la chaîne du secteur.
+[00:29:29] Pourtant, nos administrations dépendent encore largement de fournisseurs étrangers.
+[00:29:34] Le gouvernement tarde à prendre pleinement la mesure des enjeux de souveraineté numérique.
+[00:29:38] L'exemple de la plateforme des données santé illustre ces contradictions.
+[00:29:43] En confiant l'hébergement de données de santé à Microsoft, le gouvernement macroniste a créé une brèche au regard de l'extraterritorialité du droit américain.
+[00:29:52] Votre entreprise s'était positionnée pour reprendre cet hébergement.
+[00:29:56] En avril dernier, c'est finalement le français Scalway qui a été choisi pour engager la migration vers un cloud souverain.
+[00:30:04] Sept années auront été perdues avant ce changement de cap alors que les acteurs français avaient la capacité de répondre à l'appel d'offres dans des calendriers acceptables.
+[00:30:14] Ce manque de soutien de l'État est d'autant plus préoccupant au regard des menaces que la concurrence étrangère fait peser sur notre industrie du numérique.
+[00:30:23] Le dépeçage d'Atos, champion historique du numérique français, rappelle qu'une souveraineté industrielle peut se perdre faute de volonté politique.
+[00:30:33] Nous ne pouvons pas demander à nos entreprises d'investir dans les technologies de demain tout en les laissant à la merci de fonds étrangers. L'argent des Français doit soutenir nos capacités industrielles et assurer la sécurité des données confiées aux administrations.
+[00:30:48] Pour le groupe Rassemblement national, ce constat appelle une réponse claire, instaurer la priorité nationale dans la commande publique.
+[00:30:58] Le 8 octobre prochain, nous porterons dans notre niche parlementaire la résolution portée par mon collègue ici présent, le député Alexandre Loubet,
+[00:31:07] qui appelle à permettre aux acheteurs publics de privilégier les offres mobilisant des emplois, de la production et de l'innovation en France.
+[00:31:16] Nous souhaitons ainsi privilégier les acteurs français comme OVH, Scalway ou Clever Cloud dans les projets numériques de l'Etat. En associant nos entreprises à une énergie nucléaire compétitive, nous pouvons retrouver une ambition industrielle à la hauteur de l'ère des data centers et de l'IA.
+[00:31:35] Monsieur le PDG, seriez-vous donc favorable à l'instauration de la priorité nationale dans la commande publique ? Je vous remercie de votre réponse.
+[00:31:45] Merci monsieur le député. Monsieur le président directeur général, vous laissez deux petites minutes pour répondre à cette question.
+[00:31:51] Quand je disais, 15% de redirection du revenu, en tout cas de la commande, permet de créer des acteurs européens de bonne taille. Il faut prendre en compte aussi le fait de la masse critique.
+[00:32:09] C'est-à-dire que la France seule n'a pas aujourd'hui et ne peut pas répondre à cette problématique-là. La réponse, elle doit être européenne.
+[00:32:19] Si vous n'avez pas la masse critique européenne pour pouvoir alimenter en revenu les entreprises françaises ou européennes, vous allez avoir des champions tels qu'ils sont actuellement.
+[00:32:30] aujourd'hui sur les sols aux alentours de 200, 300 millions, 500 millions de chiffres d'affaires.
+[00:32:37] Parce que c'est ça que ça va représenter comme chiffre d'affaires que les entreprises de cloud pourront faire s'ils focusent uniquement sur la France.
+[00:32:45] Derrière, vous pouvez créer des champions à plusieurs milliards de chiffres d'affaires parce que vous allez avoir l'accès à plusieurs marchés.
+[00:32:53] Et alors pourquoi aujourd'hui OVH fait 1,2 milliard et on est sur la pente de 2 milliards de chiffres d'affaires ?
+[00:32:59] Là où tous nos concurrents, ils sont plutôt aux alentours des 100, 200 millions. Parce que dès 2004, j'ai eu, au bout de cinq ans d'évolution d'entreprise, j'ai décidé de déployer tous les pays en Europe.
+[00:33:12] Et donc, je l'ai fait ça pendant quatre ans. Et donc, j'ai fait la Pologne, j'ai fait l'Espagne, l'Italie, Portugal, Irlande, l'Angleterre, Pays-Bas, des Pays-Baltes, l'Allemagne, Suisse.
+[00:33:23] Donc j'ai fait beaucoup de développement européen à partir de 2004 jusqu'en 2009.
+[00:33:29] En 2010, on se posait la question comment on va aller aux États-Unis.
+[00:33:32] On n'y est pas allé tout de suite, on est allé au Canada.
+[00:33:35] Et donc en 2011, 2012, 2013, on a fait une expansion aussi à travers le Canada
+[00:33:40] et aussi à travers différents data centers en France et en Europe.
+[00:33:45] En 2016, pour moi, c'était le dernier moment pour notre histoire de dire
+[00:33:50] il faut qu'on devienne un acteur mondial.
+[00:33:53] Et c'est pour ça que j'ai fait la levée de fonds de 250 millions en 2016 pour aller construire des data centers partout dans le monde. C'est là où j'étais aux États-Unis. J'ai fait les Singapour, j'ai fait les Mumbai, j'ai fait l'Australie et les autres pays en Europe comme Pologne, l'Allemagne, etc. La masse critique.
+[00:34:12] Et donc, en fait, les enjeux des investissements sont tellement lourds que si vous avez uniquement un seul pays sur lequel vous pouvez compter, c'est très bien.
+[00:34:21] Pour moi, en fait, il faut rediriger une partie du chiffre d'affaires sur les Européens.
+[00:34:27] Mais celle de la France, si cette activité-là et cette initiative-là n'est pas européenne, on n'arrivera pas à bâtir des entreprises à plusieurs milliards.
+[00:34:37] Merci, M. le Président, directeur général.
+[00:34:40] Pour le groupe Ensemble pour la République, Mme Danielle Boulbois, vous avez la parole, Mme la députée.
+[00:34:44] Monsieur le Président, directeur général, au nom des députés Ensemble pour la République, je tiens d'abord à saluer votre parcours et votre engagement.
+[00:34:52] Vous avez fondé en 1999 à Roubaix une entreprise devenue le premier fournisseur européen de services d'informatique en nuages,
+[00:34:59] présente dans de nombreux pays et employant plusieurs milliers de salariés.
+[00:35:03] C'est une réussite française, capable de rivaliser avec les géants mondiaux, et nous en sommes très fiers.
+[00:35:10] Cette réussite prend aujourd'hui une portée particulière.
+[00:35:12] La souveraineté numérique est devenue un danger de premier plan pour notre économie, pour nos collectivités, pour nos hôpitaux comme pour nos entreprises.
+[00:35:20] Nos données sont un actif stratégique et il est impératif que les acteurs publics et privés se soucient de l'hébergement, de leur protection et des législations étrangères auxquelles elles peuvent être soumises.
+[00:35:30] La loi SREN visant à sécuriser et réguler l'espace numérique et la qualification Secnum Cloud vont dans ce sens. Elles posent un cadre exigeant dont vous êtes l'un des acteurs de référence. Dans le Jura, comme dans tous les territoires ruraux, nos artisans, nos PME, nos exploitations agricoles et nos communes numérisent leurs activités.
+[00:35:52] Ils sont inquiets, par exemple, sur la facturation électronique qui met à nu une autre économie, puisque l'on peut savoir qui vend quoi et qui achète quoi.
+[00:35:59] D'après vous, y a-t-il un risque ? Ils ont besoin de solutions fiables, accessibles et qui protègent leurs données.
+[00:36:08] Vous évoluez dans un marché où les géants américains occupent l'essentiel de la place.
+[00:36:12] Comment analysez-vous les rapports de force actuels avec ces acteurs et quelles mesures attendez-vous des pouvoirs publics ?
+[00:36:18] Vous y avez déjà un peu répondu. La commande publique peut-elle être, selon vous, un levier encore plus efficace pour soutenir votre filière ?
+[00:36:26] Face aux géants américains, la taille plus modeste d'un acteur comme OVH Cloud n'est-elle pas un atout en agilité, en proximité, en confiance et en maîtrise des coûts ?
+[00:36:37] Où en êtes-vous dans votre stratégie d'investissement dans les centres de données et dans l'intelligence artificielle ?
+[00:36:43] Avez-vous des projets pour les prochaines années ? Et nos territoires ruraux peuvent-ils y trouver leur place ?
+[00:36:48] Enfin, comment pouvons-nous vous aider et vous accompagner dans la formation des talents dont vous dites qu'ils sont le nerf de la guerre
+[00:36:55] et dont votre secteur a besoin, y compris dans nos territoires éloignés des grandes métropoles ? Je vous remercie.
+[00:37:01] Merci, madame la députée. Monsieur le Président.
+[00:37:12] Beaucoup de questions. Je vais essayer de répondre à certaines. Je n'arrive pas à toutes. Sur l'intelligence artificielle, pour moi, c'est essentiel. Pour moi, c'est essentiel et c'est un vrai défi.
+[00:37:24] Aujourd'hui, les technologies sont principalement américaines ou chinoises.
+[00:37:29] Les innovations viennent énormément de la Chine.
+[00:37:33] En Europe, on n'a pas d'acteurs technologiques qui souhaitent investir dans l'intelligence artificielle,
+[00:37:40] dans la technologie de l'intelligence artificielle.
+[00:37:43] Bien sûr, vous avez des usages et comment les implémenter dans les entreprises,
+[00:37:46] comment faire l'usage au quotidien dans le process et augmenter la productivité des entreprises.
+[00:37:52] Mais il y a la technologie en dessous qui est extrêmement importante.
+[00:37:56] Aujourd'hui, on fait beaucoup de confiance à l'open source, à juste titre, parce qu'il est bon, mais il est chinois.
+[00:38:02] C'est-à-dire qu'on ne sait pas ce qui va se passer demain vis-à-vis de cette open source-là.
+[00:38:08] Et on ne sait pas quelle est la stratégie qui est derrière les entreprises vont prendre dans un an, deux ans ou trois ans.
+[00:38:14] Est-ce que cette open source-là est temporaire pour pouvoir nous rendre dépendants de ces typologies de modèles ?
+[00:38:21] Ou est-ce qu'il est permanent ? Est-ce qu'il y aura des entreprises qui vont vouloir investir des milliards ?
+[00:38:26] Et derrière, on peut sourcer toujours les modèles.
+[00:38:29] En tout cas, nous, on est arrivé à la conclusion que c'est trop risqué de ne pas investir dans l'intelligence artificielle.
+[00:38:36] C'est pour ça que depuis le début de l'année, on a commencé à faire des acquisitions des entreprises avec des talents
+[00:38:42] pour pouvoir se renforcer technologiquement à l'intérieur de l'entreprise,
+[00:38:47] pour pouvoir ensuite entraîner des modèles, from scratch, depuis le début,
+[00:38:52] et de pouvoir les enrichir sur les métiers dont nous, on en a besoin.
+[00:38:57] Et nous en avons trois.
+[00:38:58] Le premier métier, c'est autour de la sécurité, offensif ou défensif.
+[00:39:03] C'est-à-dire qu'on voit très bien à quel point les enjeux de la sécurité autour de l'intelligence artificielle sont devenus colossaux.
+[00:39:10] C'est des vraies problématiques parce que l'IA permet de découvrir des failles de sécurité
+[00:39:15] ou pénétrer des systèmes à une vitesse qui n'a jamais été connue jusque là.
+[00:39:19] Donc nous, à notre niveau, on estime qu'on a beaucoup de données à nous,
+[00:39:23] pas celles des clients, à nous, parce qu'on gère des gros data centers,
+[00:39:27] on gère énormément d'activités, on subit beaucoup de DDoS,
+[00:39:30] on a énormément de données qu'on peut utiliser pour pouvoir entraîner nos systèmes.
+[00:39:34] On vient de là, on doit être bon en sécurité.
+[00:39:37] Deuxième élément, c'est coder, pouvoir développer les logiciels.
+[00:39:41] on utilise les LLM pour développer
+[00:39:43] mais aussi on veut
+[00:39:45] avoir nos modèles LLM qui vont développer
+[00:39:47] les logiciels. Et troisième c'est l'agentique
+[00:39:49] pour pouvoir dans les métiers
+[00:39:51] que nous on a, finance, légal
+[00:39:53] RH, la supply chain
+[00:39:55] et tous ces éléments, d'avoir de l'agentique.
+[00:39:57] Et donc on pense que si on développe
+[00:39:59] ces modèles-là LLM pour nous,
+[00:40:01] pour nos besoins et on en est content.
+[00:40:02] On va aussi rendre disponible pour nos clients pour qu'ils puissent profiter de ça.
+[00:40:07] On pourrait en parler sur l'intelligence artificielle beaucoup, mais ça c'est une réponse vraiment très rapide.
+[00:40:13] Merci Monsieur le Président, Directeur Général.
+[00:40:15] Pour le groupe de la France Insoumise, Monsieur René Pilato, vous avez la parole Monsieur le Député.
+[00:40:23] Merci Monsieur le Président, Monsieur le Président, Directeur Général.
+[00:40:27] L'Europe paye 264 milliards par an aux Etats-Unis pour les services cloud et logiciels utilisés. Pour la France, ces 54 milliards, soit presque 2% de son PIB.
+[00:40:38] Des ministères utilisent encore l'écosystème Microsoft et la DGSI a même prolongé un contrat avec Palantir fin 2025.
+[00:40:47] Sans parler de l'IA, France et Union européenne dépendent à près de 80% des géants américains du numérique pour le stockage informatique.
+[00:40:56] Selon le Future of Technology Institute, les systèmes de sécurité des trois quarts des pays européens reposent sur ces technologies.
+[00:41:04] Les États-Unis peuvent donc, du jour au lendemain, restreindre ou bloquer l'accès à nos propres données.
+[00:41:11] Cela fait de la France une quasi-colonie numérique et c'est inacceptable.
+[00:41:16] Face à cette dépendance, l'UE a choisi la com' plutôt que les actes.
+[00:41:20] évoquer la souveraineté quand seul 1% des usages les plus sensibles sont concernés est suicidaire.
+[00:41:27] Le cloud dit souverain est aujourd'hui trop souvent une offre américaine avec un habillage européen.
+[00:41:34] C'est un data center sur le sol européen, mais la propriété, la technologie et le droit applicable restent américains.
+[00:41:41] Cela permet aux autorités de ce pays d'exiger l'accès aux données, quel que soit le lieu de stockage.
+[00:41:47] L'Europe en est arrivée là car elle a cédé ses exigences d'immunité aux lois extraterritoriales sous la pression de certains États membres et des géants américains.
+[00:41:57] Nos marchés continuent de choisir Microsoft, Amazon ou Google, faute de règles claires imposant de privilégier des solutions européennes alors que les États-Unis et la Chine protègent leurs champions sans complexe.
+[00:42:09] Des offres européennes du stockage à l'IA existent. Ce qui manque, c'est qu'une demande publique et privée leur donne l'échelle nécessaire.
+[00:42:19] Et surtout des règles qui cessent de traiter à égalité un acteur soumis aux droits européens et un acteur soumis aux droits américains.
+[00:42:28] Décoloniser numériquement notre pays est possible. OVH Cloud fait partie de la solution.
+[00:42:33] Monsieur Clabat, vous avez construit un acteur européen de rang mondial face à des géants adossés à un marché protégé. Dans le cadre d'un grand plan porté par la France insoumise de décolonisation numérique, dont l'objectif est notamment d'avoir des data centers français, trois questions.
+[00:42:52] Faut-il miser sur des méga data centers ou sur un maillage de petits centres de données pour assurer notre résilience ?
+[00:42:59] Vous avez en partie répondu dans le propos liminaire.
+[00:43:02] Sur combien de temps OVH a-t-il la capacité de répondre à une demande industrielle de cette ampleur ?
+[00:43:08] Comment augmenter l'efficacité énergétique des centres de données, réduire leur consommation en eau et récupérer leur production de chaleur ?
+[00:43:16] La Suisse avec Infomaniac serait-elle un exemple ? Je vous remercie.
+[00:43:22] Merci, monsieur le député. Monsieur le président directeur général.
+[00:43:26] Je vais commencer par la dernière question. Sur l'écologie et les data centres, c'est l'un des sujets favoris parce que depuis 2004, nous refroidissons les data centres avec de l'eau.
+[00:43:40] On n'a pas de clim dans nos data centres. On a 500 000 serveurs physiques, donc des ordinateurs physiques qui sont refroidis avec de la flotte de l'eau.
+[00:43:49] Alors, qu'est-ce que ça nous permet ?
+[00:43:50] Ça nous permet de réduire nos consommations électriques de moitié.
+[00:43:54] Donc, ce n'est pas anecdotique, c'est beaucoup.
+[00:43:57] Et comme nos comptes, l'ensemble des données sont publics,
+[00:44:00] je peux dire qu'aujourd'hui, on paye environ 70 millions par an de l'énergie.
+[00:44:05] L'énergie, en fait, dans différents data centers par an.
+[00:44:08] Si on n'avait pas ces technologies-là, on aurait payé 140.
+[00:44:12] D'accord ?
+[00:44:12] Donc, c'est les vraies économies qu'on fait qu'on déverse.
+[00:44:15] et ça nous permet d'être moins chers sur le marché et de proposer des services moins chers.
+[00:44:21] Donc on le reverse et va le rajouter à nos clients.
+[00:44:25] Ce sont des typologies de technologies que nous avons développées il y a plus de 20 ans
+[00:44:28] et que nous avons améliorées au fur et à mesure de temps.
+[00:44:32] Les mêmes typologies d'innovation nous avons faites sur la circularité des pièces.
+[00:44:37] C'est-à-dire que nous construisons tout l'ensemble des serveurs dans nos usines.
+[00:44:41] On a deux usines. On a plus de centaines de personnes, 120 personnes qui construisent nos serveurs. On n'achète pas les serveurs ailleurs. On a toute la supply chain mondiale où toutes les pièces arrivent à Croix dans le nord de France et à côté de Montréal, Bois-Arnois, où on a deux usines dans lesquelles on fabrique un peu plus de 50 000, 60 000 serveurs physiques par an et lesquelles nous permettent de personnaliser, d'aller vraiment réduire le coût.
+[00:45:11] et de mettre des serveurs qui sont spécifiquement bons
+[00:45:14] par rapport à les différents métiers qu'on doit délivrer pour nos clients.
+[00:45:19] Et donc, de cette manière-là aussi, une fois que les serveurs vont dans les data centers,
+[00:45:22] au bout d'un certain nombre d'années, il faut le retirer, il faut le recycler.
+[00:45:28] Donc, toute l'ensemble de cette chaîne-là de recyclage,
+[00:45:31] nous avons mis en place depuis des années.
+[00:45:33] Donc, l'ensemble de nos data centers, on l'a construit,
+[00:45:36] beaucoup de nos data centers qu'on a construits dans les friches
+[00:45:39] pour réduire la consommation de CO2.
+[00:45:41] Et à nouveau, on peut en parler pendant une trentaine de minutes.
+[00:45:44] C'est un sujet extrêmement important chez nous
+[00:45:47] pour pouvoir justement réduire les impacts et les consommations
+[00:45:50] et derrière, de pouvoir délivrer des services sur les grandes scales.
+[00:45:55] Merci, M. le Président, directeur général.
+[00:45:57] Pour le groupe écologiste et social, Mme Cyrielle-Châtelain faisait la parole, Mme la Présidente.
+[00:46:07] Merci, M. le Président, et merci pour cette audition et pour vos propos. Moi, j'aurais deux questions. Le premier, vous l'avez évoqué dans la réponse sur justement la chaîne d'approvisionnement que vous avez montée.
+[00:46:21] Est-ce que vous pourriez développer un peu plus sur l'avantage de cette chaîne d'approvisionnement ? Est-ce que c'est pour vous quelque chose qui devrait être davantage développé pour garantir justement les enjeux de souveraineté ?
+[00:46:34] Et le deuxième, c'est sur l'IA. Vous avez commencé à évoquer à la fois ce que vous développez en interne et il me semble que vous avez aussi une offre et iDeploy.
+[00:46:43] Est-ce que ça change des choses en termes de gestion de l'infrastructure, en termes de consommation énergétique ?
+[00:46:49] Ou globalement, comment est-ce que vous appréhendez le développement de l'intelligence artificielle en termes de gestion de vos infrastructures ?
+[00:46:59] Merci, Madame la Présidente. Allez-y, Monsieur.
+[00:47:02] Sur la chaîne d'approvisionnement, c'est un sujet primordial. Je vous donne un chiffre.
+[00:47:09] En ce moment, on vit une crise au niveau du coût des RAM, la mémoire.
+[00:47:15] C'est la mémoire que vous avez dans les ordinateurs, vous avez ça dans les voitures, vous avez dans les smartphones.
+[00:47:21] Le coût de la RAM, en fait, de mémoire a augmenté de 6 à 9 fois en espace de 12 mois.
+[00:47:30] Donc, c'est un impact majeur sur l'ensemble du coût de cloud et de l'intelligence artificielle.
+[00:47:38] Et ça continue à augmenter pour une raison assez simple, c'est que beaucoup de productions mondiales se sont tournées vers l'intelligence artificielle.
+[00:47:46] Et la production mondiale des trois fournisseurs a été réorientée justement sur les GPU, sur l'intelligence artificielle, et délaissée de côté l'ensemble des autres activités.
+[00:47:58] Et donc du coup, l'offre et la demande étant toujours là, l'offre a augmenté les prix parce qu'il n'y a pas plus de production mondiale.
+[00:48:07] En Europe, on achète 3% de volume des rames mondiales.
+[00:48:14] L'Europe, tout l'ensemble des territoires européens,
+[00:48:17] il achète la rame en volume des 3%.
+[00:48:19] C'est-à-dire que ce n'est pas là que ça se passe.
+[00:48:22] La production, l'ensemble des assemblages,
+[00:48:25] ce n'est pas là que ça se passe la mise en ensemble
+[00:48:29] de toutes ces activités électroniques.
+[00:48:32] Ça se passe aux États-Unis et ça se passe en Asie.
+[00:48:35] Donc l'Europe, ça fait des années qu'elle n'est plus up to date,
+[00:48:39] enfin elle n'est plus à jour en termes de l'électronique.
+[00:48:43] Nous avons quand même, avec Bulle, on est quasiment les seuls fabricants européens,
+[00:48:50] deux ordinateurs.
+[00:48:51] Il n'y en a pas beaucoup d'autres.
+[00:48:53] Il y en a quelques usines en Tchéquie pour HPE, mais il y en a extrêmement peu.
+[00:48:58] Ça ne se fabrique plus en Europe.
+[00:48:59] Et on est loin de loin, en fait, on est dépendant de toutes ces activités-là qui sont à l'extérieur de l'Europe. Je ne parle même pas des chips, etc. Ou même les États-Unis, ils ont du mal à ramener toutes ces activités-là sur leur sol.
+[00:49:12] Sur l'intelligence artificielle, il y a beaucoup à répondre. Sur l'IA, par rapport à les questions que vous aviez, l'innovation dans l'intelligence artificielle et le développement des nouveaux modèles, ça oblige d'avoir des clusters de GPU dans nos data centers.
+[00:49:37] Il se trouve qu'en fait, moi, j'ai fait un investissement dans pas mal de data centers,
+[00:49:41] il y a une dizaine d'années, il y a quinzaine d'années.
+[00:49:44] J'ai 250 mégawatts de puissance électrique, donc à peu près plus que la moitié utilisée,
+[00:49:49] mais en l'autre moitié, maintenant, on va pouvoir accélérer leur utilisation.
+[00:49:54] Et donc, je suis un peu en avance, en fait, par rapport à toutes les phases de tous les acteurs.
+[00:49:59] qui disent que je n'ai plus de puissance électrique, je n'ai plus de place.
+[00:50:04] Donc je suis un peu moins à l'aise aujourd'hui de faire évoluer de l'intelligence artificielle.
+[00:50:08] N'empêche que les designs technologiques des data centers qui hébergent l'intelligence artificielle
+[00:50:16] sont totalement différents des autres typologies d'infrastructures.
+[00:50:19] La concentration d'énergie est énorme par mètre carré
+[00:50:24] Et ça impose un certain nombre de câbles électriques ou des systèmes électriques complètement différents.
+[00:50:32] Et c'est là que l'histoire nous donne encore raison.
+[00:50:36] Watercooling vient sauver le refroidissement,
+[00:50:40] puisque vous ne pouvez pas mettre autant de puissance électrique dans un mètre carré
+[00:50:45] sans pouvoir extraire autant de chaleur sans l'eau glycolée.
+[00:50:51] et donc
+[00:50:51] n'ayant un expert dans ces technologies-là
+[00:50:55] depuis plus de temps, on voit très bien
+[00:50:56] qu'on maîtrise toute cette chaîne
+[00:50:58] d'approvisionnement
+[00:51:01] en fait des GPU et on sait
+[00:51:02] déployer à une vitesse extrêmement importante
+[00:51:05] dans nos data centers, mais ça change
+[00:51:07] beaucoup sur la place, sur la manière
+[00:51:09] d'apporter et derrière, il faut
+[00:51:10] prendre juste en compte que les technologies
+[00:51:13] sont encore en train d'évoluer, c'est-à-dire
+[00:51:14] que si vous investissez
+[00:51:17] aujourd'hui dans un data center et vous dites
+[00:51:18] ça y est, j'ai un data center de l'intelligence artificielle,
+[00:51:21] soyez sûr que dans 18 mois, 12 mois, vous allez devoir faire du rétrofit dans votre data center
+[00:51:26] pour pouvoir l'adapter à de nouvelles technologies des GPU qui vont sortir dans deux ans
+[00:51:30] parce que votre chaîne énergétique ou de refroidissement ne sera plus à jour.
+[00:51:35] Et donc, ça change complètement la manière d'investir aussi dans les data centers.
+[00:51:40] Vous ne pouvez pas construire un data center aujourd'hui, dire ça y est, j'ai construit un truc sur 20 ans.
+[00:51:45] Vous pouvez construire des coquilles dans lesquelles, au fur et à mesure de temps, vous allez déployer des technologies qui sont incompatibles avec les GPU du moment.
+[00:51:55] Merci, monsieur. Pour le groupe socialiste, madame Valérie Rossier, avec mes excuses d'avoir interverti l'ordre. Vous avez la parole, madame la députée.
+[00:52:06] Merci, monsieur le président. Vous êtes tout excusé. Monsieur le président, directeur général et chers collègues, d'abord, je tiens à vous remercier de votre présence devant notre commission,
+[00:52:14] à vous dire que nous sommes fiers d'avoir en France une entreprise capable de rivaliser avec les géants américains.
+[00:52:20] À vous écouter, nous comprenons que vous défendez un cloud européen souverain et l'émergence de grandes capacités à l'échelle du continent
+[00:52:28] pour soutenir le développement de l'intelligence artificielle.
+[00:52:31] Face à la domination des hyperscalers américains, cette ambition est parfaitement légitime et le groupe socialiste et apparenté la partage.
+[00:52:38] Une question demeure toutefois. Comment éviter de remplacer trois géants américains par deux ou trois géants européens ? Et quelle place pour les PME dans cette souveraineté numérique ?
+[00:52:50] Vous avez affirmé tout à l'heure que vous aimiez les entrepreneurs courageux qui osent et qui innovent. Dans mon département des Hautes-Alpes, dans la circonscription dans laquelle je suis élue, à Briançon, à 1330 mètres d'altitude, dans un département rural et de montagne, la PME Sobecloud fait un pari différent.
+[00:53:07] celui d'un cloud territorial.
+[00:53:10] Elle choisit le froid alpin, zéro clim, zéro litre d'eau.
+[00:53:14] Elle mise sur le solaire, l'extinction des serveurs inutilisés,
+[00:53:17] l'éco-conception et l'hébergement local des données
+[00:53:20] dans un bâtiment historique existant.
+[00:53:22] Je le dis, bien évidemment, sans préjuger des efforts faits par OVH Cloud
+[00:53:26] en matière de sobriété que vous nous avez un peu exposés,
+[00:53:30] auxquels vous êtes sensibles, vous nous l'avez dit.
+[00:53:32] Par ailleurs, Google parle ce matin même d'envoyer demain
+[00:53:36] ses premières puces IA dans l'espace pour tester son projet de data center orbital.
+[00:53:42] Ma première question est la suivante.
+[00:53:43] L'avenir du cloud européen passe-t-il nécessairement par toujours plus de gigantisme
+[00:53:48] ou pourrait-il aussi reposer sur un maillage de petits data centers territoriaux sobres
+[00:53:54] connectés à de grands acteurs européens comme le vôtre ?
+[00:53:58] Ma deuxième question porte sur la commande publique.
+[00:54:01] Le droit permet déjà l'alotissement et plusieurs mécanismes d'accès des PME innovantes.
+[00:54:05] Seriez-vous favorable à davantage d'alotissements dans les grands marchés publics numériques,
+[00:54:10] afin qu'une PME puisse se positionner sur un lot sans devoir répondre à un appel d'offres de plusieurs dizaines de millions d'euros ?
+[00:54:16] Et enfin, quelle est votre stratégie de coopération technologique, commerciale ou d'interconnexion avec les PME implantées dans nos territoires ?
+[00:54:24] Seriez-vous prêts à rencontrer les représentants de l'entreprise eau alpine dont je vous parlais ? La connaissez-vous ?
+[00:54:30] Cela pourrait-il être une stratégie intéressante pour concevoir une infrastructure hybride et au co-responsable ?
+[00:54:35] Il me paraît important qu'un grand acteur européen puisse aussi faire grandir un écosystème de PME territorial spécialisé dans l'hébergement de nos données.
+[00:54:45] Je vous remercie.
+[00:54:47] Merci, madame la députée.
+[00:54:52] Est-ce que ça passe par le gigantisme ? C'est la meilleure chose qui puisse nous arriver, en fait, parce que c'est une histoire de masse critique.
+[00:55:01] mais en fait, juste pour vous expliquer un petit peu financièrement parlant de ce que ça veut dire
+[00:55:05] et techniquement parlant de ce que ça veut dire.
+[00:55:08] Lorsque vous développez un produit software dans le cloud,
+[00:55:11] il s'agit de mettre du software sur un hardware.
+[00:55:15] Pour gérer ce software-là, en fait, un logiciel,
+[00:55:17] vous devez avoir une équipe, une dizaine de personnes, une quinzaine de personnes.
+[00:55:21] Et ensuite, vous pouvez faire le chiffre d'affaires sur ces logiciels-là,
+[00:55:25] en les posant sur le cloud.
+[00:55:27] Que vous fassiez 10 millions de chiffres d'affaires,
+[00:55:30] 100 millions de chiffres d'affaires ou 1 milliard de chiffres d'affaires
+[00:55:32] sur ces produits-là, c'est toujours 10-15 personnes.
+[00:55:35] Et donc, vous avez, en fait, les principes d'écrasement de coûts
+[00:55:39] et de génération, en fait, des marges que vous pouvez réinvestir.
+[00:55:43] Si vous êtes un acteur faible, enfin petit, vous allez avoir ces 10-15 personnes.
+[00:55:48] Et si vous en avez 10 acteurs qui font exactement la même chose
+[00:55:52] sur les territoires, vous allez faire 10 fois 10 personnes,
+[00:55:54] mais qui vont faire exactement le même produit.
+[00:55:57] Derrière, la valeur ajoutée entre les produits, il ne va pas y en avoir parce que tout le monde va caper sur les coûts.
+[00:56:03] Et donc, on va niveler par les réductions des prix et donc par compétitivité.
+[00:56:08] Qui est prêt à gagner moins d'argent pour pouvoir faire la même chose ?
+[00:56:12] Et donc, vous allez niveler de cette manière-là l'ensemble de l'économie par le bas.
+[00:56:16] Pour pouvoir niveler par le haut, ce qu'il faut, c'est justement les tailles critiques, les masses critiques.
+[00:56:21] Trouver des clients là où ils sont, que ce soit les typologies des clients.
+[00:56:26] pour pouvoir derrière écraser vos coûts, générer des marges que vous pouvez ensuite réinvestir dans un nouveau produit.
+[00:56:32] Et donc c'est pour ça la construction d'OVH, en fait, moi je l'ai fait brique par brique.
+[00:56:36] Une brique rentable permet de financer une autre brique qui au débit n'est pas rentable,
+[00:56:42] mais au bout de 36 mois elle devient rentable et à son tour me permet d'investir dans une autre brique.
+[00:56:48] Et donc de cette manière-là, vous pouvez continuer à développer l'ensemble des briques élémentaires
+[00:56:53] et ensuite de plus en plus complexes qui sont nécessaires dans ce qu'on appelle cloud et l'intelligence artificielle.
+[00:56:59] Si vous êtes une entreprise de faibles tailles, vous allez arriver à 3-4 produits au lieu des centaines, 200 produits que les clients demandent.
+[00:57:07] Donc vous n'avez pas la masse critique pour pouvoir faire vraiment le job jusqu'au bout.
+[00:57:12] Vous pouvez compter sur des investisseurs peut-être qui vont vous donner un certain nombre d'argent au début.
+[00:57:18] Et vous allez brûler cette cache-là. Et derrière, lorsque vous allez revenir deux ans plus tard, parce que les cycles d'investissement sont extrêmement rapides, vous n'allez pas générer suffisamment des chiffres d'affaires.
+[00:57:28] Et vous allez dire, j'arrête l'entreprise, ou alors je diminue de taille, ou alors je reste sur les petits périmètres. Donc j'ai passé par ces étapes-là. J'ai grandi l'entreprise.
+[00:57:38] j'étais premier employé dans la boîte.
+[00:57:40] J'ai fait grandir l'entreprise par 20 personnes, 100 personnes, 200 personnes, 500 000, 1300, 2000.
+[00:57:47] Donc j'ai connu les différentes étapes de l'évolution et j'ai bien vu que nos moyens, ils augmentaient plus on était grands.
+[00:57:53] Aujourd'hui, j'ai visé 2 milliards de chiffre d'affaires pour une raison assez simple.
+[00:57:57] Avec 2 milliards de chiffre d'affaires, notre niveau des marges EBITDA,
+[00:58:00] en étant toujours aux alentours des 40% en plus, parce que c'est nécessaire d'investir très rapidement dans les cycles.
+[00:58:06] 
+[00:58:08] Bonjour.
+[00:58:08] Je vais vous fuir de votre phrase quand même.
+[00:58:11] Avec 2 milliards de chiffres d'affaires, on va pouvoir investir 800-900 millions chaque année.
+[00:58:17] Quand vous investissez 800-900 millions chaque année, vous avez de l'impact.
+[00:58:23] Là, vous pouvez créer des belles choses et vous allez pouvoir vraiment avoir de l'impact au niveau européen sur l'ensemble de l'économie.
+[00:58:29] C'est pour ça que je vise 2 milliards de chiffres d'affaires et c'est pour ça que la masse critique est aussi importante.
+[00:58:34] Merci, M. le Président, directeur général.
+[00:58:36] Il restera la petite question de l'entreprise située dans les Hautes-Alpes.
+[00:58:41] Voilà, mais on pourra y revenir à la fin.
+[00:58:44] Voilà, on vous laisse quelques minutes.
+[00:58:45] Chaque semaine, je rencontre entre 5 et 6 start-ups.
+[00:58:49] Le bureau du président de la Commission des affaires économiques est tout disposé à pouvoir accueillir le format de la rencontre.
+[00:58:55] Voilà, la proposition est lancée.
+[00:58:57] Pour le groupe des démocrates, Mme Patricia Motion, vous avez la parole, Mme la députée.
+[00:59:05] Merci Monsieur le Président. Monsieur le Président, directeur général, au nom de mes collègues du groupe démocrate, je veux tout d'abord vous remercier pour cette audition.
+[00:59:13] Comme vous le savez, les fournisseurs de cloud font face à une montée des risques dits non techniques. Je pense ici aux lois extraterritoriales, notamment américaines.
+[00:59:23] Celles-ci permettent aux autorités américaines d'obliger toute entreprise soumise à leur juridiction à leur transmettre des données où qu'elles soient hébergées, voire à couper un service du jour au lendemain.
+[00:59:34] Je pense aussi aux dépendances dans les chaînes d'approvisionnement logiciel.
+[00:59:37] Face à ces risques-là, la protection des données devient une question de souveraineté.
+[00:59:42] L'Union européenne en tire désormais les conséquences.
+[00:59:44] Un règlement proposé par la Commission en juin et en cours de négociation imposerait aux administrations publiques de classer leurs besoins selon quatre niveaux d'assurance. Ces niveaux vont de la simple localisation des données dans l'Union européenne,
+[01:00:00] jusqu'à l'absence de toute ingérence d'un pays tiers.
+[01:00:04] Les administrations ne pourraient alors recourir qu'à des clouds reconnus au niveau requis.
+[01:00:11] Mais la règle ne suffira pas.
+[01:00:13] Selon la Commission, la part des fournisseurs européens sur notre propre marché est tombée d'environ 29% en 2017 à 15% en 2022.
+[01:00:22] Si demain la commande publique exige les niveaux les plus élevés,
+[01:00:26] Encore faudra-t-il des acteurs européens capables d'y répondre à grande échelle et avec une offre complète.
+[01:00:32] En un mot, nous avons besoin de champions européens du cloud.
+[01:00:36] D'où ma question.
+[01:00:37] Quel moyen OVH déploie-t-il pour se hisser au niveau d'assurance le plus exigeant,
+[01:00:43] qu'il s'agisse de vos qualifications, de vos capacités de centres de données ou de vos services,
+[01:00:49] notamment d'intelligence artificielle ?
+[01:00:51] Existera-t-il une offre européenne souveraine suffisante pour répondre aux besoins dans les prochaines années ? Je vous remercie.
+[01:01:02] Je me permets de répondre à la question par rapport à les États-Unis et les lois. En fait, la loi américaine, on parle souvent de la loi américaine par rapport à les entreprises, mais il y a trois niveaux.
+[01:01:17] Le premier niveau, c'est bien sûr les territoires américains.
+[01:01:19] Tout ce qui est sur les territoires américains, c'est normal, en fait, c'est leur souveraineté territoriale.
+[01:01:25] Les gens, il faut qu'ils donnent, en fait, les entreprises ou les personnes, il faut qu'ils donnent les données.
+[01:01:30] Ensuite, il y a quelque chose qu'on a commencé à le voir, c'est-à-dire les entreprises américaines opérant en dehors des États-Unis,
+[01:01:38] ils ont les mêmes obligations, même si ce n'est pas aux États-Unis.
+[01:01:41] Donc, ils ont la même obligation de donner les données qui ne sont pas aux États-Unis.
+[01:01:46] C'est-à-dire qu'il n'y a plus les questions de sol et c'est une entreprise américaine.
+[01:01:51] Mais c'est la même chose sur les personnes.
+[01:01:53] Si vous avez un employé américain en Europe, il y a la même obligation.
+[01:01:58] Donc, ça, c'est le deuxième élément.
+[01:01:59] Et le troisième élément que peu d'entreprises connaissent, c'est les clients américains.
+[01:02:04] Si aujourd'hui vous êtes une entreprise européenne et vous acceptez les clients américains, vous êtes aussi potentiellement soumis aux lois américaines.
+[01:02:16] et vous devez donner aux autorités américaines les informations concernant ces clients-là.
+[01:02:22] Et par ricochet, on peut aller vous chercher et dire, en fait, puisque vous vous adressez explicitement
+[01:02:29] ou au moins explicitement le marché américain, en fait, vous êtes soumis à la loi américaine.
+[01:02:36] D'accord ? Et donc, c'est à trois niveaux.
+[01:02:38] Et on parle beaucoup de ce deuxième niveau parce que, au premier, il est évident.
+[01:02:41] Les data centers aux États-Unis, c'est normal.
+[01:02:43] Mais on parle beaucoup au deuxième.
+[01:02:45] Mais il y a un troisième qui est très important. C'est pour ça qu'à un autre niveau, nous avons fait des séparations de ce qu'on appelle des back-ends, on fait des séparations de commerce.
+[01:02:56] Et donc, on n'accepte pas les clients américains en Europe ni au Canada. On les accepte uniquement aux États-Unis.
+[01:03:05] Et de cette manière-là, notre filiale américaine qui a des isolations fiscales, légales, Borde, Comex, etc., vraiment blindées de partout, en fait, on a tout concentré, tous les risques sur cette entreprise-là.
+[01:03:20] Bien sûr, elle est aux États-Unis. Bien sûr, c'est une entreprise américaine. Bien sûr, j'ai des employés américains. Et bien sûr, j'ai des clients américains.
+[01:03:27] Mais tout ça, c'est concentré sur une seule entreprise, celle américaine. Et donc il faut être vigilant aussi à ça. C'est-à-dire que beaucoup d'entreprises disent « Moi, je ne suis pas aux États-Unis, donc je ne suis pas concerné ». Attention, si vous acceptez les clients américains, vous êtes concerné.
+[01:03:46] Merci, M. le Président, directeur général. Pour le groupe Horizon et indépendant, M. Thomas Lam, vous avez la parole, M. le député.
+[01:03:57] Merci Monsieur le Président. Monsieur le Président Cabla, d'abord merci pour votre présence de notre commission.
+[01:04:03] Chers collègues, le numérique pèse aujourd'hui 2 à 3% de la consommation électrique européenne, dont la moitié provient des data centers.
+[01:04:13] Avec l'essor de l'IA et du cloud, cette part pourrait doubler d'ici 2030.
+[01:04:18] Pourtant, l'impact environnemental du cloud vient moins de son usage que de la fabrication des serveurs,
+[01:04:23] un défi que Oveage Cloud a su anticiper.
+[01:04:27] Votre entreprise incarne une voie européenne.
+[01:04:30] Depuis 2002, vous intégrez la durabilité dans votre modèle industriel
+[01:04:33] avec des innovations comme le watercooling qui suppriment le besoin en climatisation.
+[01:04:39] Aujourd'hui, 27 de vos data centers sont des bâtiments réhabilités
+[01:04:43] et 100% des serveurs sont démontés et recyclés avec une durée de vie prolongée jusqu'à 9 ans.
+[01:04:48] Ces pratiques prouvent que l'économie circulaire est un levier concret pour réduire l'empreinte écologique.
+[01:04:56] Pourtant, la France reste dépendante des hyperscalers américains qui dominent 70% du marché.
+[01:05:02] Sur 15 gigawatts de capacité sécurisée en France, seuls 1,4 ne profiteront qu'aux opérateurs européens, selon les conclusions du rapport de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique de juillet dernier.
+[01:05:20] La souveraineté numérique ne se décrète pas, elle se construit par des infrastructures maîtrisées et des innovations locales.
+[01:05:27] Mais les data centers se heurtent à des limites physiques, stress hydrique, pression sur les réseaux électriques et dépendance aux métaux rares.
+[01:05:35] Les scientifiques nous alertent, les ressources planétaires pourraient devenir un goulot d'étranglement.
+[01:05:41] Monsieur le Président Kabla, nous voulons simultanément développer nos capacités européennes de cloud et d'intelligence artificielle,
+[01:05:47] réduire nos dépendances aux hyperscalers américains et respecter nos objectifs énergétiques et environnementaux.
+[01:05:55] Est-ce techniquement réaliste de poursuivre ces trois objectifs au rythme actuel ?
+[01:05:59] Et si des arbitrages deviennent nécessaires, quelles doivent être selon vous les priorités de la puissance publique ?
+[01:06:05] L'accès à l'électricité, l'implantation des data centers, la commande publique européenne
+[01:06:10] ou encore des exigences environnementales différenciées pour les acteurs les plus vertueux ?
+[01:06:15] Je vous remercie.
+[01:06:17] Merci, monsieur le député.
+[01:06:21] Quelque part, notre civilisation est basée sur l'énergie pas chère.
+[01:06:26] C'est-à-dire qu'aujourd'hui, lorsque vous avez une société comme France ou les autres pays,
+[01:06:32] plus l'énergie est pas chère, plus vous créez des emplois,
+[01:06:36] parce que vous pouvez créer des activités, des transformations,
+[01:06:40] des différents éléments, l'automobile, le data centre ou les autres éléments.
+[01:06:45] Donc, quelque part, de la même manière pour le numérique, l'énergie, elle est indispensable.
+[01:06:50] C'est la base, en fait, de l'activité.
+[01:06:53] Et demander, en fait, quelque part, en termes de politique globale, pour sortir le pays et le faire progresser,
+[01:07:01] c'est en fait d'avoir de l'abondance de l'énergie pas chère.
+[01:07:05] On voit très bien que là où il y a l'énergie pas chère, l'activité, de manière globale, pas juste numérique, elle se développe.
+[01:07:11] parce que d'un coup, il y a plein de choses qui sont possibles de faire localement
+[01:07:14] qui n'étaient pas possibles avant.
+[01:07:16] Et d'un coup, vous avez la création des entreprises,
+[01:07:19] la création des valeurs, la création des emplois.
+[01:07:22] Et donc, quelque part, l'accès à l'énergie et des bons marchés,
+[01:07:27] c'est ça que Québec, en fait, il a compris très tôt
+[01:07:29] en disant que c'est ça qui leur permet, en fait,
+[01:07:31] de faire venir des investissements locaux.
+[01:07:34] C'est pour ça, nous, on s'est développé là-bas en 2011-2012
+[01:07:37] parce qu'en fait, on a trouvé l'énergie deux fois moins chère
+[01:07:39] qu'aux États-Unis, qu'on est dans les autres pays.
+[01:07:42] Et donc, on a créé pas mal d'emplois
+[01:07:44] local. Donc, je pense
+[01:07:46] que l'énergie et la consommation
+[01:07:48] par des data centres,
+[01:07:51] pour moi, ce n'est pas un faux problème,
+[01:07:52] mais c'est un bon problème.
+[01:07:54] C'est-à-dire qu'on développe des activités
+[01:07:56] qui sont dans un pays et pas dans un autre pays.
+[01:07:58] Il faut l'utiliser de manière assez
+[01:08:00] stratégique pour que, justement,
+[01:08:02] ce développement-là des activités
+[01:08:04] s'efface chez nous et peut-être pas
+[01:08:06] chez nos voisins, même si on parle de
+[01:08:08] l'Europe. Donc il faut être un peu tactique là-dessus. Et derrière, vous vous dites, en fait, à juste titre, que beaucoup de cette capacité électrique, en fait, ne va pas être pour les
+[01:08:19] Européens, en fait, les acteurs européens. Et pourquoi, en fait ? Parce qu'on manque des produits. Aujourd'hui, beaucoup de cette puissance électrique, elle est pour
+[01:08:29] de l'intelligence artificielle.
+[01:08:30] Qui sont les entreprises
+[01:08:32] au niveau mondial
+[01:08:34] qui ont aujourd'hui des produits
+[01:08:37] au niveau de l'intelligence artificielle ?
+[01:08:39] Anthropic, OpenAI,
+[01:08:41] Grog,
+[01:08:43] quelques hyperscalers. Il n'y a pas
+[01:08:44] aujourd'hui des produits de l'intelligence
+[01:08:47] artificielle que vous avez
+[01:08:48] beaucoup de consommateurs
+[01:08:51] européens à scale. Et donc,
+[01:08:53] il faut investir dans le produit.
+[01:08:54] C'est ce que nous avons décidé de faire, c'est-à-dire
+[01:08:57] utiliser des open sources,
+[01:08:58] notamment en chinois, c'est cool.
+[01:09:00] Ça permet d'aller vite et comprendre
+[01:09:02] un peu les enjeux, mais ce n'est pas
+[01:09:04] sustainable. Ce n'est pas par là, en fait,
+[01:09:06] sur le long terme. Il faut créer des vrais produits.
+[01:09:09] Et donc, nous, notre stratégie, elle est sur
+[01:09:10] cinq niveaux. Je ne vais pas la détailler ici, mais
+[01:09:12] justement, on essaie d'adresser pas juste
+[01:09:14] les GPU dans les data centers et de dire, tiens,
+[01:09:16] ça, on a fini. Mais
+[01:09:18] l'ensemble des valeurs ajoutées,
+[01:09:21] des stackées, en fait, dans l'ensemble des stacks
+[01:09:22] pour que derrière, on puisse répondre à tout
+[01:09:24] l'ensemble des enjeux qui sont autour de
+[01:09:26] l'intelligence artificielle, y compris
+[01:09:28] des personnes qui ont par exemple besoin
+[01:09:30] de l'intelligence artificielle pour la productivité.
+[01:09:32] Les emails, envoyer des emails
+[01:09:34] et d'avoir de l'intelligence artificielle
+[01:09:36] qui aide au quotidien dans la productivité
+[01:09:38] de commerciaux,
+[01:09:40] d'avoir des CRM connectés
+[01:09:42] avec de l'intelligence artificielle
+[01:09:44] et l'ensemble des stacks. On va jusque-là.
+[01:09:46] Parce qu'on pense que pour vraiment
+[01:09:48] avoir de l'impact autour de l'intelligence artificielle,
+[01:09:51] il faut créer des produits
+[01:09:52] à différentes typologies des clients,
+[01:09:55] y compris les clients finaux
+[01:09:56] et y compris tout l'ensemble de l'écosystème.
+[01:09:58] et OVH étant un animal...
+[01:10:01] écosystémiques. Nous, on pense comment on peut léverger l'ensemble de l'écosystème pour que ça profite à tous.
+[01:10:07] Merci beaucoup. Il me reste 4 questions individuelles. Je vais prendre les questions par deux, puis je propose de pouvoir y répondre en quelques minutes.
+[01:10:19] Madame Lepé, pour une minute.
+[01:10:23] Merci, M. le Président. M. le Président, sur le marché du cloud, la concurrence semble aujourd'hui profondément biaisée.
+[01:10:30] Nous constatons que les hyperscalers extra-européens déploient des stratégies d'enfermement très agressives pour capter et retenir nos entreprises françaises et européennes.
+[01:10:39] Je pense aux crédits cloud gratuits distribués massivement à nos start-up, aux frais de sortie de données souvent prohibitifs
+[01:10:47] ou encore aux licences logicielles dont le prix explose artificiellement si l'entreprise décide de les faire tourner sur des infrastructures concurrentes comme les vôtres.
+[01:10:56] Ces pratiques de looking étouffent l'émergence d'alternatives souveraines et rendent nos PME captives. Le récent Data Act européen tente d'y répondre, mais la réalité économique sur le terrain reste brutale.
+[01:11:08] Monsieur le Président, face à ces pratiques tarifaires et commerciales qui verrouillent le marché, quels sont les outils de régulation économique que la France devrait déployer en urgence ?
+[01:11:16] Comment le législateur peut-il nous aider à briser ces monopoles de fait pour redonner la liberté de choix à nos entreprises ? Je vous remercie.
+[01:11:24] Merci Madame le PME. Monsieur Laurent Lardit.
+[01:11:28] Merci, M. le Président. M. le Président, bonjour. Moi, je défends votre point de vue sur la nécessité d'avoir des entreprises européennes qui sont soutenues pour développer des data centers souverains. Mais est-ce que c'est suffisant ? On l'a vu encore avec Interxion, qui a été rachetée par un groupe américain.
+[01:11:45] Aujourd'hui, il y a beaucoup de transactions qui sont encore en cours.
+[01:11:50] Il y a même des acteurs dont on voit maintenant le modèle économique se développer.
+[01:11:55] On voit bien qu'en fait, leur modèle correspond à une entreprise qui va bientôt être vendue.
+[01:11:59] Donc comment empêcher, une fois qu'on a créé des entreprises européennes dans le domaine des data centers,
+[01:12:04] que leur capital reste conservé sur le territoire européen, sans quoi, si elles deviennent américaines,
+[01:12:10] évidemment, elles sont soumises à ces lois extraterritoriales qui posent beaucoup de problèmes.
+[01:12:14] Deuxième question très simple.
+[01:12:16] Beaucoup de fantasmes autour des data centers.
+[01:12:18] Il y a quand même des investissements massifs qui sont engloutis dans la construction de data centers aujourd'hui.
+[01:12:22] Est-ce que vous pouvez nous donner une référence, une fourchette de ce que produit en termes de chiffre d'affaires et de bénéfices nets un data center, disons une tranche de 10 mégawatts ?
+[01:12:32] Qu'est-ce que ça produit aujourd'hui en termes de chiffre d'affaires ?
+[01:12:34] Alors, je sais que ce n'est pas la même chose si c'est de l'IA ou autre chose, etc.
+[01:12:37] Mais est-ce que vous avez une fourchette à nous donner là-dessus en chiffre d'affaires et en bénéfices nets ? Merci.
+[01:12:42] Merci, M. Lardit.
+[01:12:44] M. Carvalho, je propose de répondre à ces deux questions.
+[01:12:47] Oui, pour répondre rapidement aux deux questions, c'est sur la concurrence. Le phénomène qui est le plus détestable, c'est vraiment les licences liées.
+[01:12:59] C'est-à-dire que quelque part, un acteur, en étant des produits qui n'ont rien à voir, bloque ou bloque des clients en disant, moi, je vous donne ces logiciels-là.
+[01:13:09] Si vous consommez l'autre logiciel et de cette manière-là, en fait, ils distribuent de la drogue.
+[01:13:15] Et derrière, ils prennent des nouveaux typologies des clients et derrière, les locks.
+[01:13:18] Ça, c'est détestable.
+[01:13:20] Et donc, ça, c'est tout ce qui est les ventes liées entre des produits qui n'ont rien à voir.
+[01:13:26] On le voit dans plusieurs hyperscalaires. Je vous laisse les choix ou en tout cas les propositions qu'il faut engager contre ça. Mais ça, c'est vraiment une pratique assez détestable.
+[01:13:39] Pour répondre à votre question, qu'est-ce qu'on peut faire pour bloquer ? Moi, je n'aurais pas bloqué, mais j'aurais déployé de l'argent. En Europe, on manque de l'argent pour le financement.
+[01:13:48] Et donc si les entreprises se vendent aux Américains, c'est parce que premièrement, il manque de capital d'investissement en Europe.
+[01:13:56] Moi, je me suis coté à la Bourse de Paris 2021. C'était très compliqué de se coté parce qu'on était juste à la fin du cycle.
+[01:14:04] Mais de manière globale, plus globale, on voit très bien que si vous n'êtes pas à un large cap, c'est-à-dire que votre valorisation n'est pas plus que 4-5 milliards,
+[01:14:12] Vous rentrez dans ce qu'on appelle mid cap, small cap et c'est un non-mainland. C'est-à-dire qu'il y a très peu d'investisseurs et heureusement, il y en a. Ils sont courageux. Ils nous accompagnent. Mais vous n'avez pas vraiment l'accès au capital pour pouvoir développer votre entreprise.
+[01:14:27] Et quand vous faites 5-6 milliards de valorisation, ce que j'espère va nous réarriver bientôt, là, vous avez l'accès au capital parce que vous avez tout un tas de convenants et vous convenez mieux aux entreprises.
+[01:14:41] Pour autant, il manque de capital d'investissement dans les risques, vraiment dans le développement, dans quelque chose où on ne sait pas exactement comment ça va se finir.
+[01:14:51] Aux États-Unis, vous avez beaucoup plus de capital qui est déployé de manière opportuniste et joue en fait avec des probabilités. Sur 10 investissements, il y en a un qui va marcher.
+[01:15:01] Sur la taille des États-Unis, ça marche parce que vous avez beaucoup d'entreprises, beaucoup de clients potentiels. Et donc vous pouvez amortir ces typologies d'investissement.
+[01:15:11] En France, en Europe, on s'éorte à nouveau qu'on est subdivisé. Il y a France, Allemagne, Pologne, différents pays.
+[01:15:17] Donc, vous n'arrivez pas à avoir la masse critique pour pouvoir derrière avoir les captures.
+[01:15:22] Et juste répondre à la dernière question sur les mégawatts.
+[01:15:26] Vous pouvez en fait, un cloud provider, il génère entre 15 et 20 millions d'euros par an avec un mégawatt.
+[01:15:36] D'accord, c'est l'ordre d'idée.
+[01:15:39] Voilà.
+[01:15:41] Non, c'est revenu. Attention, revenu. Vous avez l'ensemble des coûts. Non, c'est très compliqué. Non, je ne dirais pas comme ça, en fait. Non, ça va être trop compliqué. Ça va être trop long à répondre. Je pourrais répondre, mais c'est 15 minutes.
+[01:16:03] Merci, monsieur. Merci, monsieur Clava. Monsieur Pilato.
+[01:16:08] Merci, M. le Président. Je reviens sur ma question dans le cadre d'une souveraineté numérique française. Quel est le temps qu'il vous faudrait pour fournir, si la commande publique est là, l'ensemble du dispositif ?
+[01:16:21] J'ai bien compris que les data centers plutôt répartis sur le territoire permettent une plus grande résilience.
+[01:16:28] Et enfin, quand je vous parlais de récupérer l'énergie, vous m'avez parlé d'une technologie effectivement qui est efficace,
+[01:16:36] puisque vous n'avez pas de clim, mais il y a encore plus efficace en Finlande ou en Suisse,
+[01:16:41] où ils récupèrent toute la chaleur des data centers pour faire du chauffage urbain avec un apport d'énergie
+[01:16:48] ou pour faire effectivement du chauffage de l'eau chaude sanitaire.
+[01:16:52] Donc ça, ça s'intégrerait dans un grand plan d'aménagement du territoire.
+[01:16:56] Est-ce que ce genre de solution vous a envisagé de le faire à court ou à moyen terme ? Merci.
+[01:17:03] Merci, M. Pilato. Mme Brulbois, pour terminer.
+[01:17:05] Merci, M. le Président.
+[01:17:07] M. le Président, directeur général, vous hébergez des services d'intelligence artificielle
+[01:17:11] et vous travaillez vous-même à vos propres modèles.
+[01:17:13] D'après vous, y a-t-il un risque que cette intelligence artificielle dépasse l'intelligence humaine et qu'elle devienne une super-intelligence sous contrôle ? Les géants américains ont demandé une pause, Anthropik et Open AI, mais Tami-Stra le s'y oppose.
+[01:17:29] Pourtant, il y a eu des incidents très sérieux, alors que des agents attaquent des infrastructures et des serveurs réels en contournant les protections dans des milieux fermés, en piratant des sites et en falsifiant leurs propres évaluations.
+[01:17:44] Quelle est votre position ? Cette pause n'est-elle qu'un calcul financier avant l'introduction de certains en bourse et donc un risque de voir l'Europe à nouveau distanciée ?
+[01:17:58] Ou est-ce une exigence pour faire en sorte que l'IA reste au service de l'humanité et non pas l'inverse ?
+[01:18:04] Merci, Mme Boulbois. Juste avant de vous passer la parole, M. le Président, directeur général,
+[01:18:09] Juste dire que par rapport aux questions qu'ont posées un certain nombre de collègues et celles de M. Lardit, vous avez la possibilité de nous adresser toute la documentation que vous souhaiteriez porter à notre connaissance pour approfondir un certain nombre de sujets.
+[01:18:24] Et nous la transmettrons bien évidemment à l'ensemble des collègues qui peuvent être intéressés.
+[01:18:27] Et je voudrais aussi préciser que nous sommes en train de monter une table ronde sur le soutien à l'investissement et au capital d'entreprise,
+[01:18:37] où la Fédération française des banques et la BPI nous ont donné un accord préalable pour leur participation.
+[01:18:45] Je pense que là aussi, on pourra revenir sur ce sujet du financement Data Center et cloud et numérique lors de cette table ronde.
+[01:18:53] Je vous laisse la parole pour répondre à ces deux dernières questions et conclure.
+[01:18:59] Sur la récupération des chaleurs, c'est vrai qu'une fois que vous avez refroidissement avec de l'eau, vous avez la chaleur dans l'eau.
+[01:19:07] Nos premiers data centres, augmenter la chaleur de l'eau dans le circuit à 40 degrés.
+[01:19:13] Avec 40 degrés, vous ne pouvez pas faire grand-chose, même si c'est chaud.
+[01:19:17] Vous devez porter l'eau à 85-95 degrés.
+[01:19:23] Oui, mais les volumes de chaleur que ça demande à faire fait que la valorisation que vous en faites représente entre 2 et 5% de la valeur, par exemple, de chauffage urbain.
+[01:19:39] C'est-à-dire que l'équivalent de production qui coûterait 100%, vous apportez seulement 2, 3, 5% de cette valeur-là.
+[01:19:47] Les derniers travaux que nous avons faits sur le watercooling nous permettent d'augmenter la température jusqu'à 60 degrés.
+[01:19:54] Là, vous dépassez 10-15%, mais il reste encore à 80-85%.
+[01:20:00] à augmenter, à ajouter pour en faire un chauffage urbain.
+[01:20:03] Donc cette typologie d'initiative, nous faisons depuis le début.
+[01:20:07] Depuis 2004, nous avons, dans notre premier data-centre à Paris,
+[01:20:12] on voulait fournir de la chaleur aux habitations.
+[01:20:16] Bon, personne n'a jamais voulu.
+[01:20:18] C'était beaucoup trop tôt, probablement.
+[01:20:22] Avoir des coups d'avance, ce n'est pas forcément bien.
+[01:20:24] Vous ne gagnez pas à tous les coups.
+[01:20:27] là on a pas mal d'initiatives
+[01:20:29] avec des différentes
+[01:20:32] initiatives
+[01:20:33] qui sont par exemple à Roubaix
+[01:20:34] parce qu'il y a de gros réseaux
+[01:20:37] de chauffage et on voit un petit peu
+[01:20:40] les investissements qu'il faut
+[01:20:41] réaliser, les économies que vous pouvez
+[01:20:43] faire, c'est pas fou
+[01:20:45] en fait, d'accord, de récupération que vous
+[01:20:47] pouvez en faire parce que justement cette température
+[01:20:49] là que nous on fournit, les data
+[01:20:51] centres fournissent, elle est malgré tout
+[01:20:53] un tout petit peu trop basse, ça vous permet de
+[01:20:55] chauffer des choses localement,
+[01:20:57] mais vous devez quand même porter ça à des
+[01:20:59] températures qui sont beaucoup plus importantes,
+[01:21:00] et donc ajouter de l'énergie extérieure
+[01:21:04] additionnellement.
+[01:21:07] La pause et régulation,
+[01:21:10] c'est une question intéressante
+[01:21:11] en fait. Pourquoi
+[01:21:12] du comment de ces pauses-là, etc.
+[01:21:15] Est-ce que c'est finalement
+[01:21:16] un prétexte pour pouvoir avoir une autre
+[01:21:19] typologie de régulation, une autre typologie
+[01:21:21] des lois aux Etats-Unis
+[01:21:23] qui régule l'IA,
+[01:21:24] parce que les lois aujourd'hui, elles existent en fait.
+[01:21:27] Mais je pense que ces lois-là, en fait, aux États-Unis sont un peu contraignantes,
+[01:21:32] en tout cas sont responsabilisantes sur l'intelligence artificielle.
+[01:21:35] Je pense que les appels qui sont faits, c'est pour pouvoir avoir un autre type aujourd'hui des lois.
+[01:21:40] Et malgré les apparences, c'est pour pouvoir déresponsabiliser
+[01:21:43] ou déréguler le marché de l'intelligence artificielle.
+[01:21:46] D'accord ? Je pense qu'en fait, les appels qui sont faits, on les lit mal
+[01:21:49] parce qu'ils sont malins.
+[01:21:54] et derrière
+[01:21:55] c'est plutôt un appel de dire
+[01:21:56] laissez-nous faire, régulez ça
+[01:21:59] mais d'une autre manière que tout le reste
+[01:22:01] de l'activité et ça va bien
+[01:22:03] se passer
+[01:22:05] et c'est vrai en fait
+[01:22:07] l'intelligence artificielle on va dire
+[01:22:09] c'est juste la répétition de choses
+[01:22:11] qui ont été déjà faites
+[01:22:13] mais on voit que dans la sécurité par exemple
+[01:22:15] lorsque vous avez des bugs de sécurité
+[01:22:16] et vous enseignez, formez
+[01:22:18] à l'LM à exploiter des failles
+[01:22:21] des sécurités, là où c'est absolument
+[01:22:25] le mot, à la fois c'est incroyable
+[01:22:28] et à la fois effrayant,
+[01:22:30] c'est que les chaînages des failles
+[01:22:32] des sécurités vous permettent de pénétrer des systèmes
+[01:22:35] parce que vous utilisez des failles de sécurité
+[01:22:38] de faible impact,
+[01:22:41] mais lorsque vous pouvez les chaîner, en faire vingtaine
+[01:22:44] des failles de sécurité, finalement, vous pouvez trouver
+[01:22:47] une manière de pénétrer des systèmes. Donc ça exploite
+[01:22:50] En fait, il y a, elle arrive à exploiter habituellement des signaux très faibles qui restent sous radar pour pouvoir en faire des vrais cas de soucis. Je n'ai pas la réponse là-dessus. En tout cas, à notre niveau, ce qu'on voit, c'est qu'on n'y est pas encore à ce niveau-là.
+[01:23:06] Et si on doit courir après ces géants-là avec de nouvelles contraintes pour dire vous ne pouvez pas faire ceci, vous ne pouvez pas faire cela, etc., on ne va jamais les rattraper.
+[01:23:16] Déjà, essayer de les rattraper, mettre des moyens financiers, mettre des moyens humains, les datas, etc., et d'essayer de les rattraper technologiquement en parlant.
+[01:23:26] Je ne parle même pas de commercialisation de produits, d'accord ?
+[01:23:29] Ça, les Américains, c'est déjà un sacré exploit. Si on doit courir avec un sac de sable sur le dos, c'est sûr qu'on ne va pas y arriver.
+[01:23:41] Très bien. Merci beaucoup, M. Clabat, d'être venu ce matin devant les députés de la Commission des affaires économiques.
+[01:23:49] Merci pour la clarté et la qualité de nos échanges de ce matin.
+[01:23:54] On reste bien évidemment à votre disposition pour les éléments que vous souhaiteriez porter à notre connaissance et puis à suivre aussi l'évolution de votre groupe.
+[01:24:06] Merci beaucoup pour l'invitation, merci pour les échanges.
+[01:24:09] Merci à vous.
+[01:24:52] Sous-titrage ST' 501

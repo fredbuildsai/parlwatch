@@ -1,0 +1,53 @@
+[project]
+name = "parlwatch"
+version = "0.1.0"
+description = "Track what national parliaments say about AI: meeting discovery, transcripts, speaker attribution, Q&A and stance analysis"
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "mistralai>=1.9",
+    "llmrouter-free @ git+https://github.com/fredbuildsai/llmrouter-free.git@v0.1.0",
+    "sqlalchemy>=2.0",
+    "alembic>=1.13",
+    "pydantic>=2.7",
+    "pydantic-settings>=2.3",
+    "python-dotenv>=1.0",
+    "typer>=0.12",
+    "rich>=13.7",
+    "pyyaml>=6.0",
+    "httpx>=0.27",
+    "tenacity>=8.3",
+]
+
+[project.optional-dependencies]
+asr = ["mlx-whisper>=0.4", "jiwer>=3.0"]
+diarize = ["pyannote.audio>=3.1"]
+dev = ["pytest>=8.2", "respx>=0.21", "ruff>=0.5"]
+
+[project.scripts]
+pw = "parlwatch.cli:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/parlwatch"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]
+ignore = ["E501", "B008"]
+
+[tool.ruff.lint.per-file-ignores]
+# scripts/ are dated spikes kept as evidence of how the pilot numbers were produced, not product code
+"scripts/*" = ["E741", "B905", "E402", "B007", "B023", "B904", "E702", "E701"]

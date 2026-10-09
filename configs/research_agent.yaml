@@ -1,0 +1,5 @@
+# Mistral Studio agent that performs the follow-up checks (see docs/mistral-agent/README.md).
+agent_id: ag_01a120fd8db9758685e63f69e9814aa9
+agent_version: latest        # "latest" = look up the agent's current version at call time (recorded on every check); or pin an integer
+api_key_env: MISTRAL_API_KEY # the key itself belongs in .env, never in this file
+temperature: 0.2

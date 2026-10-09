@@ -1,0 +1,25 @@
+topics:
+  ai:
+    label: Artificial intelligence
+    terms:
+      fr:
+      - intelligence artificielle
+      - IA générative
+      - ChatGPT
+      - algorithme
+      - règlement européen sur l'IA
+      - AI Act
+      - Mistral AI
+      - deepfake
+      - reconnaissance faciale
+      - apprentissage automatique
+      en:
+      - artificial intelligence
+      - generative AI
+      - ChatGPT
+      - machine learning
+      - AI Act
+      - deepfake
+      - facial recognition
+      - large language model
+    generated: {}

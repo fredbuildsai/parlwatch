@@ -1,0 +1,170 @@
+{
+ "uid": "19471620_6abccf18f0e48",
+ "title": "Commission des affaires économiques : M. Octave Klaba, président directeur général d’OVHcloud",
+ "url": "https://videos.assemblee-nationale.fr/video.19471620_6abccf18f0e48",
+ "report_url": null,
+ "audio_url": "http://anorigin.vodalys.com/vod/mp4/ida/domain1/2026/09/6241_20260930105801.mp3",
+ "speakers": {
+  "19471741": "Mme Emmanuelle Wargon",
+  "19471742": "M. Stéphane Travert",
+  "19471743": "M. Octave Klaba",
+  "19472256": "M. Édouard Jordan",
+  "19472432": "Mme Danielle Brulebois",
+  "19472712": "M. René Pilato",
+  "19472869": "Mme Cyrielle Chatelain",
+  "19472905": "Mme Marie-Christine Dalloz",
+  "19473020": "Mme Valérie Rossi",
+  "19473158": "Mme Patricia Maussion",
+  "19473199": "M. Thomas Lam",
+  "19473225": "Mme Nicole Le Peih",
+  "19473229": "M. Laurent Lhardit"
+ },
+ "chapters": [
+  {
+   "label": "Audition de M. Octave Klaba, président directeur général d’OVHcloud",
+   "type": "Texte",
+   "depth": 0
+  },
+  {
+   "label": "M. Stéphane Travert, président",
+   "type": "Intervention",
+   "depth": 1
+  },
+  {
+   "label": "M. Octave Klaba, pdg OVHcloud",
+   "type": "Intervention",
+   "depth": 1
+  },
+  {
+   "label": "Questions des représentants des groupes",
+   "type": "Questions des représentants des groupes",
+   "depth": 1
+  },
+  {
+   "label": "M. Édouard Jordan",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Octave Klaba, pdg OVHcloud",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "Mme Danielle Brulebois",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Octave Klaba, pdg OVHcloud",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. René Pilato",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Octave Klaba, pdg OVHcloud",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "Mme Cyrielle Chatelain",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Octave Klaba, pdg OVHcloud",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "Mme Valérie Rossi",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Octave Klaba, pdg OVHcloud",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Stéphane Travert, président",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "Mme Patricia Maussion",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Octave Klaba, pdg OVHcloud",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Thomas Lam",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Octave Klaba, pdg OVHcloud",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "Questions des députés",
+   "type": "Questions des députés",
+   "depth": 1
+  },
+  {
+   "label": "Mme Nicole Le Peih",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Laurent Lhardit",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Octave Klaba, pdg OVHcloud",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. René Pilato",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "Mme Danielle Brulebois",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Stéphane Travert, président",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Octave Klaba, pdg OVHcloud",
+   "type": "Intervention",
+   "depth": 2
+  },
+  {
+   "label": "M. Stéphane Travert, président",
+   "type": "Intervention",
+   "depth": 1
+  }
+ ],
+ "download_s": 5,
+ "asr": "whisper-large-v3-turbo",
+ "quant": "q8",
+ "asr_s": 966,
+ "audio_s": 5093,
+ "rtfx": 5.3
+}

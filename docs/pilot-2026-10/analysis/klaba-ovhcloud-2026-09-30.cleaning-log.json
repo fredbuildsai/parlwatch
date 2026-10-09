@@ -1,0 +1,90 @@
+{
+ "dropped": [
+  {
+   "t": "00:00:29",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:00:56",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:01:26",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:01:56",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:02:29",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:02:59",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:03:59",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:04:29",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:04:30",
+   "text": "..."
+  },
+  {
+   "t": "00:04:32",
+   "text": "..."
+  },
+  {
+   "t": "00:58:06",
+   "text": ""
+  },
+  {
+   "t": "01:24:52",
+   "text": "Sous-titrage ST' 501"
+  }
+ ],
+ "name_corrections": [
+  {
+   "t": "00:29:56",
+   "before": "Scalway",
+   "after": "Scaleway",
+   "score": 0.93
+  },
+  {
+   "t": "00:31:16",
+   "before": "Scalway",
+   "after": "Scaleway",
+   "score": 0.93
+  },
+  {
+   "t": "01:11:24",
+   "before": "Lardit",
+   "after": "Lhardit",
+   "score": 0.92
+  },
+  {
+   "t": "01:12:42",
+   "before": "Lardit",
+   "after": "Lhardit",
+   "score": 0.92
+  },
+  {
+   "t": "01:17:03",
+   "before": "Brulbois",
+   "after": "Brulebois",
+   "score": 0.94
+  },
+  {
+   "t": "01:18:09",
+   "before": "Lardit",
+   "after": "Lhardit",
+   "score": 0.92
+  }
+ ]
+}

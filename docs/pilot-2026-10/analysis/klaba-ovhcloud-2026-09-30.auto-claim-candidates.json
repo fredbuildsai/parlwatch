@@ -1,0 +1,506 @@
+[
+ {
+  "speaker": "Mme Emmanuelle Wargon",
+  "time": "00:06:00",
+  "claim": "Vous avez réalisé l'an dernier près de 1,1 milliard d'euros de chiffre d'affaires, et votre groupe compte plus de 1,6 million de clients et 46 data centers répartis dans 9 pays.",
+  "quote_fr": "Vous avez réalisé l'an dernier près de 1,1 milliard d'euros de chiffre d'affaires, et votre groupe compte plus de 1,6 million de clients et 46 data centers répartis dans 9 pays.",
+  "kind": "figure",
+  "how_to_check": "Vérifier les résultats financiers d'OVHcloud pour l'année précédente (2023) via son rapport annuel ou ses communiqués de presse, ainsi que le nombre de clients et de data centers publiés officiellement.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "Mme Emmanuelle Wargon",
+  "time": "00:06:11",
+  "claim": "Votre groupe, qui consacre environ un tiers de son chiffre d'affaires aux investissements, est donc un acteur essentiel pour notre pays dans le domaine stratégique des centres de données et de l'informatique en nuages.",
+  "quote_fr": "Votre groupe, qui consacre environ un tiers de son chiffre d'affaires aux investissements, est donc un acteur essentiel pour notre pays dans le domaine stratégique des centres de données et de l'informatique en nuages.",
+  "kind": "figure",
+  "how_to_check": "Vérifier le rapport annuel d'OVHcloud pour la part du chiffre d'affaires consacrée aux investissements (CAPEX) afin de confirmer si elle représente environ un tiers.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "Mme Emmanuelle Wargon",
+  "time": "00:06:21",
+  "claim": "Je précise aussi que votre groupe a obtenu, le 1er septembre dernier, la qualification Secnum Cloud 3.2, accordée par l'Agence nationale de sécurité des systèmes d'information, l'ANSI, pour sa nouvelle plateforme de cloud public SNC Cloud Platform, ce qui complète les deux offres qualifiées dont disposait déjà votre groupe avec Bare Metal Pod et VM Ver.",
+  "quote_fr": "Je précise aussi que votre groupe a obtenu, le 1er septembre dernier, la qualification Secnum Cloud 3.2, accordée par l'Agence nationale de sécurité des systèmes d'information, l'ANSI, pour sa nouvelle plateforme de cloud public SNC Cloud Platform, ce qui complète les deux offres qualifiées dont disposait déjà votre groupe avec Bare Metal Pod et VM Ver.",
+  "kind": "figure",
+  "how_to_check": "Vérifier sur le site de l'ANSSI (Agence nationale de la sécurité des systèmes d'information) la liste des qualifications Secnum Cloud délivrées à OVHcloud, notamment la date et la référence de la qualification SNC Cloud Platform.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "Mme Emmanuelle Wargon",
+  "time": "00:06:52",
+  "claim": "Votre groupe a aussi été retenu avec Deep et Clever Cloud pour le marché du cloud souverain des institutions européennes qui représentent 180 millions d'euros sur six ans.",
+  "quote_fr": "Votre groupe a aussi été retenu avec Deep et Clever Cloud pour le marché du cloud souverain des institutions européennes qui représentent 180 millions d'euros sur six ans.",
+  "kind": "figure",
+  "how_to_check": "Vérifier les communiqués officiels de la Commission européenne ou des institutions européennes concernant le marché du cloud souverain, notamment le montant total et la durée du contrat attribué à OVHcloud, Deep et Clever Cloud.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:10:50",
+  "claim": "Les premiers levées de fonds, je les ai faites en 2016, 250 millions.",
+  "quote_fr": "Les premiers levées de fonds, je les ai faites en 2016, 250 millions.",
+  "kind": "figure",
+  "how_to_check": "Vérifier l'historique des levées de fonds d'OVHcloud via des sources financières publiques (comme Crunchbase, les communiqués de presse de l'entreprise ou les rapports annuels) pour confirmer une levée de 250 millions en 2016.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:10:54",
+  "claim": "La deuxième levée de fonds, entre guillemets, c'était l'introduction à la bourse en 2021, 350 millions.",
+  "quote_fr": "La deuxième levée de fonds, entre guillemets, c'était l'introduction à la bourse en 2021, 350 millions.",
+  "kind": "figure",
+  "how_to_check": "Vérifier le prospectus d'introduction en bourse d'OVHcloud (Euronext) en 2021 pour confirmer le montant levé lors de l'IPO.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:11:01",
+  "claim": "On a fait aussi une réduction de capital, où j'ai rendu 350 millions aux investisseurs.",
+  "quote_fr": "On a fait aussi une réduction de capital, où j'ai rendu 350 millions aux investisseurs.",
+  "kind": "figure",
+  "how_to_check": "Vérifier les communiqués financiers d'OVHcloud concernant les opérations de réduction de capital, notamment celles où 350 millions ont été rendus aux investisseurs.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:11:10",
+  "claim": "Pour autant, aujourd'hui, on réalise plus de 1 milliard de chiffre d'affaires.",
+  "quote_fr": "Pour autant, aujourd'hui, on réalise plus de 1 milliard de chiffre d'affaires.",
+  "kind": "figure",
+  "how_to_check": "Vérifier le chiffre d'affaires d'OVHcloud pour l'année en cours (probablement 2023 ou 2024) via son rapport annuel ou ses résultats financiers publiés.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:11:14",
+  "claim": "On a 3 500 employés.",
+  "quote_fr": "On a 3 500 employés.",
+  "kind": "figure",
+  "how_to_check": "Vérifier le nombre d'employés d'OVHcloud via son rapport annuel, son site officiel ou des sources comme Infogreffe ou LinkedIn.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:12:43",
+  "claim": "Le corporate, les entreprises privées et publiques représentent environ 20% de notre chiffre d'affaires.",
+  "quote_fr": "Le corporate, les entreprises privées et publiques représentent environ 20% de notre chiffre d'affaires.",
+  "kind": "figure",
+  "how_to_check": "Vérifier dans les rapports annuels ou présentations d'OVHcloud la répartition du chiffre d'affaires par type de client (corporate, secteur public, etc.) pour confirmer la part d'environ 20%.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:13:21",
+  "claim": "Notre ambition, c'est d'atteindre 2 milliards de chiffre d'affaires dans les prochaines années.",
+  "quote_fr": "Notre ambition, c'est d'atteindre 2 milliards de chiffre d'affaires dans les prochaines années.",
+  "kind": "forecast",
+  "how_to_check": "Vérifier les déclarations publiques d'OVHcloud (interviews, rapports annuels, présentations d'investisseurs) concernant ses objectifs de chiffre d'affaires à moyen terme, notamment la cible de 2 milliards d'euros.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:13:46",
+  "claim": "Aujourd'hui, vous prenez par exemple OVHcloud en France. Les nuages publics de l'État, c'est 84 millions d'euros annuels en 2025.",
+  "quote_fr": "Aujourd'hui, vous prenez par exemple OVHcloud en France. Les nuages publics de l'État, c'est 84 millions d'euros annuels en 2025.",
+  "kind": "figure",
+  "how_to_check": "Vérifier les prévisions ou les budgets officiels de l'État français concernant les dépenses en cloud public (nuages de l'État) pour l'année 2025, notamment via les documents budgétaires ou les rapports de la DINUM.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:14:02",
+  "claim": "OVH dedans est le numéro 1 avec 33 millions.",
+  "quote_fr": "OVH dedans est le numéro 1 avec 33 millions.",
+  "kind": "figure",
+  "how_to_check": "Vérifier les parts de marché d'OVHcloud dans le cloud public de l'État français, notamment le montant attribué à OVHcloud dans les marchés publics de cloud, pour confirmer qu'il s'agit bien de 33 millions d'euros annuels en 2025.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:16:34",
+  "claim": "On a été choisis, comme l'un des gagnants avec Deep et avec Clever Cloud, sur un contrat de 180 millions sur 4-5 ans.",
+  "quote_fr": "On a été choisis, comme l'un des gagnants avec Deep et avec Clever Cloud, sur un contrat de 180 millions sur 4-5 ans.",
+  "kind": "figure",
+  "how_to_check": "Vérifier les communiqués officiels de la Commission européenne concernant le marché du cloud souverain, notamment le montant total (180 millions), la durée (4-5 ans) et la liste des attributaires (OVHcloud, Deep, Clever Cloud).",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:17:38",
+  "claim": "Vous avez en face environ 1,2 milliard de chiffre d'affaires que AWS réalise avec la Commission européenne par an.",
+  "quote_fr": "Vous avez en face environ 1,2 milliard de chiffre d'affaires que AWS réalise avec la Commission européenne par an.",
+  "kind": "figure",
+  "how_to_check": "Vérifier les estimations publiques ou les rapports d'analystes concernant le chiffre d'affaires d'AWS provenant spécifiquement de la Commission européenne, ou les déclarations officielles sur les dépenses cloud de la Commission européenne auprès des hyperscalers.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:17:46",
+  "claim": "Et vous avez un autre 500 millions chez Azure.",
+  "quote_fr": "Et vous avez un autre 500 millions chez Azure.",
+  "kind": "figure",
+  "how_to_check": "Vérifier les estimations publiques ou les rapports d'analystes concernant le chiffre d'affaires d'Azure (Microsoft) provenant spécifiquement de la Commission européenne, ou les déclarations officielles sur les dépenses cloud de la Commission européenne auprès des hyperscalers.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:17:49",
+  "claim": "vous avez 1,7 à 2 milliards de chiffres d'affaires qui sont réalisés entre la Commission européenne et les hyperscalers face à un premier appel d'offres",
+  "quote_fr": "Et donc il faut mettre ça juste en perspective, c'est-à-dire que vous avez 1,7 à 2 milliards de chiffres d'affaires qui sont réalisés entre la Commission européenne et les hyperscalers face à un premier appel d'offres.",
+  "kind": "figure",
+  "how_to_check": "Check European Commission procurement reports and hyperscaler (AWS, Azure, GCP) public financial disclosures for EU public sector cloud spending in relevant timeframe.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:18:19",
+  "claim": "vous avez environ 10 milliards de chiffres d'affaires qui sont réalisés entre les différents gouvernements, les différentes commissions, les différents ministères, avec les hyperscalers en Europe",
+  "quote_fr": "Si vous regardez de manière plus globale l'Europe, vous avez environ 10 milliards de chiffres d'affaires qui sont réalisés entre les différents gouvernements, les différentes commissions, les différents ministères, avec les hyperscalers en Europe.",
+  "kind": "figure",
+  "how_to_check": "Verify with Eurostat, IDC, or Gartner reports on public sector cloud spending in Europe by hyperscalers.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:20:12",
+  "claim": "On a 46 data centers dans 9 pays",
+  "quote_fr": "On a 46 data centers dans 9 pays.",
+  "kind": "figure",
+  "how_to_check": "Check OVHcloud's official website, annual reports, or press releases for current data center count and geographic distribution.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:22:11",
+  "claim": "Moi, j'ai commencé il y a 27 ans",
+  "quote_fr": "Moi, j'ai commencé il y a 27 ans.",
+  "kind": "figure",
+  "how_to_check": "Verify Octave Klaba's founding year of OVHcloud (1999) against current year (2024/2025) to confirm 25-26 years, not 27.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:22:43",
+  "claim": "Mais le fait de déposer le dossier bloque pour deux ans l'ensemble des investissements sur les sites",
+  "quote_fr": "Mais le fait de déposer le dossier bloque pour deux ans l'ensemble des investissements sur les sites.",
+  "kind": "policy_position",
+  "how_to_check": "Review French ICPE (Installations Classées pour la Protection de l'Environnement) regulations to confirm if filing triggers a 2-year investment freeze.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:24:20",
+  "claim": "On a dû mettre, je pense, 5-6 millions additionnels pour pouvoir mettre en règle un quartier, avec les complexités des distances, tout ça, pour que ça soit...",
+  "quote_fr": "On a dû mettre, je pense, 5-6 millions additionnels pour pouvoir mettre en règle un quartier, avec les complexités des distances, tout ça, pour que ça soit...",
+  "kind": "figure",
+  "how_to_check": "Cross-reference with OVHcloud's financial statements or internal audit reports for Roubaix campus compliance costs.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:25:01",
+  "claim": "C'est-à-dire que les lieux où il y aura un gigawatt de puissance électrique déployée dans un data center, une adresse, pour moi, ça ne va jamais exister en Europe et en France",
+  "quote_fr": "C'est-à-dire que les lieux où il y aura un gigawatt de puissance électrique déployée dans un data center, une adresse, pour moi, ça ne va jamais exister en Europe et en France.",
+  "kind": "forecast",
+  "how_to_check": "Monitor announcements of hyperscaler (AWS, Azure, GCP) or European cloud provider data center projects targeting 1GW+ capacity in Europe.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:25:11",
+  "claim": "Si vous voulez aujourd'hui construire un data center de 100 mégawatts, 200 mégawatts vous en avez déjà entre 4 et 5 ans pour pouvoir y aller",
+  "quote_fr": "Si vous voulez aujourd'hui construire un data center de 100 mégawatts, 200 mégawatts vous en avez déjà entre 4 et 5 ans pour pouvoir y aller.",
+  "kind": "forecast",
+  "how_to_check": "Analyze timelines of recent data center projects in France (e.g., by OVHcloud, Scaleway, or others) from permitting to operation.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:31:51",
+  "claim": "15% de redirection du revenu, en tout cas de la commande, permet de créer des acteurs européens de bonne taille.",
+  "quote_fr": "Quand je disais, 15% de redirection du revenu, en tout cas de la commande, permet de créer des acteurs européens de bonne taille.",
+  "kind": "policy_position",
+  "how_to_check": "Verify if any official French or EU policy documents propose or evaluate a 15% redirection of public procurement revenue to support European digital actors, and assess whether such a measure has been linked to the creation of 'actors of good size' in economic studies or impact assessments.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:32:30",
+  "claim": "aujourd'hui sur les sols aux alentours de 200, 300 millions, 500 millions de chiffres d'affaires.",
+  "quote_fr": "aujourd'hui sur les sols aux alentours de 200, 300 millions, 500 millions de chiffres d'affaires.",
+  "kind": "figure",
+  "how_to_check": "Check OVHcloud's official financial reports (e.g., annual reports, investor presentations) or reputable business registries (like Infogreffe, Société.com) for its revenue figures around the time of the hearing to verify if they were in the 200-500 million EUR range.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:32:37",
+  "claim": "Parce que c'est ça que ça va représenter comme chiffre d'affaires que les entreprises de cloud pourront faire s'ils focusent uniquement sur la France.",
+  "quote_fr": "Parce que c'est ça que ça va représenter comme chiffre d'affaires que les entreprises de cloud pourront faire s'ils focusent uniquement sur la France.",
+  "kind": "forecast",
+  "how_to_check": "Analyze market studies (e.g., from IDC, Gartner, or Synergy Research Group) on the French cloud market size to determine if the addressable market for cloud providers focusing solely on France is estimated to be in the 200-500 million EUR range, and compare with OVHcloud's actual France-only revenue if available.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:32:45",
+  "claim": "Derrière, vous pouvez créer des champions à plusieurs milliards de chiffres d'affaires parce que vous allez avoir l'accès à plusieurs marchés.",
+  "quote_fr": "Derrière, vous pouvez créer des champions à plusieurs milliards de chiffres d'affaires parce que vous allez avoir l'accès à plusieurs marchés.",
+  "kind": "forecast",
+  "how_to_check": "Examine OVHcloud's historical revenue growth (from financial reports) following its European expansion starting in 2004 to assess whether accessing multiple European markets correlated with reaching multi-billion EUR revenue, and compare with competitors who remained France-only.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:32:53",
+  "claim": "Et alors pourquoi aujourd'hui OVH fait 1,2 milliard et on est sur la pente de 2 milliards de chiffres d'affaires ?",
+  "quote_fr": "Et alors pourquoi aujourd'hui OVH fait 1,2 milliard et on est sur la pente de 2 milliards de chiffres d'affaires ?",
+  "kind": "figure",
+  "how_to_check": "Verify OVHcloud's audited financial statements for the year closest to the hearing date (likely 2022 or 2023) to confirm if revenue was approximately 1.2 billion EUR and if there was a clear trajectory toward 2 billion EUR based on official guidance or growth trends.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:32:59",
+  "claim": "Là où tous nos concurrents, ils sont plutôt aux alentours des 100, 200 millions. Parce que dès 2004, j'ai eu, au bout de cinq ans d'évolution d'entreprise, j'ai décidé de déployer tous les pays en Europe.",
+  "quote_fr": "Là où tous nos concurrents, ils sont plutôt aux alentours des 100, 200 millions. Parce que dès 2004, j'ai eu, au bout de cinq ans d'évolution d'entreprise, j'ai décidé de déployer tous les pays en Europe.",
+  "kind": "figure",
+  "how_to_check": "Identify OVHcloud's main European cloud competitors (e.g., Scaleway, IONOS, Hetzner) and check their revenue figures from official sources (annual reports, business registries) around the hearing date to verify if they were in the 100-200 million EUR range, and confirm OVHclock's 2004 Europe expansion timeline via company history or press releases.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:33:53",
+  "claim": "Et c'est pour ça que j'ai fait la levée de fonds de 250 millions en 2016 pour aller construire des data centers partout dans le monde.",
+  "quote_fr": "Et c'est pour ça que j'ai fait la levée de fonds de 250 millions en 2016 pour aller construire des data centers partout dans le monde.",
+  "kind": "figure",
+  "how_to_check": "Search OVHcloud's press releases, financial news (e.g., Reuters, Bloomberg), or regulatory filings (AMF, SEC if applicable) for announcements of a 250 million EUR funding round in 2016, and verify the stated purpose was for global data center construction.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. René Pilato",
+  "time": "00:40:27",
+  "claim": "L'Europe paye 264 milliards par an aux Etats-Unis pour les services cloud et logiciels utilisés. Pour la France, ces 54 milliards, soit presque 2% de son PIB.",
+  "quote_fr": "L'Europe paye 264 milliards par an aux Etats-Unis pour les services cloud et logiciels utilisés. Pour la France, ces 54 milliards, soit presque 2% de son PIB.",
+  "kind": "figure",
+  "how_to_check": "Verify the 264 billion EUR figure for EU spending on US cloud/software services and the 54 billion EUR for France using official sources like Eurostat, OECD ICT data, or reports from the European Commission's Digital Economy and Society Index (DESI). Cross-check with France's nominal GDP (from INSEE) to confirm if 54 billion EUR represents approximately 2%.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:44:41",
+  "claim": "On a deux usines. On a plus de centaines de personnes, 120 personnes qui construisent nos serveurs.",
+  "quote_fr": "On a deux usines. On a plus de centaines de personnes, 120 personnes qui construisent nos serveurs.",
+  "kind": "figure",
+  "how_to_check": "Verify OVHcloud's official reports, press releases, or facility documentation regarding employee count at manufacturing sites in Croix and Montreal area.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:44:41",
+  "claim": "On fabrique un peu plus de 50 000, 60 000 serveurs physiques par an",
+  "quote_fr": "On fabrique un peu plus de 50 000, 60 000 serveurs physiques par an",
+  "kind": "figure",
+  "how_to_check": "Check OVHcloud's annual reports, sustainability reports, or industrial capacity statements for annual server production volumes.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:47:21",
+  "claim": "Le coût de la RAM, en fait, de mémoire a augmenté de 6 à 9 fois en espace de 12 mois.",
+  "quote_fr": "Le coût de la RAM, en fait, de mémoire a augmenté de 6 à 9 fois en espace de 12 mois.",
+  "kind": "figure",
+  "how_to_check": "Verify DRAM price trends via semiconductor market reports (e.g., TrendForce, DRAMeXchange) for year-over-year increase over the referenced 12-month period.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:48:14",
+  "claim": "En Europe, on achète 3% de volume des rames mondiales.",
+  "quote_fr": "En Europe, on achète 3% de volume des rames mondiales.",
+  "kind": "figure",
+  "how_to_check": "Check European semiconductor consumption share in global DRAM market from sources like SEMI, WSTS, or IDC reports.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:49:44",
+  "claim": "J'ai 250 mégawatts de puissance électrique",
+  "quote_fr": "J'ai 250 mégawatts de puissance électrique",
+  "kind": "figure",
+  "how_to_check": "Verify OVHcloud's data center power capacity claims via infrastructure disclosures, environmental reports, or facility specifications.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:50:51",
+  "claim": "on maîtrise toute cette chaîne d'approvisionnement en fait des GPU et on sait déployer à une vitesse extrêmement importante dans nos data centers",
+  "quote_fr": "on maîtrise toute cette chaîne d'approvisionnement en fait des GPU et on sait déployer à une vitesse extrêmement importante dans nos data centers",
+  "kind": "policy_position",
+  "how_to_check": "Assess via OVHcloud's public AI infrastructure announcements, GPU deployment timelines, or partnerships with NVIDIA/AMD for evidence of rapid GPU provisioning.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:51:30",
+  "claim": "dans 18 mois, 12 mois, vous allez devoir faire du rétrofit dans votre data center pour pouvoir l'adapter à de nouvelles technologies des GPU qui vont sortir dans deux ans",
+  "quote_fr": "dans 18 mois, 12 mois, vous allez devoir faire du rétrofit dans votre data center pour pouvoir l'adapter à de nouvelles technologies des GPU qui vont sortir dans deux ans",
+  "kind": "forecast",
+  "how_to_check": "Evaluate against GPU roadmap releases (NVIDIA, AMD) and industry analyses on data center retrofit cycles due to AI hardware evolution.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "Mme Valérie Rossi",
+  "time": "00:53:42",
+  "claim": "Google parle ce matin même d'envoyer demain ses premières puces IA dans l'espace pour tester son projet de data center orbital.",
+  "quote_fr": "Google parle ce matin même d'envoyer demain ses premières puces IA dans l'espace pour tester son projet de data center orbital.",
+  "kind": "figure",
+  "how_to_check": "Verify via Google's official press releases, blog posts, or credible news coverage (e.g., Reuters, Bloomberg) dated to the hearing date for announcement of orbital IA chip tests.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:57:40",
+  "claim": "J'ai fait grandir l'entreprise par 20 personnes, 100 personnes, 200 personnes, 500 000, 1300, 2000.",
+  "quote_fr": "J'ai fait grandir l'entreprise par 20 personnes, 100 personnes, 200 personnes, 500 000, 1300, 2000.",
+  "kind": "figure",
+  "how_to_check": "Check OVHcloud historical employee counts via company reports, press releases, or business registries to verify growth milestones.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:57:53",
+  "claim": "Aujourd'hui, j'ai visé 2 milliards de chiffre d'affaires pour une raison assez simple.",
+  "quote_fr": "Aujourd'hui, j'ai visé 2 milliards de chiffre d'affaires pour une raison assez simple.",
+  "kind": "forecast",
+  "how_to_check": "Verify OVHcloud's stated revenue targets in official investor presentations, annual reports, or press releases from the relevant period.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "00:58:11",
+  "claim": "Avec 2 milliards de chiffres d'affaires, on va pouvoir investir 800-900 millions chaque année.",
+  "quote_fr": "Avec 2 milliards de chiffres d'affaires, on va pouvoir investir 800-900 millions chaque année.",
+  "kind": "forecast",
+  "how_to_check": "Check OVHcloud's financial plans or investor communications to see if they projected 40-45% of revenue as annual investment at the €2B revenue level.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "Mme Patricia Maussion",
+  "time": "01:00:13",
+  "claim": "Selon la Commission, la part des fournisseurs européens sur notre propre marché est tombée d'environ 29% en 2017 à 15% en 2022.",
+  "quote_fr": "Selon la Commission, la part des fournisseurs européens sur notre propre marché est tombée d'environ 29% en 2017 à 15% en 2022.",
+  "kind": "figure",
+  "how_to_check": "Verify European Commission reports or studies on cloud market share in the EU for 2017 and 2022 to confirm the 29% to 15% decline.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Thomas Lam",
+  "time": "01:04:03",
+  "claim": "Le numérique pèse aujourd'hui 2 à 3% de la consommation électrique européenne, dont la moitié provient des data centers.",
+  "quote_fr": "Le numérique pèse aujourd'hui 2 à 3% de la consommation électrique européenne, dont la moitié provient des data centers.",
+  "kind": "figure",
+  "how_to_check": "Check official EU energy consumption reports (e.g., from Eurostat or the European Environment Agency) for breakdown of electricity use by sector, including digital and data centers.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Thomas Lam",
+  "time": "01:04:13",
+  "claim": "Avec l'essor de l'IA et du cloud, cette part pourrait doubler d'ici 2030.",
+  "quote_fr": "Avec l'essor de l'IA et du cloud, cette part pourrait doubler d'ici 2030.",
+  "kind": "forecast",
+  "how_to_check": "Review EU energy forecasts or studies from bodies like the IEA, European Commission, or ENISA projecting electricity consumption of digital infrastructure to 2030.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Thomas Lam",
+  "time": "01:05:02",
+  "claim": "Sur 15 gigawatts de capacité sécurisée en France, seuls 1,4 ne profiteront qu'aux opérateurs européens, selon les conclusions du rapport de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique de juillet dernier.",
+  "quote_fr": "Sur 15 gigawatts de capacité sécurisée en France, seuls 1,4 ne profiteront qu'aux opérateurs européens, selon les conclusions du rapport de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique de juillet dernier.",
+  "kind": "figure",
+  "how_to_check": "Locate the July report from the French parliamentary commission of inquiry on digital dependencies and verify the stated figures for secured power capacity in France and the share allocated to European operators.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Thomas Lam",
+  "time": "01:07:34",
+  "claim": "C'est pour ça, nous, on s'est développé là-bas en 2011-2012 parce qu'en fait, on a trouvé l'énergie deux fois moins chère qu'aux États-Unis, qu'on est dans les autres pays.",
+  "quote_fr": "C'est pour ça, nous, on s'est développé là-bas en 2011-2012 parce qu'en fait, on a trouvé l'énergie deux fois moins chère qu'aux États-Unis, qu'on est dans les autres pays.",
+  "kind": "figure",
+  "how_to_check": "Verify OVHcloud's expansion timeline and energy cost comparisons between their Canadian operations (likely Quebec) and the US/EU circa 2011-2012 using historical industrial electricity price data.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Laurent Lhardit",
+  "time": "01:12:22",
+  "claim": "Est-ce que vous pouvez nous donner une référence, une fourchette de ce que produit en termes de chiffre d'affaires et de bénéfices nets un data center, disons une tranche de 10 mégawatts ?",
+  "quote_fr": "Est-ce que vous pouvez nous donner une référence, une fourchette de ce que produit en termes de chiffre d'affaires et de bénéfices nets un data center, disons une tranche de 10 mégawatts ?",
+  "kind": "policy_position",
+  "how_to_check": "Consult industry reports from Synergy Research Group, Gartner, or IDC on average revenue and net profit margins for 10MW data centers; check OVHcloud's financial disclosures or public case studies of similar-scale facilities.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "01:15:26",
+  "claim": "Vous pouvez en fait, un cloud provider, il génère entre 15 et 20 millions d'euros par an avec un mégawatt.",
+  "quote_fr": "Vous pouvez en fait, un cloud provider, il génère entre 15 et 20 millions d'euros par an avec un mégawatt.",
+  "kind": "figure",
+  "how_to_check": "Verify with OVHcloud's annual reports, ARCEP telecom market data, or Synergy Research Group's cloud infrastructure revenue benchmarks to assess if 15-20M€/MW/year aligns with industry averages for cloud providers.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "01:19:23",
+  "claim": "Vous devez porter l'eau à 85-95 degrés.",
+  "quote_fr": "Vous devez porter l'eau à 85-95 degrés.",
+  "kind": "figure",
+  "how_to_check": "Cross-reference with technical specifications of district heating systems (e.g., from Euroheat & Power or French ADEME) to confirm required water temperatures for effective urban heating integration from data center waste heat.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "01:19:39",
+  "claim": "C'est-à-dire que l'équivalent de production qui coûterait 100%, vous apportez seulement 2, 3, 5% de cette valeur-là.",
+  "quote_fr": "C'est-à-dire que l'équivalent de production qui coûterait 100%, vous apportez seulement 2, 3, 5% de cette valeur-là.",
+  "kind": "figure",
+  "how_to_check": "Validate with ADEME or IFPEN studies on exergy efficiency of low-grade waste heat (40-60°C) from data centers for district heating; check if 2-5% valorization aligns with thermodynamic limits and real-world implementations like in Stockholm or Helsinki.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "01:19:54",
+  "claim": "Là, vous dépassez 10-15%, mais il reste encore à 80-85%.",
+  "quote_fr": "Là, vous dépassez 10-15%, mais il reste encore à 80-85%.",
+  "kind": "figure",
+  "how_to_check": "Check technical papers from ASHRAE or case studies (e.g., from Equinix or Digiplex) on waste heat recovery efficiency at 60°C+ to verify if 10-15% exergy recovery is achievable and if 80-85% loss remains consistent with thermodynamic principles.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "01:20:07",
+  "claim": "Depuis 2004, nous avons, dans notre premier data-centre à Paris, on voulait fournir de la chaleur aux habitations.",
+  "quote_fr": "Depuis 2004, nous avons, dans notre premier data-centre à Paris, on voulait fournir de la chaleur aux habitations.",
+  "kind": "policy_position",
+  "how_to_check": "Verify via OVHcloud's historical press releases, annual reports, or archives (e.g., via Wayback Machine or OVHblog) to confirm existence and intent of heat reuse project at their Paris data center circa 2004.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "01:13:56",
+  "claim": "Moi, je me suis coté à la Bourse de Paris 2021.",
+  "quote_fr": "Moi, je me suis coté à la Bourse de Paris 2021.",
+  "kind": "figure",
+  "how_to_check": "Confirm via Euronext Paris official listings, OVHcloud's IPO prospectus (October 2021), or financial news archives (e.g., Reuters, Bloomberg) that OVHcloud went public on Euronext in October 2021.",
+  "quote_verified": true
+ },
+ {
+  "speaker": "M. Octave Klaba",
+  "time": "01:14:04",
+  "claim": "Mais de manière globale, on voit très bien que si vous n'êtes pas à un large cap, c'est-à-dire que votre valorisation n'est pas plus que 4-5 milliards, Vous rentrez dans ce qu'on appelle mid cap, small cap et c'est un non-mainland.",
+  "quote_fr": "Mais de manière globale, on voit très bien que si vous n'êtes pas à un large cap, c'est-à-dire que votre valorisation n'est pas plus que 4-5 milliards, Vous rentrez dans ce qu'on appelle mid cap, small cap et c'est un non-mainland.",
+  "kind": "figure",
+  "how_to_check": "Check Euronext's market cap classification guidelines (large/mid/small cap thresholds) to verify if 4-5 billion EUR is the correct threshold for large-cap status on Euronext Paris as of 2021-2023.",
+  "quote_verified": false
+ }
+]

@@ -1,0 +1,91 @@
+{
+  "meeting_uid": "18888392_6a0330a9d4404",
+  "checkpoint": "6m",
+  "checked_on": "2026-11-12",
+  "claim_checks": [
+    {
+      "claim_id": "M1",
+      "verdict": "pending",
+      "previous_verdict": "outdated",
+      "verdict_changed": false,
+      "confidence": "low",
+      "evidence": "No new evidence found in the period.",
+      "sources": [],
+      "next_step": ""
+    },
+    {
+      "claim_id": "M2",
+      "verdict": "pending",
+      "previous_verdict": "pending",
+      "verdict_changed": false,
+      "confidence": "low",
+      "evidence": "No new evidence found in the period.",
+      "sources": [],
+      "next_step": ""
+    },
+    {
+      "claim_id": "M3",
+      "verdict": "pending",
+      "previous_verdict": "unverifiable",
+      "verdict_changed": false,
+      "confidence": "low",
+      "evidence": "No new evidence found in the period.",
+      "sources": [],
+      "next_step": ""
+    },
+    {
+      "claim_id": "M4",
+      "verdict": "pending",
+      "previous_verdict": "unverifiable",
+      "verdict_changed": false,
+      "confidence": "low",
+      "evidence": "No new evidence found in the period.",
+      "sources": [],
+      "next_step": ""
+    },
+    {
+      "claim_id": "M5",
+      "verdict": "pending",
+      "previous_verdict": "unverifiable",
+      "verdict_changed": false,
+      "confidence": "low",
+      "evidence": "No new evidence found in the period.",
+      "sources": [],
+      "next_step": ""
+    },
+    {
+      "claim_id": "M6",
+      "verdict": "pending",
+      "previous_verdict": "supported",
+      "verdict_changed": false,
+      "confidence": "low",
+      "evidence": "No new evidence found in the period.",
+      "sources": [],
+      "next_step": ""
+    },
+    {
+      "claim_id": "M7",
+      "verdict": "pending",
+      "previous_verdict": "pending",
+      "verdict_changed": false,
+      "confidence": "low",
+      "evidence": "No new evidence found in the period.",
+      "sources": [],
+      "next_step": ""
+    },
+    {
+      "claim_id": "M8",
+      "verdict": "pending",
+      "previous_verdict": "supported",
+      "verdict_changed": false,
+      "confidence": "low",
+      "evidence": "No new evidence found in the period.",
+      "sources": [],
+      "next_step": ""
+    }
+  ],
+  "topic_updates": [],
+  "queue_additions": [],
+  "unresolved": [],
+  "summary": "Example only."
+}

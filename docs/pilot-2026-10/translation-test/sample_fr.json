@@ -1,0 +1,272 @@
+[
+ {
+  "id": "klaba-174",
+  "hearing": "klaba",
+  "t": 1939.589531,
+  "fr": "Si vous n'avez pas la masse critique européenne pour pouvoir alimenter en revenu les entreprises françaises ou européennes, vous allez avoir des champions tels qu'ils sont actuellement.",
+  "has_num": false,
+  "has_name": false,
+  "n": 1
+ },
+ {
+  "id": "klaba-322",
+  "hearing": "klaba",
+  "t": 3100.954073,
+  "fr": "Vous ne pouvez pas construire un data center aujourd'hui, dire ça y est, j'ai construit un truc sur 20 ans.",
+  "has_num": true,
+  "has_name": false,
+  "n": 2
+ },
+ {
+  "id": "mensch-248",
+  "hearing": "mensch",
+  "t": 2521.990687,
+  "fr": "Je vais essayer de transformer mon énergie corticale en intelligence par un bloc de questions. Moi, j'aimerais vous interroger sur les infrastructures. Vous avez évoqué la construction d'infrastructures, de cloud, etc. Il se trouve qu'au nord de ma circonception, il y a un méga projet qui est en train de s'installer qui s'appelle Campus IA.",
+  "has_num": false,
+  "has_name": true,
+  "n": 3
+ },
+ {
+  "id": "mensch-84",
+  "hearing": "mensch",
+  "t": 1293.1345935000002,
+  "fr": "C'est ce qu'on a vu beaucoup, si je pense que les choses commencent un peu à se renverser, il faut qu'on en bénéficie.",
+  "has_num": false,
+  "has_name": false,
+  "n": 4
+ },
+ {
+  "id": "klaba-260",
+  "hearing": "klaba",
+  "t": 2606.8112709999996,
+  "fr": "Je vais commencer par la dernière question. Sur l'écologie et les data centres, c'est l'un des sujets favoris parce que depuis 2004, nous refroidissons les data centres avec de l'eau.",
+  "has_num": true,
+  "has_name": false,
+  "n": 5
+ },
+ {
+  "id": "klaba-178",
+  "hearing": "klaba",
+  "t": 1973.749531,
+  "fr": "Et alors pourquoi aujourd'hui OVH fait 1,2 milliard et on est sur la pente de 2 milliards de chiffres d'affaires ?",
+  "has_num": true,
+  "has_name": false,
+  "n": 6
+ },
+ {
+  "id": "klaba-150",
+  "hearing": "klaba",
+  "t": 1722.503344,
+  "fr": "Je vous propose qu'on puisse s'arrêter là pour les propos liminaires, M. Klaba.",
+  "has_num": false,
+  "has_name": false,
+  "n": 7
+ },
+ {
+  "id": "mensch-148",
+  "hearing": "mensch",
+  "t": 1795.2794999999999,
+  "fr": "En particulier, ça permet de financer ce qui coûte extrêmement cher en intelligence artificielle, qui est l'entraînement des modèles.",
+  "has_num": false,
+  "has_name": false,
+  "n": 8
+ },
+ {
+  "id": "klaba-534",
+  "hearing": "klaba",
+  "t": 4753.601854,
+  "fr": "Avec 40 degrés, vous ne pouvez pas faire grand-chose, même si c'est chaud.",
+  "has_num": true,
+  "has_name": false,
+  "n": 9
+ },
+ {
+  "id": "klaba-171",
+  "hearing": "klaba",
+  "t": 1905.189531,
+  "fr": "Merci monsieur le député. Monsieur le président directeur général, vous laissez deux petites minutes pour répondre à cette question.",
+  "has_num": false,
+  "has_name": false,
+  "n": 10
+ },
+ {
+  "id": "mensch-266",
+  "hearing": "mensch",
+  "t": 2618.8906869999996,
+  "fr": "J'aimerais aussi que vous me disiez un petit peu comment vous envisagez la question de la souveraineté numérique, s'agissant de cette dépendance quand même construite avec un acteur moyen-oriental qui est là pour externaliser un business en France.",
+  "has_num": false,
+  "has_name": true,
+  "n": 11
+ },
+ {
+  "id": "klaba-10",
+  "hearing": "klaba",
+  "t": 404.96,
+  "fr": "Je rappelle que Secnum Cloud est une qualification délivrée par l'ANSI qui certifie la sécurité et la souveraineté d'une offre de service cloud.",
+  "has_num": false,
+  "has_name": true,
+  "n": 12
+ },
+ {
+  "id": "mensch-53",
+  "hearing": "mensch",
+  "t": 922.3496975,
+  "fr": "Donc on est un exportateur de technologies fondamentalement à la fois aux Etats-Unis et en Asie également.",
+  "has_num": false,
+  "has_name": true,
+  "n": 13
+ },
+ {
+  "id": "mensch-156",
+  "hearing": "mensch",
+  "t": 1898.0594999999998,
+  "fr": "Et donc, il repart, il sort de l'Europe et il va être investi, recyclé en R&D, utilisé comme acteur de puissance par d'autres acteurs. Donc, il faut le prendre en compte.",
+  "has_num": false,
+  "has_name": true,
+  "n": 14
+ },
+ {
+  "id": "klaba-442",
+  "hearing": "klaba",
+  "t": 3955.6544065,
+  "fr": "Est-ce techniquement réaliste de poursuivre ces trois objectifs au rythme actuel ?",
+  "has_num": false,
+  "has_name": false,
+  "n": 15
+ },
+ {
+  "id": "mensch-83",
+  "hearing": "mensch",
+  "t": 1283.9745935,
+  "fr": "C'est-à-dire que si vous n'avez pas une grosse entreprise, des entreprises innovantes qui peuvent capter ces talents et les convaincre de travailler pour nous, ils vont simplement partir ailleurs et apporter leur valeur ailleurs.",
+  "has_num": false,
+  "has_name": false,
+  "n": 16
+ },
+ {
+  "id": "mensch-263",
+  "hearing": "mensch",
+  "t": 2590.4306869999996,
+  "fr": "Par ailleurs, ça va consommer aussi beaucoup d'électrons, pour reprendre cette expression. C'est 1,4 à 1,6 gigawatts. Généralement, c'est l'exemple de Flamanville qui est pris pour mesurer l'intensité de cette énergie requise.",
+  "has_num": true,
+  "has_name": true,
+  "n": 17
+ },
+ {
+  "id": "mensch-274",
+  "hearing": "mensch",
+  "t": 2712.710687,
+  "fr": "Et donc voilà un premier bloc de questions et j'en aurai d'autres après. Merci.",
+  "has_num": false,
+  "has_name": false,
+  "n": 18
+ },
+ {
+  "id": "mensch-533",
+  "hearing": "mensch",
+  "t": 5028.281156499999,
+  "fr": "Ce sont des gens qui leur demandent de résoudre des problèmes de physique des particules.",
+  "has_num": false,
+  "has_name": false,
+  "n": 19
+ },
+ {
+  "id": "mensch-101",
+  "hearing": "mensch",
+  "t": 1432.1345935,
+  "fr": "Il faut continuer à en faire, puisque l'intelligence artificielle, on peut considérer que c'est environ 1 kW par personne à horizon 50.",
+  "has_num": true,
+  "has_name": false,
+  "n": 20
+ },
+ {
+  "id": "klaba-219",
+  "hearing": "klaba",
+  "t": 2301.309531,
+  "fr": "Ou est-ce qu'il est permanent ? Est-ce qu'il y aura des entreprises qui vont vouloir investir des milliards ?",
+  "has_num": false,
+  "has_name": false,
+  "n": 21
+ },
+ {
+  "id": "klaba-221",
+  "hearing": "klaba",
+  "t": 2309.369531,
+  "fr": "En tout cas, nous, on est arrivé à la conclusion que c'est trop risqué de ne pas investir dans l'intelligence artificielle.",
+  "has_num": false,
+  "has_name": false,
+  "n": 22
+ },
+ {
+  "id": "klaba-386",
+  "hearing": "klaba",
+  "t": 3529.974073,
+  "fr": "Le bureau du président de la Commission des affaires économiques est tout disposé à pouvoir accueillir le format de la rencontre.",
+  "has_num": false,
+  "has_name": true,
+  "n": 23
+ },
+ {
+  "id": "klaba-44",
+  "hearing": "klaba",
+  "t": 670.1939894999999,
+  "fr": "Pour autant, aujourd'hui, on réalise plus de 1 milliard de chiffre d'affaires.",
+  "has_num": true,
+  "has_name": false,
+  "n": 24
+ },
+ {
+  "id": "mensch-154",
+  "hearing": "mensch",
+  "t": 1875.6794999999997,
+  "fr": "Et ce qu'il faut prendre en compte, c'est que ces 50% de marge brute entre le fournisseur de service et ce qui fait le fournisseur de service, en fait dans la chaîne qui transforme l'électron en token, il y a à peu près 10% qui va à l'électron.",
+  "has_num": true,
+  "has_name": false,
+  "n": 25
+ },
+ {
+  "id": "klaba-549",
+  "hearing": "klaba",
+  "t": 4875.3786045,
+  "fr": "Est-ce que c'est finalement un prétexte pour pouvoir avoir une autre typologie de régulation, une autre typologie des lois aux Etats-Unis qui régule l'IA, parce que les lois aujourd'hui, elles existent en fait.",
+  "has_num": false,
+  "has_name": true,
+  "n": 26
+ },
+ {
+  "id": "klaba-164",
+  "hearing": "klaba",
+  "t": 1814.469531,
+  "fr": "Ce manque de soutien de l'État est d'autant plus préoccupant au regard des menaces que la concurrence étrangère fait peser sur notre industrie du numérique.",
+  "has_num": false,
+  "has_name": false,
+  "n": 27
+ },
+ {
+  "id": "mensch-107",
+  "hearing": "mensch",
+  "t": 1473.8745935000002,
+  "fr": "Et alors pour construire 400 gigawatts en Europe, il faut accélérer les projets, donc ça veut dire qu'il faut des permis plus rapidement, il faut une notion de réservation aussi des capacités énergétiques.",
+  "has_num": true,
+  "has_name": true,
+  "n": 28
+ },
+ {
+  "id": "mensch-461",
+  "hearing": "mensch",
+  "t": 4400.9360415,
+  "fr": "si vous voulez. Donc vous avez ce que ça veut dire 20% de gain de productivité.",
+  "has_num": true,
+  "has_name": false,
+  "n": 29
+ },
+ {
+  "id": "klaba-399",
+  "hearing": "klaba",
+  "t": 3622.1744065,
+  "fr": "Si demain la commande publique exige les niveaux les plus élevés, Encore faudra-t-il des acteurs européens capables d'y répondre à grande échelle et avec une offre complète.",
+  "has_num": false,
+  "has_name": true,
+  "n": 30
+ }
+]

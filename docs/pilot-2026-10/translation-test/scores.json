@@ -1,0 +1,42 @@
+{
+ "claude": {
+  "done": "30/30",
+  "secs": null,
+  "figures": "13/14",
+  "names": "9/16",
+  "chrf_vs_claude": null,
+  "chrf_vs_others": 73.6
+ },
+ "nemotron": {
+  "done": "30/30",
+  "secs": 15.1,
+  "figures": "13/14",
+  "names": "9/16",
+  "chrf_vs_claude": 71.8,
+  "chrf_vs_others": 74.1
+ },
+ "gemma": {
+  "done": "20/30",
+  "secs": 126.1,
+  "figures": "4/14",
+  "names": "6/16",
+  "chrf_vs_claude": 47.6,
+  "chrf_vs_others": 49.3
+ },
+ "argos": {
+  "done": "30/30",
+  "secs": 16.4,
+  "figures": "14/14",
+  "names": "9/16",
+  "chrf_vs_claude": 72.6,
+  "chrf_vs_others": 74.5
+ },
+ "mymemory": {
+  "done": "30/30",
+  "secs": 67.4,
+  "figures": "14/14",
+  "names": "9/16",
+  "chrf_vs_claude": 74.4,
+  "chrf_vs_others": 76.7
+ }
+}

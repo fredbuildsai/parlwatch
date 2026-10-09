@@ -1,0 +1,240 @@
+{
+  "properties": {
+    "meeting_uid": {
+      "description": "copied from the input",
+      "type": "string"
+    },
+    "checkpoint": {
+      "description": "copied from the input",
+      "enum": [
+        "3m",
+        "6m",
+        "12m"
+      ],
+      "type": "string"
+    },
+    "checked_on": {
+      "description": "today's date from the input, YYYY-MM-DD",
+      "type": "string"
+    },
+    "claim_checks": {
+      "description": "exactly one entry per claim in the input",
+      "items": {
+        "properties": {
+          "claim_id": {
+            "description": "id of the claim from the input",
+            "type": "string"
+          },
+          "verdict": {
+            "enum": [
+              "supported",
+              "partly_supported",
+              "contradicted",
+              "outdated",
+              "unverifiable",
+              "pending"
+            ],
+            "type": "string"
+          },
+          "previous_verdict": {
+            "description": "verdict of the latest previous check, or 'none'",
+            "type": "string"
+          },
+          "verdict_changed": {
+            "type": "boolean"
+          },
+          "confidence": {
+            "enum": [
+              "high",
+              "medium",
+              "low"
+            ],
+            "type": "string"
+          },
+          "evidence": {
+            "description": "1 to 3 sentences, max 70 words, English; show arithmetic for figures",
+            "type": "string"
+          },
+          "sources": {
+            "description": "max 3; required unless the verdict is unverifiable or pending",
+            "items": {
+              "properties": {
+                "title": {
+                  "description": "page or document title",
+                  "type": "string"
+                },
+                "url": {
+                  "description": "URL exactly as returned by the search tool; never invented",
+                  "type": "string"
+                },
+                "tier": {
+                  "enum": [
+                    "primary",
+                    "secondary",
+                    "weak"
+                  ],
+                  "type": "string"
+                },
+                "basis": {
+                  "description": "how much of the source you actually saw",
+                  "enum": [
+                    "page_content",
+                    "search_result_text",
+                    "search_snippet"
+                  ],
+                  "type": "string"
+                },
+                "published": {
+                  "description": "publication date YYYY-MM-DD, or empty string if unknown",
+                  "type": "string"
+                }
+              },
+              "required": [
+                "title",
+                "url",
+                "tier",
+                "basis",
+                "published"
+              ],
+              "type": "object",
+              "additionalProperties": false
+            },
+            "type": "array"
+          },
+          "next_step": {
+            "description": "one short sentence on what to check next time, or empty string",
+            "type": "string"
+          }
+        },
+        "required": [
+          "claim_id",
+          "verdict",
+          "previous_verdict",
+          "verdict_changed",
+          "confidence",
+          "evidence",
+          "sources",
+          "next_step"
+        ],
+        "type": "object",
+        "additionalProperties": false
+      },
+      "type": "array"
+    },
+    "topic_updates": {
+      "description": "significant developments within the period, max 3 per topic",
+      "items": {
+        "properties": {
+          "topic_id": {
+            "type": "string"
+          },
+          "date": {
+            "description": "date of the development, YYYY-MM-DD or YYYY-MM",
+            "type": "string"
+          },
+          "summary": {
+            "description": "what happened, one or two sentences, English",
+            "type": "string"
+          },
+          "sources": {
+            "items": {
+              "properties": {
+                "title": {
+                  "description": "page or document title",
+                  "type": "string"
+                },
+                "url": {
+                  "description": "URL exactly as returned by the search tool; never invented",
+                  "type": "string"
+                },
+                "tier": {
+                  "enum": [
+                    "primary",
+                    "secondary",
+                    "weak"
+                  ],
+                  "type": "string"
+                },
+                "basis": {
+                  "description": "how much of the source you actually saw",
+                  "enum": [
+                    "page_content",
+                    "search_result_text",
+                    "search_snippet"
+                  ],
+                  "type": "string"
+                },
+                "published": {
+                  "description": "publication date YYYY-MM-DD, or empty string if unknown",
+                  "type": "string"
+                }
+              },
+              "required": [
+                "title",
+                "url",
+                "tier",
+                "basis",
+                "published"
+              ],
+              "type": "object",
+              "additionalProperties": false
+            },
+            "type": "array"
+          }
+        },
+        "required": [
+          "topic_id",
+          "date",
+          "summary",
+          "sources"
+        ],
+        "type": "object",
+        "additionalProperties": false
+      },
+      "type": "array"
+    },
+    "queue_additions": {
+      "description": "new things worth researching later, short strings",
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "unresolved": {
+      "items": {
+        "properties": {
+          "item": {
+            "description": "claim id, queue item or topic",
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "item",
+          "reason"
+        ],
+        "type": "object",
+        "additionalProperties": false
+      },
+      "type": "array"
+    },
+    "summary": {
+      "description": "3 to 5 sentences for the human reviewer: what changed, what is resolved, what is uncertain",
+      "type": "string"
+    }
+  },
+  "required": [
+    "meeting_uid",
+    "checkpoint",
+    "checked_on",
+    "claim_checks",
+    "topic_updates",
+    "queue_additions",
+    "unresolved",
+    "summary"
+  ],
+  "type": "object",
+  "additionalProperties": false
+}

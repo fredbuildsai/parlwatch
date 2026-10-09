@@ -1,0 +1,170 @@
+{
+ "dropped": [
+  {
+   "t": "00:00:26",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:00:56",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:01:29",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:01:59",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:02:26",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:02:59",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:03:29",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:03:59",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:04:29",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:04:56",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:05:26",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:05:56",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:06:26",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:06:59",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:07:26",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "00:07:59",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:30:57",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:31:27",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:31:57",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:32:27",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:32:57",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:33:29",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:33:30",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:34:29",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:34:57",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:35:27",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:35:57",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:36:27",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:36:57",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:37:27",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:37:57",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:38:27",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "01:38:59",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "03:10:32",
+   "text": "Sous-titrage ST' 501"
+  },
+  {
+   "t": "03:10:35",
+   "text": "..."
+  }
+ ],
+ "name_corrections": [
+  {
+   "t": "00:08:44",
+   "before": "Mench",
+   "after": "Mensch",
+   "score": 0.91
+  },
+  {
+   "t": "00:08:44",
+   "before": "Herblain-Stoupe",
+   "after": "Herblin-Stoop",
+   "score": 0.86
+  },
+  {
+   "t": "00:52:28",
+   "before": "Mench",
+   "after": "Mensch",
+   "score": 0.91
+  },
+  {
+   "t": "01:27:29",
+   "before": "Mistralay",
+   "after": "Mistral",
+   "score": 0.88
+  }
+ ]
+}
