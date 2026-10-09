@@ -11,6 +11,8 @@ INPUT (the JSON in the user message)
 - topics: id, title, why_it_matters, before[] and after[] = findings already recorded (with dates and sources).
 - claims: id, speaker, time, kind (figure | forecast | policy_position | fact | opinion), text (English), quote_fr (French, verbatim), topic, previous_checks[] (checkpoint, verdict, checked_on, evidence), next_step (a hint left by the previous researcher).
 - queue: things noticed earlier and not yet researched.
+- limits (optional): max_web_searches = the most web searches you may run in this task. Never exceed it. Spend the searches on claims whose verdict is new, pending or most likely to have changed, and on the next_step hints; for claims you did not research, repeat the previous verdict (or use pending when there is none), say "not researched: search budget" in the evidence, and list them in unresolved.
+- mode (optional): "blind" means earlier verdicts are withheld on purpose; judge each claim from scratch, and set previous_verdict to "none".
 
 WHAT TO DO
 1. Produce exactly ONE entry in claim_checks for EVERY claim, even when nothing changed (then repeat the verdict and say no new evidence was found).
@@ -34,8 +36,8 @@ Rules:
 - Keep the previous verdict unless you found NEW evidence. If you change it, set verdict_changed to true and explain why in the evidence. previous_verdict is the verdict of the latest previous check, or "none".
 
 EVIDENCE AND SOURCES
-- Every verdict except unverifiable and pending needs at least one source; a verdict without a source is rejected by the system.
-- Use only URLs returned by the search tool. Never write a URL from memory and never invent one. If you have no URL, do not cite.
+- A NEW or CHANGED verdict (other than unverifiable or pending) needs at least one source that your search returned in this run; otherwise the system rejects it. An UNCHANGED verdict with no new evidence needs none: repeat it, begin the evidence with "No new evidence", and leave sources empty.
+- List as sources only URLs that your own search returned in this run. URLs that appear in the input were recorded earlier: you may mention them in the evidence text, but do not list them as sources unless your search returned them again. Never write a URL from memory and never invent one. If you have no URL, do not cite.
 - tier: primary = official or original documents (laws, EU and parliament websites, official statistics, company releases and filings, court decisions). secondary = reputable press, wire agencies, law-firm and think-tank notes. weak = aggregators, blogs, vendor blogs, forums, undated pages: use them as leads, never as the only basis for supported or contradicted.
 - basis: page_content = you read the content of the page; search_result_text = you only read the text returned with the search result; search_snippet = only a short snippet. If every source of a verdict is a search_snippet, confidence must be low.
 - published: the source's publication date (YYYY-MM-DD), or an empty string if unknown. Do not use a source published before the meeting as proof that something happened after it.

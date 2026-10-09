@@ -120,13 +120,13 @@ def fake_client(answer, version=2, fail_get=False):
     return NS(beta=NS(agents=NS(get=get), conversations=conv)), conv
 
 
-def test_latest_version_resolved_and_response_format_enforced():
+def test_latest_version_resolved_and_no_completion_args():
     r = research()
     cfg = {"agent_id": "ag_x", "agent_version": "latest", "temperature": 0.2}
     client, conv = fake_client(good_output(r), version=2)
     out, payload, version, _ = run_checkpoint(r, "6m", date(2026, 11, 12), client=client, config=cfg)
     assert version == 2 and conv.kwargs["agent_version"] == 2 and conv.kwargs["agent_id"] == "ag_x"
-    assert conv.kwargs["completion_args"]["response_format"]["json_schema"]["strict"] is True
+    assert "completion_args" not in conv.kwargs  # the API rejects completion_args for agent conversations
     assert json.loads(conv.kwargs["inputs"][0]["content"])["checkpoint"] == "6m" and out.claim_checks[0].claim_id == "C1"
     client3, _ = fake_client(good_output(r), version=3)
     assert run_checkpoint(r, "6m", date(2026, 11, 12), client=client3, config=cfg)[2] == 3  # follows the agent's newest version
@@ -148,3 +148,108 @@ def test_schema_keeps_field_named_title():
     s = strict_schema(AgentOutput)
     src = s["properties"]["claim_checks"]["items"]["properties"]["sources"]["items"]
     assert set(src["properties"]) == {"title", "url", "tier", "basis", "published"} and set(src["required"]) == set(src["properties"])
+
+
+def test_rate_limit_is_retried_and_raw_response_saved(tmp_path):
+    r = research()
+    client, conv = fake_client(good_output(r))
+    real_start, calls = conv.start, {"n": 0}
+
+    def flaky(**kw):
+        calls["n"] += 1
+        if calls["n"] < 3:
+            raise RuntimeError('API error occurred: Status 429. Body: {"detail":"Token rate limit reached."}')
+        return real_start(**kw)
+
+    conv.start = flaky
+
+    class Resp(NS):
+        def model_dump_json(self, indent=None):
+            return json.dumps({"outputs": "raw"})
+
+    real = conv.start
+    conv.start = lambda **kw: (lambda x: Resp(outputs=x.outputs, usage=None))(real(**kw))
+    sink = tmp_path / "raw.json"
+    cfg = {"agent_id": "ag_x", "agent_version": 2}
+    out = run_checkpoint(r, "6m", date(2026, 11, 12), client=client, config=cfg, raw_sink=sink, wait_s=0, max_attempts=4)[0]
+    assert calls["n"] == 3 and out.claim_checks and sink.exists()
+    conv.start = lambda **kw: (_ for _ in ()).throw(RuntimeError("Status 500"))
+    with pytest.raises(RuntimeError):
+        run_checkpoint(r, "6m", date(2026, 11, 12), client=client, config=cfg, wait_s=0)
+
+
+def test_parse_text_takes_first_json_and_ignores_fenced_duplicate_and_thinking():
+    from parlwatch.research.mistral_agent import parse_text
+
+    ex = json.dumps(good_output(research()))
+    out = parse_text("Here you go.\n" + ex + "\n```json\n" + ex + "\n```")
+    assert out.claim_checks[0].claim_id == "C1" and out.checkpoint == "6m"
+    with pytest.raises(ValueError):
+        parse_text("no braces at all")
+    resp = NS(outputs=[NS(type="message.output", content=[NS(type="thinking", thinking="hmm", text=None), NS(type="text", text=ex)]),
+                       NS(type="message.output", content=[NS(type="thinking", thinking="x", text=None)])])
+    assert parse_response(resp).claim_checks  # empty-text trailing message is skipped
+
+
+def src(url, **kw):
+    return {"title": "P", "url": url, "tier": "primary", "basis": "page_content", "published": "2026-09-08", **kw}
+
+
+def test_merge_grounds_urls_and_carries_forward_unchanged_verdicts():
+    r = research()
+    r.claim("C1").checks[0].sources = []
+    r.topics[0].before[0].sources = []
+    from parlwatch.research.schema import Source
+    r.claim("C1").checks[0].sources = [Source(title="old", url="https://old.example/page/", tier="secondary", accessed="2026-10-09")]
+    o = good_output(r)
+    o["claim_checks"][0].update(verdict="supported", verdict_changed=False, sources=[src("https://old.example/page"), src("https://invented.example/x")])
+    o["claim_checks"][1].update(verdict="partly_supported", verdict_changed=False, sources=[src("https://real.example/a")])
+    rep = merge(r, AgentOutput.model_validate(o), "6m", 2, date(2026, 11, 12), seen_urls={"https://real.example/a"})
+    assert rep["carried_forward"] == ["C1"]                                    # unchanged verdict, only a URL from the record -> carried forward
+    assert rep["urls_dropped"] == [{"where": "C1", "url": "https://invented.example/x"}]
+    assert rep["urls_not_retrieved"] == [{"where": "C1", "url": "https://old.example/page"}]
+    c1 = r.claim("C1").checks[-1]
+    assert c1.evidence.startswith("[carried forward") and c1.sources[0].basis == "unspecified" and "NOT retrieved" in c1.sources[0].note
+    assert r.claim("C2").checks[-1].sources[0].url == "https://real.example/a"
+    # a NEW verdict backed only by an unretrieved or invented URL is rejected
+    r2 = research()
+    o2 = good_output(r2)  # C1 supported -> outdated with a source that is not in the search results
+    rep2 = merge(r2, AgentOutput.model_validate(o2), "6m", 2, date(2026, 11, 12), seen_urls={"https://other.example"})
+    assert {"item": "C1", "reason": "new/changed verdict 'outdated' without a source retrieved in this run"} in rep2["rejected"]
+
+
+def test_build_input_since_override():
+    r = research()
+    r.checkpoints[0].done_on = "2026-10-09"
+    assert build_input(r, "3m", date(2026, 10, 9))["period"]["from"] == "2026-10-09"
+    assert build_input(r, "3m", date(2026, 10, 9), since=date(2026, 5, 12))["period"]["from"] == "2026-05-12"
+
+
+def test_blind_input_withholds_history_and_limits_are_sent():
+    r = research()
+    r.claim("C1").next_step = "look at X"
+    b = build_input(r, "3m", date(2026, 10, 9), since=date(2026, 5, 12), blind=True, max_web_searches=12)
+    assert all(c["previous_checks"] == [] and c["next_step"] == "" for c in b["claims"])
+    assert b["topics"][0]["before"] == [] and b["queue"] == [] and "blind" in b["mode"] and b["limits"] == {"max_web_searches": 12}
+    n = build_input(r, "3m", date(2026, 10, 9))
+    assert n["claims"][0]["previous_checks"] and "mode" not in n and "limits" not in n
+
+
+def test_daily_quota_stops_immediately_without_retry():
+    from parlwatch.research.mistral_agent import DailyQuotaExhausted
+
+    r = research()
+    client, conv = fake_client(good_output(r))
+    calls = {"n": 0}
+
+    class Err(Exception):
+        headers = {"x-ratelimit-remaining-web-search-day": "0", "x-ratelimit-remaining-web-search-minute": "2"}
+
+    def start(**kw):
+        calls["n"] += 1
+        raise Err('Status 429. Body: {"detail":"web_search rate limit reached."}')
+
+    conv.start = start
+    with pytest.raises(DailyQuotaExhausted):
+        run_checkpoint(r, "6m", date(2026, 11, 12), client=client, config={"agent_id": "a", "agent_version": 2}, wait_s=0, max_attempts=4)
+    assert calls["n"] == 1  # no pointless waiting

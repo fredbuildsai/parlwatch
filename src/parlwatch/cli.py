@@ -1,3 +1,5 @@
+import json
+from pathlib import Path
 from typing import Annotated
 
 import typer
@@ -92,6 +94,11 @@ def transcribe(
 
     out = process_video(url, get_settings().data_dir / "meetings", quant=quant, keep_audio=keep_audio)
     print(f"[green]ok[/green] {out}")
+
+
+def _saved_version(d: Path, stem: str) -> int | None:
+    f = d / "agent_runs" / f"{stem}_agent.json"
+    return json.loads(f.read_text()).get("agent_version") if f.exists() else None
 
 
 def _hms_to_s(v: str) -> float:
@@ -228,6 +235,9 @@ def research_agent(
     checkpoint: Annotated[str, typer.Option(help="3m | 6m | 12m")],
     apply: Annotated[bool, typer.Option(help="write the checks into research.json (default: dry run, nothing is changed)")] = False,
     today: Annotated[str, typer.Option(help="override today's date, YYYY-MM-DD")] = "",
+    from_raw: Annotated[str, typer.Option("--from-raw", help="re-parse a saved *_raw_response.json instead of calling the agent")] = "",
+    since: Annotated[str, typer.Option(help="start of the period to examine, YYYY-MM-DD (default: latest done checkpoint)")] = "",
+    blind: Annotated[bool, typer.Option(help="withhold our earlier verdicts: an independent second opinion. Never applied; reports agreement")] = False,
 ) -> None:
     """Run a follow-up checkpoint through the Mistral Studio agent. Dry run unless --apply; the raw answer is always saved."""
     import copy
@@ -240,18 +250,35 @@ def research_agent(
     from parlwatch.research.schema import Research
 
     t = _d.fromisoformat(today) if today else _d.today()
+    if blind and apply:
+        raise typer.BadParameter("--blind is a second opinion for comparison and is never applied")
     d = get_settings().data_dir / "meetings" / uid
     r = Research.model_validate_json((d / "research.json").read_text())
     if checkpoint not in {c.label for c in r.checkpoints}:
         raise typer.BadParameter(f"unknown checkpoint {checkpoint!r}")
-    out, payload, version, usage = run_checkpoint(r, checkpoint, t)
     runs = d / "agent_runs"
     runs.mkdir(exist_ok=True)
     stem = f"{t.isoformat()}_{checkpoint}"
+    if from_raw:
+        from parlwatch.research.agent_io import build_input
+        from parlwatch.research.mistral_agent import parse_raw_file
+
+        meta_f = Path(from_raw.replace("_raw_response", "_run_meta"))
+        meta_run = json.loads(meta_f.read_text()) if meta_f.exists() else {}
+        out, usage = parse_raw_file(Path(from_raw)), "re-parsed from saved response"
+        payload = build_input(r, checkpoint, t, _d.fromisoformat(since) if since else None)
+        version = meta_run.get("agent_version")
+    else:
+        out, payload, version, usage = run_checkpoint(r, checkpoint, t, raw_sink=runs / f"{stem}_raw_response.json",
+                                                      since=_d.fromisoformat(since) if since else None, blind=blind)
     work = r if apply else copy.deepcopy(r)
     if apply:
         (runs / f"{stem}_research_before.json").write_text(r.model_dump_json(indent=1))
-    report = merge(work, out, checkpoint, version, t)
+    from parlwatch.research.mistral_agent import urls_in_search
+
+    raw_path = Path(from_raw) if from_raw else runs / f"{stem}_raw_response.json"
+    seen_urls = urls_in_search(json.loads(raw_path.read_text())) if raw_path.exists() else None
+    report = merge(work, out, checkpoint, version, t, seen_urls)
     mark_done(work, checkpoint, t, report)
     (runs / f"{stem}_agent.json").write_text(json.dumps(
         {"agent_version": version, "usage": str(usage), "input": payload, "output": out.model_dump(), "merge_report": report}, ensure_ascii=False, indent=1))
@@ -263,6 +290,20 @@ def research_agent(
     for c in report["missing"]:
         tb.add_row(c, "[yellow]missing[/yellow]", "the agent returned no check for this claim")
     print(tb)
+    if report["carried_forward"]:
+        print(f"carried forward (unchanged, no new evidence): {', '.join(report['carried_forward'])}")
+    for u in report["urls_dropped"]:
+        print(f"[red]dropped a URL not found in the agent's search results[/red] ({u['where']}): {u['url']}")
+    if report["urls_not_retrieved"]:
+        print(f"[yellow]{len(report['urls_not_retrieved'])} cited URL(s) came from the earlier record, not from this run's search[/yellow]")
+    if blind:
+        same = [c for c in out.claim_checks if c.claim_id in {x.id for x in r.claims} and r.claim(c.claim_id).checks and r.claim(c.claim_id).checks[-1].verdict == c.verdict]
+        total = [c for c in out.claim_checks if c.claim_id in {x.id for x in r.claims} and r.claim(c.claim_id).checks]
+        print(f"[bold]blind comparison[/bold]: agent agrees with our latest verdict on {len(same)} of {len(total)} claims")
+        for c in total:
+            mine = r.claim(c.claim_id).checks[-1].verdict
+            if mine != c.verdict:
+                print(f"  {c.claim_id}: ours {mine} | agent {c.verdict} ({c.confidence}): {c.evidence[:160]}")
     for ch in report["changed"]:
         print(f"[bold]verdict changed[/bold] {ch['claim']}: {ch['from']} -> {ch['to']}")
     print(f"agent version used: {version} · topic updates: {report['topics_added']} · summary:\n{out.summary}")

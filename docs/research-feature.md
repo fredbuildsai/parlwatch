@@ -44,6 +44,10 @@ Its instructions are stored in `~/.claude/scheduled-tasks/parlwatch-research-fol
 - **To make it automatic later:** ask Claude Code to set a schedule on the task, for example weekly on Monday at 09:00 (`0 9 * * 1`, local time). It does nothing when no checkpoint is due. It runs only while the Claude app is open; a missed run happens at the next launch. To go back to manual, remove the schedule or set `enabled: false`.
 - **Before turning it on, read the first manual report.** The runner can be wrong in the ways described under "Lessons from the pilot"; its output is research for a person to review, not publishable fact.
 
+## Mistral agent (automated follow-ups)
+A Mistral Studio agent with web search can run the checks: see [mistral-agent/README.md](mistral-agent/README.md) and the first-run record in `pilot-2026-10/agent-run/`.
+The code builds the question (`build_input`), validates the answer against a strict schema and merges it append-only with guards (`merge`): a new or changed verdict needs a source the agent actually retrieved in that run, invented URLs are dropped, unchanged verdicts are carried forward, a checkpoint closes only when every claim has an accepted check. Quality is unproven until blind runs are compared with the manual research.
+
 ## Lessons from the pilot
 - The context the transcript lacks is often the most important finding (the AI Act delay agreed five days before the hearing; a report adopted two and a half months before another).
 - Speakers' numbers are often **approximately** right and arithmetically off in detail (Klaba's "€40M a year" vs "up to €180M over 6 years"). `partly_supported` with the size of the gap is more useful than a yes or no.

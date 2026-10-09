@@ -60,7 +60,7 @@
                 "type": "string"
               },
               "sources": {
-                "description": "max 3; required unless the verdict is unverifiable or pending",
+                "description": "max 3, URLs returned by your search in this run; required for a new or changed verdict other than unverifiable or pending; empty for an unchanged verdict",
                 "items": {
                   "properties": {
                     "title": {
