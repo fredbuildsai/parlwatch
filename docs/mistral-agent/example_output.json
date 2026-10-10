@@ -82,9 +82,21 @@
       "evidence": "No new evidence found in the period.",
       "sources": [],
       "next_step": ""
+    },
+    {
+      "claim_id": "M9",
+      "verdict": "pending",
+      "previous_verdict": "not_checked",
+      "verdict_changed": false,
+      "confidence": "low",
+      "evidence": "No new evidence found in the period.",
+      "sources": [],
+      "next_step": ""
     }
   ],
   "topic_updates": [],
+  "new_topics": [],
+  "coverage_notes": [],
   "queue_additions": [],
   "unresolved": [],
   "summary": "Example only."

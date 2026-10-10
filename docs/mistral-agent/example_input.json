@@ -162,6 +162,199 @@
           "sources": []
         }
       ]
+    },
+    {
+      "id": "demand",
+      "title": "Demand for AI compute and cloud from industry at large",
+      "why_it_matters": "Mensch argued that AI will consume about 10% of Europe's payroll and that Europe must build compute for it. Whether demand outruns capacity, and how fast, is the premise of his case.",
+      "before": [
+        {
+          "date": "2026-04",
+          "summary": "Hyperscalers report demand above capacity. Alphabet's CEO says the company is 'compute constrained in the near term'; Google Cloud grew 63% year on year (about $20.0bn in the quarter), AWS 28% (about $37.6bn); Google Cloud's backlog is above $460bn, nearly double the previous quarter.",
+          "sources": [
+            {
+              "title": "The Next Web: Alphabet, Amazon, Meta Q1 2026 earnings (AI cloud)",
+              "url": "https://thenextweb.com/news/alphabet-amazon-meta-q1-2026-earnings-ai-cloud"
+            }
+          ]
+        },
+        {
+          "date": "2026-02-09",
+          "summary": "Gartner: European sovereign-cloud infrastructure spending was about $6.9bn in 2025 and is forecast to grow 83% in 2026, then nearly double again in 2027; global spending about $80bn in 2026 (+35.6%). Drivers: the US CLOUD Act, tensions with the US, the Microsoft/ICC incident. Buyers per The Register: European enterprises (Airbus, Schwarz Group, financial firms), mostly for new workloads; another trade report says governments remain the main buyers, so sources disagree.",
+          "sources": [
+            {
+              "title": "The Register: Europe's sovereign cloud spend set to triple (Gartner, 9 Feb 2026)",
+              "url": "https://www.theregister.com/2026/02/09/europe_sovereign_cloud_spend"
+            },
+            {
+              "title": "DatacenterDynamics: Europe sovereign cloud spending to triple 2025-2027 (Gartner)",
+              "url": "https://www.datacenterdynamics.com/en/news/europe-spending-on-sovereign-cloud-infrastructure-to-triple-from-2025-2027-gartner/"
+            }
+          ]
+        },
+        {
+          "date": "2025-07-30",
+          "summary": "S&P Global: European data-centre power demand expected to double by 2030, straining grids.",
+          "sources": [
+            {
+              "title": "S&P Global: European data centre power demand to double by 2030 (30 Jul 2025)",
+              "url": "https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/073025-european-data-center-power-demand-to-double-by-2030-straining-grids"
+            }
+          ]
+        }
+      ],
+      "after": []
+    },
+    {
+      "id": "finance",
+      "title": "Capital for compute: hyperscalers, EU funds and Mistral's own raises",
+      "why_it_matters": "Mensch compared Europe's means with those of US and Chinese players and said Mistral invests about a billion in R&D this year.",
+      "before": [
+        {
+          "date": "2026-04",
+          "summary": "2026 capital-expenditure guidance: Alphabet $180-190bn (raised), Meta $125-145bn (raised), Amazon about $200bn (Microsoft's figure was not on the page). Totals quoted for the big four vary by source from $470bn to $830bn, so read them as an order of magnitude.",
+          "sources": [
+            {
+              "title": "The Next Web: Alphabet, Amazon, Meta Q1 2026 earnings (AI cloud)",
+              "url": "https://thenextweb.com/news/alphabet-amazon-meta-q1-2026-earnings-ai-cloud"
+            },
+            {
+              "title": "AI Weekly: Amazon, Microsoft, Alphabet, Meta plan $725B AI capex in 2026",
+              "url": "https://aiweekly.co/node/8566"
+            }
+          ]
+        },
+        {
+          "date": "2025-02",
+          "summary": "EU InvestAI: target of €200bn of AI investment, including a €20bn fund for about four 'AI gigafactories' of roughly 100,000 latest-generation chips each. The outcome of the gigafactory selection was not found.",
+          "sources": [
+            {
+              "title": "DatacenterDynamics: EU allocates €20bn to four AI gigafactories",
+              "url": "https://datacenterdynamics.com/en/news/eu-allocates-20bn-to-developing-four-ai-gigafactories"
+            }
+          ]
+        },
+        {
+          "date": "2025-09",
+          "summary": "Mistral's Series C: €1.7bn at a €11.7bn valuation.",
+          "sources": [
+            {
+              "title": "Orrick: Mistral €3B Series D at €21B post-money (Sept 2026)",
+              "url": "https://www.orrick.com/en/News/2026/09/Orrick-Advises-Mistral-in-its-3B-Series-D-at-21B-Post-Money-Valuation"
+            }
+          ]
+        }
+      ],
+      "after": [
+        {
+          "date": "2026-09-08",
+          "summary": "Mistral's Series D: €3bn at €21bn post-money, led by Samsung with the Scaleup Europe Fund (EQT) and PSG. A wire report says Mistral plans 'very deep' partnerships with backers including ASML and Samsung and trained its latest model on its own infrastructure.",
+          "sources": [
+            {
+              "title": "Orrick: Mistral €3B Series D at €21B post-money (Sept 2026)",
+              "url": "https://www.orrick.com/en/News/2026/09/Orrick-Advises-Mistral-in-its-3B-Series-D-at-21B-Post-Money-Valuation"
+            },
+            {
+              "title": "The Star (wire): France's Mistral announces new AI model (6 Oct 2026)",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/10/06/france039s-mistral-announces-new-ai-model"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cada",
+      "title": "The EU Cloud and AI Development Act",
+      "why_it_matters": "Mensch asked for European preference in public procurement; the Commission's proposal, published three weeks after his hearing, is the main legislative answer so far.",
+      "before": [],
+      "after": [
+        {
+          "date": "2026-06-03",
+          "summary": "The Commission proposes the Cloud and AI Development Act. Public-sector cloud buyers would face four 'Union assurance levels' (1: data in the EU; 2: all operating staff and assets in the EU; 3: EU-owned and controlled; 4: no third-country control), a 'Union added value' criterion worth at most 15 of 120 points in procurement, and 'data centre acceleration zones' with a 12-month maximum permit time. It cites the EU cloud market share falling from about 29% (2017) to 15% (2022). Status: awaiting negotiation between Council and Parliament. A search summary says the Act aims to triple EU capacity in 5 to 7 years; the note I opened gives no number.",
+          "sources": [
+            {
+              "title": "Covington Inside Global Tech: the EU Cloud and AI Development Act in depth (11 Jun 2026)",
+              "url": "https://www.insideglobaltech.com/2026/06/11/the-eu-cloud-and-ai-development-act-in-depth/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "Extraterritorial law, chips and dependence on US suppliers",
+      "why_it_matters": "Mensch's argument that Europe must not be a mere consumer of AI rests on dependence for chips, cloud and model access.",
+      "before": [
+        {
+          "date": "2025-06",
+          "summary": "Microsoft France's director of legal and public affairs, questioned under oath by the French Senate, said he could not guarantee that French citizens' data would never be passed to US authorities without French approval: under the US CLOUD Act, a formal legal request must be answered wherever the data sits. He added this had not happened for a European entity according to Microsoft's transparency reports.",
+          "sources": [
+            {
+              "title": "Génération NT: Microsoft, European data and the Cloud Act (Senate hearing, June 2025)",
+              "url": "https://www.generation-nt.com/actualites/microsoft-donnees-europe-souverainete-cloud-loi-2060822"
+            }
+          ]
+        },
+        {
+          "date": "2025-01",
+          "summary": "US export controls on advanced AI chips: the January 2025 rules would have limited access for 17 EU member states and drew a protest from the Commission. A weak source says that rule was later rescinded and a January 2026 rule set performance thresholds and end-use certification; the current legal position for EU buyers needs an official source.",
+          "sources": [
+            {
+              "title": "Science|Business: European AI ecosystem worried about new US export restrictions",
+              "url": "https://sciencebusiness.net/news/ai/european-ai-ecosystem-worried-about-new-us-export-restrictions"
+            },
+            {
+              "title": "CASRAI: the AI chip export control landscape in 2026",
+              "url": "https://casrai.org/news/ai-chip-export-controls"
+            }
+          ]
+        }
+      ],
+      "after": [
+        {
+          "date": "2026-06-03",
+          "summary": "The Commission's Cloud and AI Development Act proposes sovereignty levels up to 'no third-country control' for cloud serving the public sector (details in the regulation topic).",
+          "sources": [
+            {
+              "title": "Covington Inside Global Tech: the EU Cloud and AI Development Act in depth (11 Jun 2026)",
+              "url": "https://www.insideglobaltech.com/2026/06/11/the-eu-cloud-and-ai-development-act-in-depth/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Open-weight models: Chinese labs and Mistral",
+      "why_it_matters": "Mensch pitched Mistral as Europe's open-weight alternative; where the technical frontier stands decides whether that is viable.",
+      "before": [
+        {
+          "date": "2026",
+          "summary": "Aggregator sources report Chinese labs holding five of the ten top trending models on Hugging Face and about 41% of downloads over a year; not traced to a primary dataset.",
+          "sources": [
+            {
+              "title": "Tech-Insider: DeepSeek and Qwen top Hugging Face in 2026",
+              "url": "https://tech-insider.org/nl/deepseek-qwen-hugging-face-top-2026/"
+            }
+          ]
+        }
+      ],
+      "after": [
+        {
+          "date": "2026-10-06",
+          "summary": "Mistral announces Mistral Large 4 ('Le Chonk'), an open-weight model to be released publicly on 27 October 2026. Mensch says it is 'above the Chinese models on certain aspects, including cyber' without naming models or benchmarks. A search summary reports a size of about 1 trillion parameters (49bn active) and an independent index with a Chinese open model at 46 against Mistral's 38: unconfirmed.",
+          "sources": [
+            {
+              "title": "The Star (wire): France's Mistral announces new AI model (6 Oct 2026)",
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/10/06/france039s-mistral-announces-new-ai-model"
+            },
+            {
+              "title": "Cybernews: Mistral unveils 'Le Chonk' as alternative to top AI models from China and the US",
+              "url": "https://cybernews.com/news/mistral-sovereign-model-le-chonk/"
+            }
+          ]
+        }
+      ]
     }
   ],
   "claims": [
@@ -320,12 +513,95 @@
         }
       ],
       "next_step": "6m/12m: has construction started? Is the 3 GW extension site named?"
+    },
+    {
+      "id": "M9",
+      "speaker": "Arthur Mensch",
+      "time": "00:19:02",
+      "kind": "forecast",
+      "text": "If AI takes 10% of Europe's payroll in 3-4 years, that is about €1 trillion, and relying on non-European technology would add a €1 trillion trade deficit.",
+      "quote_fr": "10% de la masse salariale de l'Europe, c'est à peu près 1 trilliard",
+      "topic": "demand",
+      "previous_checks": [
+        {
+          "checkpoint": "at_meeting",
+          "verdict": "not_checked",
+          "checked_on": "2026-10-10",
+          "evidence": "Queued: his demand estimate (AI spend as a share of payroll, the size of European payroll, the implied compute) was not checked against analyst forecasts."
+        }
+      ],
+      "next_step": "Compare with analyst forecasts of European AI spending and of power demand from AI (he says about 400 MW for 10% of payroll)."
     }
   ],
   "queue": [
     "Check headcount and R&D figures in any filed accounts.",
     "Read the inquiry report's chapter on AI to see which of Mensch's statements it cites.",
     "Confirm Article 50 transparency date in the Official Journal text of Regulation (EU) 2026/1744.",
-    "Open the report PDF itself (only press summaries were read)."
+    "Open the report PDF itself (only press summaries were read).",
+    "Check Mensch's demand estimates (AI = 10% of payroll; 10% of Europe's payroll about €1 trillion; about 400 MW) against analyst forecasts (M9).",
+    "Confirm whether the Cloud and AI Development Act targets a tripling of EU capacity (search summary) or gives no number (law-firm note).",
+    "Verify Mistral Large 4's size and benchmark position on an independent leaderboard after its 27 October release."
+  ],
+  "context_dimensions": {
+    "supply": "Who provides the thing discussed: providers, capacity, products, market structure and competition (the witness's side of the market).",
+    "demand": "Who needs it and how much: demand for compute, storage and AI from industry at large (enterprises, public sector, AI developers), usage trends, hyperscaler spending, forecasts of capacity or workloads.",
+    "regulation": "Rules that shape it: EU and national law, standards and certifications, procurement rules, supervision and enforcement, what is in force, adopted but not yet applicable, or only proposed.",
+    "finance": "Money: investment and funding, valuations, capital expenditure, public funding and subsidies, pricing and margins.",
+    "energy_resources": "Physical constraints: electricity supply and grid connection, siting and permits, land, water, critical materials.",
+    "geopolitics_security": "Sovereignty and security: extraterritorial laws, dependence on foreign suppliers, supply-chain and cyber risk, trade measures.",
+    "technology": "The technology itself: hardware, models and software, efficiency, open-source versus proprietary, what is changing technically."
+  },
+  "coverage": [
+    {
+      "dimension": "supply",
+      "status": "covered",
+      "topics": [
+        "mistral"
+      ]
+    },
+    {
+      "dimension": "demand",
+      "status": "covered",
+      "topics": [
+        "demand"
+      ]
+    },
+    {
+      "dimension": "regulation",
+      "status": "covered",
+      "topics": [
+        "inquiry",
+        "ai-act",
+        "cada"
+      ]
+    },
+    {
+      "dimension": "finance",
+      "status": "covered",
+      "topics": [
+        "finance"
+      ]
+    },
+    {
+      "dimension": "energy_resources",
+      "status": "covered",
+      "topics": [
+        "campus-ia"
+      ]
+    },
+    {
+      "dimension": "geopolitics_security",
+      "status": "covered",
+      "topics": [
+        "geopolitics"
+      ]
+    },
+    {
+      "dimension": "technology",
+      "status": "covered",
+      "topics": [
+        "tech"
+      ]
+    }
   ]
 }

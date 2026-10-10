@@ -17,6 +17,21 @@ Tier = Literal["primary", "secondary", "weak"]  # primary = official/original; s
 CheckpointLabel = Literal["at_meeting", "3m", "6m", "12m"]
 ClaimKind = Literal["figure", "forecast", "policy_position", "fact", "opinion"]
 
+# Context dimensions: a hearing is never researched from one side only. A witness from an infrastructure provider, for example, calls for the
+# supply side AND the demand for compute and storage from industry at large, AND the regulatory context, and so on. `coverage.py` reports gaps.
+Dimension = Literal["supply", "demand", "regulation", "finance", "energy_resources", "geopolitics_security", "technology"]
+DIMENSIONS: dict[str, str] = {
+    "supply": "Who provides the thing discussed: providers, capacity, products, market structure and competition (the witness's side of the market).",
+    "demand": "Who needs it and how much: demand for compute, storage and AI from industry at large (enterprises, public sector, AI developers), "
+              "usage trends, hyperscaler spending, forecasts of capacity or workloads.",
+    "regulation": "Rules that shape it: EU and national law, standards and certifications, procurement rules, supervision and enforcement, "
+                  "what is in force, adopted but not yet applicable, or only proposed.",
+    "finance": "Money: investment and funding, valuations, capital expenditure, public funding and subsidies, pricing and margins.",
+    "energy_resources": "Physical constraints: electricity supply and grid connection, siting and permits, land, water, critical materials.",
+    "geopolitics_security": "Sovereignty and security: extraterritorial laws, dependence on foreign suppliers, supply-chain and cyber risk, trade measures.",
+    "technology": "The technology itself: hardware, models and software, efficiency, open-source versus proprietary, what is changing technically.",
+}
+
 
 class Source(BaseModel):
     title: str
@@ -37,6 +52,7 @@ class Finding(BaseModel):
 class Topic(BaseModel):
     id: str
     title: str
+    dimension: Dimension | None = None  # which context dimension this topic covers
     why_it_matters: str
     before: list[Finding] = Field(default_factory=list)  # what the meeting builds on
     after: list[Finding] = Field(default_factory=list)  # what happened since
@@ -82,6 +98,7 @@ class Research(BaseModel):
     topics: list[Topic] = Field(default_factory=list)
     claims: list[Claim] = Field(default_factory=list)
     queue: list[str] = Field(default_factory=list)  # things noticed but not yet researched
+    dimension_notes: dict[str, str] = Field(default_factory=dict)  # dimension -> "not relevant: reason" when it truly does not apply
 
     def claim(self, claim_id: str) -> Claim:
         return next(c for c in self.claims if c.id == claim_id)

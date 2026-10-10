@@ -54,6 +54,11 @@ English text beyond samples; and 20 of the 26 research sources, which I saw only
 - **Weak points:** most sources were not opened; two secondary sources disagree on one AI Act date (left flagged); the figure about Chinese open-weight models rests on aggregator sites and is marked weak; this is a web search at one point in time, so results will change.
 - **The automatic claim finder** proposed 56 and 67 candidates and covered 10 of my 17 hand-picked claims (59%), and it found some I had missed (Mensch's "€1 trillion trade deficit" argument). It is a generator, not a prioritiser: most candidates are company history. It needs a ranking step.
 
+### 5b. Context gap found and fixed (2026-10-10)
+A review after the first run noted that the research looked at the witness's side only. For Klaba it covered OVHcloud, the EU contract and data-centre scale, but not **industry demand for compute and storage**, finance, geopolitics, and only part of the regulation.
+The tool now has seven context dimensions with a coverage check (see `research-feature.md`), and both records were extended: 5 new topics for Klaba and 5 for Mensch, 22 and 26 findings in total, two new queued claims (K10, M9), and several conflicts between sources left visible
+(who the main buyers of sovereign cloud are; whether the EU Cloud and AI Development Act sets a capacity target; the Article 50 date). Most of the added sources are search summaries, not opened pages; the `context-and-followup` files say which is which.
+
 ## 6. Limits of this pilot
 
 Two hearings, both about AI and cloud, both with business leaders; one machine; one free model for analysis and translation; no second reviewer; no comparison against a human-made summary. Success rates here

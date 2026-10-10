@@ -1,3 +1,4 @@
+from parlwatch.research.coverage import coverage
 from parlwatch.research.schema import Research, Source
 
 ICON = {"supported": "✅ supported", "partly_supported": "🟡 partly supported", "contradicted": "❌ contradicted", "outdated": "🕓 outdated",
@@ -18,9 +19,14 @@ def to_markdown(r: Research) -> str:
     md += ["## Follow-up schedule", "", "| checkpoint | due | status |", "|---|---|---|"]
     for c in r.checkpoints:
         md.append(f"| {c.label} | {c.due} | {('done ' + c.done_on) if c.done_on else 'open'}{(' · ' + c.note) if c.note else ''} |")
+    md += ["", "## Context coverage", "", "A hearing is researched from every side, not only the witness's: supply, demand, regulation, finance, energy and resources, "
+           "geopolitics and security, technology.", "", "| dimension | status | topics | findings before / after |", "|---|---|---|---|"]
+    for c in coverage(r):
+        md.append(f"| {c['dimension']} | {c['status'].replace('_', ' ')} | {', '.join(c['topics']) or '-'} | {c['findings_before']} / {c['findings_after']} |"
+                  + (f" {c['note']}" if c["note"] else ""))
     md += ["", "## Topics: before and after", ""]
     for t in r.topics:
-        md += [f"### {t.title}", f"*Why it matters:* {t.why_it_matters}", ""]
+        md += [f"### {t.title}" + (f" · *{t.dimension.replace('_', ' ')}*" if t.dimension else ""), f"*Why it matters:* {t.why_it_matters}", ""]
         if t.before:
             md += ["**Before the meeting (what it builds on)**", ""]
             for f in t.before:

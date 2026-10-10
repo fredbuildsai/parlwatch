@@ -3,7 +3,7 @@
  "title": "Hearing of Octave Klaba (OVHcloud), Economic Affairs Committee",
  "meeting_date": "2026-09-30",
  "researched_on": "2026-10-09",
- "method": "manual research by Claude Code with web search, protocol v0 (see docs/research-feature.md)",
+ "method": "manual research by Claude Code with web search, protocol v0 (see docs/research-feature.md); context dimensions (demand, finance, regulation, geopolitics_security) added 2026-10-10",
  "checkpoints": [
   {
    "label": "at_meeting",
@@ -34,6 +34,7 @@
   {
    "id": "inquiry",
    "title": "The inquiry report that frames this hearing",
+   "dimension": "regulation",
    "why_it_matters": "Klaba had already testified on 21 April 2026 to the commission of inquiry, whose report appeared two and a half months before this hearing; deputies quote it.",
    "before": [
     {
@@ -45,7 +46,9 @@
        "url": "https://www.assemblee-nationale.fr/dyn/espace-presse/communiques-de-presse/2026/commission-d-enquete-dependances-et-vulnerabilites-dans-le-secteur-du-numerique-phase-finale-des-travaux",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "page opened"
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
       }
      ]
     },
@@ -58,21 +61,27 @@
        "url": "https://www.lejournaldesentreprises.com/breve/un-rapport-parlementaire-demande-un-moratoire-sur-les-data-centers-extra-europeens-2146626",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened"
+       "note": "search summary only, page not opened",
+       "basis": "unspecified",
+       "published": ""
       },
       {
        "title": "UniversFreebox: un rapport appelle à stopper les nouveaux data centers américains",
        "url": "https://www.universfreebox.com/article/595903/cloud-un-rapport-appelle-a-stopper-les-nouveaux-data-centers-americains",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened"
+       "note": "search summary only, page not opened",
+       "basis": "unspecified",
+       "published": ""
       },
       {
        "title": "Assemblée nationale: commission d'enquête, phase finale des travaux",
        "url": "https://www.assemblee-nationale.fr/dyn/espace-presse/communiques-de-presse/2026/commission-d-enquete-dependances-et-vulnerabilites-dans-le-secteur-du-numerique-phase-finale-des-travaux",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "page opened"
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
       }
      ]
     }
@@ -82,6 +91,7 @@
   {
    "id": "eu-cloud",
    "title": "The Commission's €180M sovereign cloud contract",
+   "dimension": "regulation",
    "why_it_matters": "Klaba used it as an example: a start for European providers, but small next to hyperscaler revenue.",
    "before": [
     {
@@ -93,7 +103,9 @@
        "url": "https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_de",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "page opened"
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
       }
      ]
     },
@@ -106,7 +118,9 @@
        "url": "https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_de",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "page opened"
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
       }
      ]
     }
@@ -116,6 +130,7 @@
   {
    "id": "ovh",
    "title": "OVHcloud: results, leadership and qualifications",
+   "dimension": "supply",
    "why_it_matters": "Revenue and qualification claims made at the hearing can be compared with official results as they are published.",
    "before": [
     {
@@ -127,7 +142,9 @@
        "url": "https://siecledigital.fr/2025/10/22/ovhcloud-octave-klaba-reprend-la-main-apres-le-depart-surprise-du-directeur-general/",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened"
+       "note": "search summary only, page not opened",
+       "basis": "unspecified",
+       "published": ""
       }
      ]
     },
@@ -140,7 +157,9 @@
        "url": "https://bourse.fortuneo.fr/actualites-amp/ovhcloud-franchit-le-cap-du-milliard-d-euros-de-ca-annuel-5287890",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened"
+       "note": "search summary only, page not opened",
+       "basis": "unspecified",
+       "published": ""
       }
      ]
     },
@@ -153,14 +172,18 @@
        "url": "https://bourse.fortuneo.fr/actualites/ovhcloud-acceleration-de-la-croissance-au-troisieme-trimestre-9716469",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; relays the company's results release of 25 Jun 2026"
+       "note": "search summary only, page not opened; relays the company's results release of 25 Jun 2026",
+       "basis": "unspecified",
+       "published": ""
       },
       {
        "title": "OptionFinance: OVHcloud confirms its annual objectives (25 Jun 2026)",
        "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-06-25-ovhcloud-porte-par-le-cloud-public-confirme-ses-objectifs-annuels.html",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened"
+       "note": "search summary only, page not opened",
+       "basis": "unspecified",
+       "published": ""
       }
      ]
     },
@@ -173,7 +196,9 @@
        "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhcloud-obtains-secnumcloud-qualification-snc-cloud-platform/",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; company press release, 1 Sep 2026"
+       "note": "search summary only, page not opened; company press release, 1 Sep 2026",
+       "basis": "unspecified",
+       "published": ""
       }
      ]
     }
@@ -189,6 +214,7 @@
   {
    "id": "compute",
    "title": "Data-centre scale, energy and AI infrastructure in France",
+   "dimension": "energy_resources",
    "why_it_matters": "Klaba said a single-site gigawatt data centre will never exist in Europe; a 1.4 GW campus is planned in France.",
    "before": [
     {
@@ -200,14 +226,18 @@
        "url": "https://www.polytechnique.edu/sites/default/files/content/communiques/fichiers/2025-05/Communique%20Presse%20-%20MGX%2C%20Bpifrance%2C%20Mistral%20AI%20et%20NVIDIA%20annoncent%20la%20cre%CC%81ation%20d%E2%80%99une%20JV%20pour%20de%CC%81velopper%20en%20France%20le%20plus%20grand%20campus%20IA%20d%27Europe.pdf",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; hosted by Ecole Polytechnique"
+       "note": "search summary only, page not opened; hosted by Ecole Polytechnique",
+       "basis": "unspecified",
+       "published": ""
       },
       {
        "title": "FrenchWeb: what a new-generation AI campus looks like",
        "url": "https://www.frenchweb.fr/datacenters-energie-refroidissement-a-quoi-ressemble-un-campus-ia-de-nouvelle-generation/461960",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; construction expected H2 2026, service 2028, extension to 3 GW"
+       "note": "search summary only, page not opened; construction expected H2 2026, service 2028, extension to 3 GW",
+       "basis": "unspecified",
+       "published": ""
       }
      ]
     }
@@ -217,6 +247,7 @@
   {
    "id": "china-open",
    "title": "Dependence on Chinese open-weight AI models",
+   "dimension": "technology",
    "why_it_matters": "Klaba argued Europe's AI depends on Chinese open source, a strategic risk.",
    "before": [
     {
@@ -228,7 +259,324 @@
        "url": "https://tech-insider.org/nl/deepseek-qwen-hugging-face-top-2026/",
        "tier": "weak",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; aggregator, figures (e.g. '41% of downloads') not traced to a primary dataset"
+       "note": "search summary only, page not opened; aggregator, figures (e.g. '41% of downloads') not traced to a primary dataset",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    }
+   ],
+   "after": []
+  },
+  {
+   "id": "demand",
+   "title": "Demand for compute and storage from industry at large",
+   "dimension": "demand",
+   "why_it_matters": "Klaba asked whether AI demand is lasting and said OVHcloud concluded it is too risky not to invest. Whether capacity is scarce, who is buying it and how much power it needs decide whether the supply he describes is too small or too large.",
+   "before": [
+    {
+     "date": "2026-04",
+     "summary": "Hyperscalers report demand above capacity. Alphabet's CEO says the company is 'compute constrained in the near term'; Google Cloud grew 63% year on year (about $20.0bn in the quarter), AWS 28% (about $37.6bn); Google Cloud's backlog is above $460bn, nearly double the previous quarter.",
+     "sources": [
+      {
+       "title": "The Next Web: Alphabet, Amazon, Meta Q1 2026 earnings (AI cloud)",
+       "url": "https://thenextweb.com/news/alphabet-amazon-meta-q1-2026-earnings-ai-cloud",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "page opened; relays company results",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2026-02-09",
+     "summary": "Gartner: European sovereign-cloud infrastructure spending was about $6.9bn in 2025 and is forecast to grow 83% in 2026, then nearly double again in 2027; global spending about $80bn in 2026 (+35.6%). Drivers: the US CLOUD Act, tensions with the US, the Microsoft/ICC incident. Buyers per The Register: European enterprises (Airbus, Schwarz Group, financial firms), mostly for new workloads; another trade report says governments remain the main buyers, so sources disagree.",
+     "sources": [
+      {
+       "title": "The Register: Europe's sovereign cloud spend set to triple (Gartner, 9 Feb 2026)",
+       "url": "https://www.theregister.com/2026/02/09/europe_sovereign_cloud_spend",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
+      },
+      {
+       "title": "DatacenterDynamics: Europe sovereign cloud spending to triple 2025-2027 (Gartner)",
+       "url": "https://www.datacenterdynamics.com/en/news/europe-spending-on-sovereign-cloud-infrastructure-to-triple-from-2025-2027-gartner/",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; says governments remain the main buyers, which differs from The Register",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2025-07-30",
+     "summary": "S&P Global: European data-centre power demand expected to double by 2030, straining grids.",
+     "sources": [
+      {
+       "title": "S&P Global: European data centre power demand to double by 2030 (30 Jul 2025)",
+       "url": "https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/073025-european-data-center-power-demand-to-double-by-2030-straining-grids",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2026-01",
+     "summary": "France: RTE's December 2025 outlook adds about 10 TWh of data-centre consumption between 2024 and 2030. An ADEME study (6 Jan 2026) finds that data centres already connected use only about 20% of their contracted connection capacity, which suggests that connection requests overstate real demand. A weaker source says validated connection requests already equal about 45 TWh by 2030, far above the 23-28 TWh RTE had assumed for 2035.",
+     "sources": [
+      {
+       "title": "Connaissance des énergies: data centres in France, how much electricity to come (ADEME study, Jan 2026)",
+       "url": "https://www.connaissancedesenergies.org/data-centers-en-france-quelle-consommation-delectricite-venir",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "page opened; page confirms RTE's +10 TWh by 2030 and that connected data centres use ~20% of contracted capacity",
+       "basis": "unspecified",
+       "published": ""
+      },
+      {
+       "title": "Opera Énergie: la France sous-estime l'impact de l'IA sur la transition énergétique",
+       "url": "https://opera-energie.com/media/france-sous-estime-impact-ia-transition-energetique/",
+       "tier": "weak",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; the ~45 TWh by 2030 versus 23-28 TWh in 2035 comparison came from the search summary and which result carried it is not certain",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2026",
+     "summary": "A trade report says AI is about 38% of data-centre demand in 2026 and could be most of it by 2030, with inference overtaking training. Not traced to a primary dataset.",
+     "sources": [
+      {
+       "title": "DataCentreNews UK: AI data centre demand to exceed supply by 2030",
+       "url": "https://datacentrenews.uk/story/ai-data-centre-demand-to-exceed-supply-by-500-by-2030",
+       "tier": "weak",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; industry trade report, figures (AI = 38% of 2026 demand) not traced to a primary dataset",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    }
+   ],
+   "after": []
+  },
+  {
+   "id": "finance",
+   "title": "Who is spending on infrastructure, and how much",
+   "dimension": "finance",
+   "why_it_matters": "Klaba contrasted European champions with US hyperscalers; the gap in capital explains both his call for public procurement and his scepticism about gigawatt-scale sites.",
+   "before": [
+    {
+     "date": "2026-04",
+     "summary": "2026 capital-expenditure guidance: Alphabet $180-190bn (raised), Meta $125-145bn (raised), Amazon about $200bn (Microsoft's figure was not on the page). Totals quoted for the big four vary by source from $470bn to $830bn, so read them as an order of magnitude.",
+     "sources": [
+      {
+       "title": "The Next Web: Alphabet, Amazon, Meta Q1 2026 earnings (AI cloud)",
+       "url": "https://thenextweb.com/news/alphabet-amazon-meta-q1-2026-earnings-ai-cloud",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "page opened; relays company results",
+       "basis": "unspecified",
+       "published": ""
+      },
+      {
+       "title": "AI Weekly: Amazon, Microsoft, Alphabet, Meta plan $725B AI capex in 2026",
+       "url": "https://aiweekly.co/node/8566",
+       "tier": "weak",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; other sources give totals from $470bn to $830bn",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2026-06-25",
+     "summary": "OVHcloud's own guidance for FY2026: capital expenditure of 33-35% of revenue (about €0.4bn on a revenue of about €1.15bn, my calculation), organic growth of 5-7%.",
+     "sources": [
+      {
+       "title": "OptionFinance: OVHcloud confirms its annual objectives (25 Jun 2026)",
+       "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-06-25-ovhcloud-porte-par-le-cloud-public-confirme-ses-objectifs-annuels.html",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; capex 33-35% of revenue, organic growth 5-7%",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2025-02",
+     "summary": "EU InvestAI: target of €200bn of AI investment, including a €20bn fund for about four 'AI gigafactories' of roughly 100,000 latest-generation chips each. The outcome of the gigafactory selection was not found.",
+     "sources": [
+      {
+       "title": "DatacenterDynamics: EU allocates €20bn to four AI gigafactories",
+       "url": "https://datacenterdynamics.com/en/news/eu-allocates-20bn-to-developing-four-ai-gigafactories",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; announced Feb 2025, selection outcome not found",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2026-04-17",
+     "summary": "Scale comparison (my calculation): the EU sovereign-cloud contract is at most €180M over 6 years, i.e. at most €30M a year, against Amazon's roughly $200bn of 2026 capital expenditure alone: the contract is about 0.015% of one hyperscaler's annual spending.",
+     "sources": [
+      {
+       "title": "European Commission: Commission advances cloud sovereignty through strategic procurement (17 Apr 2026)",
+       "url": "https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_de",
+       "tier": "primary",
+       "accessed": "2026-10-10",
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    }
+   ],
+   "after": []
+  },
+  {
+   "id": "reg_cloud",
+   "title": "The regulatory framework for cloud and data centres",
+   "dimension": "regulation",
+   "why_it_matters": "Klaba's case for procurement preference, SecNumCloud and a sovereign market depends on what the rules require and what is still only proposed.",
+   "before": [
+    {
+     "date": "2024",
+     "summary": "EU cloud certification (EUCS): the draft dropped the requirement that a provider be headquartered in the EU for the highest level, after objections from member states and industry. A weak source says the highest level was still not formally adopted in mid-2026.",
+     "sources": [
+      {
+       "title": "Hogan Lovells: EUCS, data sovereignty issues drive debate on the EU cloud certification scheme",
+       "url": "https://hlc.com/en/publications/eucs-controversial-data-sovereignty-issues-continue-to-drive-debate-around-the-eu-certification-scheme-for-cloud-services",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; says the EU-headquarters requirement for the highest level was dropped from the 2024 draft",
+       "basis": "unspecified",
+       "published": ""
+      },
+      {
+       "title": "sota.io: EUCS cloud assurance levels 2026",
+       "url": "https://sota.io/blog/eucs-cloud-assurance-levels-which-providers-qualify-eu-sovereignty-2026",
+       "tier": "weak",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; developer blog, the 'not formally adopted as of mid-2026' status needs an official source",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2026-04-14",
+     "summary": "France: a decree of 14 April 2026 implementing Law 2024-449 requires certified cloud services for sensitive State data. SecNumCloud 3.2 is ANSSI's referential; a weak source says it adds immunity criteria against non-EU law.",
+     "sources": [
+      {
+       "title": "OVHcloud corporate: SNC Cloud Platform obtains SecNumCloud qualification (1 Sep 2026)",
+       "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhcloud-obtains-secnumcloud-qualification-snc-cloud-platform/",
+       "tier": "primary",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; mentions the 14 Apr 2026 decree under Law 2024-449",
+       "basis": "unspecified",
+       "published": ""
+      },
+      {
+       "title": "Ayinedjimi Consultants: SecNumCloud 2026 and EUCS",
+       "url": "https://ayinedjimi-consultants.fr/articles/secnumcloud-2026-eucs",
+       "tier": "weak",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; says SecNumCloud 3.2 adds immunity criteria against non-EU law; ANSSI's referential itself was not opened",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2026-06-03",
+     "summary": "The Commission proposes the Cloud and AI Development Act. Public-sector cloud buyers would face four 'Union assurance levels' (1: data in the EU; 2: all operating staff and assets in the EU; 3: EU-owned and controlled; 4: no third-country control), a 'Union added value' criterion worth at most 15 of 120 points in procurement, and 'data centre acceleration zones' with a 12-month maximum permit time. It cites the EU cloud market share falling from about 29% (2017) to 15% (2022). Status: awaiting negotiation between Council and Parliament. A search summary says the Act aims to triple EU capacity in 5 to 7 years; the note I opened gives no number.",
+     "sources": [
+      {
+       "title": "Covington Inside Global Tech: the EU Cloud and AI Development Act in depth (11 Jun 2026)",
+       "url": "https://www.insideglobaltech.com/2026/06/11/the-eu-cloud-and-ai-development-act-in-depth/",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "page opened; law-firm note, the Commission's own text was not opened",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    }
+   ],
+   "after": []
+  },
+  {
+   "id": "geopolitics",
+   "title": "Extraterritorial law and dependence on US suppliers",
+   "dimension": "geopolitics_security",
+   "why_it_matters": "The sovereignty argument in Klaba's hearing rests on who can compel access to data and on dependence for chips and cloud services.",
+   "before": [
+    {
+     "date": "2025-06",
+     "summary": "Microsoft France's director of legal and public affairs, questioned under oath by the French Senate, said he could not guarantee that French citizens' data would never be passed to US authorities without French approval: under the US CLOUD Act, a formal legal request must be answered wherever the data sits. He added this had not happened for a European entity according to Microsoft's transparency reports.",
+     "sources": [
+      {
+       "title": "Génération NT: Microsoft, European data and the Cloud Act (Senate hearing, June 2025)",
+       "url": "https://www.generation-nt.com/actualites/microsoft-donnees-europe-souverainete-cloud-loi-2060822",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2025-01",
+     "summary": "US export controls on advanced AI chips: the January 2025 rules would have limited access for 17 EU member states and drew a protest from the Commission. A weak source says that rule was later rescinded and a January 2026 rule set performance thresholds and end-use certification; the current legal position for EU buyers needs an official source.",
+     "sources": [
+      {
+       "title": "Science|Business: European AI ecosystem worried about new US export restrictions",
+       "url": "https://sciencebusiness.net/news/ai/european-ai-ecosystem-worried-about-new-us-export-restrictions",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; Jan 2025 rules covering 17 EU member states",
+       "basis": "unspecified",
+       "published": ""
+      },
+      {
+       "title": "CASRAI: the AI chip export control landscape in 2026",
+       "url": "https://casrai.org/news/ai-chip-export-controls",
+       "tier": "weak",
+       "accessed": "2026-10-10",
+       "note": "search summary only, page not opened; says the 2025 diffusion rule was rescinded and a Jan 2026 rule set thresholds and end-use certification; verify against US government text",
+       "basis": "unspecified",
+       "published": ""
+      }
+     ]
+    },
+    {
+     "date": "2026-02-09",
+     "summary": "Gartner names the CLOUD Act, tensions with the US and the Microsoft/ICC incident as reasons why European organisations are shifting to sovereign cloud.",
+     "sources": [
+      {
+       "title": "The Register: Europe's sovereign cloud spend set to triple (Gartner, 9 Feb 2026)",
+       "url": "https://www.theregister.com/2026/02/09/europe_sovereign_cloud_spend",
+       "tier": "secondary",
+       "accessed": "2026-10-10",
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
       }
      ]
     }
@@ -257,9 +605,14 @@
        "url": "https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_de",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "page opened"
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
       }
-     ]
+     ],
+     "confidence": "unrated",
+     "by": "",
+     "agent_version": null
     }
    ],
    "next_step": "3m/12m: look for call-off volumes actually placed under the contract."
@@ -278,7 +631,10 @@
      "verdict": "unverifiable",
      "checked_on": "2026-10-09",
      "evidence": "No public itemised figure found; the Commission has relied on framework contracts with the US hyperscalers but amounts per vendor were not found. Possibly an estimate covering all EU bodies.",
-     "sources": []
+     "sources": [],
+     "confidence": "unrated",
+     "by": "",
+     "agent_version": null
     }
    ],
    "next_step": "Search the EU Financial Transparency System, TED award notices and parliamentary questions."
@@ -303,23 +659,32 @@
        "url": "https://bourse.fortuneo.fr/actualites-amp/ovhcloud-franchit-le-cap-du-milliard-d-euros-de-ca-annuel-5287890",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened"
+       "note": "search summary only, page not opened",
+       "basis": "unspecified",
+       "published": ""
       },
       {
        "title": "OptionFinance: OVHcloud confirms its annual objectives (25 Jun 2026)",
        "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-06-25-ovhcloud-porte-par-le-cloud-public-confirme-ses-objectifs-annuels.html",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened"
+       "note": "search summary only, page not opened",
+       "basis": "unspecified",
+       "published": ""
       },
       {
        "title": "Fortuneo/AFP-type wire: OVHcloud accelerates growth in Q3 (FY2026)",
        "url": "https://bourse.fortuneo.fr/actualites/ovhcloud-acceleration-de-la-croissance-au-troisieme-trimestre-9716469",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; relays the company's results release of 25 Jun 2026"
+       "note": "search summary only, page not opened; relays the company's results release of 25 Jun 2026",
+       "basis": "unspecified",
+       "published": ""
       }
-     ]
+     ],
+     "confidence": "unrated",
+     "by": "",
+     "agent_version": null
     }
    ],
    "next_step": "3m: compare with the FY2026 results (due after the hearing). Revisit '2bn' only if a date is given."
@@ -344,9 +709,14 @@
        "url": "https://corporate.ovhcloud.com/en/newsroom/news/ovhcloud-obtains-secnumcloud-qualification-snc-cloud-platform/",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; company press release, 1 Sep 2026"
+       "note": "search summary only, page not opened; company press release, 1 Sep 2026",
+       "basis": "unspecified",
+       "published": ""
       }
-     ]
+     ],
+     "confidence": "unrated",
+     "by": "",
+     "agent_version": null
     }
    ],
    "next_step": ""
@@ -371,16 +741,23 @@
        "url": "https://www.polytechnique.edu/sites/default/files/content/communiques/fichiers/2025-05/Communique%20Presse%20-%20MGX%2C%20Bpifrance%2C%20Mistral%20AI%20et%20NVIDIA%20annoncent%20la%20cre%CC%81ation%20d%E2%80%99une%20JV%20pour%20de%CC%81velopper%20en%20France%20le%20plus%20grand%20campus%20IA%20d%27Europe.pdf",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; hosted by Ecole Polytechnique"
+       "note": "search summary only, page not opened; hosted by Ecole Polytechnique",
+       "basis": "unspecified",
+       "published": ""
       },
       {
        "title": "FrenchWeb: what a new-generation AI campus looks like",
        "url": "https://www.frenchweb.fr/datacenters-energie-refroidissement-a-quoi-ressemble-un-campus-ia-de-nouvelle-generation/461960",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; construction expected H2 2026, service 2028, extension to 3 GW"
+       "note": "search summary only, page not opened; construction expected H2 2026, service 2028, extension to 3 GW",
+       "basis": "unspecified",
+       "published": ""
       }
-     ]
+     ],
+     "confidence": "unrated",
+     "by": "",
+     "agent_version": null
     }
    ],
    "next_step": "6m: construction started in H2 2026? 12m: phase-1 delivery schedule and grid connection."
@@ -405,16 +782,23 @@
        "url": "https://www.lejournaldesentreprises.com/breve/un-rapport-parlementaire-demande-un-moratoire-sur-les-data-centers-extra-europeens-2146626",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened"
+       "note": "search summary only, page not opened",
+       "basis": "unspecified",
+       "published": ""
       },
       {
        "title": "UniversFreebox: un rapport appelle à stopper les nouveaux data centers américains",
        "url": "https://www.universfreebox.com/article/595903/cloud-un-rapport-appelle-a-stopper-les-nouveaux-data-centers-americains",
        "tier": "secondary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened"
+       "note": "search summary only, page not opened",
+       "basis": "unspecified",
+       "published": ""
       }
-     ]
+     ],
+     "confidence": "unrated",
+     "by": "",
+     "agent_version": null
     }
    ],
    "next_step": "Open the report and read how the 15 GW and 1.4 GW are defined."
@@ -439,9 +823,14 @@
        "url": "https://tech-insider.org/nl/deepseek-qwen-hugging-face-top-2026/",
        "tier": "weak",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; aggregator, figures (e.g. '41% of downloads') not traced to a primary dataset"
+       "note": "search summary only, page not opened; aggregator, figures (e.g. '41% of downloads') not traced to a primary dataset",
+       "basis": "unspecified",
+       "published": ""
       }
-     ]
+     ],
+     "confidence": "unrated",
+     "by": "",
+     "agent_version": null
     }
    ],
    "next_step": "Find primary data (Hugging Face, OpenRouter usage, academic studies) and any figure for European adoption."
@@ -466,9 +855,14 @@
        "url": "https://corporate.ovhcloud.com/en/newsroom/news/watercooling-anniversary",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "search summary only, page not opened; company says industrial-scale water cooling since 2003, older servers retrofitted by 2004"
+       "note": "search summary only, page not opened; company says industrial-scale water cooling since 2003, older servers retrofitted by 2004",
+       "basis": "unspecified",
+       "published": ""
       }
-     ]
+     ],
+     "confidence": "unrated",
+     "by": "",
+     "agent_version": null
     }
    ],
    "next_step": ""
@@ -493,24 +887,60 @@
        "url": "https://www.assemblee-nationale.fr/dyn/espace-presse/communiques-de-presse/2026/commission-d-enquete-dependances-et-vulnerabilites-dans-le-secteur-du-numerique-phase-finale-des-travaux",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "page opened"
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
       },
       {
        "title": "European Commission: Commission advances cloud sovereignty through strategic procurement (17 Apr 2026)",
        "url": "https://commission.europa.eu/news-and-media/news/commission-advances-cloud-sovereignty-through-strategic-procurement-2026-04-17_de",
        "tier": "primary",
        "accessed": "2026-10-09",
-       "note": "page opened"
+       "note": "page opened",
+       "basis": "unspecified",
+       "published": ""
       }
-     ]
+     ],
+     "confidence": "unrated",
+     "by": "",
+     "agent_version": null
     }
    ],
    "next_step": "Track the Commission's sovereignty package and any French procurement rule changes."
+  },
+  {
+   "id": "K10",
+   "speaker": "Octave Klaba (speaker inferred from context)",
+   "time": "01:15:26",
+   "text": "A cloud provider generates 15 to 20 million euros of revenue a year per megawatt.",
+   "quote_fr": "un cloud provider, il génère entre 15 et 20 millions d'euros par an avec un mégawatt",
+   "kind": "figure",
+   "topic": "demand",
+   "checks": [
+    {
+     "checkpoint": "at_meeting",
+     "verdict": "not_checked",
+     "checked_on": "2026-10-10",
+     "evidence": "Queued: no benchmark for revenue per megawatt of cloud capacity was researched yet.",
+     "sources": [],
+     "confidence": "unrated",
+     "by": "",
+     "agent_version": null
+    }
+   ],
+   "next_step": "Compare with data-centre industry benchmarks (revenue per MW for colocation, cloud and AI workloads)."
   }
  ],
  "queue": [
   "Open the inquiry report and check how it uses Klaba's 21 April testimony.",
   "Find the FY2026 results date.",
-  "Check Klaba's claims about the 'no multi-gigawatt site' reasoning (permits, grid) against RTE/government statements."
- ]
+  "Check Klaba's claims about the 'no multi-gigawatt site' reasoning (permits, grid) against RTE/government statements.",
+  "Check the 15-20 M€ per MW figure (K10) against industry benchmarks.",
+  "Read RTE's own publication on connection requests (15 GW; about 45 TWh by 2030) and the ADEME study on the 20% utilisation of contracted capacity.",
+  "Confirm whether the Cloud and AI Development Act targets a tripling of EU capacity (search summary) or gives no number (law-firm note).",
+  "Check whether the highest EUCS level has been formally adopted, from an official source.",
+  "Find the outcome of the EU AI gigafactory selection (InvestAI).",
+  "Open the Commission's own CADA text and ANSSI's SecNumCloud 3.2 referential."
+ ],
+ "dimension_notes": {}
 }

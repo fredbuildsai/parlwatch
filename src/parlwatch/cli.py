@@ -218,6 +218,23 @@ def research_due(today: Annotated[str, typer.Option(help="override today's date,
     print(tb)
 
 
+@research_app.command("coverage")
+def research_coverage(uid: Annotated[str, typer.Argument(help="meeting folder; omit for all meetings")] = "") -> None:
+    """Show which context dimensions (supply, demand, regulation, finance, energy, geopolitics, technology) are researched for a meeting."""
+    from parlwatch.research.coverage import coverage
+    from parlwatch.research.schema import Research
+
+    base = get_settings().data_dir / "meetings"
+    files = [base / uid / "research.json"] if uid else sorted(base.glob("*/research.json"))
+    for f in files:
+        r = Research.model_validate_json(f.read_text())
+        tb = Table("dimension", "status", "topics", "before", "after", title=r.title[:70])
+        for c in coverage(r):
+            col = {"covered": "green", "partial": "yellow", "missing": "red", "not_relevant": "dim"}[c["status"]]
+            tb.add_row(c["dimension"], f"[{col}]{c['status']}[/{col}]", ", ".join(c["topics"]) or "-", str(c["findings_before"]), str(c["findings_after"]))
+        print(tb)
+
+
 @research_app.command("render")
 def research_render(uid: str) -> None:
     """Render research.json to research.md."""
@@ -238,8 +255,9 @@ def research_agent(
     from_raw: Annotated[str, typer.Option("--from-raw", help="re-parse a saved *_raw_response.json instead of calling the agent")] = "",
     since: Annotated[str, typer.Option(help="start of the period to examine, YYYY-MM-DD (default: latest done checkpoint)")] = "",
     blind: Annotated[bool, typer.Option(help="withhold our earlier verdicts: an independent second opinion. Never applied; reports agreement")] = False,
+    backend: Annotated[str, typer.Option(help="mistral = Mistral Studio agent; openai = OpenAI Agents SDK + Nemotron + DuckDuckGo (this package)")] = "mistral",
 ) -> None:
-    """Run a follow-up checkpoint through the Mistral Studio agent. Dry run unless --apply; the raw answer is always saved."""
+    """Run a follow-up checkpoint through a research agent. Dry run unless --apply; the raw answer is always saved."""
     import copy
     import json
     from datetime import date as _d
@@ -259,29 +277,55 @@ def research_agent(
     runs = d / "agent_runs"
     runs.mkdir(exist_ok=True)
     stem = f"{t.isoformat()}_{checkpoint}"
-    if from_raw:
+    if backend not in ("mistral", "openai"):
+        raise typer.BadParameter("backend must be mistral or openai")
+    since_d = _d.fromisoformat(since) if since else None
+    fetched_urls: set[str] | None = None
+    by = "mistral-agent"
+    if backend == "openai":
         from parlwatch.research.agent_io import build_input
-        from parlwatch.research.mistral_agent import parse_raw_file
+        from parlwatch.research.openai_agent import load_config as oa_config
+        from parlwatch.research.openai_agent import run_checkpoint_oa
+        from parlwatch.websearch.base import Ledger
 
-        meta_f = Path(from_raw.replace("_raw_response", "_run_meta"))
-        meta_run = json.loads(meta_f.read_text()) if meta_f.exists() else {}
-        out, usage = parse_raw_file(Path(from_raw)), "re-parsed from saved response"
-        payload = build_input(r, checkpoint, t, _d.fromisoformat(since) if since else None)
-        version = meta_run.get("agent_version")
+        trace = runs / f"{stem}_oa_trace.json"
+        cfg = oa_config()
+        by, version = f"openai-agents:{cfg['model'].split('/')[-1].split(':')[0]}", None
+        if from_raw:
+            from parlwatch.research.mistral_agent import parse_text
+
+            tr = json.loads(Path(from_raw).read_text())
+            out, usage, payload = parse_text(tr["final_text"]), str(tr["usage"]), build_input(r, checkpoint, t, since_d, blind)
+            led = Ledger()
+            led.searches, led.fetches = tr["ledger"]["searches"], tr["ledger"]["fetches"]
+        else:
+            res = run_checkpoint_oa(r, checkpoint, t, cfg, since_d, blind, trace_sink=trace)
+            out, payload, usage, led = res.output, res.payload, str(res.usage), res.ledger
+        seen_urls, fetched_urls = led.seen_urls(), led.fetched_urls()
+        print(f"web searches: {len(led.searches)} · pages fetched: {sum(f['ok'] for f in led.fetches)} of {len(led.fetches)} attempts")
     else:
-        out, payload, version, usage = run_checkpoint(r, checkpoint, t, raw_sink=runs / f"{stem}_raw_response.json",
-                                                      since=_d.fromisoformat(since) if since else None, blind=blind)
+        if from_raw:
+            from parlwatch.research.agent_io import build_input
+            from parlwatch.research.mistral_agent import parse_raw_file
+
+            meta_f = Path(from_raw.replace("_raw_response", "_run_meta"))
+            meta_run = json.loads(meta_f.read_text()) if meta_f.exists() else {}
+            out, usage = parse_raw_file(Path(from_raw)), "re-parsed from saved response"
+            payload = build_input(r, checkpoint, t, since_d, blind)
+            version = meta_run.get("agent_version")
+        else:
+            out, payload, version, usage = run_checkpoint(r, checkpoint, t, raw_sink=runs / f"{stem}_raw_response.json", since=since_d, blind=blind)
+        from parlwatch.research.mistral_agent import urls_in_search
+
+        raw_path = Path(from_raw) if from_raw else runs / f"{stem}_raw_response.json"
+        seen_urls = urls_in_search(json.loads(raw_path.read_text())) if raw_path.exists() else None
     work = r if apply else copy.deepcopy(r)
     if apply:
         (runs / f"{stem}_research_before.json").write_text(r.model_dump_json(indent=1))
-    from parlwatch.research.mistral_agent import urls_in_search
-
-    raw_path = Path(from_raw) if from_raw else runs / f"{stem}_raw_response.json"
-    seen_urls = urls_in_search(json.loads(raw_path.read_text())) if raw_path.exists() else None
-    report = merge(work, out, checkpoint, version, t, seen_urls)
+    report = merge(work, out, checkpoint, version, t, seen_urls, by, fetched_urls)
     mark_done(work, checkpoint, t, report)
     (runs / f"{stem}_agent.json").write_text(json.dumps(
-        {"agent_version": version, "usage": str(usage), "input": payload, "output": out.model_dump(), "merge_report": report}, ensure_ascii=False, indent=1))
+        {"backend": backend, "by": by, "agent_version": version, "usage": str(usage), "input": payload, "output": out.model_dump(), "merge_report": report}, ensure_ascii=False, indent=1))
     tb = Table("claim", "applied", "note")
     for c in report["applied"]:
         tb.add_row(c, "yes", "")
@@ -294,6 +338,8 @@ def research_agent(
         print(f"carried forward (unchanged, no new evidence): {', '.join(report['carried_forward'])}")
     for u in report["urls_dropped"]:
         print(f"[red]dropped a URL not found in the agent's search results[/red] ({u['where']}): {u['url']}")
+    if report.get("basis_downgraded"):
+        print(f"[yellow]{len(report['basis_downgraded'])} source(s) claimed a full page read that the agent never fetched: downgraded[/yellow]")
     if report["urls_not_retrieved"]:
         print(f"[yellow]{len(report['urls_not_retrieved'])} cited URL(s) came from the earlier record, not from this run's search[/yellow]")
     if blind:
@@ -306,7 +352,7 @@ def research_agent(
                 print(f"  {c.claim_id}: ours {mine} | agent {c.verdict} ({c.confidence}): {c.evidence[:160]}")
     for ch in report["changed"]:
         print(f"[bold]verdict changed[/bold] {ch['claim']}: {ch['from']} -> {ch['to']}")
-    print(f"agent version used: {version} · topic updates: {report['topics_added']} · summary:\n{out.summary}")
+    print(f"{by} · agent version: {version} · topic updates: {report['topics_added']} · summary:\n{out.summary}")
     if apply:
         (d / "research.json").write_text(r.model_dump_json(indent=1))
         (d / "research.md").write_text(to_markdown(r))

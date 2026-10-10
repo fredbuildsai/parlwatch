@@ -193,6 +193,153 @@
       },
       "type": "array"
     },
+    "new_topics": {
+      "description": "topics for context dimensions the record does not cover yet (see input.coverage); may be empty",
+      "items": {
+        "properties": {
+          "id": {
+            "description": "short unique snake_case id, not already used by an existing topic",
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "dimension": {
+            "enum": [
+              "supply",
+              "demand",
+              "regulation",
+              "finance",
+              "energy_resources",
+              "geopolitics_security",
+              "technology"
+            ],
+            "type": "string"
+          },
+          "why_it_matters": {
+            "description": "one sentence: how this context bears on what was said in the hearing",
+            "type": "string"
+          },
+          "findings": {
+            "description": "2 to 6 findings: the situation before the meeting and, if any, developments since",
+            "items": {
+              "properties": {
+                "date": {
+                  "description": "date of the development, YYYY-MM-DD or YYYY-MM; the system files it as before/after the meeting by this date",
+                  "type": "string"
+                },
+                "summary": {
+                  "description": "what happened or what was the situation, one or two sentences, English",
+                  "type": "string"
+                },
+                "sources": {
+                  "items": {
+                    "properties": {
+                      "title": {
+                        "description": "page or document title",
+                        "type": "string"
+                      },
+                      "url": {
+                        "description": "URL exactly as returned by the search tool; never invented",
+                        "type": "string"
+                      },
+                      "tier": {
+                        "enum": [
+                          "primary",
+                          "secondary",
+                          "weak"
+                        ],
+                        "type": "string"
+                      },
+                      "basis": {
+                        "description": "how much of the source you actually saw",
+                        "enum": [
+                          "page_content",
+                          "search_result_text",
+                          "search_snippet"
+                        ],
+                        "type": "string"
+                      },
+                      "published": {
+                        "description": "publication date YYYY-MM-DD, or empty string if unknown",
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "title",
+                      "url",
+                      "tier",
+                      "basis",
+                      "published"
+                    ],
+                    "type": "object",
+                    "additionalProperties": false
+                  },
+                  "type": "array"
+                }
+              },
+              "required": [
+                "date",
+                "summary",
+                "sources"
+              ],
+              "type": "object",
+              "additionalProperties": false
+            },
+            "type": "array"
+          }
+        },
+        "required": [
+          "id",
+          "title",
+          "dimension",
+          "why_it_matters",
+          "findings"
+        ],
+        "type": "object",
+        "additionalProperties": false
+      },
+      "type": "array"
+    },
+    "coverage_notes": {
+      "description": "one entry per context dimension: covered, not relevant to this hearing, or not researched",
+      "items": {
+        "properties": {
+          "dimension": {
+            "enum": [
+              "supply",
+              "demand",
+              "regulation",
+              "finance",
+              "energy_resources",
+              "geopolitics_security",
+              "technology"
+            ],
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "covered",
+              "not_relevant",
+              "not_researched"
+            ],
+            "type": "string"
+          },
+          "note": {
+            "description": "why: what covers it, why it does not apply to this hearing, or why it was not researched (for example search budget)",
+            "type": "string"
+          }
+        },
+        "required": [
+          "dimension",
+          "status",
+          "note"
+        ],
+        "type": "object",
+        "additionalProperties": false
+      },
+      "type": "array"
+    },
     "queue_additions": {
       "description": "new things worth researching later, short strings",
       "items": {
@@ -231,6 +378,8 @@
     "checked_on",
     "claim_checks",
     "topic_updates",
+    "new_topics",
+    "coverage_notes",
     "queue_additions",
     "unresolved",
     "summary"

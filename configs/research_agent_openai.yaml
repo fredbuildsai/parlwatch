@@ -1,0 +1,15 @@
+# Research agent built with the OpenAI Agents SDK, running a free Nemotron model through OpenRouter, with DuckDuckGo search and page fetching
+# implemented in this package (src/parlwatch/websearch). No Mistral quota involved.
+model: nvidia/nemotron-3-super-120b-a12b:free
+base_url: https://openrouter.ai/api/v1
+api_key_env: OPENROUTER_API_KEY
+temperature: 0.2
+max_turns: 45
+claims_per_run: 4       # claims checked per agent run; each run gets its own budgets below; a context-only run is added when the record has gaps
+searches_per_claim: 4   # web-search budget per claim in a run (enforced in code); 4 claims per run = 16 searches
+fetches_per_claim: 3
+context_searches: 12    # budget of the context-only run
+context_fetches: 8
+max_web_searches: 12    # fallback when the per-claim settings are absent
+max_page_fetches: 10
+fetch_chars: 6000       # characters of each page given to the model

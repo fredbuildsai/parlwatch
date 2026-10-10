@@ -13,6 +13,23 @@ Code: `src/parlwatch/research/` (`schema.py`, `checkpoints.py`, `render.py`, `ex
 - **claims**: the assertions worth checking: speaker, time in the recording, the claim in English, the verbatim French quote, kind (`figure`, `forecast`, `policy_position`, `fact`, `opinion`), and a list of **checks**, one per checkpoint, each with a verdict, evidence, sources and the date it was done.
 - **queue**: things noticed and not yet researched. Nothing is silently dropped.
 
+## Context dimensions (a hearing is never researched from one side)
+Added after the first pilot review: the Klaba record covered what the company supplies but not what industry at large demands, and only part of the regulation. Every record is now checked against seven dimensions, and
+`pw research coverage` shows which are covered, partial or missing (a dimension can be marked "not relevant: reason" if it truly does not apply).
+
+| dimension | question it answers |
+|---|---|
+| supply | who provides it: providers, capacity, products, competition |
+| demand | who needs it and how much: compute, storage and AI demand from industry at large, enterprises, public sector; spending and capacity forecasts |
+| regulation | the rules: in force, adopted but not yet applicable, proposed; certifications; procurement; enforcement |
+| finance | investment, funding, capital expenditure, public funds, pricing |
+| energy_resources | electricity, grid connection, siting, permits, water, materials |
+| geopolitics_security | extraterritorial law, dependence on foreign suppliers, supply-chain and cyber risk |
+| technology | hardware, models, efficiency, open source |
+
+Each topic carries one dimension. Both agents receive the dimension list and the current coverage, must research the missing or partial ones (before the meeting and since), and return `new_topics` and `coverage_notes`; the code files each finding as before/after the meeting by its date.
+Pilot result (2026-10-10): Klaba went from 4 to 9 topics and Mensch from 4 to 9, all seven dimensions covered. One new finding stands out: ADEME found connected data centres use only about 20% of their contracted connection capacity, which weighs on how to read the "15 GW" of capacity requests the inquiry cites.
+
 ## Verdict rules
 `supported` · `partly_supported` (right in substance, a detail off) · `contradicted` · `outdated` (right when said, superseded since) · `unverifiable` (no public evidence found) · `pending` (outcome not yet knowable) · `not_checked`.
 - A **policy position** is never true or false: record what happened to the position and keep `pending` until a decision point passes.

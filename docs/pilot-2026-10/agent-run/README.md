@@ -37,3 +37,7 @@ detail: the inquiry report's 15 GW figure is built from grid-connection requests
    ```
    Each blind run prints how many verdicts agree with ours and lists the disagreements. `configs/research_agent.yaml` caps searches per run (`max_web_searches: 12`), so one run costs 12 of the 20 daily searches: **one meeting per day** on this key.
 3. Review the disagreements by hand before trusting the agent for unattended follow-ups.
+
+
+## Update 2026-10-10: second agent (OpenAI Agents SDK, Nemotron, DuckDuckGo)
+A second backend ran four blind rounds on the Klaba hearing without any search quota problem; see `docs/openai-agent/README.md` for the progression and the comparison with the manual research (4 of 10 verdicts agree, 3 not researched, 1 clear error, 2 where it was as careful or more). Output of the best run: `klaba-3m-openai-batched-blind.agent-output.json`. The Mistral agent has still not been run blind, because its daily web-search allowance was exhausted.

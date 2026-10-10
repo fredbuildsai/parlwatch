@@ -253,3 +253,43 @@ def test_daily_quota_stops_immediately_without_retry():
     with pytest.raises(DailyQuotaExhausted):
         run_checkpoint(r, "6m", date(2026, 11, 12), client=client, config={"agent_id": "a", "agent_version": 2}, wait_s=0, max_attempts=4)
     assert calls["n"] == 1  # no pointless waiting
+
+
+def test_context_dimensions_in_input_and_new_topics_merge():
+    from parlwatch.research.coverage import coverage, gaps
+    from parlwatch.research.schema import DIMENSIONS
+
+    r = research()
+    r.topics[0].dimension = "supply"
+    p = build_input(r, "6m", date(2026, 11, 12))
+    assert set(p["context_dimensions"]) == set(DIMENSIONS) and {c["dimension"]: c["status"] for c in p["coverage"]}["supply"] == "covered"
+    assert "demand" in gaps(r) and {c["dimension"]: c["status"] for c in coverage(r)}["demand"] == "missing"
+    o = good_output(r)
+    f = lambda d, s: {"date": d, "summary": s, "sources": [src("https://example.org/a")]}  # noqa: E731
+    o["new_topics"] = [
+        {"id": "demand", "title": "Compute demand", "dimension": "demand", "why_it_matters": "w", "findings": [f("2026-03", "before"), f("2026-09", "after"), f("2027-01", "future")]},
+        {"id": "t1", "title": "dup", "dimension": "supply", "why_it_matters": "w", "findings": [f("2026-03", "x")]},
+        {"id": "empty", "title": "nothing", "dimension": "finance", "why_it_matters": "w", "findings": [f("2030-01", "future only")]}]
+    o["coverage_notes"] = [{"dimension": "technology", "status": "not_relevant", "note": "hearing is about procurement"}]
+    rep = merge(r, AgentOutput.model_validate(o), "6m", 2, date(2026, 11, 12), seen_urls={"https://example.org/a"})
+    new = next(t for t in r.topics if t.id == "demand")
+    assert rep["new_topics"] == ["demand"] and [x["item"] for x in rep["new_topics_rejected"]] == ["t1", "empty"]
+    assert [x.summary for x in new.before] == ["before"] and [x.summary for x in new.after] == ["after"]  # filed by date, future dropped
+    assert r.dimension_notes["technology"].startswith("not relevant")
+    assert {c["dimension"]: c["status"] for c in coverage(r)}["demand"] == "covered" and "demand" not in gaps(r)
+
+
+def test_merge_refuses_true_false_verdicts_on_forecasts_and_opinions():
+    r = research()
+    r.claims.append(Claim(id="C3", speaker="C", time="00:03:00", text="it will never exist", kind="forecast"))
+    r.claims.append(Claim(id="C4", speaker="D", time="00:04:00", text="we should do X", kind="policy_position"))
+    r.claims.append(Claim(id="C5", speaker="E", time="00:05:00", text="it will be 5 by 2030", kind="forecast"))
+    o = good_output(r)
+    base = o["claim_checks"][1]
+    o["claim_checks"] = [c for c in o["claim_checks"] if c["claim_id"] in ("C1", "C2")]  # the sample already has an entry per claim
+    s_ok = [src("https://example.org/a")]
+    o["claim_checks"] += [{**base, "claim_id": "C3", "verdict": "contradicted", "sources": s_ok}, {**base, "claim_id": "C4", "verdict": "supported", "sources": s_ok},
+                          {**base, "claim_id": "C5", "verdict": "pending", "sources": []}]
+    rep = merge(r, AgentOutput.model_validate(o), "6m", 2, date(2026, 11, 12), seen_urls={"https://example.org/a"})
+    assert {x["item"] for x in rep["rejected"]} == {"C3", "C4"} and "C5" in rep["applied"]
+    assert all("enforced in code" in x["reason"] for x in rep["rejected"])
